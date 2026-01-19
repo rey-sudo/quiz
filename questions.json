@@ -65,7 +65,7 @@
       "Sostenibilidad"
     ],
     "correct": 1,
-    "explanation": "La rentabilidad no está entre los 15 principios adoptados. Los principios incluyen accesibilidad, transparencia, sostenibilidad, entre otros."
+    "explanation": "La rentabilidad no está entre los 17 principios adoptados. Los principios incluyen accesibilidad, transparencia, sostenibilidad, entre otros."
   },
   {
     "question": "¿Qué componentes tiene la Política de Gestión Documental de la ANCP-CCE?",
@@ -105,5 +105,623 @@
     ],
     "correct": 1,
     "explanation": "El código es CCE-GDO-IDI-02 V04, donde V04 indica que es la versión 4 del documento."
+  },
+
+  {
+    "question": "¿Cuál es el nombre completo de la agencia responsable de la política de gestión documental?",
+    "options": [
+      "Agencia Nacional de Contratación Pública - Colombia Compra Eficiente",
+      "Agencia Nacional de Compras Públicas - Colombia Eficiente",
+      "Agencia Nacional de Contratación - Compra Colombia",
+      "Agencia de Contratación Pública - Colombia Transparente"
+    ],
+    "correct": 0,
+    "explanation": "ANCP-CCE significa Agencia Nacional de Contratación Pública - Colombia Compra Eficiente."
+  },
+  {
+    "question": "¿Qué órgano es el ente rector de la política archivística en Colombia?",
+    "options": [
+      "Ministerio de Cultura",
+      "Archivo General de la Nación Jorge Palacios Preciado (AGN)",
+      "Secretaría de Transparencia",
+      "Contraloría General de la República"
+    ],
+    "correct": 1,
+    "explanation": "El Archivo General de la Nación Jorge Palacios Preciado (AGN) es el ente rector de la política archivística y gestión documental en Colombia."
+  },
+  {
+    "question": "¿Cuál es la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional?",
+    "options": [
+      "Ley 594 de 2000",
+      "Ley 1437 de 2011",
+      "Ley 1712 de 2014",
+      "Ley 527 de 1999"
+    ],
+    "correct": 2,
+    "explanation": "La Ley 1712 de 2014 es la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional."
+  },
+  {
+    "question": "¿Qué decreto reglamentó parcialmente la Ley 594 de 2000 en materia de Gestión Documental?",
+    "options": [
+      "Decreto 2482 de 2012",
+      "Decreto 2609 de 2012",
+      "Decreto 019 de 2012",
+      "Decreto 1515 de 2013"
+    ],
+    "correct": 1,
+    "explanation": "El Decreto 2609 de 2012 reglamenta el Título V de la Ley 594 de 2000 en materia de Gestión Documental para todas las Entidades del Estado."
+  },
+  {
+    "question": "¿Qué significa TRD en el contexto de gestión documental?",
+    "options": [
+      "Tabla de Registro Documental",
+      "Tablas de Retención Documental",
+      "Transferencia y Registro de Documentos",
+      "Tabla de Requisitos Documentales"
+    ],
+    "correct": 1,
+    "explanation": "TRD significa Tablas de Retención Documental, instrumento que clasifica los documentos según su valor y establece tiempos de retención."
+  },
+  {
+    "question": "¿Qué significa PINAR?",
+    "options": [
+      "Programa Institucional de Archivos",
+      "Plan Institucional de Archivos",
+      "Política Interna de Archivos",
+      "Programa Integral de Archivos"
+    ],
+    "correct": 1,
+    "explanation": "PINAR significa Plan Institucional de Archivos, herramienta estratégica para gestionar los archivos de manera efectiva."
+  },
+  {
+    "question": "¿Qué significa SIC en gestión documental?",
+    "options": [
+      "Servicio de Información y Conservación",
+      "Sistema Integrado de Conservación",
+      "Sistema de Información y Control",
+      "Servicio Integral de Clasificación"
+    ],
+    "correct": 1,
+    "explanation": "SIC significa Sistema Integrado de Conservación, conjunto de políticas y procedimientos para preservar documentos a largo plazo."
+  },
+  {
+    "question": "¿Qué significa TCA en el contexto archivístico?",
+    "options": [
+      "Tabla de Clasificación Archivística",
+      "Transferencia y Control de Archivos",
+      "Tabla de Control de Accesos",
+      "Transferencia de Conservación de Archivos"
+    ],
+    "correct": 2,
+    "explanation": "TCA significa Tabla de Control de Accesos, herramienta para gestionar quién tiene acceso a la información y documentos."
+  },
+  {
+    "question": "¿Cuál es el código del FUID en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-FM-07",
+      "CCE-GDO-FM-02",
+      "CCE-GDO-FM-04",
+      "CCE-GTI-FM-15"
+    ],
+    "correct": 0,
+    "explanation": "El FUID (Formato Único de Inventario Documental) tiene el código CCE-GDO-FM-07 en la ANCP-CCE."
+  },
+  {
+    "question": "¿Cuál es el código del CCD en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-FM-07",
+      "CCE-GDO-FM-02",
+      "CCE-GDO-FM-04",
+      "CCE-GDO-IDI-02"
+    ],
+    "correct": 1,
+    "explanation": "El CCD (Cuadro de Clasificación Documental) tiene el código CCE-GDO-FM-02 en la ANCP-CCE."
+  },
+  {
+    "question": "¿Cuál es el código de las TRD en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-FM-02",
+      "CCE-GDO-FM-04",
+      "CCE-GDO-FM-07",
+      "CCE-GDO-PG-02"
+    ],
+    "correct": 1,
+    "explanation": "Las TRD (Tablas de Retención Documental) tienen el código CCE-GDO-FM-04 en la ANCP-CCE."
+  },
+  {
+    "question": "¿Cuál es el código del ICR en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-IDI-02",
+      "CCE-GTI-FM-15",
+      "CCE-GDO-FM-07",
+      "CCE-GDO-FM-02"
+    ],
+    "correct": 1,
+    "explanation": "El ICR (Índice de Información Clasificada y Reservada) tiene el código CCE-GTI-FM-15."
+  },
+  {
+    "question": "¿Cuál es el código del PGD en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-IDI-02",
+      "CCE-GDO-PG-02",
+      "CCE-GDO-PL-01",
+      "CCE-GDO-FM-04"
+    ],
+    "correct": 1,
+    "explanation": "El PGD (Programa de Gestión Documental) tiene el código CCE-GDO-PG-02 2023-2026."
+  },
+  {
+    "question": "¿Cuál es el código del PINAR en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-PL-01",
+      "CCE-GDO-PG-02",
+      "CCE-GDO-IDI-02",
+      "CCE-GDO-FM-04"
+    ],
+    "correct": 0,
+    "explanation": "El PINAR (Plan Institucional de Archivos) tiene el código CCE-GDO-PL-01."
+  },
+  {
+    "question": "¿Cuál es el código del MRDE en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-FM-02",
+      "CCE-GDO-IDI-01",
+      "CCE-GDO-IDI-02",
+      "CCE-GDO-IDI-03"
+    ],
+    "correct": 1,
+    "explanation": "El MRDE (Modelo de Requisitos de Documento Electrónico) tiene el código CCE-GDO-IDI-01."
+  },
+  {
+    "question": "¿Cuál es el código de la TCA en la ANCP-CCE?",
+    "options": [
+      "CCE-GDO-IDI-01",
+      "CCE-GDO-IDI-02",
+      "CCE-GDO-IDI-03",
+      "CCE-GTI-FM-15"
+    ],
+    "correct": 2,
+    "explanation": "La TCA (Tabla de Control de Accesos) tiene el código CCE-GDO-IDI-03."
+  },
+  {
+    "question": "¿Cuántos principios adopta la ANCP-CCE en su Política de Gestión Documental?",
+    "options": [
+      "10 principios",
+      "15 principios",
+      "17 principios",
+      "20 principios"
+    ],
+    "correct": 3,
+    "explanation": "La política adopta 17 principios fundamentales establecidos en el Artículo 2.8.2.5.5 del Decreto 1080 de 2015 y otros complementarios."
+  },
+  {
+    "question": "¿Cuáles son los aspectos de la gestión de información y documentos según el documento?",
+    "options": [
+      "Estratégico, Financiero, Tecnológico",
+      "Estratégico, Administración de archivos, Documental, Tecnológico, Cultural",
+      "Solo Archivístico y Tecnológico",
+      "Planeación, Ejecución, Control"
+    ],
+    "correct": 1,
+    "explanation": "Los cinco aspectos son: Estratégico, Administración de archivos, Documental, Tecnológico y Cultural."
+  },
+  {
+    "question": "¿Qué órgano aprueba la política, planes, programas e instrumentos archivísticos en la ANCP-CCE?",
+    "options": [
+      "Dirección General",
+      "Secretaría General",
+      "Comité Institucional de Gestión y Desempeño (CIGD)",
+      "Grupo Interno de Trabajo Gestión Documental"
+    ],
+    "correct": 2,
+    "explanation": "El Comité Institucional de Gestión y Desempeño (CIGD) es el encargado de aprobar la política y los instrumentos archivísticos según la Resolución 270 de 2021."
+  },
+  {
+    "question": "¿Qué resolución interna reglamenta el Comité Asesor de Contratación en 2024?",
+    "options": [
+      "Resolución 270 de 2021",
+      "Resolución 415 de 2024",
+      "Resolución 001 de 2024",
+      "Resolución 042 de 2002"
+    ],
+    "correct": 1,
+    "explanation": "La Resolución 415 de 2024 deroga el capítulo 8 de la Resolución 270 de 2021 y reglamenta el Comité Asesor de Contratación."
+  },
+  {
+    "question": "¿Qué circular establece la organización de las Historias Laborales?",
+    "options": [
+      "Circular 001 de 2024",
+      "Circular 004 de 2003",
+      "Circular Conjunta 100-004 de 2018",
+      "Circular 042 de 2002"
+    ],
+    "correct": 1,
+    "explanation": "La Circular 004 de 2003 establece los lineamientos para la organización de las Historias Laborales."
+  },
+  {
+    "question": "¿Qué ley establece el Código de Procedimiento Administrativo y de lo Contencioso Administrativo?",
+    "options": [
+      "Ley 594 de 2000",
+      "Ley 1437 de 2011",
+      "Ley 1564 de 2012",
+      "Ley 1712 de 2014"
+    ],
+    "correct": 1,
+    "explanation": "La Ley 1437 de 2011 expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo."
+  },
+  {
+    "question": "¿Qué norma ISO establece los requisitos para Sistemas de Gestión de la Calidad?",
+    "options": [
+      "ISO 9000:2015",
+      "ISO 9001:2015",
+      "ISO 14001:2015",
+      "ISO 27001:2015"
+    ],
+    "correct": 1,
+    "explanation": "La NTC ISO 9001:2015 establece los requisitos para Sistemas de Gestión de la Calidad."
+  },
+  {
+    "question": "¿Qué norma ISO se refiere al Sistema de Gestión de Seguridad de la Información?",
+    "options": [
+      "ISO 9001:2015",
+      "ISO 14001:2015",
+      "ISO 27001:2015",
+      "ISO 15489"
+    ],
+    "correct": 2,
+    "explanation": "La NTC ISO 27001:2015 establece el Sistema de Gestión de Seguridad de la Información."
+  },
+  {
+    "question": "¿Qué norma ISO trata sobre la Gestión de Documentos?",
+    "options": ["ISO 9001", "ISO 15489", "ISO 27001", "ISO 30301"],
+    "correct": 1,
+    "explanation": "La ISO 15489 trata específicamente sobre la Gestión de Documentos."
+  },
+  {
+    "question": "¿Qué norma ISO establece los Sistemas de Gestión para los Documentos?",
+    "options": ["ISO 15489", "ISO 27001", "ISO 30301", "ISO 9001"],
+    "correct": 2,
+    "explanation": "La ISO 30301 establece los Sistemas de Gestión para los Documentos, complementando la ISO 15489."
+  },
+  {
+    "question": "¿Cuál es la dirección física de la ANCP-CCE?",
+    "options": [
+      "Calle 26 # 7-20, Bogotá",
+      "Carrera 7 # 26-20, Bogotá",
+      "Avenida 26 # 7-20, Bogotá",
+      "Carrera 26 # 7-20, Bogotá"
+    ],
+    "correct": 1,
+    "explanation": "La dirección de la ANCP-CCE es Carrera 7 # 26-20, Bogotá, Colombia."
+  },
+  {
+    "question": "¿Cuál es el teléfono de la Mesa de servicio de la ANCP-CCE?",
+    "options": [
+      "(+57) 601 7956600",
+      "(+57) 601 7456788",
+      "(+57) 601 7456888",
+      "(+57) 601 7956788"
+    ],
+    "correct": 1,
+    "explanation": "El teléfono de la Mesa de servicio es (+57) 601 7456788."
+  },
+  {
+    "question": "¿Cuál es el teléfono de Atención al ciudadano de la ANCP-CCE?",
+    "options": [
+      "(+57) 601 7456788",
+      "(+57) 601 7956600",
+      "(+57) 601 7956788",
+      "(+57) 601 7456600"
+    ],
+    "correct": 1,
+    "explanation": "El teléfono de Atención al ciudadano es (+57) 601 7956600."
+  },
+  {
+    "question": "¿En qué dimensión del MIPG se enmarca la Política de Gestión Documental?",
+    "options": [
+      "Dimensión de Talento Humano",
+      "Dimensión de Información y Comunicación",
+      "Dimensión de Control Interno",
+      "Dimensión de Planeación Estratégica"
+    ],
+    "correct": 1,
+    "explanation": "La Política de Gestión Documental se enmarca en la Dimensión de Información y Comunicación del MIPG."
+  },
+  {
+    "question": "¿Cuál es uno de los objetivos específicos de la política de gestión documental?",
+    "options": [
+      "Reducir costos operativos",
+      "Fortalecer la cultura organizacional con el enfoque archivístico",
+      "Aumentar el personal de archivo",
+      "Eliminar documentos antiguos"
+    ],
+    "correct": 1,
+    "explanation": "Fortalecer la cultura organizacional con el enfoque archivístico es uno de los 5 objetivos específicos de la política."
+  },
+  {
+    "question": "Según el documento, ¿qué es el ciclo vital del documento?",
+    "options": [
+      "El tiempo que dura un documento antes de digitalizarse",
+      "Las etapas sucesivas desde su producción o recepción hasta su disposición final",
+      "El proceso de transferencia al archivo histórico",
+      "La validez legal del documento"
+    ],
+    "correct": 1,
+    "explanation": "El ciclo vital del documento son las etapas sucesivas por las que atraviesan los documentos desde su producción o recepción hasta su disposición final."
+  },
+  {
+    "question": "¿Qué es un Archivo de Gestión?",
+    "options": [
+      "Archivo que contiene documentos históricos",
+      "Archivo de la oficina productora con documentación en trámite",
+      "Archivo central de la entidad",
+      "Archivo digitalizado"
+    ],
+    "correct": 1,
+    "explanation": "El Archivo de Gestión es el archivo de la oficina productora que reúne su documentación en trámite, sometida a continua utilización y consulta administrativa."
+  },
+  {
+    "question": "¿Qué es un Archivo Central?",
+    "options": [
+      "El archivo principal de la nación",
+      "Unidad que coordina archivos de gestión y reúne documentos transferidos",
+      "Archivo histórico de la entidad",
+      "Base de datos centralizada"
+    ],
+    "correct": 1,
+    "explanation": "El Archivo Central es la unidad administrativa que coordina los archivos de gestión y reúne los documentos transferidos una vez finalizado su trámite."
+  },
+  {
+    "question": "¿Qué es un Archivo Histórico?",
+    "options": [
+      "Archivo con más de 50 años",
+      "Archivo de documentos antiguos digitalizados",
+      "Archivo que conserva documentación permanente por su valor para investigación y cultura",
+      "Archivo de la biblioteca nacional"
+    ],
+    "correct": 2,
+    "explanation": "El Archivo Histórico es aquel al cual se transfiere documentación que debe conservarse permanentemente por su valor para la investigación, ciencia y cultura."
+  },
+  {
+    "question": "¿Qué principio archivístico establece que los documentos de una institución no deben mezclarse con los de otras?",
+    "options": [
+      "Principio de orden original",
+      "Principio de procedencia",
+      "Principio de integridad",
+      "Principio de accesibilidad"
+    ],
+    "correct": 1,
+    "explanation": "El Principio de procedencia establece que los documentos producidos por una institución no deben mezclarse con los de otras."
+  },
+  {
+    "question": "¿Qué principio archivístico establece que la disposición física debe respetar la secuencia de trámites?",
+    "options": [
+      "Principio de procedencia",
+      "Principio de orden original",
+      "Principio de clasificación",
+      "Principio de ordenación"
+    ],
+    "correct": 1,
+    "explanation": "El Principio de orden original establece que la disposición física de los documentos debe respetar la secuencia de los trámites que los produjo."
+  },
+  {
+    "question": "¿Cuál de las siguientes características NO es requerida para documentos electrónicos de archivo según el Decreto 1080 de 2015?",
+    "options": [
+      "Contenido estable",
+      "Forma documental fija",
+      "Vínculo archivístico",
+      "Formato PDF obligatorio"
+    ],
+    "correct": 3,
+    "explanation": "El Decreto 1080 de 2015 no establece formato PDF como obligatorio. Las características son: contenido estable, forma fija, vínculo archivístico y equivalente funcional."
+  },
+  {
+    "question": "¿Qué significa 'contenido estable' en un documento electrónico?",
+    "options": [
+      "Que no se puede editar nunca",
+      "Que el contenido no cambia con el tiempo sin autorización",
+      "Que está en la nube",
+      "Que tiene firma digital"
+    ],
+    "correct": 1,
+    "explanation": "Contenido estable significa que el contenido del documento no cambia con el tiempo; los cambios deben ser autorizados conforme a reglas establecidas y controladas."
+  },
+  {
+    "question": "¿Qué es la 'forma documental fija'?",
+    "options": [
+      "Documento impreso en papel",
+      "Documento que no se puede mover de carpeta",
+      "Contenido que permanece completo y sin alteraciones manteniendo su forma original",
+      "Documento en formato PDF"
+    ],
+    "correct": 2,
+    "explanation": "La forma documental fija asegura que el contenido permanece completo y sin alteraciones a lo largo del tiempo, manteniendo la forma original."
+  },
+  {
+    "question": "¿Qué fecha tiene la versión actual (V04) de la Política de Gestión Documental?",
+    "options": [
+      "21 de septiembre de 2022",
+      "30 de junio de 2021",
+      "10 de mayo de 2019",
+      "24 de diciembre de 2024"
+    ],
+    "correct": 3,
+    "explanation": "La versión 04 de la Política de Gestión Documental fue aprobada el 24 de diciembre de 2024."
+  },
+  {
+    "question": "¿Quiénes elaboraron la versión V04 de la Política de Gestión Documental?",
+    "options": [
+      "Astrid Camargo y Ana María Tolosa",
+      "Luz Marina Díaz y Luis Felipe Gómez Osorio",
+      "Jhon Mahecha y Aldo Romero",
+      "Alfonso Alvis y Jhonatan Díaz"
+    ],
+    "correct": 1,
+    "explanation": "La versión V04 fue elaborada por Luz Marina Díaz (Contratista GITGD) y Luis Felipe Gómez Osorio (Analista T2-06 GITGD)."
+  },
+  {
+    "question": "¿Qué es la 'depuración' documental?",
+    "options": [
+      "Limpieza física de documentos",
+      "Digitalización de archivos",
+      "Operación para retirar documentos sin valor para posterior eliminación",
+      "Clasificación de documentos"
+    ],
+    "correct": 2,
+    "explanation": "La depuración es la operación por la cual se retiran documentos que no tienen valores primarios ni secundarios, para su posterior eliminación."
+  },
+  {
+    "question": "¿Qué es la 'reprografía'?",
+    "options": [
+      "Técnica de impresión moderna",
+      "Conjunto de técnicas para copiar o duplicar documentos",
+      "Software de digitalización",
+      "Método de conservación"
+    ],
+    "correct": 1,
+    "explanation": "La reprografía es el conjunto de técnicas como fotografía, fotocopiado, microfilmación y digitalización que permiten copiar o duplicar documentos."
+  },
+  {
+    "question": "¿Qué son los metadatos en gestión documental?",
+    "options": [
+      "Datos importantes del documento",
+      "Datos acerca de los datos o información que proporciona acceso a la imagen",
+      "Datos estadísticos",
+      "Datos encriptados"
+    ],
+    "correct": 1,
+    "explanation": "Los metadatos son datos acerca de los datos o la información que se conoce acerca de la imagen para proporcionar acceso a dicha imagen."
+  },
+  {
+    "question": "¿Qué norma reglamenta la Ley 80 de 1989 sobre transferencias secundarias al AGN?",
+    "options": [
+      "Acuerdo 042 de 2002",
+      "Decreto 1515 de 2013",
+      "Decreto 2609 de 2012",
+      "Acuerdo 001 de 2024"
+    ],
+    "correct": 1,
+    "explanation": "El Decreto 1515 de 2013 reglamenta la Ley 80 de 1989 en lo concerniente a transferencias secundarias y documentos de valor histórico al Archivo General de la Nación."
+  },
+  {
+    "question": "¿Qué Acuerdo del AGN se menciona en el contexto del Plan de Transferencias Documentales?",
+    "options": [
+      "Acuerdo 001 de 2024",
+      "Acuerdo 042 de 2002",
+      "Acuerdo 060 de 2001",
+      "Acuerdo 004 de 2013"
+    ],
+    "correct": 1,
+    "explanation": "El Acuerdo 042 de 2002 del Archivo General de la Nación se menciona como normatividad aplicable para el Plan de Transferencias Documentales."
+  },
+  {
+    "question": "¿Qué ley reglamenta el acceso y uso de los mensajes de datos y firmas digitales?",
+    "options": [
+      "Ley 594 de 2000",
+      "Ley 527 de 1999",
+      "Ley 1712 de 2014",
+      "Ley 1341 de 2009"
+    ],
+    "correct": 1,
+    "explanation": "La Ley 527 de 1999 define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales."
+  },
+  {
+    "question": "¿Qué norma ISO se refiere al Sistema de Gestión Ambiental?",
+    "options": [
+      "ISO 9001:2015",
+      "ISO 14001:2015",
+      "ISO 27001:2015",
+      "ISO 15489"
+    ],
+    "correct": 1,
+    "explanation": "La NTC ISO 14001:2015 establece los requisitos para el Sistema de Gestión Ambiental."
+  },
+  {
+    "question": "¿Qué es un 'documento de apoyo' según el marco conceptual?",
+    "options": [
+      "Documento principal de un expediente",
+      "Documento generado por la misma u otras oficinas que no hace parte de series documentales pero es útil",
+      "Documento clasificado como reservado",
+      "Documento histórico"
+    ],
+    "correct": 1,
+    "explanation": "Un documento de apoyo es generado por la misma oficina o por otras, que no hace parte de sus series documentales pero es de utilidad para el cumplimiento de sus funciones."
+  },
+  {
+    "question": "¿Qué es 'conservación total' en términos archivísticos?",
+    "options": [
+      "Conservar todos los documentos sin excepción",
+      "Aplicar a documentos con valor permanente que son testimonio de la actividad de la entidad",
+      "Conservar documentos por 10 años",
+      "Digitalizar todos los documentos"
+    ],
+    "correct": 1,
+    "explanation": "La conservación total se aplica a documentos que tienen valor permanente, convirtiéndose en testimonio de la actividad y trascendencia de la entidad productora."
+  },
+  {
+    "question": "¿Qué es una 'copia autenticada'?",
+    "options": [
+      "Copia digital de un documento",
+      "Reproducción expedida y autorizada por funcionario competente con mismo valor probatorio del original",
+      "Fotocopia simple",
+      "Escaneado de un documento"
+    ],
+    "correct": 1,
+    "explanation": "La copia autenticada es una reproducción de un documento, expedida y autorizada por el funcionario competente y que tendrá el mismo valor probatorio del original."
+  },
+  {
+    "question": "¿Qué son las 'fechas extremas' en archivística?",
+    "options": [
+      "Fechas de vencimiento de documentos",
+      "Fechas que indican el inicio y conclusión de un expediente",
+      "Fechas de transferencia documental",
+      "Fechas de eliminación de documentos"
+    ],
+    "correct": 1,
+    "explanation": "Las fechas extremas indican los momentos de inicio y de conclusión de un expediente, independientemente de las fechas de los documentos aportados como antecedente o prueba."
+  },
+  {
+    "question": "¿Qué significa 'vínculo archivístico' en documentos electrónicos?",
+    "options": [
+      "Enlace digital entre documentos",
+      "Relación entre documentos por razones de procedencia, proceso o función",
+      "Firma electrónica del documento",
+      "Clasificación de seguridad del documento"
+    ],
+    "correct": 1,
+    "explanation": "El vínculo archivístico es la relación que existe entre documentos por razones de procedencia, proceso, trámite o función, y debe mantenerse a través de metadatos."
+  },
+  {
+    "question": "¿Qué decreto establece normas para suprimir trámites innecesarios en la Administración Pública?",
+    "options": [
+      "Decreto 2609 de 2012",
+      "Decreto 019 de 2012",
+      "Decreto 1080 de 2015",
+      "Decreto 2482 de 2012"
+    ],
+    "correct": 1,
+    "explanation": "El Decreto 019 de 2012 dicta normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública."
+  },
+  {
+    "question": "¿Qué circular define el comité de archivo integrado a los comités institucionales de gestión y desempeño?",
+    "options": [
+      "Circular 004 de 2003",
+      "Circular Conjunta 100-004 de 2018",
+      "Circular 001 de 2024",
+      "Circular 042 de 2002"
+    ],
+    "correct": 1,
+    "explanation": "La Circular Conjunta 100-004 de 2018 define el comité de archivo integrado a los comités institucionales de gestión y desempeño."
+  },
+  {
+    "question": "¿Qué ley expide el Código General del Proceso?",
+    "options": [
+      "Ley 1437 de 2011",
+      "Ley 1564 de 2012",
+      "Ley 1712 de 2014",
+      "Ley 594 de 2000"
+    ],
+    "correct": 1,
+    "explanation": "La Ley 1564 de 2012 expide el Código General del Proceso y dicta otras disposiciones.This response paused because Claude reached its max length for a message. Hit continue to nudge Claude along.Continue"
   }
 ]
