@@ -1,0 +1,109 @@
+[
+  {
+    "question": "¿Cuál es el período de aplicación de la Política de Gestión Documental de la ANCP-CCE?",
+    "options": ["2022-2024", "2023-2025", "2024-2026", "2025-2027"],
+    "correct": 2,
+    "explanation": "La política cubre el período 2024-2026 según el documento CCE-GDO-IDI-02 V04."
+  },
+  {
+    "question": "¿Qué metodología utiliza la ANCP-CCE para la implementación de la política de gestión documental?",
+    "options": ["PDCA", "PHVA", "Six Sigma", "Kaizen"],
+    "correct": 1,
+    "explanation": "Se utiliza el ciclo PHVA (Planificar, Hacer, Verificar y Actuar) para asegurar la mejora continua."
+  },
+  {
+    "question": "¿Cuál es el Acuerdo que establece los lineamientos específicos para la gestión documental en entidades públicas?",
+    "options": [
+      "Acuerdo 042 de 2002",
+      "Acuerdo 001 de 2024",
+      "Acuerdo 060 de 2001",
+      "Acuerdo 004 de 2013"
+    ],
+    "correct": 1,
+    "explanation": "El Acuerdo 001 de 2024 del AGN establece lineamientos específicos para la elaboración e implementación de instrumentos archivísticos."
+  },
+  {
+    "question": "¿Qué significa SGDEA?",
+    "options": [
+      "Sistema General de Documentos Electrónicos Administrativos",
+      "Sistema de Gestión de Documentos Electrónicos de Archivo",
+      "Servicio de Gestión Documental Electrónica Avanzada",
+      "Sistema de Gobierno Digital y Electrónico Administrativo"
+    ],
+    "correct": 1,
+    "explanation": "SGDEA significa Sistema de Gestión de Documentos Electrónicos de Archivo, identificado como proyecto estratégico prioritario."
+  },
+  {
+    "question": "¿Cuántos proyectos estratégicos prioritarios identifica el diagnóstico de la política?",
+    "options": ["3 proyectos", "5 proyectos", "7 proyectos", "10 proyectos"],
+    "correct": 1,
+    "explanation": "El diagnóstico identifica 5 proyectos estratégicos: SGDEA, Programas Específicos PGD, Plan de transferencias, Instrumentos archivísticos y SIC."
+  },
+  {
+    "question": "¿Qué instrumento archivístico organiza los documentos según su contenido y función?",
+    "options": ["TRD", "CCD", "PINAR", "FUID"],
+    "correct": 1,
+    "explanation": "El CCD (Cuadro de Clasificación Documental) organiza y agrupa los documentos según su contenido y función."
+  },
+  {
+    "question": "¿Qué ley se conoce como la 'Ley General de Archivos' en Colombia?",
+    "options": [
+      "Ley 527 de 1999",
+      "Ley 594 de 2000",
+      "Ley 1712 de 2014",
+      "Ley 1437 de 2011"
+    ],
+    "correct": 1,
+    "explanation": "La Ley 594 de 2000 es la Ley General de Archivos que regula la función archivística en Colombia."
+  },
+  {
+    "question": "¿Cuál NO es un principio de la Política de Gestión Documental según el documento?",
+    "options": [
+      "Accesibilidad",
+      "Rentabilidad",
+      "Transparencia",
+      "Sostenibilidad"
+    ],
+    "correct": 1,
+    "explanation": "La rentabilidad no está entre los 15 principios adoptados. Los principios incluyen accesibilidad, transparencia, sostenibilidad, entre otros."
+  },
+  {
+    "question": "¿Qué componentes tiene la Política de Gestión Documental de la ANCP-CCE?",
+    "options": [
+      "Solo componente archivístico",
+      "Archivístico y tecnológico",
+      "Archivístico, tecnológico y financiero",
+      "Solo componente tecnológico"
+    ],
+    "correct": 1,
+    "explanation": "La política contempla dos componentes principales: el componente archivístico y el componente tecnológico."
+  },
+  {
+    "question": "¿Qué significa MIPG en el contexto del documento?",
+    "options": [
+      "Manual Integrado de Procedimientos Generales",
+      "Modelo Institucional de Planeación Gubernamental",
+      "Modelo Integrado de Planeación y Gestión",
+      "Marco Integrado de Políticas Gubernamentales"
+    ],
+    "correct": 2,
+    "explanation": "MIPG es el Modelo Integrado de Planeación y Gestión, marco en el cual se inscribe la política de gestión documental."
+  },
+  {
+    "question": "¿Qué formato se utiliza para el inventario documental según estándares del AGN?",
+    "options": ["FUID", "FUDC", "FIND", "FIUD"],
+    "correct": 0,
+    "explanation": "FUID (Formato Único de Inventario Documental) es el estándar establecido por el Archivo General de la Nación."
+  },
+  {
+    "question": "¿Cuál es el código de estandarización de la Política de Gestión Documental?",
+    "options": [
+      "CCE-GDO-PG-02",
+      "CCE-GDO-IDI-02",
+      "CCE-GTI-FM-15",
+      "CCE-GDO-FM-04"
+    ],
+    "correct": 1,
+    "explanation": "El código es CCE-GDO-IDI-02 V04, donde V04 indica que es la versión 4 del documento."
+  }
+]
