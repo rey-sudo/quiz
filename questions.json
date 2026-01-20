@@ -1,5 +1,216 @@
 [
   {
+    "question": "Según el artículo 125 de la Constitución Política, ¿cómo deben ingresar los servidores públicos a los cargos de carrera administrativa?",
+    "options": [
+      "Por nombramiento directo del alcalde",
+      "Por concurso de méritos",
+      "Por recomendación de funcionarios",
+      "Por antigüedad en el servicio"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 125 establece que los empleos en los órganos y entidades del Estado son de carrera, y que el ingreso a estos y el ascenso se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes."
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un principio de la función administrativa según el artículo 209?",
+    "options": ["Eficacia", "Celeridad", "Discrecionalidad", "Imparcialidad"],
+    "correct": 2,
+    "explanation": "El artículo 209 señala que la función administrativa está al servicio de los intereses generales y se desarrolla con fundamento en los principios de igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. La discrecionalidad no figura como principio rector."
+  },
+  {
+    "question": "Según el artículo 6 de la Constitución, los servidores públicos son responsables:",
+    "options": [
+      "Solo ante sus superiores jerárquicos",
+      "Únicamente por infringir la Constitución",
+      "Ante las autoridades por infringir la Constitución y las leyes, y por omisión o extralimitación en el ejercicio de sus funciones",
+      "Solo en caso de delitos penales"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 6 determina que los particulares solo son responsables ante las autoridades por infringir la Constitución y las leyes, mientras que los servidores públicos lo son por la misma causa y por omisión o extralimitación en el ejercicio de sus funciones."
+  },
+  {
+    "question": "El artículo 23 de la Constitución consagra el derecho de petición. ¿Cuál es el término general legal para resolver una petición de interés general?",
+    "options": [
+      "5 días hábiles",
+      "10 días hábiles",
+      "15 días hábiles",
+      "30 días hábiles"
+    ],
+    "correct": 2,
+    "explanation": "Aunque el artículo 23 constitucional no fija días, la Ley 1755 de 2015, que lo reglamenta, establece que salvo norma especial, toda petición deberá resolverse dentro de los 15 días siguientes a su recepción."
+  },
+  {
+    "question": "De acuerdo con el artículo 122, ¿puede existir un empleo público sin que sus funciones estén detalladas?",
+    "options": [
+      "Sí, si el alcalde lo autoriza",
+      "Sí, en casos de emergencia",
+      "No, ningún empleo público puede existir sin funciones detalladas en ley o reglamento",
+      "Sí, en cargos de libre nombramiento y remoción"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 122 dicta textualmente: 'No habrá empleo público que no tenga funciones detalladas en ley o reglamento', exigiendo además que esté contemplado en la respectiva planta y previsto su emolumento en el presupuesto."
+  },
+  {
+    "question": "Según el artículo 125, ¿cuál es una causal de retiro del servicio de los servidores de carrera administrativa?",
+    "options": [
+      "Cambio de administración municipal",
+      "Calificación no satisfactoria en el desempeño",
+      "Decisión unilateral del jefe inmediato",
+      "Cumplir 60 años de edad"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 125 constitucional indica que el retiro se producirá por calificación no satisfactoria en el desempeño del empleo, por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley."
+  },
+  {
+    "question": "El artículo 15 de la Constitución protege el derecho a la intimidad y al habeas data. ¿Qué implica esto para un servidor público?",
+    "options": [
+      "Puede compartir información personal de los ciudadanos libremente",
+      "Debe conocer, actualizar y rectificar las informaciones recogidas sobre las personas en bancos de datos y proteger su reserva",
+      "Solo aplica a la vida privada del funcionario",
+      "Que no puede solicitar documentos a los ciudadanos"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 15 garantiza el derecho a conocer, actualizar y rectificar la información recogida en bases de datos. Los servidores públicos, al manejar datos ciudadanos, deben respetar este principio de Habeas Data y la reserva legal."
+  },
+  {
+    "question": "¿Qué establece la Constitución sobre la prevalencia del derecho sustancial?",
+    "options": [
+      "Prevalece sobre las formas",
+      "Es menos importante que el procedimiento",
+      "Solo aplica en la justicia penal",
+      "Depende de la voluntad del funcionario"
+    ],
+    "correct": 0,
+    "explanation": "El artículo 228 establece que en las actuaciones de la administración de justicia prevalecerá el derecho sustancial. Este principio se hace extensivo a la función administrativa bajo el marco del debido proceso (Art. 29)."
+  },
+  {
+    "question": "Según el artículo 311, el municipio es:",
+    "options": [
+      "Una dependencia del departamento",
+      "La entidad fundamental de la división político-administrativa del Estado",
+      "Un órgano de control fiscal",
+      "Una subdivisión de la capital"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 311 define al municipio como la entidad territorial fundamental de la división político-administrativa del Estado, encargado de prestar los servicios públicos y promover el desarrollo de su territorio."
+  },
+  {
+    "question": "El artículo 128 de la Constitución establece que:",
+    "options": [
+      "Se pueden acumular hasta dos empleos públicos",
+      "Los empleos de la rama judicial pueden acumularse",
+      "Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, salvo excepciones legales",
+      "Solo se prohíbe en la rama ejecutiva"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 128 prohíbe la doble vinculación y doble asignación del tesoro público, permitiendo únicamente las excepciones que determine la ley (como la docencia o pensiones de la fuerza pública)."
+  },
+  {
+    "question": "¿Qué artículo establece que los servidores públicos están al servicio del Estado y de la comunidad?",
+    "options": ["Artículo 6", "Artículo 113", "Artículo 123", "Artículo 209"],
+    "correct": 2,
+    "explanation": "El artículo 123 define quiénes son servidores públicos (miembros de corporaciones, empleados y trabajadores del Estado) y declara explícitamente que están al servicio del Estado y de la comunidad."
+  },
+  {
+    "question": "Según el artículo 74, todo ciudadano tiene derecho a:",
+    "options": [
+      "Acceder únicamente a documentos de su interés personal",
+      "Acceder a los documentos públicos salvo los casos establecidos por la ley",
+      "Solicitar solo información verbal",
+      "Acceder a toda información sin excepción"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 74 consagra que todas las personas tienen derecho a acceder a los documentos públicos salvo los casos que establezca la ley (reserva legal por seguridad nacional, datos sensibles, etc.)."
+  },
+  {
+    "question": "El artículo 2 de la Constitución establece como fines esenciales del Estado:",
+    "options": [
+      "Solo garantizar la seguridad nacional",
+      "Servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios y derechos",
+      "Únicamente recaudar impuestos",
+      "Administrar los recursos naturales"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2 define los fines del Estado: servir a la comunidad, promover la prosperidad general, garantizar la efectividad de los principios, derechos y deberes, y asegurar la convivencia pacífica."
+  },
+  {
+    "question": "¿Qué prohíbe el artículo 127 a los servidores públicos?",
+    "options": [
+      "Tomar vacaciones",
+      "Participar en actividades de partidos o movimientos y en las controversias políticas, salvo las excepciones legales",
+      "Trabajar en el sector privado tras renunciar",
+      "Atender al público sin cita previa"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 127 prohíbe a los servidores públicos participar en actividades de partidos o movimientos políticos y en controversias políticas, sin perjuicio del ejercicio del sufragio."
+  },
+  {
+    "question": "Según el artículo 314, el Alcalde es:",
+    "options": [
+      "Jefe de la administración departamental",
+      "El jefe de la administración local y representante legal del municipio",
+      "Solo un representante simbólico",
+      "Coordinador de los concejales"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 314 indica que en cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente."
+  },
+  {
+    "question": "Según el artículo 4 de la Constitución:",
+    "options": [
+      "Las leyes prevalecen sobre la Constitución",
+      "La Constitución es norma de normas",
+      "Los decretos tienen la misma jerarquía que la Constitución",
+      "Solo en casos especiales prevalece la Constitución"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 4 establece la supremacía constitucional: 'La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constitucionales'."
+  },
+  {
+    "question": "El artículo 122 exige a los servidores públicos, previo a su posesión:",
+    "options": [
+      "Realizar cursos de capacitación",
+      "Prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben",
+      "Residir en el municipio",
+      "Tener título de postgrado"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 122 establece que ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben."
+  },
+  {
+    "question": "¿Qué establece el artículo 13 sobre el derecho a la igualdad?",
+    "options": [
+      "Solo aplica a ciudadanos, no a servidores",
+      "Todas las personas recibirán la misma protección y trato de las autoridades sin discriminación",
+      "La igualdad solo es económica",
+      "No es un derecho fundamental"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 13 ordena que todas las personas nazcan libres e iguales ante la ley y reciban la misma protección y trato de las autoridades, gozando de los mismos derechos sin discriminación por sexo, raza u origen."
+  },
+  {
+    "question": "El artículo 277 establece las funciones del Procurador General. ¿Cuál es una de ellas?",
+    "options": [
+      "Recaudar impuestos",
+      "Vigilar la conducta oficial de quienes desempeñan funciones públicas",
+      "Aprobar el presupuesto municipal",
+      "Nombrar alcaldes"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 277, numeral 6, asigna al Procurador la función de ejercer vigilancia superior de la conducta oficial de quienes desempeñan funciones públicas, inclusive las de elección popular."
+  },
+  {
+    "question": "Según el artículo 103, ¿cuál de los siguientes NO es un mecanismo de participación ciudadana?",
+    "options": [
+      "El voto",
+      "El referendo",
+      "La acción de tutela",
+      "La consulta popular"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 103 enumera como mecanismos de participación: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato. La tutela es un mecanismo de protección de derechos (Art. 86)."
+  },
+
+  {
     "question": "¿Cuál es el período de aplicación de la Política de Gestión Documental de la ANCP-CCE?",
     "options": ["2022-2024", "2023-2025", "2024-2026", "2025-2027"],
     "correct": 2,
