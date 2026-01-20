@@ -723,5 +723,211 @@
     ],
     "correct": 1,
     "explanation": "La Ley 1564 de 2012 expide el Código General del Proceso y dicta otras disposiciones.This response paused because Claude reached its max length for a message. Hit continue to nudge Claude along.Continue"
+  },
+  {
+    "question": "¿Cuál es el objetivo general de la Política de Gestión Documental 2024-2026 de la ANCP-CCE?",
+    "options": [
+      "Reducir costos operativos de la entidad.",
+      "Establecer lineamientos para el acceso, conservación y uso adecuado de los activos de información en todo su ciclo de vida.",
+      "Digitalizar todos los documentos físicos en un plazo de 2 años.",
+      "Eliminar el uso de papel en la administración pública."
+    ],
+    "correct": 1,
+    "explanation": "Según la sección 1.4 'Objetivo general' (página 5), el objetivo es: 'Establecer los lineamientos y directrices en la ANCP-CCE, con el fin de aportar al acceso, la conservación y el uso adecuado de los activos de información de la entidad en todo su ciclo de vida'. ANCP-CCE: Agencia Nacional de Contratación Pública - Colombia Compra Eficiente."
+  },
+  {
+    "question": "¿Qué metodología se adopta para la implementación y mejora continua de la política?",
+    "options": [
+      "Metodología Ágil (Scrum)",
+      "Ciclo PHVA (Planificar, Hacer, Verificar, Actuar)",
+      "Six Sigma",
+      "Marco COBIT"
+    ],
+    "correct": 1,
+    "explanation": "La política se fundamenta en el ciclo PHVA (Planificar, Hacer, Verificar, Actuar). Según la sección 1.11 'METODOLOGÍA GENERAL' (página 15): 'La metodología se basa en el ciclo PHVA (Planificar, Hacer, Verificar y Actuar), asegurando la trazabilidad y preservación de los documentos a lo largo de su ciclo vital'."
+  },
+  {
+    "question": "¿Cuál de los siguientes es un Proyecto Estratégico priorizado en el diagnóstico de la política?",
+    "options": [
+      "Construcción de una nueva sede archivística",
+      "Adquisición e implementación del SGDEA (Sistema de Gestión de Documentos Electrónicos de Archivo)",
+      "Eliminación de todos los archivos físicos",
+      "Externalización del archivo histórico"
+    ],
+    "correct": 1,
+    "explanation": "El 'Proyecto Estratégico 1' es la 'Adquisición e implementación del Sistema de Gestión de Documento Electrónico de Archivo (SGDEA)', según el diagnóstico en la sección 1.6 (páginas 6-7). SGDEA: Sistema de Gestión de Documentos Electrónicos de Archivo, alineado con la Ley 594 de 2000 y el Decreto 1080 de 2015."
+  },
+  {
+    "question": "¿Qué principio de la política garantiza que la información esté disponible para quienes la necesiten en el momento y formato adecuado?",
+    "options": ["Confidencialidad", "Integridad", "Accesibilidad", "Legalidad"],
+    "correct": 2,
+    "explanation": "El principio de 'Accesibilidad' establece: 'Garantizar que la información esté disponible y accesible para aquellos que la necesiten, en el momento adecuado y en el formato apropiado' (sección 1.7 'PRINCIPIOS', página 8). Este principio está basado en el Artículo 2.8.2.5.5 del Decreto 1080 de 2015."
+  },
+  {
+    "question": "¿Qué instrumento archivístico organiza y agrupa los documentos de la entidad según su contenido y función?",
+    "options": [
+      "Tabla de Retención Documental (TRD)",
+      "Cuadro de Clasificación Documental (CCD)",
+      "Índice de Información Clasificada y Reservada (ICR)",
+      "Plan de Transferencias Documentales (PTD)"
+    ],
+    "correct": 1,
+    "explanation": "El 'Cuadro de Clasificación Documental (CCD)' es definido como 'una herramienta fundamental en la gestión documental que organiza y agrupa los documentos de una entidad según su contenido y función' (sección 1.30/12.3, página 27). El CCD tiene estructura jerárquica y codificación única."
+  },
+  {
+    "question": "¿Qué norma internacional se menciona como referencia para el Sistema de Gestión Documental en la política?",
+    "options": [
+      "ISO 9001:2015 (Sistemas de Gestión de la Calidad)",
+      "ISO 27001:2015 (Sistemas de Gestión de Seguridad de la Información)",
+      "ISO 30301 (Sistemas de Gestión para los Documentos)",
+      "ISO 14001:2015 (Sistemas de Gestión Ambiental)"
+    ],
+    "correct": 2,
+    "explanation": "La norma 'ISO 30301: Sistemas de Gestión para los Documentos' aparece en la Tabla 2 'Estándares de la gestión de la información' (página 15). Esta norma proporciona requisitos para sistemas de gestión de documentos que aseguren autenticidad, fiabilidad, integridad y usabilidad."
+  },
+  {
+    "question": "¿Qué componente de la política se enfoca en la sensibilización, capacitación y promoción de una cultura archivística?",
+    "options": [
+      "Componente tecnológico",
+      "Componente estratégico",
+      "Componente cultural",
+      "Componente documental"
+    ],
+    "correct": 2,
+    "explanation": "El 'Componente cultural' de la política, descrito en la sección 1.23 (página 23), tiene como objetivo 'fomentar una cultura archivística, mediante la sensibilización de la importancia de los temas archivísticos a través de capacitaciones y campañas'. Este componente se desarrolla dentro de la estructura de 'Componentes de la Política' (sección 1.24)."
+  },
+  {
+    "question": "¿Qué instrumento se utiliza para gestionar y monitorear quién tiene acceso a la información y documentos dentro de la organización?",
+    "options": [
+      "Modelo de Requisitos de Documento Electrónico (MRDE)",
+      "Tabla de Control de Accesos (TCA)",
+      "Sistema Integrado de Conservación (SIC)",
+      "Programa de Gestión Documental (PGD)"
+    ],
+    "correct": 1,
+    "explanation": "La 'Tabla de Control de Accesos (TCA)' es definida como 'la herramienta utilizada para gestionar y monitorear quién tiene acceso a la información y documentos dentro de una organización' (sección 1.37/12.10, página 32). La TCA establece niveles de acceso y registra autorizaciones."
+  },
+  {
+    "question": "¿Cuál de estas leyes NO forma parte del marco normativo explícitamente listado en la Tabla 1 de la Política de Gestión Documental?",
+    "options": [
+      "Ley 594 de 2000 (Ley General de Archivos)",
+      "Ley 1712 de 2014 (Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional)",
+      "Ley 1273 de 2009 (Ley de Delitos Informáticos)",
+      "Decreto 1080 de 2015 (Decreto Único Reglamentario del Sector Cultura)"
+    ],
+    "correct": 2,
+    "explanation": "La 'Ley 1273 de 2009 (Ley de Delitos Informáticos)' NO aparece en la Tabla 1 'Normatividad gestión de la información' (páginas 13-14). Las leyes listadas son: Ley 527 de 1999, Ley 594 de 2000, Ley 872 de 2003, Ley 1341 de 2009, Ley 1437 de 2011, Ley 1564 de 2012 y Ley 1712 de 2014."
+  },
+  {
+    "question": "¿Qué herramienta registra de manera detallada todos los documentos de la entidad para facilitar su identificación y localización?",
+    "options": [
+      "Plan Institucional de Archivos (PINAR)",
+      "Inventarios Documentales (FUID)",
+      "Programa de Gestión Documental (PGD)",
+      "Tablas de Retención Documental (TRD)"
+    ],
+    "correct": 1,
+    "explanation": "Los 'Inventarios Documentales' utilizando el 'Formato Único de Inventario Documental (FUID)' constituyen el 'registro detallado de todos los documentos que posee una entidad' (sección 1.33/12.6, página 29). FUID es el estándar establecido por el Archivo General de la Nación (AGN) para inventarios documentales."
+  },
+
+  {
+    "question": "¿Qué norma ISO proporciona los requisitos específicos para establecer un Sistema de Gestión de Documentos (SGD) que garantice autenticidad, fiabilidad e integridad?",
+    "options": [
+      "ISO 9001:2015 (Sistemas de Gestión de la Calidad)",
+      "ISO 27001:2015 (Sistemas de Gestión de Seguridad de la Información)",
+      "ISO 30301 (Sistemas de Gestión para los Documentos)",
+      "ISO 14001:2015 (Sistemas de Gestión Ambiental)"
+    ],
+    "correct": 2,
+    "explanation": "ISO 30301 es la norma específica para Sistemas de Gestión para los Documentos. Proporciona requisitos para crear, implementar y mejorar un SGD, asegurando la autenticidad, fiabilidad, integridad y usabilidad de los documentos. En la política ANCP-CCE, esta norma es la base para su Programa de Gestión Documental (PGD)."
+  },
+  {
+    "question": "¿Qué norma ISO se enfoca en la protección de la información mediante controles de seguridad y es fundamental para la Tabla de Control de Accesos (TCA)?",
+    "options": [
+      "ISO 30301 (Sistemas de Gestión para los Documentos)",
+      "ISO 27001 (Sistemas de Gestión de Seguridad de la Información)",
+      "ISO 9001 (Sistemas de Gestión de la Calidad)",
+      "ISO 5985 (Directrices para Digitalización de Documentos)"
+    ],
+    "correct": 1,
+    "explanation": "ISO 27001 es la norma de Sistemas de Gestión de Seguridad de la Información. Se enfoca en proteger la información mediante controles de seguridad que aseguran confidencialidad, integridad y disponibilidad. En la política ANCP-CCE, esta norma fundamenta la Tabla de Control de Accesos (TCA) y la protección de información clasificada."
+  },
+  {
+    "question": "¿Cuál norma ISO es considerada la norma internacional principal que proporciona directrices y mejores prácticas para la gestión de documentos en todo su ciclo vital y aparece en la Tabla 2 del documento?",
+    "options": ["ISO 30301", "ISO 15489", "ISO 27001", "ISO 14641-1"],
+    "correct": 1,
+    "explanation": "ISO 15489 'Gestión de Documentos' aparece en la Tabla 2 de Estándares (página 15) del documento. Esta norma internacional proporciona directrices y mejores prácticas para la gestión de documentos en todo su ciclo vital, desde la creación hasta la disposición final."
+  },
+  {
+    "question": "¿Qué norma ISO establece requisitos para un sistema de gestión de calidad y es relevante para asegurar la mejora continua en procesos documentales mediante el ciclo PHVA?",
+    "options": ["ISO 14001", "ISO 27001", "ISO 9001", "ISO 30301"],
+    "correct": 2,
+    "explanation": "ISO 9001 establece requisitos para Sistemas de Gestión de la Calidad. Es fundamental para la mejora continua mediante el ciclo PHVA (Planificar-Hacer-Verificar-Actuar). En la política ANCP-CCE, esta norma asegura la calidad de los procesos documentales y la mejora continua del Sistema de Gestión Documental."
+  },
+  {
+    "question": "¿Qué norma ISO proporciona directrices específicas para la digitalización de documentos y es clave para los procesos de transformación digital en la ANCP-CCE?",
+    "options": [
+      "ISO 14641-1 (Archivado electrónico)",
+      "ISO 5985 (Directrices para Digitalización de Documentos)",
+      "ISO TR18492 (Preservación a largo plazo)",
+      "ISO 27001 (Seguridad de la información)"
+    ],
+    "correct": 1,
+    "explanation": "ISO 5985 proporciona directrices para la digitalización de documentos. Es clave para asegurar que los procesos de digitalización sean confiables, consistentes y produzcan documentos electrónicos auténticos. En la política ANCP-CCE, esta norma guía la implementación del Programa de Reprografía y la digitalización de archivos."
+  },
+  {
+    "question": "¿Qué norma ISO se enfoca en la preservación a largo plazo de documentos electrónicos y es fundamental para el Sistema Integrado de Conservación (SIC)?",
+    "options": [
+      "ISO 5985 (Digitalización)",
+      "ISO 14641-1 (Archivado electrónico y preservación)",
+      "ISO 9001 (Calidad)",
+      "ISO 30301 (Gestión de documentos)"
+    ],
+    "correct": 1,
+    "explanation": "ISO 14641-1 se enfoca en archivado electrónico y preservación a largo plazo. Proporciona especificaciones para el diseño y funcionamiento de sistemas de preservación de información electrónica. En la política ANCP-CCE, esta norma es fundamental para el Sistema Integrado de Conservación (SIC) y la preservación digital."
+  },
+  {
+    "question": "Según el documento, ¿qué norma ISO específica establece requisitos para un sistema de gestión de documentos certificable?",
+    "options": [
+      "ISO 15489 (proporciona directrices)",
+      "ISO 30301 (establece requisitos del sistema)",
+      "ISO 27001 (gestión de seguridad)",
+      "ISO 9001 (gestión de calidad)"
+    ],
+    "correct": 1,
+    "explanation": "ISO 30301 'Sistemas de Gestión para los Documentos' (Tabla 2, página 15) establece requisitos para un Sistema de Gestión de Documentos certificable. En contraste, ISO 15489 proporciona directrices y mejores prácticas para la gestión documental."
+  },
+  {
+    "question": "¿Qué norma ISO es relevante para el principio de sostenibilidad en la política de gestión documental, promoviendo la reducción del uso de papel?",
+    "options": [
+      "ISO 9001 (Gestión de calidad)",
+      "ISO 14001 (Gestión ambiental)",
+      "ISO 27001 (Seguridad de información)",
+      "ISO 30301 (Gestión de documentos)"
+    ],
+    "correct": 1,
+    "explanation": "ISO 14001 es la norma de Sistemas de Gestión Ambiental. Es relevante para la sostenibilidad en gestión documental, promoviendo la reducción del uso de papel, digitalización de procesos y prácticas ambientalmente responsables. En la política ANCP-CCE, esta norma alinea con el principio de protección del medio ambiente."
+  },
+  {
+    "question": "Según la Tabla 2 de la política, ¿qué norma ISO se menciona específicamente para la preservación a largo plazo de información basada en documentos electrónicos?",
+    "options": [
+      "NTC ISO 4095:2013",
+      "GTC-ISO TR18492:2013",
+      "NTC ISO 14641-1:2014",
+      "NTC ISO 9001:2015"
+    ],
+    "correct": 1,
+    "explanation": "GTC-ISO TR18492:2013 es mencionada en la Tabla 2 como estándar para 'Preservación a Largo Plazo de la Información Basada en Documentos Electrónicos'. Esta norma técnica proporciona directrices para garantizar la preservación y accesibilidad a largo plazo de documentos electrónicos, fundamental para el Plan de Preservación Digital de la ANCP-CCE."
+  },
+  {
+    "question": "Según la Tabla 2 de Estándares en el documento, ¿qué conjunto de normas ISO muestra que la ANCP-CCE adopta un enfoque integral para la gestión documental?",
+    "options": [
+      "Normas de calidad únicamente (ISO 9001)",
+      "Normas de seguridad únicamente (ISO 27001)",
+      "Múltiples normas integradas (calidad, seguridad, ambiental, documental)",
+      "Solamente normas técnicas de digitalización"
+    ],
+    "correct": 2,
+    "explanation": "La Tabla 2 (páginas 14-15) muestra múltiples normas ISO integradas: ISO 9001 (calidad), ISO 27001 (seguridad), ISO 14001 (ambiental), ISO 30301 (documental), ISO 5985 (digitalización), etc. Esto indica un enfoque integral alineado con mejores prácticas internacionales."
   }
 ]
