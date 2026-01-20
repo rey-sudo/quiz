@@ -934,7 +934,7 @@
       "Ley 594 de 2000"
     ],
     "correct": 1,
-    "explanation": "La Ley 1564 de 2012 expide el Código General del Proceso y dicta otras disposiciones.This response paused because Claude reached its max length for a message. Hit continue to nudge Claude along.Continue"
+    "explanation": "La Ley 1564 de 2012 expide el Código General del Proceso y dicta otras disposiciones."
   },
   {
     "question": "¿Cuál es el objetivo general de la Política de Gestión Documental 2024-2026 de la ANCP-CCE?",
@@ -995,7 +995,7 @@
       "ISO 14001:2015 (Sistemas de Gestión Ambiental)"
     ],
     "correct": 2,
-    "explanation": "La norma 'ISO 30301: Sistemas de Gestión para los Documentos' aparece en la Tabla 2 'Estándares de la gestión de la información' (página 15). Esta norma proporciona requisitos para sistemas de gestión de documentos que aseguren autenticidad, fiabilidad, integridad y usabilidad."
+    "explanation": "La norma 'ISO 30301: Sistemas de Gestión para los Documentos' aparece en la Tabla 2 de la Política de Gestión Documental 'Estándares de la gestión de la información' (página 15). Esta norma proporciona requisitos para sistemas de gestión de documentos que aseguren autenticidad, fiabilidad, integridad y usabilidad."
   },
   {
     "question": "¿Qué componente de la política se enfoca en la sensibilización, capacitación y promoción de una cultura archivística?",
@@ -1028,7 +1028,7 @@
       "Decreto 1080 de 2015 (Decreto Único Reglamentario del Sector Cultura)"
     ],
     "correct": 2,
-    "explanation": "La 'Ley 1273 de 2009 (Ley de Delitos Informáticos)' NO aparece en la Tabla 1 'Normatividad gestión de la información' (páginas 13-14). Las leyes listadas son: Ley 527 de 1999, Ley 594 de 2000, Ley 872 de 2003, Ley 1341 de 2009, Ley 1437 de 2011, Ley 1564 de 2012 y Ley 1712 de 2014."
+    "explanation": "La 'Ley 1273 de 2009 (Ley de Delitos Informáticos)' NO aparece en la Tabla 1 de la Política de Gestión Documental 'Normatividad gestión de la información' (páginas 13-14). Las leyes listadas son: Ley 527 de 1999, Ley 594 de 2000, Ley 872 de 2003, Ley 1341 de 2009, Ley 1437 de 2011, Ley 1564 de 2012 y Ley 1712 de 2014."
   },
   {
     "question": "¿Qué herramienta registra de manera detallada todos los documentos de la entidad para facilitar su identificación y localización?",
@@ -1065,10 +1065,10 @@
     "explanation": "ISO 27001 es la norma de Sistemas de Gestión de Seguridad de la Información. Se enfoca en proteger la información mediante controles de seguridad que aseguran confidencialidad, integridad y disponibilidad. En la política ANCP-CCE, esta norma fundamenta la Tabla de Control de Accesos (TCA) y la protección de información clasificada."
   },
   {
-    "question": "¿Cuál norma ISO es considerada la norma internacional principal que proporciona directrices y mejores prácticas para la gestión de documentos en todo su ciclo vital y aparece en la Tabla 2 del documento?",
+    "question": "¿Cuál norma ISO es considerada la norma internacional principal que proporciona directrices y mejores prácticas para la gestión de documentos en todo su ciclo vital y aparece en la Tabla 2 de la Política de Gestión Documental?",
     "options": ["ISO 30301", "ISO 15489", "ISO 27001", "ISO 14641-1"],
     "correct": 1,
-    "explanation": "ISO 15489 'Gestión de Documentos' aparece en la Tabla 2 de Estándares (página 15) del documento. Esta norma internacional proporciona directrices y mejores prácticas para la gestión de documentos en todo su ciclo vital, desde la creación hasta la disposición final."
+    "explanation": "ISO 15489 'Gestión de Documentos' aparece en la Tabla 2 de Estándares (página 15) del documento de la Política de Gestión Documental. Esta norma internacional proporciona directrices y mejores prácticas para la gestión de documentos en todo su ciclo vital, desde la creación hasta la disposición final."
   },
   {
     "question": "¿Qué norma ISO establece requisitos para un sistema de gestión de calidad y es relevante para asegurar la mejora continua en procesos documentales mediante el ciclo PHVA?",
@@ -1107,7 +1107,7 @@
       "ISO 9001 (gestión de calidad)"
     ],
     "correct": 1,
-    "explanation": "ISO 30301 'Sistemas de Gestión para los Documentos' (Tabla 2, página 15) establece requisitos para un Sistema de Gestión de Documentos certificable. En contraste, ISO 15489 proporciona directrices y mejores prácticas para la gestión documental."
+    "explanation": "ISO 30301 'Sistemas de Gestión para los Documentos' (Tabla 2, página 15, de la Política de Gestión Documental) establece requisitos para un Sistema de Gestión de Documentos certificable. En contraste, ISO 15489 proporciona directrices y mejores prácticas para la gestión documental."
   },
   {
     "question": "¿Qué norma ISO es relevante para el principio de sostenibilidad en la política de gestión documental, promoviendo la reducción del uso de papel?",
@@ -1129,10 +1129,10 @@
       "NTC ISO 9001:2015"
     ],
     "correct": 1,
-    "explanation": "GTC-ISO TR18492:2013 es mencionada en la Tabla 2 como estándar para 'Preservación a Largo Plazo de la Información Basada en Documentos Electrónicos'. Esta norma técnica proporciona directrices para garantizar la preservación y accesibilidad a largo plazo de documentos electrónicos, fundamental para el Plan de Preservación Digital de la ANCP-CCE."
+    "explanation": "GTC-ISO TR18492:2013 es mencionada en la Tabla 2 de la Política de Gestión Documental como estándar para 'Preservación a Largo Plazo de la Información Basada en Documentos Electrónicos'. Esta norma técnica proporciona directrices para garantizar la preservación y accesibilidad a largo plazo de documentos electrónicos, fundamental para el Plan de Preservación Digital de la ANCP-CCE."
   },
   {
-    "question": "Según la Tabla 2 de Estándares en el documento, ¿qué conjunto de normas ISO muestra que la ANCP-CCE adopta un enfoque integral para la gestión documental?",
+    "question": "Según la Tabla 2 de Estándares en el documento de la Política de Gestión Documental, ¿qué conjunto de normas ISO muestra que la ANCP-CCE adopta un enfoque integral para la gestión documental?",
     "options": [
       "Normas de calidad únicamente (ISO 9001)",
       "Normas de seguridad únicamente (ISO 27001)",
@@ -1140,6 +1140,6 @@
       "Solamente normas técnicas de digitalización"
     ],
     "correct": 2,
-    "explanation": "La Tabla 2 (páginas 14-15) muestra múltiples normas ISO integradas: ISO 9001 (calidad), ISO 27001 (seguridad), ISO 14001 (ambiental), ISO 30301 (documental), ISO 5985 (digitalización), etc. Esto indica un enfoque integral alineado con mejores prácticas internacionales."
+    "explanation": "La Tabla 2 (páginas 14-15 de la Política de Gestión Documental) muestra múltiples normas ISO integradas: ISO 9001 (calidad), ISO 27001 (seguridad), ISO 14001 (ambiental), ISO 30301 (documental), ISO 5985 (digitalización), etc. Esto indica un enfoque integral alineado con mejores prácticas internacionales."
   }
 ]
