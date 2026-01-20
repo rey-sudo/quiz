@@ -226,7 +226,7 @@
   {
     "question": "¿Cuál es el Acuerdo que establece los lineamientos específicos para la gestión documental en entidades públicas?",
     "options": [
-      "Acuerdo 042 de 2002",
+      "Acuerdo 042 de 2002 derogado por Acuerdo No. 001 del 2024 ",
       "Acuerdo 001 de 2024",
       "Acuerdo 060 de 2001",
       "Acuerdo 004 de 2013"
@@ -305,7 +305,7 @@
     "question": "¿Qué formato se utiliza para el inventario documental según estándares del AGN?",
     "options": ["FUID", "FUDC", "FIND", "FIUD"],
     "correct": 0,
-    "explanation": "FUID (Formato Único de Inventario Documental) es el estándar establecido por el Archivo General de la Nación."
+    "explanation": "FUID (Formato Único de Inventario Documental) CCE-GDO-FM-07 es el estándar establecido por el Archivo General de la Nación."
   },
   {
     "question": "¿Cuál es el código de estandarización de la Política de Gestión Documental?",
@@ -372,7 +372,7 @@
       "Tabla de Requisitos Documentales"
     ],
     "correct": 1,
-    "explanation": "TRD significa Tablas de Retención Documental, instrumento que clasifica los documentos según su valor y establece tiempos de retención."
+    "explanation": "TRD significa Tablas de Retención Documental CCE-GDO-FM-04, instrumento que clasifica los documentos según su valor y establece tiempos de retención."
   },
   {
     "question": "¿Qué significa PINAR?",
@@ -383,7 +383,7 @@
       "Programa Integral de Archivos"
     ],
     "correct": 1,
-    "explanation": "PINAR significa Plan Institucional de Archivos, herramienta estratégica para gestionar los archivos de manera efectiva."
+    "explanation": "PINAR significa Plan Institucional de Archivos CCE-GDO-PL-01, herramienta estratégica para gestionar los archivos de manera efectiva."
   },
   {
     "question": "¿Qué significa SIC en gestión documental?",
@@ -405,7 +405,7 @@
       "Transferencia de Conservación de Archivos"
     ],
     "correct": 2,
-    "explanation": "TCA significa Tabla de Control de Accesos, herramienta para gestionar quién tiene acceso a la información y documentos."
+    "explanation": "TCA significa Tabla de Control de Accesos CCE-GDO-IDI-03, herramienta para gestionar quién tiene acceso a la información y documentos. Clasificación de Seguridad. Asignación de Roles. Protección de Datos Personales. Control en el SGDEA."
   },
   {
     "question": "¿Cuál es el código del FUID en la ANCP-CCE?",
@@ -503,7 +503,7 @@
       "17 principios",
       "20 principios"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "La política adopta 17 principios fundamentales establecidos en el Artículo 2.8.2.5.5 del Decreto 1080 de 2015 y otros complementarios."
   },
   {
@@ -807,7 +807,7 @@
   {
     "question": "¿Qué norma reglamenta la Ley 80 de 1989 sobre transferencias secundarias al AGN?",
     "options": [
-      "Acuerdo 042 de 2002",
+      "Acuerdo 042 de 2002 derogado por Acuerdo No. 001 del 2024 ",
       "Decreto 1515 de 2013",
       "Decreto 2609 de 2012",
       "Acuerdo 001 de 2024"
@@ -819,12 +819,12 @@
     "question": "¿Qué Acuerdo del AGN se menciona en el contexto del Plan de Transferencias Documentales?",
     "options": [
       "Acuerdo 001 de 2024",
-      "Acuerdo 042 de 2002",
+      "Acuerdo 042 de 2002 derogado por Acuerdo No. 001 del 2024 ",
       "Acuerdo 060 de 2001",
       "Acuerdo 004 de 2013"
     ],
     "correct": 1,
-    "explanation": "El Acuerdo 042 de 2002 del Archivo General de la Nación se menciona como normatividad aplicable para el Plan de Transferencias Documentales."
+    "explanation": "El Acuerdo 042 de 2002 derogado por Acuerdo No. 001 del 2024  del Archivo General de la Nación se menciona como normatividad aplicable para el Plan de Transferencias Documentales."
   },
   {
     "question": "¿Qué ley reglamenta el acceso y uso de los mensajes de datos y firmas digitales?",
