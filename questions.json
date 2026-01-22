@@ -690,7 +690,226 @@
 
 
 
-
+{
+    "question": "¿Cuál es el objeto principal de la Ley 594 de 2000 según su artículo 1º?",
+    "options": [
+      "Regular exclusivamente la creación de bibliotecas y centros de documentación nacionales.",
+      "Establecer las reglas y principios generales que regulan la función archivística del Estado.",
+      "Sancionar penalmente a los ciudadanos que no organicen sus archivos privados.",
+      "Eliminar el uso del papel en todas las oficinas públicas de forma inmediata."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1º define que la ley regula la función archivística estatal para garantizar la organización y conservación del patrimonio documental."
+  },
+  {
+    "question": "Según el artículo 2º, ¿cuál es el ámbito de aplicación de esta ley?",
+    "options": [
+      "Únicamente a las entidades del nivel nacional pertenecientes a la rama ejecutiva.",
+      "A la administración pública en sus diferentes niveles y entidades privadas que cumplen funciones públicas.",
+      "Exclusivamente a las notarías, registros civiles y cámaras de comercio del país.",
+      "Solo a los ciudadanos que deseen consultar información histórica del Archivo General."
+    ],
+    "correct": 1,
+    "explanation": "La ley cubre toda la administración pública (nacional, departamental, municipal) y a privados cuando ejercen funciones del Estado."
+  },
+  {
+    "question": "¿Qué se entiende por 'Archivo Total' según las definiciones del artículo 3º?",
+    "options": [
+      "La digitalización del 100% de los documentos físicos de una entidad pública.",
+      "El depósito final donde se resguardan los documentos con más de 50 años de antigüedad.",
+      "El proceso integral de los documentos en su ciclo vital: producción, recepción, distribución, consulta, organización, recuperación y disposición final.",
+      "La suma de todos los libros contables y financieros de una entidad privada de interés público."
+    ],
+    "correct": 2,
+    "explanation": "El concepto de Archivo Total implica la gestión del documento desde que nace hasta que se decide su eliminación o conservación permanente."
+  },
+  {
+    "question": "¿A qué principio general se refiere la ley cuando obliga al Estado a utilizar avances técnicos para salvaguardar la memoria? (Art. 4).",
+    "options": [
+      "Principio de Racionalidad.",
+      "Principio de Modernización.",
+      "Principio de Institucionalidad.",
+      "Principio de Autonomía Documental."
+    ],
+    "correct": 1,
+    "explanation": "El principio de modernización impulsa al Estado a fortalecer la infraestructura y adoptar nuevas tecnologías en sus archivos."
+  },
+  {
+    "question": "De acuerdo con el artículo 6º, ¿cuál es el ente rector de la política archivística en Colombia?",
+    "options": [
+      "El Ministerio de las Tecnologías de la Información y las Comunicaciones.",
+      "La Biblioteca Nacional de Colombia.",
+      "El Archivo General de la Nación (AGN).",
+      "La Procuraduría General de la Nación."
+    ],
+    "correct": 2,
+    "explanation": "El AGN es la entidad encargada de orientar y coordinar el Sistema Nacional de Archivos y dictar la política pública en la materia."
+  },
+  {
+    "question": "¿Cuál es la categorización correcta de los archivos públicos por jurisdicción territorial? (Art. 7).",
+    "options": [
+      "Nacional, Departamental, Distrital y Municipal.",
+      "Urbano, Rural, Regional y Local.",
+      "Central, Descentralizado, Autónomo y Privado.",
+      "Administrativo, Judicial, Legislativo y de Control."
+    ],
+    "correct": 0,
+    "explanation": "La ley organiza los archivos siguiendo la estructura político-administrativa del territorio colombiano."
+  },
+  {
+    "question": "¿Qué obligación tiene un servidor público al momento de retirarse de su cargo según el artículo 15?",
+    "options": [
+      "Destruir los borradores y notas personales para proteger la reserva de su gestión.",
+      "Entregar los archivos de su oficina debidamente inventariados conforme a las normas.",
+      "Llevarse copias de los documentos originales para su archivo personal de respaldo.",
+      "Transferir los documentos a una entidad privada para su custodia externa."
+    ],
+    "correct": 1,
+    "explanation": "La ley exige que la entrega de cargo incluya la transferencia organizada y documentada de los archivos bajo responsabilidad del funcionario."
+  },
+  {
+    "question": "¿Cómo define la ley la 'Gestión Documental' en su artículo 21?",
+    "options": [
+      "La compra de insumos de papelería para las oficinas del Estado.",
+      "Conjunto de actividades administrativas y técnicas tendientes a la planificación, manejo y organización de la documentación producida y recibida.",
+      "El trámite de correspondencia externa exclusivamente a través de ventanillas únicas.",
+      "La eliminación masiva de documentos que tengan más de dos años de antigüedad."
+    ],
+    "correct": 1,
+    "explanation": "Es un proceso integral que abarca desde la creación del documento hasta su destino final para facilitar su uso y conservación."
+  },
+  {
+    "question": "¿Cuáles son las fases del ciclo vital de los documentos según el artículo 23?",
+    "options": [
+      "Entrada, Proceso y Salida.",
+      "Borrador, Original y Copia.",
+      "Archivo de Gestión, Archivo Central y Archivo Histórico.",
+      "Archivo Activo, Archivo Inactivo y Archivo Muerto."
+    ],
+    "correct": 2,
+    "explanation": "La formación de archivos se divide en estas tres etapas basadas en la frecuencia de consulta y el valor (administrativo o histórico) del documento."
+  },
+  {
+    "question": "¿Qué instrumento archivístico es obligatorio para la disposición final de documentos según el artículo 24?",
+    "options": [
+      "El Manual de Funciones y Competencias.",
+      "Las Tablas de Retención Documental (TRD).",
+      "El Código de Ética de la Función Pública.",
+      "El Plan Operativo Anual de Inversiones."
+    ],
+    "correct": 1,
+    "explanation": "Las TRD son el listado de series con sus correspondientes tipos documentales, a las cuales se les asigna el tiempo de permanencia en cada fase del ciclo vital."
+  },
+  {
+    "question": "¿Qué tipo de documentos se custodian en el 'Archivo de Gestión'?",
+    "options": [
+      "Documentos coloniales y de la época de la independencia.",
+      "Documentos que ya no tienen ningún valor y deben ser destruidos.",
+      "Documentos en trámite que son objeto de consulta administrativa constante.",
+      "Libros de literatura comprados por la entidad para sus empleados."
+    ],
+    "correct": 2,
+    "explanation": "Es el archivo de las oficinas productoras donde los documentos permanecen mientras dura su trámite y consulta frecuente."
+  },
+  {
+    "question": "Según el artículo 27, ¿quién tiene derecho a consultar los documentos de archivos públicos?",
+    "options": [
+      "Solo los abogados debidamente inscritos ante el Consejo Superior de la Judicatura.",
+      "Todas las personas, siempre y cuando los documentos no tengan carácter reservado por la Constitución o la ley.",
+      "Exclusivamente los jefes de área de la entidad que produjo el documento.",
+      "Nadie, ya que la información del Estado es estrictamente confidencial por seguridad nacional."
+    ],
+    "correct": 1,
+    "explanation": "El acceso a la información pública es la regla general para garantizar la transparencia; la reserva es la excepción legal."
+  },
+  {
+    "question": "¿Qué restricción establece el artículo 31 sobre la salida de documentos históricos del país?",
+    "options": [
+      "Pueden salir libremente si el ciudadano paga un impuesto de exportación.",
+      "Está prohibida la salida de documentos históricos, salvo excepciones legales o exposiciones culturales con permiso del AGN.",
+      "Cualquier funcionario de nivel directivo puede autorizar su salida permanente.",
+      "No existe ninguna restricción, el patrimonio documental es de libre movilidad internacional."
+    ],
+    "correct": 1,
+    "explanation": "La ley protege el patrimonio documental nacional impidiendo su salida del territorio para evitar su pérdida o tráfico ilícito."
+  },
+  {
+    "question": "¿Cuál es la potestad del Estado sobre los archivos privados de interés público? (Art. 37).",
+    "options": [
+      "Expropiarlos sin indemnización para guardarlos en el Archivo General.",
+      "Obligar a las empresas a vender sus archivos a coleccionistas extranjeros.",
+      "Declararlos de interés cultural y garantizar su protección, conservación y recuperación.",
+      "Prohibir que los dueños privados puedan leer sus propios documentos."
+    ],
+    "correct": 2,
+    "explanation": "El Estado puede intervenir para salvaguardar documentos privados que por su valor histórico o cultural pertenecen a la memoria de la nación."
+  },
+  {
+    "question": "¿Qué sanción administrativa puede imponer el AGN por el incumplimiento de la Ley 594? (Art. 52).",
+    "options": [
+      "Prisión de 5 a 10 años para el jefe de archivo.",
+      "Multas de hasta cincuenta (50) salarios mínimos legales mensuales vigentes.",
+      "Suspensión inmediata de la personería jurídica de la entidad pública.",
+      "Cierre definitivo de las oficinas de correspondencia de la Alcaldía."
+    ],
+    "correct": 1,
+    "explanation": "El AGN tiene facultad sancionatoria pecuniaria contra quienes atenten contra el patrimonio documental o incumplan la normativa."
+  },
+  {
+    "question": "En el artículo 14, ¿qué significa que los documentos públicos sean 'inalienables'?",
+    "options": [
+      "Que pueden ser transferidos a propiedad de particulares mediante subasta.",
+      "Que pertenecen al Estado y no pueden ser vendidos, embargados ni enajenados.",
+      "Que deben ser eliminados cada 10 años para renovar el inventario.",
+      "Que solo pueden ser consultados por ciudadanos extranjeros autorizados."
+    ],
+    "correct": 1,
+    "explanation": "La inalienabilidad asegura que el patrimonio documental estatal permanezca siempre bajo la titularidad y protección del Estado."
+  },
+  {
+    "question": "Según el principio de 'Función Social' del artículo 4, ¿para qué sirven primordialmente los archivos?",
+    "options": [
+      "Como herramientas de control político para los partidos de oposición.",
+      "Como testimonios de los hechos y vivencias, garantizando los derechos y la memoria de la sociedad.",
+      "Para generar ingresos económicos a través de la venta de copias certificadas.",
+      "Para ocupar los espacios vacíos en los sótanos de los edificios públicos."
+    ],
+    "correct": 1,
+    "explanation": "Los archivos no son solo depósitos de papel; son garantías de derechos ciudadanos y fuentes para la historia y la transparencia."
+  },
+  {
+    "question": "¿Cuál es el destino de los documentos que ingresan al 'Archivo Histórico'? (Art. 23).",
+    "options": [
+      "Permanecer guardados durante 20 años y luego ser incinerados.",
+      "Conservación permanente debido a su valor científico, cultural o histórico.",
+      "Ser devueltos a los ciudadanos que los produjeron originalmente.",
+      "Ser transferidos al archivo central para su depuración manual."
+    ],
+    "correct": 1,
+    "explanation": "Los documentos con valor secundario (histórico) nunca se eliminan; su conservación es perpetua para la posteridad."
+  },
+  {
+    "question": "¿Qué exige la ley sobre el uso de nuevos soportes y tecnologías en los archivos? (Art. 19).",
+    "options": [
+      "Prohíbe terminantemente el uso de medios digitales por falta de seguridad.",
+      "Permite su uso siempre que se garantice la autenticidad, integridad y recuperación de la información.",
+      "Obliga a que toda la tecnología sea importada directamente desde Europa.",
+      "Exige que todos los documentos digitales se impriman en papel térmico mensualmente."
+    ],
+    "correct": 1,
+    "explanation": "La ley permite la modernización tecnológica, pero impone requisitos técnicos para asegurar que la información no se altere y pueda leerse en el futuro."
+  },
+  {
+    "question": "¿Qué es el Sistema Nacional de Archivos (SNA) según el artículo 5º?",
+    "options": [
+      "Un software de gestión documental de uso obligatorio en todo el país.",
+      "Un conjunto de instituciones archivísticas que articulan la política, modernización y homogeneidad de los archivos.",
+      "La red de bibliotecas públicas coordinada por el Ministerio de Cultura.",
+      "Una asociación privada de historiadores que decide qué documentos se guardan."
+    ],
+    "correct": 1,
+    "explanation": "El SNA es el marco institucional de cooperación que une al AGN con los archivos de todas las entidades del Estado."
+  },
 
 
 
