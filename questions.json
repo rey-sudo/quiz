@@ -210,6 +210,230 @@
     "explanation": "El artículo 103 enumera como mecanismos de participación: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato. La tutela es un mecanismo de protección de derechos (Art. 86)."
   },
 
+
+
+  {
+    "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial?",
+    "options": [
+      "Diez (10) días hábiles",
+      "Quince (15) días hábiles",
+      "Treinta (30) días hábiles",
+      "Cinco (5) días hábiles"
+    ],
+    "correct": 1,
+    "explanation": "Según el artículo 14 de la Ley 1755 de 2015, salvo norma legal especial, toda petición deberá resolverse dentro de los quince (15) días siguientes a su recepción[cite: 24, 25]."
+  },
+  {
+    "question": "Si un ciudadano solicita documentos o información, ¿en qué plazo debe resolverse la petición?",
+    "options": [
+      "Cinco (5) días hábiles",
+      "Quince (15) días hábiles",
+      "Diez (10) días hábiles",
+      "Treinta (30) días hábiles"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 14, numeral 1, establece que las peticiones de documentos y de información deben resolverse dentro de los diez (10) días siguientes a su recepción[cite: 31]."
+  },
+  {
+    "question": "Si la administración no responde una solicitud de documentos en 10 días, ¿qué consecuencia legal se genera?",
+    "options": [
+      "Se entiende negada la solicitud",
+      "Se entiende aceptada y los documentos deben entregarse en los 3 días siguientes",
+      "El término se prorroga automáticamente por 15 días",
+      "La petición se archiva por falta de gestión"
+    ],
+    "correct": 1,
+    "explanation": "La ley indica que si en 10 días no hay respuesta, se entenderá que la solicitud ha sido aceptada y las copias se entregarán dentro de los tres (3) días siguientes[cite: 32]."
+  },
+  {
+    "question": "¿Cuál es el plazo para resolver peticiones mediante las cuales se eleva una consulta a las autoridades?",
+    "options": [
+      "Quince (15) días hábiles",
+      "Veinte (20) días hábiles",
+      "Treinta (30) días hábiles",
+      "Diez (10) días hábiles"
+    ],
+    "correct": 2,
+    "explanation": "Las consultas en relación con las materias a cargo de la autoridad deben resolverse dentro de los treinta (30) días siguientes a su recepción[cite: 33]."
+  },
+  {
+    "question": "Si una autoridad no es competente para resolver una petición escrita, ¿cuántos días tiene para informarlo y remitirla al competente?",
+    "options": [
+      "Inmediatamente",
+      "Diez (10) días hábiles",
+      "Cinco (5) días hábiles",
+      "Tres (3) días hábiles"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 21 señala que si la autoridad no es competente, informará al interesado dentro de los cinco (5) días siguientes a la recepción si obró por escrito[cite: 96, 97]."
+  },
+  {
+    "question": "¿Qué debe hacer la autoridad si excepcionalmente no puede resolver una petición en los plazos señalados?",
+    "options": [
+      "Nada, el ciudadano debe esperar",
+      "Informar antes del vencimiento, expresar los motivos y dar un nuevo plazo que no exceda el doble del inicial",
+      "Pedir autorización a la Procuraduría para extender el plazo",
+      "Responder parcialmente y pedir más tiempo para el resto"
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo del artículo 14 permite informar al interesado los motivos de la demora antes del vencimiento, señalando un plazo razonable que no supere el doble del previsto originalmente[cite: 34]."
+  },
+  {
+    "question": "¿Cuál de los siguientes documentos se considera expresamente como reservado según la ley?",
+    "options": [
+      "Planes de Desarrollo Municipal",
+      "Historias clínicas y datos genéticos humanos",
+      "Directorio de extensiones de la entidad",
+      "Presupuesto general de la dependencia"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 24 clasifica como reservada la información que involucre derechos a la privacidad e intimidad, incluyendo historias clínicas (numeral 3) y datos genéticos (numeral 8)[cite: 118, 128]."
+  },
+  {
+    "question": "Si una petición está incompleta y el ciudadano insiste en radicarla, ¿cuál es la obligación del funcionario?",
+    "options": [
+      "Negarse a recibirla por falta de requisitos",
+      "Radicarla dejando constancia de los requisitos o documentos faltantes",
+      "Cobrar una multa por radicación incompleta",
+      "Pedirle que vuelva al día siguiente con los anexos"
+    ],
+    "correct": 1,
+    "explanation": "Ninguna autoridad podrá negarse a la recepción y radicación de solicitudes respetuosas [cite: 47]; si el ciudadano insiste, se radicará dejando constancia de los faltantes[cite: 40]."
+  },
+  {
+    "question": "¿Cuánto tiempo tiene un peticionario para completar una petición tras ser requerido por la autoridad antes de que se decrete el desistimiento?",
+    "options": [
+      "Diez (10) días hábiles",
+      "Quince (15) días calendario",
+      "Un (1) mes",
+      "Dos (2) meses"
+    ],
+    "correct": 2,
+    "explanation": "Tras el requerimiento de la autoridad (que se hace dentro de los 10 días siguientes a la radicación), el ciudadano tiene el término máximo de un (1) mes para completar la petición[cite: 70]."
+  },
+  {
+    "question": "¿Qué ocurre si una autoridad rechaza una petición de información invocando reserva legal?",
+    "options": [
+      "El ciudadano debe aceptar la decisión sin recursos",
+      "Procede el recurso de insistencia ante el Tribunal o Juez Administrativo",
+      "Se debe escalar la petición a la Presidencia de la República",
+      "La autoridad puede ser sancionada penalmente de inmediato"
+    ],
+    "correct": 1,
+    "explanation": "Contra la decisión de rechazo por reserva no proceden recursos ordinarios [cite: 134], pero el ciudadano puede insistir ante un Tribunal o Juez Administrativo para que decida[cite: 138]."
+  },
+  {
+    "question": "¿Qué condición debe cumplir toda petición para no ser rechazada de plano según el artículo 19?",
+    "options": [
+      "Ser presentada únicamente por escrito",
+      "Contar con la firma de un abogado",
+      "Ser respetuosa",
+      "Tener una extensión mínima de dos páginas"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 19 establece explícitamente que toda petición debe ser respetuosa so pena de rechazo[cite: 80]."
+  },
+  {
+    "question": "En el caso de peticiones análogas presentadas por más de 10 personas, ¿qué puede hacer la administración?",
+    "options": [
+      "Responder a cada una de forma personalizada",
+      "Dar una respuesta única publicada en un diario de amplia circulación y en su sitio web",
+      "Sorteo para decidir a quién responder",
+      "No responder hasta que se unifiquen en una sola firma"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 22 permite dar una única respuesta masiva publicada en un diario de amplia circulación y en la página web institucional cuando hay más de diez peticiones análogas[cite: 103]."
+  },
+  {
+    "question": "¿Qué sucede con las peticiones dirigidas a funcionarios de la Procuraduría o Defensoría del Pueblo?",
+    "options": [
+      "Tienen un plazo de respuesta de 60 días",
+      "Tienen el deber de prestar asistencia eficaz para garantizar el ejercicio del derecho de petición",
+      "Solo pueden responder si hay una tutela de por medio",
+      "Están exentos de cumplir la Ley 1755 de 2015"
+    ],
+    "correct": 1,
+    "explanation": "Estos servidores, junto con los personeros, tienen el deber de prestar asistencia eficaz e inmediata para garantizar el ejercicio del derecho fundamental de petición[cite: 106, 107]."
+  },
+  {
+    "question": "Respecto al costo de las copias, ¿qué límite establece la ley?",
+    "options": [
+      "Pueden costar hasta medio salario mínimo",
+      "El precio no podrá exceder el valor de la reproducción (valor comercial)",
+      "Son obligatoriamente gratuitas siempre",
+      "La autoridad define el precio según la urgencia del ciudadano"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 29 estipula que el precio de las copias no podrá exceder el valor de la reproducción ni ser superior al valor comercial de referencia en el mercado[cite: 158, 160]."
+  },
+  {
+    "question": "¿Qué carácter tienen los conceptos emitidos por las autoridades como respuesta a consultas?",
+    "options": [
+      "Son de obligatorio cumplimiento para el ciudadano",
+      "Salvo disposición legal, no serán de obligatorio cumplimiento o ejecución",
+      "Tienen fuerza de ley inmediata",
+      "Deben ser ratificados por un juez para ser válidos"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 28 aclara que, salvo disposición legal en contrario, los conceptos emitidos en respuesta a consultas no obligan a su ejecución[cite: 151]."
+  },
+  {
+    "question": "En el marco de la gestión documental, ¿qué significa el desistimiento expreso?",
+    "options": [
+      "Que la autoridad se niega a responder por falta de tiempo",
+      "Que los interesados pueden desistir en cualquier tiempo de sus peticiones",
+      "Que el documento se perdió en el archivo físico",
+      "Que el trámite ha vencido sin respuesta del funcionario"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 18 permite que los interesados desistan expresamente de sus peticiones en cualquier momento del trámite[cite: 76]."
+  },
+  {
+    "question": "¿A quién NO es oponible el carácter reservado de la información según el artículo 27?",
+    "options": [
+      "A periodistas de medios internacionales",
+      "A autoridades judiciales, legislativas o administrativas competentes",
+      "A familiares del titular del documento",
+      "A cualquier contratista de la entidad"
+    ],
+    "correct": 1,
+    "explanation": "La reserva legal no puede oponerse a autoridades judiciales, legislativas ni administrativas que soliciten la información para el ejercicio de sus funciones[cite: 147]."
+  },
+  {
+    "question": "En el apoyo a la gestión logística (manual de funciones), ¿cuál es el objetivo del control de papelería?",
+    "options": [
+      "Asegurar el uso racional de recursos e insumos institucionales",
+      "Evitar que los ciudadanos tomen hojas en blanco",
+      "Vender los sobrantes al finalizar el mes",
+      "Impedir la digitalización de documentos"
+    ],
+    "correct": 0,
+    "explanation": "Aunque no figura en la Ley 1755, esta función administrativa del manual busca garantizar el uso eficiente de los recursos logísticos para el cumplimiento de los objetivos de la dependencia."
+  },
+  {
+    "question": "¿Cuándo se debe dar atención prioritaria a una petición según el artículo 20?",
+    "options": [
+      "Cuando el solicitante es un servidor público de mayor rango",
+      "Para evitar un perjuicio irremediable o cuando esté en peligro la vida o integridad",
+      "Cuando el peticionario paga un excedente por agilidad",
+      "Cuando la petición tiene menos de 10 palabras"
+    ],
+    "correct": 1,
+    "explanation": "La ley ordena atención prioritaria cuando sea necesario para evitar un perjuicio irremediable o ante peligros inminentes para la vida o integridad[cite: 87, 92]."
+  },
+  {
+    "question": "¿Qué consecuencia tiene para un servidor público el desconocimiento de los términos para resolver peticiones?",
+    "options": [
+      "Ninguna, es un retraso administrativo común",
+      "Constituye falta disciplinaria y dará lugar a sanciones",
+      "Suspensión automática del sueldo por un año",
+      "Obligación de pedir disculpas públicas en la página web"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 31 establece que el incumplimiento de los términos para resolver constituye una falta para el servidor y acarrea sanciones disciplinarias[cite: 167]."
+  },
+
+
   
   {
     "question": "¿Cuál es el período de aplicación de la Política de Gestión Documental de la ANCP-CCE?",
