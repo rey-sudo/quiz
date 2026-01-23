@@ -18,16 +18,54 @@
   <body>
     <div id="root"></div>
     <script type="text/babel">
-      const { useState } = React;
+      const { useState, useEffect } = React;
 
       const QuizApp = () => {
-        const [currentQuestion, setCurrentQuestion] = useState(0);
-        const [score, setScore] = useState(0);
-        const [selectedAnswer, setSelectedAnswer] = useState(null);
-        const [showResult, setShowResult] = useState(false);
-        const [quizCompleted, setQuizCompleted] = useState(false);
 
-        // Componentes de iconos SVG
+        const [currentQuestion, setCurrentQuestion] = useState(() => {
+          const saved = localStorage.getItem("quiz_currentQuestion");
+          return saved !== null ? JSON.parse(saved) : 0;
+        });
+
+        const [score, setScore] = useState(() => {
+          const saved = localStorage.getItem("quiz_score");
+          return saved !== null ? JSON.parse(saved) : 0;
+        });
+
+        const [selectedAnswer, setSelectedAnswer] = useState(() => {
+          const saved = localStorage.getItem("quiz_selectedAnswer");
+          return saved !== null ? JSON.parse(saved) : null;
+        });
+
+        const [showResult, setShowResult] = useState(() => {
+          const saved = localStorage.getItem("quiz_showResult");
+          return saved !== null ? JSON.parse(saved) : false;
+        });
+
+        const [quizCompleted, setQuizCompleted] = useState(() => {
+          const saved = localStorage.getItem("quiz_quizCompleted");
+          return saved !== null ? JSON.parse(saved) : false;
+        });
+
+ 
+        useEffect(() => {
+          localStorage.setItem(
+            "quiz_currentQuestion",
+            JSON.stringify(currentQuestion),
+          );
+          localStorage.setItem("quiz_score", JSON.stringify(score));
+          localStorage.setItem(
+            "quiz_selectedAnswer",
+            JSON.stringify(selectedAnswer),
+          );
+          localStorage.setItem("quiz_showResult", JSON.stringify(showResult));
+          localStorage.setItem(
+            "quiz_quizCompleted",
+            JSON.stringify(quizCompleted),
+          );
+        }, [currentQuestion, score, selectedAnswer, showResult, quizCompleted]);
+
+
         const CheckCircle = () => (
           <svg
             className="w-6 h-6 text-green-600"
@@ -127,6 +165,12 @@
           setSelectedAnswer(null);
           setShowResult(false);
           setQuizCompleted(false);
+
+          localStorage.removeItem("quiz_currentQuestion");
+          localStorage.removeItem("quiz_score");
+          localStorage.removeItem("quiz_selectedAnswer");
+          localStorage.removeItem("quiz_showResult");
+          localStorage.removeItem("quiz_quizCompleted");
         };
 
         const getScorePercentage = () => {
@@ -150,7 +194,7 @@
         const [error, setError] = useState(null);
 
         React.useEffect(() => {
-          fetch("questions.json")
+          fetch(`questions.json?t=${new Date().getTime()}`)
             .then((response) => {
               if (!response.ok) throw new Error("No se pudo cargar el archivo");
               return response.json();
@@ -165,7 +209,6 @@
             });
         }, []);
 
-      
         if (loading) {
           return (
             <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
@@ -259,10 +302,10 @@
               <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
                 <div className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white p-6">
                   <h1 className="text-2xl font-bold mb-2">
-                    Quiz: Política de Gestión Documental
+                    Quiz: Auxiliar Administrativo
                   </h1>
                   <p className="text-blue-100">
-                    ANCP - Colombia Compra Eficiente
+                    Preguntas importantes
                   </p>
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-sm">
