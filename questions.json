@@ -210,8 +210,6 @@
     "explanation": "El artículo 103 enumera como mecanismos de participación: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato. La tutela es un mecanismo de protección de derechos (Art. 86)."
   },
 
-
-
   {
     "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial?",
     "options": [
@@ -244,7 +242,8 @@
     ],
     "correct": 1,
     "explanation": "La ley indica que si en 10 días no hay respuesta, se entenderá que la solicitud ha sido aceptada y las copias se entregarán dentro de los tres (3) días siguientes[cite: 32]."
-  },{
+  },
+  {
     "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial?",
     "options": [
       "Diez (10) días hábiles",
@@ -464,8 +463,6 @@
     "correct": 1,
     "explanation": "El artículo 31 de la Ley 1755 establece que el incumplimiento de los términos constituye una falta disciplinaria, conforme al Código General Disciplinario."
   },
-
-
 
   {
     "question": "¿Cuál es el objeto principal de la Ley 1712 de 2014?",
@@ -688,9 +685,7 @@
     "explanation": "Busca eliminar barreras físicas y lingüísticas para garantizar que poblaciones vulnerables también accedan a la información."
   },
 
-
-
-{
+  {
     "question": "¿Cuál es el objeto principal de la Ley 594 de 2000 según su artículo 1º?",
     "options": [
       "Regular exclusivamente la creación de bibliotecas y centros de documentación nacionales.",
@@ -911,14 +906,6 @@
     "explanation": "El SNA es el marco institucional de cooperación que une al AGN con los archivos de todas las entidades del Estado."
   },
 
-
-
-
-
-
-
-
-  
   {
     "question": "¿Cuál es el período de aplicación de la Política de Gestión Documental de la ANCP-CCE?",
     "options": ["2022-2024", "2023-2025", "2024-2026", "2025-2027"],
@@ -1849,5 +1836,116 @@
     ],
     "correct": 2,
     "explanation": "La Tabla 2 (páginas 14-15 de la Política de Gestión Documental) muestra múltiples normas ISO integradas: ISO 9001 (calidad), ISO 27001 (seguridad), ISO 14001 (ambiental), ISO 30301 (documental), ISO 5985 (digitalización), etc. Esto indica un enfoque integral alineado con mejores prácticas internacionales."
+  },
+
+  {
+    "question": "¿A qué sujetos se aplica de manera obligatoria el Acuerdo 002 de 2014?",
+    "options": [
+      "Únicamente a las entidades del orden nacional.",
+      "A todas las entidades públicas en sus diferentes niveles y entidades privadas que cumplen funciones públicas.",
+      "Solo a los archivos históricos y museos nacionales.",
+      "Exclusivamente a la Rama Judicial y Legislativa por su carácter autónomo."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 2 establece que el acuerdo aplica a todas las entidades públicas (nacional, departamental, distrital, municipal e indígena) y a entidades privadas con funciones públicas[cite: 29]. Las ramas legislativa y judicial pueden adoptarlo, pero no es obligatorio por defecto[cite: 30]."
+  },
+  {
+    "question": "Según el Artículo 3 del Acuerdo 002 de 2014, ¿qué es un 'Expediente híbrido'?",
+    "options": [
+      "Un expediente que contiene copias físicas y digitales del mismo documento.",
+      "Un expediente conformado por documentos de diferentes entidades públicas.",
+      "Aquel conformado simultáneamente por documentos análogos y electrónicos que forman una sola unidad documental.",
+      "Un expediente virtual que no tiene una ubicación física definida."
+    ],
+    "correct": 2,
+    "explanation": "El literal g del Artículo 3 define el expediente híbrido como aquel que, por razones del trámite, está compuesto por documentos tanto análogos como electrónicos que mantienen una unidad documental[cite: 38]."
+  },
+  {
+    "question": "¿Cuáles son los tres principios fundamentales que deben regir la creación y conformación de expedientes? Acuerdo 002 de 2014.",
+    "options": [
+      "Transparencia, eficacia y celeridad.",
+      "Procedencia, orden original e integridad.",
+      "Digitalización, foliación y descripción.",
+      "Economía, responsabilidad y neutralidad."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 4 obliga a las entidades a crear expedientes respetando los principios de procedencia, orden original e integridad de los documentos y actuaciones[cite: 48]."
+  },
+  {
+    "question": "De acuerdo con el Artículo 10, ¿cuándo se produce el 'Cierre administrativo' de un expediente? Acuerdo 002 de 2014.",
+    "options": [
+      "Cuando se transfiere al Archivo General de la Nación.",
+      "Una vez finalizadas las actuaciones y resuelto el trámite que le dio origen.",
+      "Cuando se agotan los folios de la carpeta física.",
+      "Al cumplirse el tiempo de prescripción de las acciones legales."
+    ],
+    "correct": 1,
+    "explanation": "El literal a del Artículo 10 indica que el cierre administrativo sucede cuando se terminan las actuaciones y se resuelve el procedimiento que originó el expediente[cite: 64]."
+  },
+  {
+    "question": "En la etapa de trámite, ¿qué instrumento es obligatorio elaborar para consignar información básica de cada tipo documental antes del cierre? Acuerdo 002 de 2014.",
+    "options": [
+      "La Tabla de Retención Documental (TRD).",
+      "El Cuadro de Clasificación Documental (CCD).",
+      "La hoja de control por expediente.",
+      "El inventario documental de transferencia."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del Artículo 12 establece que la persona o dependencia responsable debe elaborar la hoja de control en la cual se consigne la información básica de cada documento antes de realizar la foliación y el cierre[cite: 74]."
+  },
+  {
+    "question": "¿Qué acción está explícitamente prohibida realizar en expedientes que ya han sido cerrados o transferidos? Acuerdo 002 de 2014.",
+    "options": [
+      "Su consulta por parte de ciudadanos.",
+      "La digitalización con fines de preservación.",
+      "La foliación, refoliación o eliminación de documentos.",
+      "La aplicación de las tablas de retención documental."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 14 prohíbe cualquier intervención archivística en expedientes cerrados o transferidos que conduzca a decisiones erradas, incluyendo específicamente la foliación, refoliación o eliminación de documentos[cite: 86, 87]."
+  },
+  {
+    "question": "¿Qué requisito es indispensable para el índice electrónico al momento del cierre de un expediente electrónico? Acuerdo 002 de 2014.",
+    "options": [
+      "Debe ser impreso y guardado en una carpeta física.",
+      "Debe ser firmado digitalmente.",
+      "Debe contener únicamente documentos en formato PDF.",
+      "Debe ser enviado al Comité de Archivo para su validación manual."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo del Artículo 23 exige que el índice electrónico se firme digitalmente al cierre del expediente para garantizar su integridad y autenticidad[cite: 125]."
+  },
+  {
+    "question": "Respecto a la depuración de expedientes electrónicos, ¿cuál es la regla establecida en el Artículo 25? Acuerdo 002 de 2014.",
+    "options": [
+      "Se prohíbe cualquier tipo de selección o depuración de documentos.",
+      "Se permite depurar solo los documentos de apoyo.",
+      "Se debe realizar cada vez que el expediente pase a una nueva fase del ciclo vital.",
+      "Es permitida siempre que se cuente con firma digital del responsable."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 25 es tajante al prohibir cualquier intervención, selección o depuración de documentos en expedientes electrónicos en cualquier etapa de su tramitación[cite: 128]."
+  },
+  {
+    "question": "¿Qué sistema de almacenamiento está prohibido utilizar en la organización de archivos públicos por afectar la integridad física? Acuerdo 002 de 2014.",
+    "options": [
+      "Carpetas de propalcote.",
+      "Cajas de archivo tipo X-200.",
+      "Pastas AZ, de argolla o anillados.",
+      "Tomos empastados según normas técnicas."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del Artículo 27 prohíbe el uso de pastas AZ, de argolla, anillados u otros sistemas que afecten la integridad física de los documentos[cite: 137]."
+  },
+  {
+    "question": "Según el Artículo 29, ¿cómo deben manejarse los documentos que tengan carácter de 'reservado'? Acuerdo 002 de 2014.",
+    "options": [
+      "Deben ser destruidos inmediatamente después de su uso.",
+      "Se debe crear un cuaderno o expediente separado, conservado de forma integrada al principal.",
+      "No pueden ser incluidos bajo ninguna circunstancia en un expediente público.",
+      "Deben marcarse con un sello rojo pero mantenerse en la misma secuencia de foliación."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 29 determina que, por mandato legal o constitucional, los documentos reservados deben formar un cuaderno o expediente separado, el cual debe conservarse integrado al expediente principal[cite: 143]."
   }
 ]
