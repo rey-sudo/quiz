@@ -21,7 +21,6 @@
       const { useState, useEffect } = React;
 
       const QuizApp = () => {
-
         const [currentQuestion, setCurrentQuestion] = useState(() => {
           const saved = localStorage.getItem("quiz_currentQuestion");
           return saved !== null ? JSON.parse(saved) : 0;
@@ -47,7 +46,6 @@
           return saved !== null ? JSON.parse(saved) : false;
         });
 
- 
         useEffect(() => {
           localStorage.setItem(
             "quiz_currentQuestion",
@@ -64,7 +62,6 @@
             JSON.stringify(quizCompleted),
           );
         }, [currentQuestion, score, selectedAnswer, showResult, quizCompleted]);
-
 
         const CheckCircle = () => (
           <svg
@@ -200,7 +197,14 @@
               return response.json();
             })
             .then((data) => {
-              setQuestions(data);
+              // Fisher-Yates
+              const shuffled = [...data];
+              for (let i = shuffled.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+              }
+
+              setQuestions(shuffled);
               setLoading(false);
             })
             .catch((err) => {
@@ -304,9 +308,7 @@
                   <h1 className="text-2xl font-bold mb-2">
                     Quiz: Auxiliar Administrativo
                   </h1>
-                  <p className="text-blue-100">
-                    Preguntas importantes
-                  </p>
+                  <p className="text-blue-100">Preguntas importantes</p>
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-sm">
                       Pregunta {currentQuestion + 1} de {questions.length}
