@@ -1916,15 +1916,6 @@
     "explanation": "El Artículo 29 determina que, por mandato legal o constitucional, los documentos reservados deben formar un cuaderno o expediente separado, el cual debe conservarse integrado al expediente principal[cite: 143]."
   },
 
-
-
-
-
-
-
-
-
-
   {
     "question": "¿Qué sistemas se integraron para conformar el actual Sistema de Gestión según el Decreto 1499 de 2017?",
     "options": [
@@ -1969,7 +1960,7 @@
     "correct": 1,
     "explanation": "El artículo 2.2.22.1.3 establece que el Consejo para la Gestión y el Desempeño Institucional es presidido por el Departamento Administrativo de la Función Pública."
   },
-{
+  {
     "question": "¿Cuál es la definición técnica del Modelo Integrado de Planeación y Gestión - MIPG? Decreto 1499 de 2017.",
     "options": [
       "Un manual de sanciones para servidores públicos por incumplimiento de metas.",
@@ -2046,7 +2037,7 @@
     "correct": 2,
     "explanation": "El artículo 2.2.23.2 establece que la actualización del MECI se efectuará a través del Manual Operativo del MIPG."
   },
-{
+  {
     "question": "¿Qué entidad puede hacer seguimiento a la implementación del MIPG en los niveles nacional y territorial? Decreto 1499 de 2017.",
     "options": [
       "El Consejo Nacional Electoral.",
@@ -2144,5 +2135,215 @@
     ],
     "correct": 1,
     "explanation": "El artículo 2.2.22.1.4 indica que la secretaría técnica será ejercida conjuntamente por Función Pública y las entidades líderes de política según los temas a tratar."
+  },
+
+  {
+    "question": "¿A qué entidades se aplica el ámbito de aplicación del Decreto 2609 de 2012?",
+    "options": [
+      "Solo a las entidades del nivel nacional de la rama ejecutiva.",
+      "A la Administración Pública en sus diferentes niveles, entidades territoriales indígenas, entidades privadas que cumplen funciones públicas y demás organismos regulados por la Ley 594 de 2000.",
+      "Únicamente a las oficinas de archivo de las gobernaciones y alcaldías.",
+      "A todas las empresas privadas del país sin excepción."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1 establece que el decreto comprende a la administración pública en niveles nacional, departamental, distrital, municipal, entidades indígenas, privadas con funciones públicas y otros regulados por la Ley General de Archivos."
+  },
+  {
+    "question": "¿Quiénes son los responsables de aplicar las normas de gestión documental en las entidades del Estado? Decreto 2609 de 2012.",
+    "options": [
+      "Exclusivamente los jefes de las oficinas de archivo.",
+      "Solo los Secretarios Generales de cada institución.",
+      "Los servidores y empleados públicos, así como los contratistas que presten servicios a las entidades públicas.",
+      "Únicamente el personal de carrera administrativa."
+    ],
+    "correct": 2,
+    "explanation": "Según el artículo 3, es responsabilidad de servidores, empleados públicos y contratistas aplicar las normas establecidas por el Archivo General de la Nación y la respectiva entidad."
+  },
+  {
+    "question": "¿Quién debe coordinar los diferentes aspectos y componentes de la gestión de documentos según el artículo 4? Decreto 2609 de 2012.",
+    "options": [
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones.",
+      "Los Secretarios Generales o quienes hagan sus veces, a través de las oficinas de Archivo.",
+      "El Comité de Control Interno.",
+      "El Archivo General de la Nación directamente en cada entidad."
+    ],
+    "correct": 1,
+    "explanation": "El decreto indica que, al ser un proceso transversal, la gestión debe ser coordinada por los Secretarios Generales a través de las oficinas de archivo."
+  },
+  {
+    "question": "¿Cuál de los siguientes es el principio que obliga a producir solo los documentos necesarios para el cumplimiento de objetivos funcionales? Decreto 2609 de 2012.",
+    "options": [
+      "Principio de Economía.",
+      "Principio de Oportunidad.",
+      "Principio de Eficiencia.",
+      "Principio de Transparencia."
+    ],
+    "correct": 2,
+    "explanation": "El principio de eficiencia dicta que las entidades deben producir solamente los documentos necesarios para el cumplimiento de sus objetivos, funciones o procesos."
+  },
+  {
+    "question": "¿Qué principio garantiza la habilidad de los sistemas para interactuar e intercambiar datos de acuerdo con un método definido? Decreto 2609 de 2012.",
+    "options": [
+      "Neutralidad tecnológica.",
+      "Interoperabilidad.",
+      "Vínculo archivístico.",
+      "Modernización."
+    ],
+    "correct": 1,
+    "explanation": "La interoperabilidad se define como la habilidad de transferir información de manera uniforme y la capacidad de los sistemas de interactuar e intercambiar datos."
+  },
+  {
+    "question": "¿Cuáles son los instrumentos archivísticos básicos para la gestión documental según el artículo 8? Decreto 2609 de 2012.",
+    "options": [
+      "El CCD, la TRD, el PGD, el PINAR, el Inventario Documental, el modelo de requisitos para documentos electrónicos, bancos terminológicos, mapas de procesos y tablas de control de acceso.",
+      "Solo las Tablas de Retención Documental (TRD) y las Tablas de Valoración Documental (TVD).",
+      "El Manual de Funciones y el Plan Estratégico Institucional.",
+      "El Registro de Activos de Información y el Esquema de Publicación."
+    ],
+    "correct": 0,
+    "explanation": "El artículo 8 enumera detalladamente los instrumentos, incluyendo el Cuadro de Clasificación Documental, TRD, Programa de Gestión Documental, entre otros."
+  },
+  {
+    "question": "¿Cuál es el proceso de gestión documental encargado de la 'selección de los documentos en cualquier etapa para su conservación temporal, permanente o eliminación'? Decreto 2609 de 2012.",
+    "options": [
+      "Valoración.",
+      "Preservación a largo plazo.",
+      "Disposición de documentos.",
+      "Transferencia."
+    ],
+    "correct": 2,
+    "explanation": "La disposición de documentos es la selección basada en las tablas de retención o valoración para determinar su conservación o eliminación."
+  },
+  {
+    "question": "¿Quién debe aprobar el Programa de Gestión Documental (PGD) en las entidades del orden nacional? Decreto 2609 de 2012.",
+    "options": [
+      "El Archivo General de la Nación.",
+      "El Comité de Desarrollo Administrativo.",
+      "El Ministro del ramo correspondiente.",
+      "El Jefe de la Oficina de Planeación."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 11 especifica que el PGD debe ser aprobado por el Comité de Desarrollo Administrativo en el orden nacional y por el Comité Interno de Archivo en el territorial."
+  },
+  {
+    "question": "¿Qué característica del documento electrónico de archivo asegura que su contenido permanece completo y sin alteraciones desde su creación? Decreto 2609 de 2012.",
+    "options": [
+      "Contenido estable.",
+      "Vínculo archivístico.",
+      "Equivalente funcional.",
+      "Forma documental fija."
+    ],
+    "correct": 3,
+    "explanation": "La forma documental fija asegura que el contenido permanece completo y sin alteraciones, manteniendo la forma original de su creación."
+  },
+  {
+    "question": "En cuanto a los metadatos mínimos, ¿cuáles pertenecen a la categoría de 'Estructura'? Decreto 2609 de 2012.",
+    "options": [
+      "Título del documento y palabras clave.",
+      "Descripción, formato, estado, proceso administrativo, unidad responsable, perfil autorizado, ubicación y serie/subserie.",
+      "Contexto jurídico-administrativo y de procedencia.",
+      "Fecha de creación y clasificación de acceso."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 30 clasifica los metadatos; los de estructura incluyen descripción, formato, estado y la ubicación en el sistema, entre otros."
+  },
+  {
+    "question": "¿Qué debe suceder con los documentos electrónicos que han sido encriptados durante su transmisión antes de su almacenamiento definitivo? Decreto 2609 de 2012.",
+    "options": [
+      "Deben permanecer encriptados para garantizar la seguridad permanente.",
+      "La protección debe ser retirada (desencriptados) al momento de transferirlos para su conservación definitiva.",
+      "Deben ser eliminados y reemplazados por una versión física.",
+      "Deben ser enviados nuevamente sin protección desde el origen."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo del artículo 31 indica que si fueron encriptados, no deben almacenarse así; la protección debe retirarse al transferirlos a repositorios de conservación."
+  },
+  {
+    "question": "¿Quién establece los lineamientos generales que regulan el expediente electrónico como unidad mínima del archivo electrónico? Decreto 2609 de 2012.",
+    "options": [
+      "La Presidencia de la República.",
+      "El Archivo General de la Nación y el Ministerio de Tecnologías de la Información y las Comunicaciones.",
+      "La Superintendencia de Industria y Comercio.",
+      "Cada entidad de forma autónoma según sus necesidades."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 33 delega al AGN y al MinTIC la definición de lineamientos para el expediente electrónico de conformidad con las leyes procesales."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal del proceso de 'Planeación' dentro de la gestión documental? Decreto 2609 de 2012.",
+    "options": [
+      "Comprar estanterías y cajas de archivo.",
+      "Encaminarse a la generación de documentos de manera técnica y legal, planificando la creación y valoración desde su origen.",
+      "Digitalizar todos los documentos históricos de la entidad.",
+      "Contratar una empresa externa para la custodia de documentos."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 9 define la planeación como el conjunto de actividades encaminadas a la generación de documentos institucionales con análisis previo de su utilidad y requisitos legales."
+  },
+  {
+    "question": "¿Qué busca el proceso de 'Preservación a Largo Plazo' según el decreto? Decreto 2609 de 2012.",
+    "options": [
+      "Guardar los documentos en cajas de cartón especiales.",
+      "Garantizar la supervivencia del documento y sus metadatos a través del tiempo, independientemente del soporte o formato.",
+      "Imprimir los documentos electrónicos cada 5 años.",
+      "Mantener los documentos en una oficina con aire acondicionado."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 9, numeral 7, señala que la preservación a largo plazo busca asegurar la integridad y accesibilidad de los documentos y sus metadatos sin importar los cambios tecnológicos."
+  },
+  {
+    "question": "¿Qué debe incluir el programa de 'Documentos Vitales o Esenciales' mencionado en el artículo 14? Decreto 2609 de 2012.",
+    "options": [
+      "Una lista de los cumpleaños de los funcionarios.",
+      "Medidas asociadas al plan de riesgo operativo de la entidad en caso de emergencias o desastres.",
+      "Un registro de las facturas de servicios públicos.",
+      "Los manuales de usuario de las impresoras."
+    ],
+    "correct": 1,
+    "explanation": "El programa de documentos vitales es una parte obligatoria del PGD y debe estar alineado con los riesgos operativos para asegurar la continuidad del negocio ante desastres."
+  },
+  {
+    "question": "¿Cuál es un requisito para los sistemas de gestión de documentos electrónicos según el artículo 23? Decreto 2609 de 2012.",
+    "options": [
+      "Que utilicen software de licencia privada exclusivamente.",
+      "Que impidan la eliminación de documentos sin la debida autorización y conforme a las TRD.",
+      "Que no requieran conexión a internet.",
+      "Que solo permitan el acceso al jefe de sistemas."
+    ],
+    "correct": 1,
+    "explanation": "El decreto exige que los sistemas electrónicos garanticen que no se eliminen documentos a menos que se cumplan los procesos de disposición final establecidos en las TRD."
+  },
+  {
+    "question": "De acuerdo con el artículo 27, ¿cómo se asegura la autenticidad de un documento electrónico de archivo? Decreto 2609 de 2012.",
+    "options": [
+      "Mediante la impresión del documento y la firma de un notario.",
+      "A través de su origen, estructura y procedimientos de control que impidan su alteración o modificación no autorizada.",
+      "Cambiando el formato del documento a PDF cada mes.",
+      "Guardando el documento en un CD-ROM."
+    ],
+    "correct": 1,
+    "explanation": "La autenticidad se garantiza mediante mecanismos de control que aseguran que el documento es lo que afirma ser y que ha sido generado por la persona o proceso indicado."
+  },
+  {
+    "question": "¿Qué debe hacer la entidad si decide tercerizar los servicios de archivo (custodia o administración)? Decreto 2609 de 2012.",
+    "options": [
+      "Delegar toda la responsabilidad legal en el contratista.",
+      "Asegurar que el contratista cumpla con la normatividad archivística nacional y el PGD de la entidad.",
+      "No es necesario supervisar al contratista si tiene certificación de calidad.",
+      "Entregar las llaves del archivo sin realizar inventario previo."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 14, literal 'd', contempla los programas de archivos descentralizados (tercerización), pero la entidad sigue siendo responsable de que se cumplan los estándares archivísticos estatales."
+  },
+  {
+    "question": "¿Cuál de los siguientes es un metadato mínimo de 'Contexto'? Decreto 2609 de 2012.",
+    "options": [
+      "El tamaño en kilobytes del archivo.",
+      "La identificación de la procedencia, origen o creador del documento.",
+      "El tipo de letra utilizado en el texto.",
+      "La resolución en DPI si es una imagen."
+    ],
+    "correct": 1,
+    "explanation": "Los metadatos de contexto, según el artículo 30, son aquellos que relacionan el documento con su productor y el proceso administrativo que lo originó."
   }
 ]
