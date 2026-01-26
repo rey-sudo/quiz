@@ -11,13 +11,13 @@
     "explanation": "El artículo 125 establece que los empleos en los órganos y entidades del Estado son de carrera, y que el ingreso a estos y el ascenso se harán previo cumplimiento de los requisitos y condiciones que fije la ley para determinar los méritos y calidades de los aspirantes."
   },
   {
-    "question": "¿Cuál de los siguientes NO es un principio de la función administrativa según el artículo 209?",
+    "question": "¿Cuál de los siguientes NO es un principio de la función administrativa según el artículo 209 de la Constitución Política?",
     "options": ["Eficacia", "Celeridad", "Discrecionalidad", "Imparcialidad"],
     "correct": 2,
     "explanation": "El artículo 209 señala que la función administrativa está al servicio de los intereses generales y se desarrolla con fundamento en los principios de igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. La discrecionalidad no figura como principio rector."
   },
   {
-    "question": "Según el artículo 6 de la Constitución, los servidores públicos son responsables:",
+    "question": "Según el artículo 6 de la Constitución Política, los servidores públicos son responsables:",
     "options": [
       "Solo ante sus superiores jerárquicos",
       "Únicamente por infringir la Constitución",
@@ -28,7 +28,7 @@
     "explanation": "El artículo 6 determina que los particulares solo son responsables ante las autoridades por infringir la Constitución y las leyes, mientras que los servidores públicos lo son por la misma causa y por omisión o extralimitación en el ejercicio de sus funciones."
   },
   {
-    "question": "El artículo 23 de la Constitución consagra el derecho de petición. ¿Cuál es el término general legal para resolver una petición de interés general?",
+    "question": "El artículo 23 de la Constitución Política consagra el derecho de petición. ¿Cuál es el término general legal para resolver una petición de interés general?",
     "options": [
       "5 días hábiles",
       "10 días hábiles",
@@ -39,7 +39,7 @@
     "explanation": "Aunque el artículo 23 constitucional no fija días, la Ley 1755 de 2015, que lo reglamenta, establece que salvo norma especial, toda petición deberá resolverse dentro de los 15 días siguientes a su recepción."
   },
   {
-    "question": "De acuerdo con el artículo 122, ¿puede existir un empleo público sin que sus funciones estén detalladas?",
+    "question": "De acuerdo con el artículo 122 de la Constitución Política, ¿puede existir un empleo público sin que sus funciones estén detalladas?",
     "options": [
       "Sí, si el alcalde lo autoriza",
       "Sí, en casos de emergencia",
@@ -50,7 +50,7 @@
     "explanation": "El artículo 122 dicta textualmente: 'No habrá empleo público que no tenga funciones detalladas en ley o reglamento', exigiendo además que esté contemplado en la respectiva planta y previsto su emolumento en el presupuesto."
   },
   {
-    "question": "Según el artículo 125, ¿cuál es una causal de retiro del servicio de los servidores de carrera administrativa?",
+    "question": "Según el artículo 125 de la Constitución Política, ¿cuál es una causal de retiro del servicio de los servidores de carrera administrativa?",
     "options": [
       "Cambio de administración municipal",
       "Calificación no satisfactoria en el desempeño",
@@ -61,7 +61,7 @@
     "explanation": "El artículo 125 constitucional indica que el retiro se producirá por calificación no satisfactoria en el desempeño del empleo, por violación del régimen disciplinario y por las demás causales previstas en la Constitución o la ley."
   },
   {
-    "question": "El artículo 15 de la Constitución protege el derecho a la intimidad y al habeas data. ¿Qué implica esto para un servidor público?",
+    "question": "El artículo 15 de la Constitución Política protege el derecho a la intimidad y al habeas data. ¿Qué implica esto para un servidor público?",
     "options": [
       "Puede compartir información personal de los ciudadanos libremente",
       "Debe conocer, actualizar y rectificar las informaciones recogidas sobre las personas en bancos de datos y proteger su reserva",
@@ -72,7 +72,7 @@
     "explanation": "El artículo 15 garantiza el derecho a conocer, actualizar y rectificar la información recogida en bases de datos. Los servidores públicos, al manejar datos ciudadanos, deben respetar este principio de Habeas Data y la reserva legal."
   },
   {
-    "question": "¿Qué establece la Constitución sobre la prevalencia del derecho sustancial?",
+    "question": "¿Qué establece la Constitución Política sobre la prevalencia del derecho sustancial?",
     "options": [
       "Prevalece sobre las formas",
       "Es menos importante que el procedimiento",
@@ -83,7 +83,7 @@
     "explanation": "El artículo 228 establece que en las actuaciones de la administración de justicia prevalecerá el derecho sustancial. Este principio se hace extensivo a la función administrativa bajo el marco del debido proceso (Art. 29)."
   },
   {
-    "question": "Según el artículo 311, el municipio es:",
+    "question": "Según el artículo 311 Constitución Política, el municipio es:",
     "options": [
       "Una dependencia del departamento",
       "La entidad fundamental de la división político-administrativa del Estado",
@@ -94,7 +94,7 @@
     "explanation": "El artículo 311 define al municipio como la entidad territorial fundamental de la división político-administrativa del Estado, encargado de prestar los servicios públicos y promover el desarrollo de su territorio."
   },
   {
-    "question": "El artículo 128 de la Constitución establece que:",
+    "question": "El artículo 128 de la Constitución Política establece que:",
     "options": [
       "Se pueden acumular hasta dos empleos públicos",
       "Los empleos de la rama judicial pueden acumularse",
@@ -105,13 +105,13 @@
     "explanation": "El artículo 128 prohíbe la doble vinculación y doble asignación del tesoro público, permitiendo únicamente las excepciones que determine la ley (como la docencia o pensiones de la fuerza pública)."
   },
   {
-    "question": "¿Qué artículo establece que los servidores públicos están al servicio del Estado y de la comunidad?",
+    "question": "¿Qué artículo de la Constitución Política establece que los servidores públicos están al servicio del Estado y de la comunidad?",
     "options": ["Artículo 6", "Artículo 113", "Artículo 123", "Artículo 209"],
     "correct": 2,
     "explanation": "El artículo 123 define quiénes son servidores públicos (miembros de corporaciones, empleados y trabajadores del Estado) y declara explícitamente que están al servicio del Estado y de la comunidad."
   },
   {
-    "question": "Según el artículo 74, todo ciudadano tiene derecho a:",
+    "question": "Según el artículo 74 de la Constitución Política, todo ciudadano tiene derecho a:",
     "options": [
       "Acceder únicamente a documentos de su interés personal",
       "Acceder a los documentos públicos salvo los casos establecidos por la ley",
@@ -122,7 +122,7 @@
     "explanation": "El artículo 74 consagra que todas las personas tienen derecho a acceder a los documentos públicos salvo los casos que establezca la ley (reserva legal por seguridad nacional, datos sensibles, etc.)."
   },
   {
-    "question": "El artículo 2 de la Constitución establece como fines esenciales del Estado:",
+    "question": "El artículo 2 de la Constitución Política establece como fines esenciales del Estado:",
     "options": [
       "Solo garantizar la seguridad nacional",
       "Servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios y derechos",
@@ -133,7 +133,7 @@
     "explanation": "El artículo 2 define los fines del Estado: servir a la comunidad, promover la prosperidad general, garantizar la efectividad de los principios, derechos y deberes, y asegurar la convivencia pacífica."
   },
   {
-    "question": "¿Qué prohíbe el artículo 127 a los servidores públicos?",
+    "question": "¿Qué prohíbe el artículo 127 de la Constitución Política a los servidores públicos?",
     "options": [
       "Tomar vacaciones",
       "Participar en actividades de partidos o movimientos y en las controversias políticas, salvo las excepciones legales",
@@ -144,7 +144,7 @@
     "explanation": "El artículo 127 prohíbe a los servidores públicos participar en actividades de partidos o movimientos políticos y en controversias políticas, sin perjuicio del ejercicio del sufragio."
   },
   {
-    "question": "Según el artículo 314, el Alcalde es:",
+    "question": "Según el artículo 314 de la Constitución Política, el Alcalde es:",
     "options": [
       "Jefe de la administración departamental",
       "El jefe de la administración local y representante legal del municipio",
@@ -155,7 +155,7 @@
     "explanation": "El artículo 314 indica que en cada municipio habrá un alcalde, jefe de la administración local y representante legal del municipio, que será elegido popularmente."
   },
   {
-    "question": "Según el artículo 4 de la Constitución:",
+    "question": "Según el artículo 4 de la Constitución Política:",
     "options": [
       "Las leyes prevalecen sobre la Constitución",
       "La Constitución es norma de normas",
@@ -166,7 +166,7 @@
     "explanation": "El artículo 4 establece la supremacía constitucional: 'La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constitucionales'."
   },
   {
-    "question": "El artículo 122 exige a los servidores públicos, previo a su posesión:",
+    "question": "El artículo 122 de la Constitución Política exige a los servidores públicos, previo a su posesión:",
     "options": [
       "Realizar cursos de capacitación",
       "Prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben",
@@ -177,7 +177,7 @@
     "explanation": "El artículo 122 establece que ningún servidor público entrará a ejercer su cargo sin prestar juramento de cumplir y defender la Constitución y desempeñar los deberes que le incumben."
   },
   {
-    "question": "¿Qué establece el artículo 13 sobre el derecho a la igualdad?",
+    "question": "¿Qué establece el artículo 13 de la Constitución Política sobre el derecho a la igualdad?",
     "options": [
       "Solo aplica a ciudadanos, no a servidores",
       "Todas las personas recibirán la misma protección y trato de las autoridades sin discriminación",
@@ -188,7 +188,7 @@
     "explanation": "El artículo 13 ordena que todas las personas nazcan libres e iguales ante la ley y reciban la misma protección y trato de las autoridades, gozando de los mismos derechos sin discriminación por sexo, raza u origen."
   },
   {
-    "question": "El artículo 277 establece las funciones del Procurador General. ¿Cuál es una de ellas?",
+    "question": "El artículo 277 de la Constitución Política establece las funciones del Procurador General. ¿Cuál es una de ellas?",
     "options": [
       "Recaudar impuestos",
       "Vigilar la conducta oficial de quienes desempeñan funciones públicas",
@@ -199,7 +199,7 @@
     "explanation": "El artículo 277, numeral 6, asigna al Procurador la función de ejercer vigilancia superior de la conducta oficial de quienes desempeñan funciones públicas, inclusive las de elección popular."
   },
   {
-    "question": "Según el artículo 103, ¿cuál de los siguientes NO es un mecanismo de participación ciudadana?",
+    "question": "Según el artículo 103 de la Constitución Política, ¿cuál de los siguientes NO es un mecanismo de participación ciudadana?",
     "options": [
       "El voto",
       "El referendo",
@@ -211,7 +211,7 @@
   },
 
   {
-    "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial?",
+    "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial? Ley 1755 de 2015.",
     "options": [
       "Diez (10) días hábiles",
       "Quince (15) días hábiles",
@@ -222,7 +222,7 @@
     "explanation": "Según el artículo 14 de la Ley 1755 de 2015, salvo norma legal especial, toda petición deberá resolverse dentro de los quince (15) días siguientes a su recepción[cite: 24, 25]."
   },
   {
-    "question": "Si un ciudadano solicita documentos o información, ¿en qué plazo debe resolverse la petición?",
+    "question": "Si un ciudadano solicita documentos o información, ¿en qué plazo debe resolverse la petición? Ley 1755 de 2015.",
     "options": [
       "Cinco (5) días hábiles",
       "Quince (15) días hábiles",
@@ -233,7 +233,7 @@
     "explanation": "El artículo 14, numeral 1, establece que las peticiones de documentos y de información deben resolverse dentro de los diez (10) días siguientes a su recepción[cite: 31]."
   },
   {
-    "question": "Si la administración no responde una solicitud de documentos en 10 días, ¿qué consecuencia legal se genera?",
+    "question": "Si la administración no responde una solicitud de documentos en 10 días, ¿qué consecuencia legal se genera? Ley 1755 de 2015.",
     "options": [
       "Se entiende negada la solicitud",
       "Se entiende aceptada y los documentos deben entregarse en los 3 días siguientes",
@@ -244,7 +244,7 @@
     "explanation": "La ley indica que si en 10 días no hay respuesta, se entenderá que la solicitud ha sido aceptada y las copias se entregarán dentro de los tres (3) días siguientes[cite: 32]."
   },
   {
-    "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial?",
+    "question": "¿Cuál es el término general para resolver una petición si no existe una norma legal especial? Ley 1755 de 2015.",
     "options": [
       "Diez (10) días hábiles",
       "Quince (15) días hábiles",
@@ -255,7 +255,7 @@
     "explanation": "Según el artículo 14 de la Ley 1755 de 2015, el término general para resolver peticiones es de quince (15) días hábiles. Los otros plazos corresponden a casos especiales como documentos (10) o consultas (30)."
   },
   {
-    "question": "Si un ciudadano solicita acceso a información o copias de documentos, ¿en qué plazo debe responder la dependencia?",
+    "question": "Si un ciudadano solicita acceso a información o copias de documentos, ¿en qué plazo debe responder la dependencia? Ley 1755 de 2015.",
     "options": [
       "Cinco (5) días hábiles",
       "Quince (15) días hábiles",
@@ -266,7 +266,7 @@
     "explanation": "El artículo 14, numeral 1, establece un término preferencial de diez (10) días hábiles para peticiones de información y documentos."
   },
   {
-    "question": "Si la administración no responde una solicitud de copias en el término de 10 días, ¿qué efecto legal se produce?",
+    "question": "Si la administración no responde una solicitud de copias en el término de 10 días, ¿qué efecto legal se produce? Ley 1755 de 2015.",
     "options": [
       "Se entiende negada la solicitud por silencio administrativo negativo",
       "Se entiende aceptada la petición y los documentos deben entregarse en 3 días",
@@ -277,7 +277,7 @@
     "explanation": "De acuerdo con el artículo 14, si no se responde en 10 días, se entiende aceptada la solicitud y la autoridad no podrá negar la entrega de copias, debiendo aportarlas en los 3 días siguientes."
   },
   {
-    "question": "¿Cuál es el plazo máximo para resolver peticiones mediante las cuales se eleva una consulta sobre materias a cargo de la entidad?",
+    "question": "¿Cuál es el plazo máximo para resolver peticiones mediante las cuales se eleva una consulta sobre materias a cargo de la entidad? Ley 1755 de 2015.",
     "options": [
       "Quince (15) días hábiles",
       "Veinte (20) días hábiles",
@@ -288,7 +288,7 @@
     "explanation": "El artículo 14, numeral 2, otorga un plazo de treinta (30) días hábiles para responder consultas técnicas o jurídicas relacionadas con las funciones de la autoridad."
   },
   {
-    "question": "Si al recibir una petición escrita notas que la competencia es de otra entidad, ¿cuántos días tienes para informar al usuario y remitir el expediente?",
+    "question": "Si al recibir una petición escrita notas que la competencia es de otra entidad, ¿cuántos días tienes para informar al usuario y remitir el expediente? Ley 1755 de 2015.",
     "options": [
       "Debe hacerse de forma inmediata el mismo día",
       "Diez (10) días hábiles",
@@ -299,7 +299,7 @@
     "explanation": "El artículo 21 señala que el funcionario dispone de cinco (5) días hábiles para remitir la petición al competente e informar al interesado."
   },
   {
-    "question": "¿Qué acción debe tomar la autoridad si excepcionalmente no puede resolver la petición en los plazos previstos?",
+    "question": "¿Qué acción debe tomar la autoridad si excepcionalmente no puede resolver la petición en los plazos previstos? Ley 1755 de 2015.",
     "options": [
       "No responder hasta tener la solución definitiva",
       "Informar los motivos de la demora antes del vencimiento y fijar un nuevo plazo que no exceda el doble del inicial",
@@ -310,7 +310,7 @@
     "explanation": "El parágrafo del artículo 14 permite prorrogar el plazo informando al peticionario antes de que venza el término original, justificando la demora."
   },
   {
-    "question": "Bajo la Ley 1755, ¿cuál de estos documentos tiene carácter reservado y no puede ser entregado a cualquier tercero?",
+    "question": "¿Cuál de estos documentos tiene carácter reservado y no puede ser entregado a cualquier tercero? Ley 1755 de 2015.",
     "options": [
       "El organigrama de la dependencia",
       "Las historias clínicas, datos genéticos y documentos protegidos por reserva legal",
@@ -321,7 +321,7 @@
     "explanation": "El artículo 24 establece reserva legal para información que afecte la intimidad, como historias clínicas, datos genéticos y secretos profesionales."
   },
   {
-    "question": "Si un usuario intenta radicar una petición sin los anexos necesarios y usted se lo advierte, pero el ciudadano insiste en radicar, ¿qué debe hacer?",
+    "question": "Si un usuario intenta radicar una petición sin los anexos necesarios y usted se lo advierte, pero el ciudadano insiste en radicar, ¿qué debe hacer? Ley 1755 de 2015.",
     "options": [
       "Rechazar la radicación por estar incompleta",
       "Radicar la petición dejando constancia expresa de los documentos faltantes",
@@ -332,7 +332,7 @@
     "explanation": "Según el artículo 15, la autoridad no puede negarse a recibir peticiones. Si el ciudadano insiste pese a estar incompleta, se debe radicar con la debida anotación."
   },
   {
-    "question": "Si se requiere al peticionario para que complete una solicitud y este no lo hace en el tiempo legal, ¿cuánto tiempo debe pasar para decretar el desistimiento tácito?",
+    "question": "Si se requiere al peticionario para que complete una solicitud y este no lo hace en el tiempo legal, ¿cuánto tiempo debe pasar para decretar el desistimiento tácito? Ley 1755 de 2015.",
     "options": [
       "Diez (10) días hábiles",
       "Quince (15) días calendario",
@@ -343,7 +343,7 @@
     "explanation": "El artículo 17 establece que si en un (1) mes el interesado no cumple con el requerimiento de completar la información, se entenderá que ha desistido."
   },
   {
-    "question": "¿Qué recurso puede interponer un ciudadano si se le niega información alegando reserva legal?",
+    "question": "¿Qué recurso puede interponer un ciudadano si se le niega información alegando reserva legal? Ley 1755 de 2015.",
     "options": [
       "Recurso de reposición ante el mismo funcionario",
       "Recurso de insistencia ante el Tribunal Administrativo o Juez Administrativo competente",
@@ -354,7 +354,7 @@
     "explanation": "El artículo 26 prevé el recurso de insistencia para que un juez decida, en un término de 10 días, si la reserva alegada por la entidad es válida o no."
   },
   {
-    "question": "¿Cuál es la única condición de forma que debe cumplir una petición para ser admitida, según el artículo 19?",
+    "question": "¿Cuál es la única condición de forma que debe cumplir una petición para ser admitida, según el artículo 19? Ley 1755 de 2015.",
     "options": [
       "Estar escrita a máquina o computador",
       "Tener la firma de un abogado titulado",
@@ -365,7 +365,7 @@
     "explanation": "La ley establece que toda petición debe ser respetuosa. Las peticiones irrespetuosas pueden ser rechazadas de plano."
   },
   {
-    "question": "Si más de 10 personas presentan peticiones análogas (iguales) sobre un mismo tema, ¿qué facultad de respuesta tiene la entidad?",
+    "question": "Si más de 10 personas presentan peticiones análogas (iguales) sobre un mismo tema, ¿qué facultad de respuesta tiene la entidad? Ley 1755 de 2015.",
     "options": [
       "No responder a ninguna por ser una acción coordinada",
       "Dar una respuesta única publicada en un diario de amplia circulación y en su página web",
@@ -376,7 +376,7 @@
     "explanation": "El artículo 22 permite la respuesta masiva o única cuando las peticiones son análogas, optimizando la gestión administrativa."
   },
   {
-    "question": "¿Cuál es la obligación especial de los Personeros y funcionarios de la Defensoría del Pueblo respecto al derecho de petición?",
+    "question": "¿Cuál es la obligación especial de los Personeros y funcionarios de la Defensoría del Pueblo respecto al derecho de petición? Ley 1755 de 2015.",
     "options": [
       "Cobrar una tarifa por redactar las peticiones",
       "Prestar asistencia eficaz e inmediata a toda persona que lo solicite para ejercer su derecho",
@@ -387,7 +387,7 @@
     "explanation": "Los artículos 23 y 30 asignan a estos organismos el deber de asistir a los ciudadanos para garantizar que su derecho de petición sea efectivo."
   },
   {
-    "question": "Respecto al costo de reproducción (fotocopias) solicitado por un ciudadano, ¿qué límite impone la Ley 1755?",
+    "question": "Respecto al costo de reproducción (fotocopias) solicitado por un ciudadano, ¿qué límite impone la Ley 1755 de 2015?",
     "options": [
       "Pueden tener un costo de sanción por el tiempo del funcionario",
       "El precio no podrá exceder el valor de la reproducción y será el de referencia en el mercado",
@@ -398,7 +398,7 @@
     "explanation": "El artículo 29 señala que si la respuesta implica costos de reproducción, estos deben ser asumidos por el ciudadano pero a precios de mercado, sin exceder el costo real."
   },
   {
-    "question": "¿Qué valor legal tienen los conceptos o respuestas emitidas por la autoridad ante una consulta técnica?",
+    "question": "¿Qué valor legal tienen los conceptos o respuestas emitidas por la autoridad ante una consulta técnica? Ley 1755 de 2015.",
     "options": [
       "Son sentencias judiciales de obligatorio cumplimiento",
       "No serán de obligatorio cumplimiento o ejecución, salvo disposición legal en contrario",
@@ -409,7 +409,7 @@
     "explanation": "El artículo 28 aclara que los conceptos emitidos por las autoridades en respuesta a consultas no comprometen su responsabilidad ni obligan a su ejecución."
   },
   {
-    "question": "¿Qué significa el 'desistimiento expreso' por parte del ciudadano?",
+    "question": "¿Qué significa el 'desistimiento expreso' por parte del ciudadano? Ley 1755 de 2015.",
     "options": [
       "Que el ciudadano ha fallecido durante el trámite",
       "Que el peticionario decide, en cualquier tiempo, retirar su petición de forma voluntaria",
@@ -420,7 +420,7 @@
     "explanation": "El artículo 18 permite que los interesados desistan de su petición en cualquier momento, sin que esto impida presentarla nuevamente después."
   },
   {
-    "question": "Según el artículo 27, ¿a qué autoridades NO se les puede oponer la reserva legal de un documento?",
+    "question": "Según el artículo 27, ¿a qué autoridades NO se les puede oponer la reserva legal de un documento? Ley 1755 de 2015.",
     "options": [
       "A los medios de comunicación nacionales",
       "A las autoridades judiciales, legislativas y administrativas que lo soliciten para sus funciones",
@@ -431,7 +431,7 @@
     "explanation": "La reserva legal no es oponible a las autoridades que, por mandato constitucional o legal, requieran la información para el ejercicio de sus cargos."
   },
   {
-    "question": "En sus funciones de apoyo logístico, ¿cuál es la razón principal para llevar un control estricto de papelería y mobiliario?",
+    "question": "En sus funciones de apoyo logístico, ¿cuál es la razón principal para llevar un control estricto de papelería y mobiliario? Ley 1755 de 2015.",
     "options": [
       "Asegurar el uso racional de los recursos y el cumplimiento de los objetivos institucionales",
       "Impedir que los ciudadanos tengan acceso a hojas de papel",
@@ -442,7 +442,7 @@
     "explanation": "Como asistente administrativo, el control logístico garantiza que la dependencia cuente con los insumos necesarios para operar eficientemente bajo los principios del MIPG."
   },
   {
-    "question": "¿En qué situación se debe dar trámite preferencial o atención prioritaria a una petición?",
+    "question": "¿En qué situación se debe dar trámite preferencial o atención prioritaria a una petición? Ley 1755 de 2015.",
     "options": [
       "Cuando el solicitante es una persona conocida del funcionario",
       "Cuando sea necesario para evitar un perjuicio irremediable o ante peligro inminente de la vida",
@@ -453,7 +453,7 @@
     "explanation": "El artículo 20 obliga a las autoridades a dar prioridad a peticiones que busquen proteger derechos fundamentales ante riesgos inminentes o perjuicios graves."
   },
   {
-    "question": "¿Qué consecuencia enfrentas como servidor público si ignoras los términos de respuesta establecidos en la ley?",
+    "question": "¿Qué consecuencia enfrentas como servidor público si ignoras los términos de respuesta establecidos en la ley? Ley 1755 de 2015.",
     "options": [
       "Ninguna, el sistema permite retrasos justificados",
       "Constituye una falta disciplinaria que puede acarrear sanciones de la Procuraduría o control interno",
