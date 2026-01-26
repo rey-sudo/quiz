@@ -1914,5 +1914,235 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 29 determina que, por mandato legal o constitucional, los documentos reservados deben formar un cuaderno o expediente separado, el cual debe conservarse integrado al expediente principal[cite: 143]."
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "question": "¿Qué sistemas se integraron para conformar el actual Sistema de Gestión según el Decreto 1499 de 2017?",
+    "options": [
+      "El Sistema de Control Interno y el Sistema de Gestión de Calidad.",
+      "Los Sistemas de Desarrollo Administrativo y de Gestión de la Calidad.",
+      "El Sistema Nacional de Servicio al Ciudadano y el de Seguridad Digital.",
+      "El Sistema de Control Interno y el Sistema de Desarrollo Administrativo."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.1.1 establece que el Sistema de Gestión integra los sistemas de Desarrollo Administrativo (Ley 489 de 1998) y de Gestión de la Calidad (Ley 872 de 2003)."
+  },
+  {
+    "question": "¿Con qué sistema debe articularse obligatoriamente el Sistema de Gestión para asegurar el cumplimiento de los objetivos institucionales? Decreto 1499 de 2017",
+    "options": [
+      "Con el Sistema de Gestión Ambiental.",
+      "Con el Sistema de Seguridad y Salud en el Trabajo.",
+      "Con el Sistema de Control Interno.",
+      "Con el Sistema de Acreditación de Educación."
+    ],
+    "correct": 2,
+    "explanation": "Según el artículo 2.2.22.1.1, el Sistema de Gestión debe articularse con el Sistema de Control Interno consagrado en la Ley 87 de 1993."
+  },
+  {
+    "question": "¿Quién ejerce la dirección del Sistema de Gestión en Colombia? Decreto 1499 de 2017.",
+    "options": [
+      "El Director del Departamento Administrativo de la Función Pública.",
+      "El Consejo Nacional de Ministros.",
+      "El Presidente de la República.",
+      "El Director del Departamento Nacional de Planeación."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.22.1.2 determina que el Presidente de la República dirigirá el Sistema de Gestión con el apoyo del Consejo para la Gestión y el Desempeño Institucional."
+  },
+  {
+    "question": "¿Qué entidad tiene la responsabilidad de presidir el Consejo para la Gestión y el Desempeño Institucional? Decreto 1499 de 2017.",
+    "options": [
+      "El Ministerio de Hacienda y Crédito Público.",
+      "El Departamento Administrativo de la Función Pública.",
+      "El Departamento Administrativo de la Presidencia de la República.",
+      "El Departamento Nacional de Planeación (DNP)."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.1.3 establece que el Consejo para la Gestión y el Desempeño Institucional es presidido por el Departamento Administrativo de la Función Pública."
+  },
+  {
+    "question": "¿Cuál es la definición técnica del Modelo Integrado de Planeación y Gestión - MIPG? Decreto 1499 de 2017.",
+    "options": [
+      "Un manual de sanciones para servidores públicos por incumplimiento de metas.",
+      "Un marco de referencia para dirigir, planear, ejecutar, hacer seguimiento, evaluar y controlar la gestión de las entidades públicas.",
+      "Un software de gestión documental para la digitalización de archivos públicos.",
+      "Una política exclusiva para el manejo de los recursos financieros del Estado."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.1.4 define al MIPG como el marco de referencia para la operación del Sistema de Gestión y su articulación con el Control Interno."
+  },
+  {
+    "question": "¿A qué entidades se aplica el MIPG de forma obligatoria? Decreto 1499 de 2017.",
+    "options": [
+      "Únicamente a los Ministerios y Departamentos Administrativos del orden nacional.",
+      "A todos los organismos y entidades de los órdenes nacional y territorial de la Rama Ejecutiva.",
+      "A las tres ramas del poder público, organismos autónomos y entes de control por igual.",
+      "Solo a las entidades territoriales que tengan más de 100.000 habitantes."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.4 señala que el MIPG se aplica a los organismos y entidades de los órdenes nacional y territorial de la Rama Ejecutiva."
+  },
+  {
+    "question": "En las entidades descentralizadas con capital público y privado, ¿cuándo es obligatoria la aplicación del MIPG? Decreto 1499 de 2017.",
+    "options": [
+      "En todas, independientemente del porcentaje de capital.",
+      "Cuando el capital privado sea inferior al 10%.",
+      "Cuando el Estado posea el 90% o más del capital social.",
+      "Cuando la entidad reciba transferencias directas del Presupuesto General."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.22.3.4 específica que en entidades de capital mixto, el modelo aplica si el Estado posee el 90% o más del capital social."
+  },
+  {
+    "question": "¿Quién preside el Comité Sectorial de Gestión y Desempeño en cada sector administrativo? Decreto 1499 de 2017.",
+    "options": [
+      "El Jefe de la Oficina de Planeación del sector.",
+      "El Ministro o Director de Departamento Administrativo del sector.",
+      "Un delegado permanente de la Función Pública.",
+      "El representante legal de la entidad con mayor presupuesto del sector."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.7 indica que cada sector tendrá un Comité Sectorial presidido por el Ministro o Director de Departamento Administrativo."
+  },
+  {
+    "question": "¿Quién ejerce la secretaría técnica en los Comités Institucionales de Gestión y Desempeño? Decreto 1499 de 2017.",
+    "options": [
+      "El Jefe de la Oficina de Control Interno.",
+      "El representante legal de la entidad.",
+      "El Jefe de la Oficina de Planeación o quien haga sus veces.",
+      "El Secretario General de la entidad."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.22.3.8 establece que la secretaría técnica de estos comités será ejercida por el jefe de la oficina de planeación o quien haga sus veces."
+  },
+  {
+    "question": "¿Cuál es el instrumento oficial para la recolección de información sobre el avance de la gestión institucional? Decreto 1499 de 2017.",
+    "options": [
+      "El Sistema de Información y Gestión del Empleo Público (SIGEP).",
+      "El Formulario Único de Reporte y Avance de Gestión - FURAG.",
+      "El Plan de Acción Anual reportado al DNP.",
+      "La Encuesta Nacional de Satisfacción Ciudadana."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.10 determina que la información necesaria para medir la gestión y el desempeño se recolecta a través del FURAG."
+  },
+  {
+    "question": "¿Cómo se realiza la actualización del Modelo Estándar de Control Interno (MECI)? Decreto 1499 de 2017.",
+    "options": [
+      "A través de una resolución autónoma de la Contraloría General.",
+      "Mediante la expedición de una nueva Ley de la República.",
+      "A través del Manual Operativo del Modelo Integrado de Planeación y Gestión - MIPG.",
+      "Por medio de circulares trimestrales emitidas por el Ministerio de Justicia."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.23.2 establece que la actualización del MECI se efectuará a través del Manual Operativo del MIPG."
+  },
+  {
+    "question": "¿Qué entidad puede hacer seguimiento a la implementación del MIPG en los niveles nacional y territorial? Decreto 1499 de 2017.",
+    "options": [
+      "El Consejo Nacional Electoral.",
+      "La Procuraduría General de la Nación.",
+      "La Escuela Superior de Administración Pública - ESAP.",
+      "El Banco de la República."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.11 faculta a la Procuraduría General de la Nación para hacer seguimiento a la implementación y operación del modelo."
+  },
+  {
+    "question": "¿Qué sucede con las entidades de las Ramas Legislativa y Judicial frente a este Decreto? Decreto 1499 de 2017.",
+    "options": [
+      "Están exentas de cualquier tipo de control de gestión.",
+      "Se les prohíbe adoptar el MIPG para no vulnerar su autonomía.",
+      "Les aplica la política de control interno y podrán aplicar las demás políticas en la medida en que les sean aplicables.",
+      "Deben solicitar permiso al Presidente para adoptar cada política individualmente."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.22.3.4 indica que a estas ramas les aplica la política de control interno de la Ley 87 de 1993 y las demás según su aplicabilidad y normas especiales."
+  },
+  {
+    "question": "¿Cuál es la función de la Escuela Superior de Administración Pública (ESAP) respecto al MIPG? Decreto 1499 de 2017.",
+    "options": [
+      "Auditar financieramente el uso del FURAG en municipios.",
+      "Diseñar y ofrecer programas de capacitación para fortalecer la gestión y el desempeño de las entidades.",
+      "Sustituir a la Función Pública en la presidencia del Consejo Nacional.",
+      "Sancionar a los funcionarios que no reporten información al sistema."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.13 establece que la ESAP diseñará programas de capacitación basados en los lineamientos de Función Pública para fortalecer la gestión."
+  },
+  {
+    "question": "¿Qué norma pierde vigencia y queda derogada una vez expedido el Decreto 1499 de 2017?",
+    "options": [
+      "La Ley 80 de 1993.",
+      "La Ley 872 de 2003 (Sistema de Gestión de la Calidad).",
+      "La Ley 1474 de 2011.",
+      "El Decreto 1082 de 2015."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 5 y el considerando del decreto establecen que, en desarrollo de la Ley 1753 de 2015, queda derogada la Ley 872 de 2003 al integrarse los sistemas."
+  },
+  {
+    "question": "¿Quién debe presidir el Comité de Auditoría en el nivel departamental? Decreto 1499 de 2017.",
+    "options": [
+      "El Gobernador en ejercicio.",
+      "El Contralor Departamental.",
+      "El Jefe de Control Interno o quien haga sus veces de la respectiva gobernación.",
+      "Un delegado del Ministerio de Hacienda."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.21.3.14 (modificado por el Decreto 1499) determina que el comité será presidido por el jefe de control interno de la gobernación."
+  },
+  {
+    "question": "¿Cuál es la periodicidad mínima de las sesiones del Consejo para la Gestión y el Desempeño Institucional? Decreto 1499 de 2017.",
+    "options": [
+      "Mensual.",
+      "Al menos dos veces al año.",
+      "Trimestral.",
+      "Anual."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.1.3 establece en su parágrafo 2 que el Consejo sesionará al menos dos veces al año."
+  },
+  {
+    "question": "¿Qué carácter tiene el uso de los instrumentos de autodiagnóstico del MIPG? Decreto 1499 de 2017.",
+    "options": [
+      "Son obligatorios para todas las entidades.",
+      "Son voluntarios y no implican reporte de información a instancias externas.",
+      "Son obligatorios solo para el nivel nacional.",
+      "Deben ser validados por un auditor externo privado."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.10 aclara que el uso de instrumentos de autodiagnóstico es voluntario y no requiere reporte de información."
+  },
+  {
+    "question": "¿Para qué entidades se aplican criterios diferenciales en la implementación del MIPG? Decreto 1499 de 2017.",
+    "options": [
+      "Solo para las entidades del orden nacional.",
+      "Para las entidades territoriales, según su categoría y capacidades.",
+      "Únicamente para las entidades en zonas de conflicto.",
+      "Para las empresas industriales y comerciales del Estado."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.3.4 señala que la implementación del modelo en el orden territorial se hará bajo criterios diferenciales atendiendo a las categorías de municipios y departamentos."
+  },
+  {
+    "question": "¿Quién ejerce la Secretaría Técnica del Consejo para la Gestión y el Desempeño Institucional a nivel nacional? Decreto 1499 de 2017.",
+    "options": [
+      "El Director de la Función Pública.",
+      "Conjuntamente Función Pública y las entidades líderes de política.",
+      "La Secretaría General de la Presidencia.",
+      "La Unidad de Control Interno del Ministerio de Hacienda."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.22.1.4 indica que la secretaría técnica será ejercida conjuntamente por Función Pública y las entidades líderes de política según los temas a tratar."
   }
 ]
