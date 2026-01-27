@@ -2345,5 +2345,72 @@
     ],
     "correct": 1,
     "explanation": "Los metadatos de contexto, según el artículo 30, son aquellos que relacionan el documento con su productor y el proceso administrativo que lo originó."
+  },
+
+  {
+    "question": "¿Cuál es el objeto principal del Capítulo 12 adicionado por el Decreto 1166 de 2016?",
+    "options": [
+      "Regular la presentación, radicación y constancia de las peticiones presentadas verbalmente.",
+      "Establecer las sanciones para ciudadanos que presenten quejas falsas.",
+      "Prohibir el uso de documentos físicos en las oficinas estatales.",
+      "Eliminar el derecho de petición para trámites presenciales."
+    ],
+    "correct": 0,
+    "explanation": "El artículo 2.2.3.12.1 establece que el decreto regula la presentación, radicación y constancia de peticiones verbales por cualquier medio idóneo de voz[cite: 21]."
+  },
+  {
+    "question": "¿Qué debe hacer el funcionario si identifica que su entidad no es competente para recibir una petición verbal? Decreto 1166 de 2016.",
+    "options": [
+      "Negarse a recibir la información de inmediato.",
+      "Informar y orientar al peticionario, pero radicarla si este insiste.",
+      "Remitir al ciudadano a la fuerza pública por intentar un trámite erróneo.",
+      "Exigir que la petición sea presentada únicamente por escrito."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.3.12.7 indica que debe orientar al ciudadano, pero si este insiste, debe radicarla y dejar constancia de la orientación dada[cite: 60, 61, 62]."
+  },
+  {
+    "question": "¿Cuál de estos es un dato mínimo que debe contener la constancia de radicación de una petición verbal? Decreto 1166 de 2016.",
+    "options": [
+      "El nivel educativo y profesión del peticionario.",
+      "La identificación del funcionario responsable de la recepción y radicación.",
+      "La fotografía del ciudadano tomada al momento de la solicitud.",
+      "El número de familiares a cargo del solicitante."
+    ],
+    "correct": 1,
+    "explanation": "Según el artículo 2.2.3.12.3 (numeral 7), la constancia debe incluir la identificación del funcionario responsable de la recepción[cite: 45]."
+  },
+  {
+    "question": "¿Cómo debe proceder una autoridad ante una petición verbal en una lengua nativa si no cuenta con intérprete? Decreto 1166 de 2016.",
+    "options": [
+      "Rechazar la petición hasta que el ciudadano hable español.",
+      "Solicitar al ciudadano que regrese con un traductor privado.",
+      "Grabar la petición en un medio tecnológico para su posterior traducción y respuesta.",
+      "Ignorar la solicitud por falta de medios técnicos."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.3.12.9 ordena que, ante la falta de intérprete, se deje constancia y se grabe el audio para proceder a su traducción posterior[cite: 68]."
+  },
+  {
+    "question": "¿Cuál es el plazo máximo para que las autoridades implementen estos mecanismos según el decreto? Decreto 1166 de 2016.",
+    "options": [
+      "Inmediatamente en la fecha de publicación (julio de 2016).",
+      "A más tardar el 30 de enero de 2017.",
+      "A los dos años de la vigencia de la Ley 1755.",
+      "No existe un plazo definido, es de cumplimiento progresivo."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.3.12.14 fijó el 30 de enero de 2017 como fecha límite para implementar o adecuar los mecanismos internos[cite: 77]."
+  },
+  {
+    "question": "En el caso de peticiones verbales de 'Acceso a la Información Pública', ¿cómo debe ser la respuesta? Decreto 1166 de 2016.",
+    "options": [
+      "Debe darse siempre de forma verbal por economía procesal.",
+      "Debe darse por escrito, según los términos de la Ley 1712 de 2014.",
+      "Debe ser publicada únicamente en la cartelera de la entidad.",
+      "No requiere respuesta formal si el funcionario ya la explicó."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.3.12.10 establece que la respuesta a solicitudes de acceso a información debe darse por escrito[cite: 70]."
   }
 ]
