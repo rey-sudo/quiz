@@ -2412,5 +2412,38 @@
     ],
     "correct": 1,
     "explanation": "El artículo 2.2.3.12.10 establece que la respuesta a solicitudes de acceso a información debe darse por escrito[cite: 70]."
+  },
+  {
+    "question": "¿Qué medidas deben adoptar las autoridades para garantizar la inclusión social en las peticiones verbales? Decreto 1166 de 2016.",
+    "options": [
+      "Cobrar una tarifa especial por la traducción de documentos.",
+      "Disponer de personal especializado y conceder atención prioritaria y diferencial.",
+      "Exigir que las personas en situación de vulnerabilidad asistan con un tutor legal.",
+      "Limitar el tiempo de la petición verbal para agilizar el servicio."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.3.12.8 señala que se deben adoptar medidas como la atención prioritaria, diferencial y el uso de personal especializado para apoyar a personas en situación de vulnerabilidad o discapacidad."
+  },
+  {
+    "question": "Respecto a los medios tecnológicos o electrónicos, ¿qué obligación tienen las autoridades según el decreto? Decreto 1166 de 2016.",
+    "options": [
+      "Solo están obligadas a recibir peticiones en horario de oficina.",
+      "Deben inhabilitar los buzones electrónicos durante los fines de semana.",
+      "Deben habilitar medios que permitan recibir peticiones verbales incluso fuera de las horas de atención al público.",
+      "No es obligatorio tener canales electrónicos si ya existe atención presencial."
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.2.3.12.2 establece que las autoridades deben habilitar medios tecnológicos que permitan la recepción de peticiones verbales aun por fuera de las horas de atención al público."
+  },
+  {
+    "question": "¿En qué caso NO es necesario dejar constancia ni radicar un derecho de petición verbal? Decreto 1166 de 2016.",
+    "options": [
+      "Cuando el ciudadano se comporta de manera irrespetuosa.",
+      "Cuando se trata de una simple orientación sobre el lugar al que debe dirigirse para obtener información.",
+      "Cuando el funcionario considera que la petición no tiene fundamento.",
+      "Nunca; todas las interacciones deben radicarse obligatoriamente."
+    ],
+    "correct": 1,
+    "explanation": "Según el artículo 2.2.3.12.4, no es necesario radicar la petición cuando la respuesta consiste en una simple orientación sobre a dónde acudir para obtener la información solicitada."
   }
 ]
