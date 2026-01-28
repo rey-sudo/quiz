@@ -2434,5 +2434,171 @@
     ],
     "correct": 1,
     "explanation": "Según el artículo 2.2.3.12.4, no es necesario radicar la petición cuando la respuesta consiste en una simple orientación sobre a dónde acudir para obtener la información solicitada."
+  },
+
+  {
+    "question": "¿Cuál es el principio fundamental respecto al reconocimiento jurídico de los mensajes de datos según el artículo 5? Ley 527 de 1999.",
+    "options": [
+      "Los mensajes de datos solo tienen validez si son ratificados posteriormente por escrito en papel.",
+      "No se negarán efectos jurídicos o validez a la información por la sola razón de que esté en forma de mensaje de datos.",
+      "La validez de un mensaje de datos depende exclusivamente de que haya sido enviado por correo electrónico.",
+      "Los mensajes de datos tienen efectos jurídicos únicamente en contratos de compraventa internacional."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 5 establece el principio de no discriminación, asegurando que el soporte electrónico tenga la misma validez legal que el físico."
+  },
+  {
+    "question": "Para que un mensaje de datos cumpla con el requisito legal de estar 'por escrito', ¿qué condición debe satisfacer? Ley 527 de 1999.",
+    "options": [
+      "Debe ser impreso y archivado físicamente por al menos cinco años.",
+      "Debe contar con el sello de una entidad de certificación autorizada.",
+      "La información contenida en el mensaje debe ser accesible para su posterior consulta.",
+      "El mensaje debe ser enviado obligatoriamente con acuse de recibo automatizado."
+    ],
+    "correct": 2,
+    "explanation": "Según el artículo 6, la 'escritura' se satisface si la información es accesible para consulta posterior, garantizando su disponibilidad en el tiempo."
+  },
+  {
+    "question": "De acuerdo con el artículo 28, ¿qué atributo es indispensable para que una firma digital tenga la misma fuerza que una firma manuscrita? Ley 527 de 1999.",
+    "options": [
+      "Debe ser una imagen escaneada de la firma de puño y letra del suscriptor.",
+      "Debe estar bajo el control exclusivo de la persona que la usa.",
+      "Debe haber sido creada en presencia de un notario público.",
+      "Debe ser modificable por el destinatario para facilitar ajustes contractuales."
+    ],
+    "correct": 1,
+    "explanation": "El control exclusivo asegura el principio de no repudio, vinculando de forma única e intransferible al firmante con el mensaje."
+  },
+  {
+    "question": "Un mensaje de datos se considera 'íntegro' si ha permanecido completo e inalterado, permitiéndose únicamente: Ley 527 de 1999.",
+    "options": [
+      "Cambios en el contenido de las cláusulas económicas por parte del destinatario.",
+      "La adición de endosos o cambios inherentes al proceso de comunicación o archivo.",
+      "La modificación de la fecha de expedición para ajustarla a la zona horaria.",
+      "La eliminación de los datos del iniciador para proteger su privacidad."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 9 reconoce que en la transmisión técnica pueden ocurrir cambios de formato o endosos que no afectan la esencia ni la integridad de la información."
+  },
+  {
+    "question": "En el proceso de formación de un contrato, el artículo 14 establece que: Ley 527 de 1999.",
+    "options": [
+      "La oferta y la aceptación no pueden expresarse mediante mensajes de datos.",
+      "Un contrato es nulo si se utilizó más de un sistema de información en su creación.",
+      "No se negará validez a un contrato por la sola razón de haberse utilizado mensajes de datos en su formación.",
+      "Los contratos electrónicos solo son válidos si se firman ante la Superintendencia de Industria y Comercio."
+    ],
+    "correct": 2,
+    "explanation": "Este artículo garantiza la autonomía de la voluntad y la validez de los acuerdos alcanzados a través de medios electrónicos."
+  },
+  {
+    "question": "¿En qué caso se entiende que un mensaje de datos proviene del iniciador según el artículo 16? Ley 527 de 1999.",
+    "options": [
+      "Si fue enviado por un sistema de información programado por el iniciador para operar automáticamente.",
+      "Solo si el iniciador lo envió personalmente desde su dispositivo móvil.",
+      "Cuando el destinatario supone que proviene de cierta persona por el estilo de redacción.",
+      "Siempre que el mensaje contenga el nombre completo del remitente al final del texto."
+    ],
+    "correct": 0,
+    "explanation": "La ley atribuye al iniciador las acciones de los agentes inteligentes o sistemas automatizados programados para actuar en su nombre."
+  },
+  {
+    "question": "Para cumplir con la obligación de 'Conservación de documentos' (Art. 12), es necesario conservar: Ley 527 de 1999.",
+    "options": [
+      "Únicamente el texto principal del mensaje, descartando los encabezados técnicos.",
+      "La información en un formato que permita demostrar que reproduce con exactitud lo generado o recibido.",
+      "Cualquier resumen o síntesis realizada por el departamento jurídico de la empresa.",
+      "Los datos cuya única finalidad sea facilitar el envío o recepción de los mensajes."
+    ],
+    "correct": 1,
+    "explanation": "La integridad de la reproducción es clave para que el archivo digital sea jurídicamente válido y pueda ser usado como prueba."
+  },
+  {
+    "question": "Si el destinatario NO ha designado un sistema de información para recibir mensajes, ¿cuándo se tiene por recibido el mensaje? Ley 527 de 1999.",
+    "options": [
+      "Nunca, ya que es obligación tener un sistema designado oficialmente.",
+      "En el momento en que el mensaje ingresa a un sistema de información del destinatario.",
+      "Cuando el iniciador recibe una llamada telefónica confirmando la lectura.",
+      "Transcurridas 24 horas desde que el iniciador presionó el botón de enviar."
+    ],
+    "correct": 1,
+    "explanation": "Según el artículo 24, a falta de designación previa, la recepción ocurre cuando el dato entra en cualquier sistema controlado por el receptor."
+  },
+  {
+    "question": "¿Cuál es la función principal de la Superintendencia de Industria y Comercio respecto a las Entidades de Certificación? Ley 527 de 1999.",
+    "options": [
+      "Actuar como la única entidad autorizada para emitir firmas digitales.",
+      "Autorizar su actividad y velar por el funcionamiento eficiente del servicio.",
+      "Cobrar las tarifas de cada firma digital que un ciudadano compre.",
+      "Redactar los contratos privados que las empresas firman digitalmente."
+    ],
+    "correct": 1,
+    "explanation": "La SIC actúa como el órgano de control y vigilancia que asegura que las entidades cumplan con los requisitos técnicos y legales exigidos."
+  },
+  {
+    "question": "En caso de pérdida de la clave privada de una firma digital, el suscriptor está obligado a: Ley 527 de 1999.",
+    "options": [
+      "Cambiar su nombre y domicilio para evitar suplantaciones.",
+      "Solicitar la revocación del certificado a la entidad de certificación.",
+      "Pagar una multa inmediata a la Superintendencia de Industria y Comercio.",
+      "Esperar a que el certificado expire automáticamente según su fecha de vigencia."
+    ],
+    "correct": 1,
+    "explanation": "La revocación es el mecanismo legal obligatorio para invalidar una firma comprometida y proteger la confianza de terceros."
+  },
+  {
+    "question": "Para que un mensaje de datos sea considerado un 'Original' ante la ley, ¿qué requisito adicional debe cumplir según el artículo 8? Ley 527 de 1999.",
+    "options": [
+      "Debe haber sido impreso directamente desde el sistema que lo generó.",
+      "Debe existir una garantía confiable de que se ha conservado la integridad de la información desde su generación.",
+      "Debe ser enviado únicamente a través de servidores estatales.",
+      "Debe tener una marca de agua digital visible en todas sus páginas."
+    ],
+    "correct": 1,
+    "explanation": "La ley exige que exista una garantía de integridad (que no haya sido alterado) para que el mensaje de datos cumpla la función de un documento original."
+  },
+  {
+    "question": "Si el iniciador solicita un 'Acuse de recibo' y no llega a un acuerdo con el destinatario sobre cómo hacerlo, ¿qué establece el artículo 21? Ley 527 de 1999.",
+    "options": [
+      "El mensaje se considera recibido automáticamente a las 12 horas.",
+      "El mensaje carece de toda validez legal.",
+      "Se puede dar por recibido mediante cualquier comunicación del destinatario o acto que indique la recepción.",
+      "El iniciador debe enviar obligatoriamente un telegrama físico de confirmación."
+    ],
+    "correct": 2,
+    "explanation": "La ley es flexible: si no hay acuerdo previo, cualquier señal clara de recepción por parte del destinatario es suficiente legalmente."
+  },
+  {
+    "question": "En relación con el transporte de mercancías (Art. 26), ¿qué permite la ley respecto a los conocimientos de embarque? Ley 527 de 1999.",
+    "options": [
+      "Prohíbe el uso de mensajes de datos para títulos valores de transporte.",
+      "Exige que los contratos de transporte sigan siendo siempre en papel por seguridad.",
+      "Permite que actos como la concesión de derechos o entrega de mercancías se realicen mediante mensajes de datos.",
+      "Solo permite mensajes de datos en transporte terrestre, excluyendo el marítimo."
+    ],
+    "correct": 2,
+    "explanation": "La ley moderniza el sector transporte permitiendo que los títulos de mercancías y contratos circulen electrónicamente con plena validez."
+  },
+  {
+    "question": "¿Qué criterio debe seguir un juez al valorar la fuerza probatoria de un mensaje de datos según el artículo 10? Ley 527 de 1999.",
+    "options": [
+      "Debe ignorarlo si no hay una copia física firmada.",
+      "Debe aplicar las reglas de la 'sana crítica' y evaluar la confiabilidad del método de creación y archivo.",
+      "Debe darle menos valor que a un documento público notariado.",
+      "Debe exigir que un perito informático valide cada mensaje de datos sin excepción."
+    ],
+    "correct": 1,
+    "explanation": "La valoración probatoria se basa en la confiabilidad del sistema en que se generó y conservó el mensaje, bajo el criterio de la sana crítica."
+  },
+  {
+    "question": "¿Qué validez tienen los certificados de firmas digitales emitidos en el extranjero según el artículo 44? Ley 527 de 1999.",
+    "options": [
+      "Ninguna; deben ser tramitados nuevamente en Colombia.",
+      "Solo son válidos si el país de origen tiene un convenio de reciprocidad firmado.",
+      "Tienen los mismos efectos jurídicos que los nacionales si ofrecen un grado de fiabilidad equivalente.",
+      "Solo son válidos para empresas extranjeras que operen fuera del territorio nacional."
+    ],
+    "correct": 2,
+    "explanation": "La ley promueve la interoperabilidad internacional, reconociendo certificados extranjeros siempre que su estándar de seguridad sea equivalente al nacional."
   }
 ]
