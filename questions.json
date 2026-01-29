@@ -2768,15 +2768,15 @@
     "explanation": "El responsable debe garantizar que existan canales para que el ciudadano ejerza sus derechos."
   },
   {
-    "question": "En el procedimiento de RECLAMO, si el reclamo resulta incompleto, según la Ley 1581 de 2012 el interesado tiene:",
+    "question": "¿Qué plazo tiene el Responsable o Encargado para solicitar al interesado que subsane las fallas de un reclamo incompleto? Ley 1581 de 2012.",
     "options": [
-      "Dos (2) días para corregirlo.",
-      "Cinco (5) días para subsanar las fallas tras el requerimiento.",
-      "Un (1) mes para completar la información.",
-      "No tiene oportunidad de corregir, debe empezar de cero."
+      "Dos (2) días hábiles contados desde la recepción.",
+      "Cinco (5) días siguientes a la fecha de recepción del reclamo.",
+      "Quince (15) días hábiles para pedir la información faltante.",
+      "Dos (2) meses desde que se recibió la queja inicial."
     ],
     "correct": 1,
-    "explanation": "Si el reclamo está incompleto, el Responsable pide corregirlo y el titular tiene 5 días para hacerlo."
+    "explanation": "Según el Artículo 15 de la Ley 1581 de 2012, si el reclamo está incompleto, el Responsable debe pedir la corrección dentro de los 5 días siguientes. El titular tendrá luego 2 meses para responder."
   },
   {
     "question": "Una vez recibido un reclamo completo, Según la Ley 1581 de 2012 el Responsable debe incluir en la base de datos una leyenda que diga:",
