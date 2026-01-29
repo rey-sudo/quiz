@@ -2600,5 +2600,281 @@
     ],
     "correct": 2,
     "explanation": "La ley promueve la interoperabilidad internacional, reconociendo certificados extranjeros siempre que su estándar de seguridad sea equivalente al nacional."
+  },
+
+  {
+    "question": "¿Cuál es el objeto principal de la Ley 1581 de 2012?",
+    "options": [
+      "Regular exclusivamente el intercambio de información financiera y crediticia.",
+      "Desarrollar el derecho constitucional a conocer, actualizar y rectificar la información recogida en bases de datos.",
+      "Establecer las normas de propiedad intelectual sobre las bases de datos digitales.",
+      "Prohibir el almacenamiento de datos personales por parte de entidades privadas."
+    ],
+    "correct": 1,
+    "explanation": "La ley reglamenta el derecho de Habeas Data (Art. 15 CP) para que los ciudadanos controlen su información personal en cualquier base de datos."
+  },
+  {
+    "question": "¿En qué caso NO es aplicable el régimen de protección de datos personales establecido en la ley 1581 de 2012?",
+    "options": [
+      "A las bases de datos de empresas privadas con fines de mercadeo.",
+      "Al tratamiento de datos efectuado por entidades públicas en ejercicio de sus funciones.",
+      "A las bases de datos mantenidas en un ámbito exclusivamente personal o doméstico.",
+      "Al tratamiento de datos biométricos en empresas de seguridad privada."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 2 exceptúa los archivos de uso puramente personal o familiar, siempre que no se compartan con terceros."
+  },
+  {
+    "question": "Según las definiciones de la ley 1581 de 2012, ¿quién es el 'Encargado del Tratamiento'?",
+    "options": [
+      "La persona natural cuyos datos personales son objeto de tratamiento.",
+      "Quien decide sobre la base de datos y/o el tratamiento de los mismos.",
+      "La persona que realiza el tratamiento de datos por cuenta del Responsable.",
+      "La autoridad pública que vigila el cumplimiento de la ley."
+    ],
+    "correct": 2,
+    "explanation": "El Encargado es quien ejecuta el tratamiento (como una empresa de software o call center) siguiendo las órdenes del Responsable."
+  },
+  {
+    "question": "¿Qué establece el principio de libertad en el tratamiento de datos personales? Ley 1581 de 2012.",
+    "options": [
+      "Que los datos pueden circular libremente por internet sin restricciones técnicas.",
+      "Que el tratamiento solo puede ejercerse con el consentimiento previo, expreso e informado del Titular.",
+      "Que el Responsable es libre de cambiar la finalidad del tratamiento en cualquier momento.",
+      "Que los titulares son libres de no actualizar su información aunque sea errónea."
+    ],
+    "correct": 1,
+    "explanation": "Sin la voluntad del titular (autorización), el tratamiento no es legal, salvo las excepciones de ley."
+  },
+  {
+    "question": "¿Cuál de los siguientes se considera un 'Dato Sensible' según la Ley 1581 de 2012?",
+    "options": [
+      "El número de teléfono celular personal.",
+      "La dirección de correo electrónico corporativa.",
+      "Información que revele la orientación política o convicciones religiosas.",
+      "El historial de compras en una tienda de ropa."
+    ],
+    "correct": 2,
+    "explanation": "Los datos sensibles son aquellos que afectan la intimidad o cuya utilización indebida puede generar discriminación."
+  },
+  {
+    "question": "¿En qué circunstancia NO es necesaria la autorización del Titular para el tratamiento de sus datos? Ley 1581 de 2012.",
+    "options": [
+      "Cuando los datos son requeridos por una entidad pública en ejercicio de sus funciones legales.",
+      "Cuando el Responsable considera que la información es de interés comercial.",
+      "Cuando se trate de datos personales de contacto de directivos de empresas.",
+      "Siempre que el tratamiento se realice a través de medios electrónicos."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 10 establece que las órdenes de autoridades judiciales o administrativas en cumplimiento de sus funciones no requieren autorización previa."
+  },
+  {
+    "question": "¿Cuál es el término máximo para atender una 'Consulta' realizada por un Titular? Ley 1581 de 2012.",
+    "options": [
+      "Cinco (5) días hábiles improrrogables.",
+      "Quince (15) días hábiles desde la fecha de recibo.",
+      "Diez (10) días hábiles contados a partir de la fecha de recibo.",
+      "Dos (2) meses calendario."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 14 establece 10 días hábiles, prorrogables por 5 días más informando al interesado."
+  },
+  {
+    "question": "Para elevar una queja ante la Superintendencia de Industria y Comercio (SIC), Ley 1581 de 2012 el Titular debe: ",
+    "options": [
+      "Contratar obligatoriamente a un abogado especialista en datos.",
+      "Haber agotado el trámite de consulta o reclamo ante el Responsable o Encargado.",
+      "Publicar el incumplimiento en un diario de amplia circulación nacional.",
+      "Esperar a que el daño causado sea superior a un salario mínimo."
+    ],
+    "correct": 1,
+    "explanation": "Es el requisito de procedibilidad: primero se debe intentar resolver directamente con quien maneja el dato."
+  },
+  {
+    "question": "¿Cuál es la sanción máxima en multas que puede imponer la SIC a personas de naturaleza privada? Ley 1581 de 2012.",
+    "options": [
+      "Hasta quinientos (500) salarios mínimos mensuales.",
+      "Hasta mil (1.000) millones de pesos fijos.",
+      "Equivalente a dos mil (2.000) salarios mínimos mensuales legales vigentes.",
+      "La clausura definitiva de la empresa sin derecho a defensa."
+    ],
+    "correct": 2,
+    "explanation": "La SIC puede imponer multas de carácter institucional y personal hasta por 2.000 SMMLV."
+  },
+  {
+    "question": "¿Cuál es la regla general sobre la transferencia de datos personales a terceros países? Ley 1581 de 2012.",
+    "options": [
+      "Está totalmente permitida siempre que el servidor sea económico.",
+      "Se prohíbe a países que no proporcionen niveles adecuados de protección de datos.",
+      "Solo se permite si el país de destino tiene un tratado de libre comercio con Colombia.",
+      "Es obligatoria para todas las multinacionales sin necesidad de autorización."
+    ],
+    "correct": 1,
+    "explanation": "Se busca que los datos no pierdan su protección legal al salir del territorio nacional."
+  },
+  {
+    "question": "De acuerdo con el Artículo 4 Ley 1581 de 2012, el principio de 'Seguridad' obliga a:",
+    "options": [
+      "Garantizar que la información sea veraz y completa.",
+      "Emplear medidas técnicas, humanas y administrativas para evitar adulteración, pérdida o acceso no autorizado.",
+      "Permitir que el Titular acceda a sus datos de forma gratuita.",
+      "Registrar la base de datos ante la Superintendencia de Industria y Comercio."
+    ],
+    "correct": 1,
+    "explanation": "La seguridad implica proteger la integridad de los datos contra riesgos accidentales o intencionales."
+  },
+  {
+    "question": "¿En qué formato debe obtenerse la autorización del Titular según la Ley 1581 de 2012?",
+    "options": [
+      "Únicamente de forma escrita y con firma ante notario.",
+      "Solo mediante clics en páginas web (medios electrónicos).",
+      "En cualquier medio que permita su consulta posterior, sea oral, escrito o mediante conductas inequívocas.",
+      "No requiere formato, el silencio del titular se entiende como aceptación."
+    ],
+    "correct": 2,
+    "explanation": "La ley permite diversos medios siempre que el Responsable pueda probar que el titular dio su consentimiento."
+  },
+  {
+    "question": "Sobre los datos de Niños, Niñas y Adolescentes (NNA), la Ley 1581 de 2012 establece que:",
+    "options": [
+      "Está terminantemente prohibido su tratamiento bajo cualquier circunstancia.",
+      "El tratamiento es libre si los padres no se oponen.",
+      "Se prohíbe el tratamiento excepto cuando se asegure el respeto a sus derechos e interés superior.",
+      "Solo el Estado puede tratar datos de menores de edad."
+    ],
+    "correct": 2,
+    "explanation": "El bienestar del menor es prevalente; solo se tratan datos si es en su beneficio y respetando sus derechos."
+  },
+  {
+    "question": "El Artículo 12 de la Ley 1581 de 2012 obliga al Responsable a informar al Titular al momento de solicitar sus datos sobre:",
+    "options": [
+      "El balance contable de la empresa recolectora.",
+      "El tratamiento que se le dará a los datos y la finalidad del mismo.",
+      "La lista de todos los demás clientes que han autorizado el tratamiento.",
+      "El nombre del programador que diseñó la base de datos."
+    ],
+    "correct": 1,
+    "explanation": "El titular debe ser plenamente consciente de qué se hará con su información antes de entregarla."
+  },
+  {
+    "question": "¿Cuál es un deber específico del 'Responsable del Tratamiento' según el Artículo 17 de la Ley 1581 de 2012?",
+    "options": [
+      "Pagar al Titular por el uso de sus datos personales.",
+      "Tramitar las consultas y reclamos formulados por los Titulares.",
+      "Eliminar los datos cada 30 días automáticamente.",
+      "Vender la base de datos al mejor postor para rentabilizar la información."
+    ],
+    "correct": 1,
+    "explanation": "El responsable debe garantizar que existan canales para que el ciudadano ejerza sus derechos."
+  },
+  {
+    "question": "En el procedimiento de RECLAMO, si el reclamo resulta incompleto, según la Ley 1581 de 2012 el interesado tiene:",
+    "options": [
+      "Dos (2) días para corregirlo.",
+      "Cinco (5) días para subsanar las fallas tras el requerimiento.",
+      "Un (1) mes para completar la información.",
+      "No tiene oportunidad de corregir, debe empezar de cero."
+    ],
+    "correct": 1,
+    "explanation": "Si el reclamo está incompleto, el Responsable pide corregirlo y el titular tiene 5 días para hacerlo."
+  },
+  {
+    "question": "Una vez recibido un reclamo completo, Según la Ley 1581 de 2012 el Responsable debe incluir en la base de datos una leyenda que diga:",
+    "options": [
+      "'Persona non grata'.",
+      "'Dato bloqueado por la SIC'.",
+      "'Reclamo en trámite' y el motivo del mismo.",
+      "'Dato falso'."
+    ],
+    "correct": 2,
+    "explanation": "Esto advierte a terceros que el dato está siendo cuestionado por el titular."
+  },
+  {
+    "question": "¿Qué ocurre si un Titular solicita la supresión de sus datos pero tiene un deber legal o contractual de permanecer en la base de datos? Ley 1581 de 2012.",
+    "options": [
+      "El Responsable debe eliminarlos de inmediato por orden de la ley.",
+      "La solicitud de supresión no procederá.",
+      "El Responsable debe cobrarle una multa al Titular.",
+      "Se eliminan los datos pero se guarda una copia física en un archivo secreto."
+    ],
+    "correct": 1,
+    "explanation": "Existen obligaciones que obligan a conservar el dato, como un contrato vigente o una orden legal."
+  },
+  {
+    "question": "El principio de 'Finalidad' Ley 1581 de 2012 implica que:",
+    "options": [
+      "El tratamiento debe obedecer a una finalidad legítima de acuerdo con la Constitución y la Ley.",
+      "Los datos deben borrarse al final del día.",
+      "El fin justifica los medios en la recolección de información.",
+      "La finalidad solo la conoce el dueño de la empresa."
+    ],
+    "correct": 0,
+    "explanation": "No se pueden usar datos para propósitos ocultos o contrarios a la ley."
+  },
+  {
+    "question": "¿Quién es el encargado de administrar el Registro Nacional de Bases de Datos (RNBD)? Ley 1581 de 2012.",
+    "options": [
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones.",
+      "La Superintendencia de Industria y Comercio (SIC).",
+      "La Registraduría Nacional del Estado Civil.",
+      "El Archivo General de la Nación."
+    ],
+    "correct": 1,
+    "explanation": "La SIC es la autoridad de control y vigilancia en materia de protección de datos personales."
+  },
+  {
+    "question": "¿Qué es la 'Transferencia' de datos personales? Ley 1581 de 2012.",
+    "options": [
+      "Mandar un correo electrónico con un archivo adjunto a un compañero de oficina.",
+      "Cuando el Responsable envía la información a un receptor que es Responsable y se encuentra fuera o dentro del país.",
+      "Vender los datos en el mercado negro.",
+      "Publicar los datos en la cartelera de la empresa."
+    ],
+    "correct": 1,
+    "explanation": "Implica la entrega de datos a un tercero para que este asuma un rol de decisión sobre el tratamiento."
+  },
+  {
+    "question": "En caso de infracción, según la Ley 1581 de 2012 la SIC puede ordenar el cierre temporal de una base de datos por un término de:",
+    "options": [
+      "Hasta doce (12) meses.",
+      "Hasta seis (6) meses.",
+      "Solo por 24 horas para investigación.",
+      "Diez (10) días hábiles."
+    ],
+    "correct": 1,
+    "explanation": "Es una sanción administrativa que busca detener el tratamiento mientras se corrigen las fallas."
+  },
+  {
+    "question": "¿Qué sucede con las bases de datos que fueron creadas ANTES de la vigencia de la Ley 1581 de 2012?",
+    "options": [
+      "Quedan exceptuadas de cumplir la ley por principio de irretroactividad.",
+      "Deben ser destruidas inmediatamente.",
+      "Los Responsables deben solicitar autorización a los titulares para continuar con el tratamiento.",
+      "Pasan a ser propiedad exclusiva del Estado."
+    ],
+    "correct": 2,
+    "explanation": "La ley aplica de forma inmediata; los datos existentes debían legalizarse mediante autorización o aviso público."
+  },
+  {
+    "question": "El principio de 'Acceso y Circulación Restringida' Ley 1581 de 2012 prohíbe:",
+    "options": [
+      "Que los datos personales estén disponibles en Internet sin niveles de control.",
+      "Que el Titular vea sus propios datos.",
+      "Que la empresa use los datos para facturar.",
+      "Que los datos se guarden en computadores portátiles."
+    ],
+    "correct": 0,
+    "explanation": "Los datos personales (excepto los públicos) no pueden ser de libre acceso masivo en la web."
+  },
+  {
+    "question": "¿A qué se refiere el 'Derecho de Rectificación'? Ley 1581 de 2012.",
+    "options": [
+      "A borrar todos los datos de la base de datos.",
+      "A corregir datos parciales, inexactos, incompletos, fraccionados o que induzcan a error.",
+      "A pedir una indemnización por el uso del dato.",
+      "A cambiar el nombre del Responsable del tratamiento."
+    ],
+    "correct": 1,
+    "explanation": "Es el derecho a que la información en el sistema coincida con la realidad del titular."
   }
 ]
