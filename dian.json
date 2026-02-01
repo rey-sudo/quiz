@@ -27,11 +27,11 @@
     "options": [
       "Permanece en el país más de 183 días en un período de 365 días.",
       "Su cónyuge e hijos menores son residentes fiscales en Colombia.",
-      "Es nacional y tiene el 50% de sus ingresos de fuente extranjera.",
-      "Es funcionario del servicio exterior colombiano bajo convenios de Viena."
+      "Es nacional, tiene residencia fiscal en otro país y el 50% de sus ingresos son de esa jurisdicción.",
+      "Es funcionario del servicio exterior colombiano acreditado en el exterior."
     ],
-    "correct": 3,
-    "explanation": "El Artículo 10 establece que NO se consideran residentes, entre otros, a los funcionarios del servicio exterior colombiano acreditados en el exterior, que ejerzan sus funciones en el marco de los convenios de Viena sobre relaciones diplomáticas y consulares. Las opciones 0 y 1 son criterios positivos de residencia. La opción 2 no es un criterio automático de no residencia, ya que el artículo señala que ser nacional con más del 50% de ingresos de fuente nacional SÍ es criterio de residencia; tener el 50% de fuente extranjera no lo excluye por sí solo."
+    "correct": 2,
+    "explanation": "Según el Parágrafo 2 del Artículo 10, los nacionales colombianos no serán residentes si tienen su residencia fiscal en otra jurisdicción y el 50% o más de sus ingresos provienen de ella. Nota: El numeral 3 literal d) del mismo artículo aclara que los diplomáticos colombianos SÍ se consideran residentes fiscales en Colombia, por lo cual esa opción no servía para la negación."
   },
   {
     "question": "¿Cuál es la tarifa especial del impuesto sobre la renta para las cooperativas según el Art. 19-4 (vigente desde 2019)?",
@@ -564,15 +564,15 @@
     "explanation": "El Artículo 102, numeral 3, establece que cuando no se permita identificar a los beneficiarios, las rentas serán gravadas en cabeza del patrimonio autónomo a la tarifa de las sociedades colombianas, asimilándose a una sociedad anónima."
   },
   {
-    "question": "Según el Art. 107, para ser deducible, una expensa debe tener relación de:",
+    "question": "Según el Art. 107, para que las expensas (gastos) sean deducibles de la renta bruta, ¿qué requisitos deben cumplir?",
     "options": [
-      "Temporalidad con el ingreso.",
-      "Causalidad con la actividad productora de renta.",
-      "Proporcionalidad con el patrimonio.",
-      "Dependencia con la situación financiera."
+      "Que sean pagadas exclusivamente en el último trimestre del año.",
+      "Que tengan relación de causalidad, necesidad y proporcionalidad con las actividades productoras de renta.",
+      "Que hayan sido aprobadas mediante acta por la revisoría fiscal.",
+      "Que no excedan el 15% del patrimonio bruto del contribuyente."
     ],
     "correct": 1,
-    "explanation": "El Artículo 107 establece que son deducibles las expensas realizadas en el desarrollo de cualquier actividad productora de renta, siempre que tengan relación de causalidad con dichas actividades."
+    "explanation": "El Artículo 107 del Estatuto Tributario establece que las expensas son deducibles siempre que tengan relación de causalidad con las actividades productoras de renta y que sean necesarias y proporcionadas de acuerdo con cada actividad. Estos tres criterios (causalidad, necesidad y proporcionalidad) son los pilares fundamentales para la validación de cualquier costo o gasto."
   },
   {
     "question": "Según el Art. 107, NO son deducibles las expensas provenientes de:",
