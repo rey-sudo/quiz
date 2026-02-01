@@ -1474,8 +1474,8 @@
       "Acuerdo 060 de 2001",
       "Acuerdo 004 de 2013"
     ],
-    "correct": 1,
-    "explanation": "El Acuerdo 042 de 2002 derogado por Acuerdo No. 001 del 2024  del Archivo General de la Nación se menciona como normatividad aplicable para el Plan de Transferencias Documentales."
+    "correct": 0,
+    "explanation": "Acuerdo No. 001 del 2024  del Archivo General de la Nación se menciona como normatividad aplicable para el Plan de Transferencias Documentales."
   },
   {
     "question": "¿Qué ley reglamenta el acceso y uso de los mensajes de datos y firmas digitales? Política de gestión documental.",
