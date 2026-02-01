@@ -1,0 +1,599 @@
+[
+  {
+    "question": "¿Qué es el Decreto 624 de 1989 en Colombia?",
+    "options": [
+      "La norma que regula exclusivamente el impuesto sobre la renta para personas naturales.",
+      "La compilación de normas sobre impuestos sobre la renta y complementarios, conocido como Estatuto Tributario.",
+      "El decreto que crea la Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "La ley que establece el impuesto al valor agregado (IVA)."
+    ],
+    "correct": 1,
+    "explanation": "El Decreto 624 de 1989, también conocido como el Estatuto Tributario, es la compilación sistemática de las normas relativas a los impuestos sobre la renta y complementarios (impuesto de ganancias ocasionales, impuesto de remesas, entre otros). Aunque ha sido modificado por numerosas leyes y decretos posteriores, constituye el cuerpo normativo fundamental del sistema del impuesto sobre la renta en Colombia."
+  },
+
+  {
+    "question": "¿A partir de qué fecha entraron en vigor las normas sobre presencia económica significativa en Colombia (Art. 20-3)?",
+    "options": [
+      "1 de enero de 2020",
+      "1 de enero de 2023",
+      "1 de enero de 2024",
+      "1 de julio de 2024"
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 20-3, adicionado por la Ley 2277 de 2022, entró a regir a partir del 1 de enero de 2024, según su parágrafo 8."
+  },
+  {
+    "question": "Según el Art. 10, una persona natural NO se considera residente en Colombia para efectos tributarios si:",
+    "options": [
+      "Permanece en el país más de 183 días en un período de 365 días.",
+      "Su cónyuge e hijos menores son residentes fiscales en Colombia.",
+      "Es nacional y tiene el 50% de sus ingresos de fuente extranjera.",
+      "Es funcionario del servicio exterior colombiano bajo convenios de Viena."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 10 establece que NO se consideran residentes, entre otros, a los funcionarios del servicio exterior colombiano acreditados en el exterior, que ejerzan sus funciones en el marco de los convenios de Viena sobre relaciones diplomáticas y consulares. Las opciones 0 y 1 son criterios positivos de residencia. La opción 2 no es un criterio automático de no residencia, ya que el artículo señala que ser nacional con más del 50% de ingresos de fuente nacional SÍ es criterio de residencia; tener el 50% de fuente extranjera no lo excluye por sí solo."
+  },
+  {
+    "question": "¿Cuál es la tarifa especial del impuesto sobre la renta para las cooperativas según el Art. 19-4 (vigente desde 2019)?",
+    "options": ["15%", "20%", "25%", "33%"],
+    "correct": 1,
+    "explanation": "El Artículo 19-4 establece que las cooperativas pertenecientes al Régimen Tributario Especial tributan sobre sus beneficios netos a la tarifa única especial del veinte por ciento (20%)."
+  },
+  {
+    "question": "Para efectos tributarios, ¿cuándo se considera que una sociedad extranjera tiene un establecimiento permanente en Colombia según el Art. 20-1?",
+    "options": [
+      "Cuando realiza actividades exclusivamente auxiliares o preparatorias.",
+      "Cuando su junta directiva se reúne ocasionalmente en Colombia.",
+      "Cuando tiene un lugar fijo de negocios a través del cual realiza toda o parte de su actividad.",
+      "Cuando contrata un agente independiente que actúa dentro del giro ordinario de su actividad."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 20-1 define establecimiento permanente como un lugar fijo de negocios ubicado en el país a través del cual una empresa extranjera realiza toda o parte de su actividad."
+  },
+  {
+    "question": "Según el Art. 90-3, ¿cuándo NO se aplica el gravamen a las enajenaciones indirectas de activos ubicados en Colombia?",
+    "options": [
+      "Cuando las acciones se negocian en una bolsa de valores reconocida con mercado secundario activo y no están concentradas en más de 20% en un beneficiario real.",
+      "Cuando el valor de los activos en Colombia representa menos del 50% del total de activos de la entidad.",
+      "Cuando la operación se realiza entre partes vinculadas.",
+      "Cuando el comprador es residente en Colombia."
+    ],
+    "correct": 0,
+    "explanation": "El Parágrafo 1 del Artículo 90-3 establece que no se aplicará cuando las acciones o derechos se encuentren inscritos en una Bolsa de Valores reconocida con mercado secundario activo y no estén concentradas en más del 20% en un mismo beneficiario real."
+  },
+  {
+    "question": "¿Qué porcentaje de sus ingresos brutos puede optar por declarar una persona no residente con presencia económica significativa según el Art. 20-3?",
+    "options": ["1%", "3%", "5%", "10%"],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 del Artículo 20-3 establece que la persona no residente puede optar por declarar y pagar una tarifa del tres por ciento (3%) sobre la totalidad de los ingresos brutos."
+  },
+  {
+    "question": "Según el Art. 12-1, ¿cuál NO es un criterio para considerar una sociedad como nacional para efectos tributarios?",
+    "options": [
+      "Tener su sede efectiva de administración en Colombia.",
+      "Haber sido constituida según leyes colombianas.",
+      "Tener más del 50% de sus accionistas residentes en Colombia.",
+      "Tener su domicilio principal en Colombia."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 12-1 establece como criterios: sede efectiva de administración en Colombia, domicilio principal en Colombia, o haber sido constituida en Colombia. La composición accionarial no es un criterio."
+  },
+  {
+    "question": "¿Qué tratamiento tiene el componente inflacionario de los rendimientos financieros para personas naturales según el Art. 38?",
+    "options": [
+      "Constituye renta gravable en su totalidad.",
+      "No constituye renta ni ganancia ocasional.",
+      "Se grava al 50%.",
+      "Solo es deducible para quienes llevan contabilidad."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 38 establece que no constituye renta ni ganancia ocasional la parte que corresponda al componente inflacionario de los rendimientos financieros percibidos por personas naturales y sucesiones ilíquidas."
+  },
+  {
+    "question": "Según el Art. 48, los dividendos percibidos por sociedades nacionales provenientes de otras sociedades nacionales:",
+    "options": [
+      "Constituyen renta gravable en su totalidad.",
+      "No constituyen renta ni ganancia ocasional, si cumplen condiciones.",
+      "Se gravan con tarifa preferencial del 10%.",
+      "Solo son exentos si se reinvierten en el mismo año."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 48 establece que los dividendos y participaciones percibidas por socios que sean sociedades nacionales no constituyen renta ni ganancia ocasional, siempre que correspondan a utilidades que hayan sido declaradas en cabeza de la sociedad."
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es considerado un ingreso de fuente nacional según el Art. 24?",
+    "options": [
+      "Rentas de trabajo desarrolladas físicamente en Colombia.",
+      "Dividendos de sociedades extranjeras obtenidos por residentes.",
+      "Regalías por propiedad industrial explotada en Colombia.",
+      "Ingresos por publicidad online dirigida a usuarios en Colombia."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 24 lista los ingresos de fuente nacional. Los dividendos de sociedades extranjeras no están en la lista; solo los dividendos de sociedades colombianas (numeral 9) y los de colombianos residentes que provengan de sociedades extranjeras con negocios en Colombia (numeral 10)."
+  },
+  {
+    "question": "Según el Art. 81, el componente inflacionario de los intereses y costos financieros:",
+    "options": [
+      "Es totalmente deducible.",
+      "No es deducible en su totalidad.",
+      "Es deducible solo para entidades financieras.",
+      "Se deduce al 50% para todos los contribuyentes."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 81 establece porcentajes crecientes de no deducibilidad del componente inflacionario (30% en 1989 hasta 100% en 1998 y siguientes). Por lo tanto, no es totalmente deducible."
+  },
+  {
+    "question": "¿Qué requiere un contribuyente para deducir pérdidas por inventarios obsoletos según el Art. 64?",
+    "options": [
+      "Solo una nota interna del contador.",
+      "Documento con cantidad, descripción, costo y justificación firmado por el representante legal.",
+      "Autorización previa de la DIAN.",
+      "Haberse vendido al menos el 50% del inventario en el año."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 64, numeral 2, exige como mínimo un documento con información detallada y justificación, firmado por el representante legal y los responsables de la destrucción."
+  },
+  {
+    "question": "Según el Art. 87, los costos y deducciones de profesionales independientes (personas naturales) no pueden exceder de:",
+    "options": [
+      "30% de sus ingresos por la actividad.",
+      "50% de sus ingresos por la actividad.",
+      "70% de sus ingresos por la actividad.",
+      "90% de sus ingresos por la actividad."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 87 establece un límite del cincuenta por ciento (50%) para los costos y deducciones imputables a la actividad propia de profesionales independientes y comisionistas que sean personas naturales."
+  },
+  {
+    "question": "Para efectos del Art. 20-3, se presume interacción deliberada y sistemática en el mercado colombiano cuando:",
+    "options": [
+      "Se tiene al menos 100,000 usuarios en Colombia.",
+      "Se permite el pago en pesos colombianos (COP).",
+      "Se realizan menos de 1,000 transacciones anuales.",
+      "Los servidores están ubicados físicamente en Colombia."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 1 del Artículo 20-3 establece que se presume interacción deliberada y sistemática cuando la persona no residente mantiene o establece la posibilidad de visualizar precios en COP o permitir el pago en COP."
+  },
+  {
+    "question": "¿Qué artículo establece la obligación de llevar contabilidad separada para establecimientos permanentes?",
+    "options": [
+      "Artículo 20-1",
+      "Artículo 20-2",
+      "Artículo 20-3",
+      "Artículo 21"
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 20-2, parágrafo 1, establece que los establecimientos permanentes y sucursales de sociedades extranjeras deberán llevar contabilidad separada."
+  },
+  {
+    "question": "Según el Art. 1, la obligación tributaria sustancial se origina cuando:",
+    "options": [
+      "El contribuyente presenta su declaración de renta.",
+      "Se realiza el presupuesto previsto en la ley como generador del impuesto.",
+      "La DIAN emite una resolución de determinación.",
+      "El contribuyente obtiene su RUT."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 1 establece que la obligación tributaria sustancial se origina al realizarse el presupuesto o los presupuestos previstos en la ley como generadores del impuesto."
+  },
+  {
+    "question": "Para efectos del impuesto sobre las ventas, según el Art. 4, se consideran sinónimos los términos:",
+    "options": [
+      "Contribuyente y agente retenedor.",
+      "Responsable y declarante.",
+      "Contribuyente y responsable.",
+      "Sujeto activo y sujeto pasivo."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 4 establece que para fines del impuesto sobre las ventas se consideran sinónimos los términos contribuyente y responsable."
+  },
+  {
+    "question": "De acuerdo con el Art. 5, el impuesto sobre la renta y complementarios se considera:",
+    "options": [
+      "Dos tributos independientes.",
+      "Un solo tributo.",
+      "Tres tributos diferentes.",
+      "Un tributo solo para personas jurídicas."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 5 establece que el impuesto sobre la renta y complementarios se considera como un solo tributo."
+  },
+  {
+    "question": "Según el Art. 6, el impuesto de renta de los asalariados no obligados a declarar es igual a:",
+    "options": [
+      "La tarifa general del impuesto.",
+      "El 50% de sus ingresos brutos.",
+      "La suma de las retenciones en la fuente practicadas durante el año.",
+      "Un monto fijo establecido por el Gobierno."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 6 establece que el impuesto de renta a cargo de asalariados no obligados a presentar declaración es el que resulte de sumar las retenciones en la fuente por todo concepto practicadas durante el año gravable."
+  },
+  {
+    "question": "Según el Art. 11, los bienes destinados a fines especiales por donaciones modales se gravan:",
+    "options": [
+      "Siempre en cabeza de los donatarios.",
+      "Según el régimen de personas naturales, excepto si los donatarios los usufructúan personalmente.",
+      "Con tarifa cero.",
+      "Solo si superan 5.000 UVT."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 11 establece que estos bienes están sometidos al impuesto según el régimen de personas naturales, excepto cuando los donatarios los usufructúan personalmente, caso en el cual se gravan en cabeza de quienes los recibieron."
+  },
+  {
+    "question": "De acuerdo con el Art. 13, las sociedades de responsabilidad limitada y asimiladas:",
+    "options": [
+      "No están sometidas al impuesto sobre la renta.",
+      "Están sometidas al impuesto, sin perjuicio de que los socios paguen sobre sus utilidades.",
+      "Solo pagan impuesto sobre el patrimonio.",
+      "Tienen una tarifa preferencial del 15%."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 13 establece que estas sociedades están sometidas al impuesto sobre la renta y complementarios, sin perjuicio de que los socios paguen el impuesto correspondiente sobre sus participaciones o utilidades."
+  },
+  {
+    "question": "Según el Art. 15, las cooperativas serán contribuyentes del impuesto sobre la renta si:",
+    "options": [
+      "Siempre lo son, independientemente de su actividad.",
+      "Destinan sus excedentes en forma diferente a la establecida en la legislación cooperativa.",
+      "Tienen más de 100 asociados.",
+      "Realizan actividades comerciales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 15 establece que las cooperativas se someterán al impuesto sobre la renta si destinan sus excedentes, en todo o en parte, en forma diferente a la que establece la legislación cooperativa vigente."
+  },
+  {
+    "question": "De acuerdo con el Art. 18, los contratos de colaboración empresarial (consorcios, uniones temporales, etc.):",
+    "options": [
+      "Son contribuyentes del impuesto sobre la renta.",
+      "No son contribuyentes; las partes declaran de manera independiente.",
+      "Solo pagan impuesto sobre ganancias ocasionales.",
+      "Están exentos del impuesto sobre la renta."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 18 establece que estos contratos NO son contribuyentes del impuesto sobre la renta. Sin embargo, tienen la obligación de presentar declaración informativa de renta. Las partes que los conforman deben declarar de manera independiente los activos, pasivos, ingresos, costos y deducciones que les correspondan."
+  },
+  {
+    "question": "Según el Art. 18-1, la tarifa general de retención en la fuente para inversionistas de capital de portafolio del exterior no domiciliados en paraísos fiscales es:",
+    "options": ["5%", "10%", "14%", "25%"],
+    "correct": 2,
+    "explanation": "El Artículo 18-1, literal e), establece una tarifa general de retención en la fuente del catorce por ciento (14%) para inversionistas no domiciliados en paraísos fiscales."
+  },
+  {
+    "question": "De acuerdo con el Art. 19, las asociaciones y fundaciones sin ánimo de lucro pueden solicitar ser contribuyentes del Régimen Tributario Especial si cumplen, entre otros, el requisito de que:",
+    "options": [
+      "Distribuyan sus excedentes entre sus fundadores.",
+      "Su objeto social sea de interés general en actividades meritorias.",
+      "Tengan ingresos superiores a 10.000 UVT anuales.",
+      "Sean vigiladas por la Superintendencia de Sociedades."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 19, numeral 2, establece como requisito que su objeto social sea de interés general en una o varias actividades meritorias establecidas en el artículo 359."
+  },
+  {
+    "question": "Según el Art. 23-1, los fondos de capital privado y de inversión colectiva:",
+    "options": [
+      "Son contribuyentes del impuesto sobre la renta.",
+      "No son contribuyentes; los ingresos se atribuyen a sus partícipes.",
+      "Solo pagan impuesto sobre el patrimonio.",
+      "Tienen una tarifa fija del 10%."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 23-1 establece que estos fondos no son contribuyentes; los ingresos, previa deducción de gastos, se distribuyen entre los suscriptores o partícipes, quienes los gravan como si los hubieran percibido directamente."
+  },
+  {
+    "question": "Según el Art. 25, no generan renta de fuente nacional:",
+    "options": [
+      "Los intereses de créditos a corto plazo por importación de mercancías.",
+      "Los arrendamientos de inmuebles ubicados en Colombia.",
+      "Los servicios técnicos prestados dentro de Colombia.",
+      "Los dividendos de sociedades colombianas."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 25, literal a) numeral 1, establece que no generan renta de fuente nacional los créditos a corto plazo originados en la importación de mercancías y servicios."
+  },
+  {
+    "question": "De acuerdo con el Art. 27, para contribuyentes no obligados a llevar contabilidad, los ingresos por enajenación de bienes inmuebles se entienden realizados en:",
+    "options": [
+      "La fecha del contrato promesa de venta.",
+      "La fecha de la escritura pública.",
+      "La fecha del pago total del precio.",
+      "La fecha de entrega material del inmueble."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 27, numeral 2, establece que los ingresos provenientes de la enajenación de bienes inmuebles se entienden realizados en la fecha de la escritura pública correspondiente."
+  },
+  {
+    "question": "Según el Art. 29, el valor de los pagos en especie constitutivos de ingresos se determina por:",
+    "options": [
+      "El valor en libros del activo.",
+      "El valor comercial en el momento de la entrega.",
+      "El costo histórico de adquisición.",
+      "El valor que fije la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 29 establece que el valor de los pagos o abonos en especie se determina por el valor comercial de las especies en el momento de la entrega."
+  },
+  {
+    "question": "De acuerdo con el Art. 30, se considera dividendos o participaciones en utilidades:",
+    "options": [
+      "La disminución de capital social.",
+      "La prima en colocación de acciones.",
+      "Toda distribución de beneficios con cargo a patrimonio.",
+      "El pago de intereses sobre aportes."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 30, numeral 1, define como dividendos o participaciones en utilidades toda distribución de beneficios, en dinero o en especie, con cargo a patrimonio."
+  },
+  {
+    "question": "Según el Art. 32, en contratos de concesión y APP, la amortización del activo intangible se efectúa:",
+    "options": [
+      "Por el método de saldos decrecientes.",
+      "En línea recta, según el plazo de la concesión.",
+      "Solo al final del contrato.",
+      "Según los flujos de caja del proyecto."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 32, numeral 2, establece que la amortización del costo fiscal del activo intangible se efectuará en línea recta, teniendo en cuenta el plazo de la concesión."
+  },
+  {
+    "question": "De acuerdo con el Art. 33, los ingresos por títulos de renta variable medidos a valor razonable serán objeto del impuesto sobre la renta:",
+    "options": [
+      "Al momento de su medición contable.",
+      "Al cierre de cada ejercicio fiscal.",
+      "Al momento de su enajenación o liquidación.",
+      "Nunca, están exentos."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 33, numeral 1, establece que los ingresos, costos y gastos devengados por estos instrumentos no serán objeto del impuesto sino hasta el momento de su enajenación o liquidación, lo que suceda primero."
+  },
+  {
+    "question": "Según el Art. 35, se presume de derecho que los préstamos entre sociedades y socios generan intereses a una tasa equivalente a:",
+    "options": [
+      "La DTF vigente a 31 de diciembre del año anterior.",
+      "El 10% anual fijo.",
+      "La tasa de usura.",
+      "La tasa promedio de colocación bancaria."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 35 establece que se presume de derecho que todo préstamo genera un rendimiento mínimo anual equivalente a la tasa DTF vigente a 31 de diciembre del año inmediatamente anterior al gravable."
+  },
+  {
+    "question": "De acuerdo con el Art. 36, la prima en colocación de acciones o cuotas sociales:",
+    "options": [
+      "Constituye renta gravable para la sociedad.",
+      "Hace parte del aporte y se somete a las reglas del capital.",
+      "Es un ingreso no constitutivo para los socios.",
+      "Se trata como un pasivo financiero."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 36 establece que el superávit de capital correspondiente a la prima en colocación hace parte del aporte y estará sometido a las mismas reglas tributarias aplicables al capital."
+  },
+  {
+    "question": "Según el Art. 38, para determinar la parte no gravable de rendimientos financieros por componente inflacionario, se divide la tasa de corrección monetaria por:",
+    "options": [
+      "La tasa de inflación del año.",
+      "La tasa de interés anual que corresponda a los rendimientos percibidos.",
+      "La DTF.",
+      "La tasa de usura."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 38 establece que el porcentaje no constitutivo de renta se determina dividiendo la tasa de corrección monetaria por la tasa de interés anual que corresponda a los rendimientos percibidos."
+  },
+  {
+    "question": "De acuerdo con el Art. 45, las indemnizaciones por seguros de daño en la parte correspondiente al daño emergente:",
+    "options": [
+      "Siempre son renta gravable.",
+      "Son ingreso no constitutivo, si se invierte en bienes similares.",
+      "Se gravan al 50%.",
+      "Solo son exentas para personas naturales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 45 establece que el valor de las indemnizaciones por seguros de daño (daño emergente) es un ingreso no constitutivo, siempre que se demuestre la inversión de la totalidad en la adquisición de bienes iguales o semejantes."
+  },
+  {
+    "question": "Según el Art. 49, para determinar los dividendos no gravados, a la renta líquida gravable se le resta:",
+    "options": [
+      "El patrimonio neto de la sociedad.",
+      "El impuesto básico de renta y ganancias ocasionales del año.",
+      "El total de los activos fijos.",
+      "Las reservas legales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 49, numeral 1, establece que se toma la Renta Líquida Gravable más las Ganancias Ocasionales Gravables y se le resta el resultado del Impuesto Básico de Renta y el Impuesto de Ganancias Ocasionales."
+  },
+  {
+    "question": "De acuerdo con el Art. 51, en la distribución por liquidación de una sociedad limitada, no constituye renta la distribución hasta por el monto del:",
+    "options": [
+      "Valor comercial de los activos.",
+      "Capital aportado más utilidades no distribuidas de años anteriores (si cumplen parámetros).",
+      "Patrimonio total incluyendo reservas.",
+      "50% del valor de los aportes."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 51 establece que no constituyen renta la distribución hasta por el monto del capital aportado más la parte alícuota en utilidades no distribuidas de años anteriores, siempre que se mantengan dentro de los parámetros de los artículos 48 y 49."
+  },
+  {
+    "question": "Según el Art. 55, los aportes obligatorios al Sistema General de Pensiones:",
+    "options": [
+      "Hacen parte de la base para retención en la fuente.",
+      "Son un ingreso no constitutivo de renta.",
+      "Son deducibles solo para el empleador.",
+      "Se gravan con tarifa del 10%."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 55 establece que los aportes obligatorios al Sistema General de Pensiones no harán parte de la base para retención en la fuente y serán considerados como un ingreso no constitutivo de renta ni ganancia ocasional."
+  },
+  {
+    "question": "De acuerdo con el Art. 58, para contribuyentes no obligados a llevar contabilidad, los costos se entienden realizados cuando:",
+    "options": [
+      "Se devengan contablemente.",
+      "Se pagan efectivamente o su exigibilidad termina por modo equivalente a pago.",
+      "Se facturan.",
+      "Se genera la obligación comercial."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 58 establece que para estos contribuyentes se entienden realizados los costos cuando se paguen efectivamente en dinero o en especie, o cuando su exigibilidad termine por cualquier otro modo que equivalga legalmente a un pago."
+  },
+  {
+    "question": "Según el Art. 60, los activos que se enajenan dentro del giro ordinario de los negocios se clasifican como:",
+    "options": [
+      "Activos fijos.",
+      "Activos movibles (inventarios).",
+      "Propiedades de inversión.",
+      "Activos intangibles."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 60 define como activos movibles los bienes que se enajenan dentro del giro ordinario de los negocios e implican existencias al principio y al fin de cada período."
+  },
+  {
+    "question": "De acuerdo con el Art. 64, los inventarios de fácil destrucción o pérdida pueden disminuirse hasta un:",
+    "options": [
+      "1% del inventario inicial más compras.",
+      "3% del inventario inicial más compras.",
+      "5% del costo de ventas.",
+      "10% del inventario final."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 64, numeral 1, permite disminuir hasta un tres por ciento (3%) de la suma del inventario inicial más las compras."
+  },
+  {
+    "question": "Según el Art. 66-1, para cultivos de café, se presume que un porcentaje del ingreso gravado corresponde a costos de mano de obra. Dicho porcentaje es:",
+    "options": ["20%", "30%", "40%", "50%"],
+    "correct": 2,
+    "explanation": "El Artículo 66-1 establece que se presume de derecho que el cuarenta por ciento (40%) del valor del ingreso gravado corresponde a costos y deducciones inherentes a la mano de obra."
+  },
+  {
+    "question": "De acuerdo con el Art. 72, el avalúo catastral puede ser tomado como costo fiscal para enajenación de inmuebles si figura en:",
+    "options": [
+      "La declaración del impuesto predial del año de la enajenación.",
+      "La declaración de renta o predial del año anterior a la enajenación.",
+      "Un avalúo comercial reciente.",
+      "La escritura de adquisición."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 72 establece que el autoavalúo o avalúo aceptable como costo fiscal será el que figure en la declaración del Impuesto Predial Unificado y/o declaración de renta correspondiente al año anterior al de la enajenación."
+  },
+  {
+    "question": "Según el Art. 74, la plusvalía (goodwill) adquirida en una combinación de negocios:",
+    "options": [
+      "Se amortiza en 10 años.",
+      "Se amortiza en 5 años.",
+      "No es susceptible de amortización.",
+      "Se amortiza según vida útil estimada."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 74, numeral 2, establece que la plusvalía (goodwill) determinada en fusiones, escisiones o adquisición de establecimientos de comercio no es susceptible de ser amortizada."
+  },
+  {
+    "question": "De acuerdo con el Art. 82, cuando no sea posible determinar el costo de activos enajenados, el funcionario puede estimarlo en:",
+    "options": [
+      "50% del valor de enajenación.",
+      "75% del valor de enajenación.",
+      "El valor en libros.",
+      "El avalúo catastral."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 82 establece que si no es posible determinar el costo mediante pruebas directas, se estimará en el setenta y cinco por ciento (75%) del valor de la respectiva enajenación."
+  },
+  {
+    "question": "Según el Art. 85, no serán deducibles los costos y gastos pagados a vinculados económicos que sean:",
+    "options": [
+      "Contribuyentes del régimen ordinario.",
+      "No contribuyentes del impuesto sobre la renta.",
+      "Residentes en el exterior.",
+      "Empresas industriales y comerciales del Estado."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 85 establece que no serán deducibles los costos y gastos cuando correspondan a pagos a favor de vinculados económicos que tengan el carácter de no contribuyentes del impuesto sobre la renta."
+  },
+  {
+    "question": "De acuerdo con el Art. 90, en la enajenación de inmuebles, NO se aceptará un precio inferior al:",
+    "options": [
+      "Costo, avalúo catastral o autoavalúo.",
+      "50% del valor comercial.",
+      "Valor de adquisición actualizado por IPC.",
+      "Valor determinado por perito oficial."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 90 establece que no se aceptará un precio inferior al costo, al avalúo catastral ni al autoavalúo, sin perjuicio de la posibilidad de un valor comercial superior."
+  },
+  {
+    "question": "Según el Art. 92, los activos biológicos productores (como animales o plantas reproductoras) se tratan para efectos fiscales como:",
+    "options": [
+      "Inventarios.",
+      "Propiedad, planta y equipo (depreciables).",
+      "Activos no corrientes mantenidos para la venta.",
+      "Gastos del período."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 93 establece que los activos biológicos productores serán tratados como propiedad, planta y equipo susceptibles de depreciación."
+  },
+  {
+    "question": "De acuerdo con el Art. 96, para compañías de seguros de vida, a los ingresos netos se les suma y resta el valor de:",
+    "options": [
+      "La prima de reaseguros cedidas.",
+      "La reserva técnica.",
+      "La reserva matemática.",
+      "Los siniestros avisados."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 96 establece que a los ingresos netos se suma el importe de la reserva matemática del año anterior y se resta el importe de la reserva matemática del año actual, entre otros conceptos."
+  },
+  {
+    "question": "Según el Art. 100, en rentas vitalicias, la pensión periódica constituye renta bruta para el beneficiario, estimada en un porcentaje anual del capital pagado equivalente a:",
+    "options": [
+      "La tasa de interés sobre depósitos bancarios a término.",
+      "La DTF.",
+      "El 10% fijo.",
+      "La tasa de usura."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 100, numeral 2, establece que la pensión periódica se estima en un porcentaje anual del precio o capital pagado, equivalente a la tasa de interés sobre depósitos bancarios a término."
+  },
+  {
+    "question": "De acuerdo con el Art. 102, en los contratos de fiducia mercantil, cuando no se pueden identificar los beneficiarios, las rentas se gravan en cabeza del patrimonio autónomo a la tarifa de:",
+    "options": [
+      "Personas naturales.",
+      "Sociedades colombianas.",
+      "Entidades sin ánimo de lucro.",
+      "No se gravan hasta que se identifiquen."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 102, numeral 3, establece que cuando no se permita identificar a los beneficiarios, las rentas serán gravadas en cabeza del patrimonio autónomo a la tarifa de las sociedades colombianas, asimilándose a una sociedad anónima."
+  },
+  {
+    "question": "Según el Art. 107, para ser deducible, una expensa debe tener relación de:",
+    "options": [
+      "Temporalidad con el ingreso.",
+      "Causalidad con la actividad productora de renta.",
+      "Proporcionalidad con el patrimonio.",
+      "Dependencia con la situación financiera."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 107 establece que son deducibles las expensas realizadas en el desarrollo de cualquier actividad productora de renta, siempre que tengan relación de causalidad con dichas actividades."
+  },
+  {
+    "question": "Según el Art. 107, NO son deducibles las expensas provenientes de:",
+    "options": [
+      "Actividades comerciales normales.",
+      "Conductas típicas consagradas como delito sancionable a título de dolo.",
+      "Operaciones con vinculados económicos.",
+      "Pagos en moneda extranjera."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 107 establece que en ningún caso serán deducibles las expensas provenientes de conductas típicas consagradas en la ley como delito sancionable a título de dolo."
+  },
+  {
+    "question": "El Art. 12-1 establece que la sede efectiva de administración se determina por el lugar donde materialmente se toman las decisiones. En caso de discusión, la decisión final la toma:",
+    "options": [
+      "El contribuyente.",
+      "Un perito independiente.",
+      "El Comité de Fiscalización de la DIAN.",
+      "La Superintendencia de Sociedades."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 12-1, parágrafo 3, establece que en casos de fiscalización en que se discuta la determinación del lugar de la sede de administración efectiva, la decisión será tomada por el Comité de Fiscalización de la DIAN."
+  }
+]

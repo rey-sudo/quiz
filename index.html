@@ -200,8 +200,10 @@
         const [loading, setLoading] = useState(true);
         const [error, setError] = useState(null);
 
+        const INPUT_NAME= "dian";
+
         React.useEffect(() => {
-          fetch(`questions.json?t=${new Date().getTime()}`)
+          fetch(`${INPUT_NAME}.json?t=${new Date().getTime()}`)
             .then((response) => {
               if (!response.ok) throw new Error("No se pudo cargar el archivo");
               return response.json();
