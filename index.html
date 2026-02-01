@@ -175,10 +175,20 @@
           return Math.round((score / questions.length) * 100);
         };
 
+        const getScoreColor = () => {
+          if (questions.length === 0) return "text-gray-200";
+
+          const percentage = Math.round((score / questions.length) * 100);
+
+          if (percentage >= 70) return "text-green-300";
+          if (percentage >= 40) return "text-yellow-300";
+          return "text-red-300";
+        };
+
         const getScoreMessage = () => {
           const percentage = getScorePercentage();
           if (percentage >= 90)
-            return "¡Excelente! Dominas la política de gestión documental.";
+            return "¡Excelente! Dominas el conocimiento.";
           if (percentage >= 70)
             return "¡Muy bien! Tienes un buen conocimiento del tema.";
           if (percentage >= 50)
@@ -317,7 +327,12 @@
                     <span className="text-sm">
                       Pregunta {currentQuestion + 1} de {questions.length}
                     </span>
-                    <span className="text-sm">Puntuación: {score}</span>
+                    <span
+                      className={`text-sm font-semibold ${getScoreColor()}`}
+                    >
+                      Puntuación: {score}/{questions.length} (
+                      {Math.round((score / questions.length) * 100)}%)
+                    </span>
                   </div>
                   <div className="w-full bg-blue-400 h-2 rounded-full mt-2">
                     <div
