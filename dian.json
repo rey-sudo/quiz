@@ -998,5 +998,116 @@
     ],
     "correct": 1,
     "explanation": "El artículo busca la eficiencia y neutralidad, permitiendo que el flujo de caja se mueva entre sociedades nacionales sin ser erosionado por el impuesto de renta en cada transferencia."
+  },
+
+  {
+    "question": "De acuerdo con la regla general del Artículo 24, ¿cuál es el criterio principal para considerar que la prestación de un servicio genera ingresos de fuente nacional? Decreto 624 de 1989.",
+    "options": [
+      "Que el pago se realice desde una cuenta bancaria en Colombia.",
+      "Que el servicio se preste dentro del territorio colombiano, sea de forma permanente o transitoria.",
+      "Que el prestador del servicio tenga un establecimiento físico propio en el país.",
+      "Que el beneficiario del servicio sea exclusivamente una entidad pública."
+    ],
+    "correct": 1,
+    "explanation": "La norma establece que la ejecución de la actividad dentro del país define la fuente nacional, independientemente de la duración o de si existe una oficina física."
+  },
+  {
+    "question": "En el caso de los servicios técnicos y de asistencia técnica, ¿qué particularidad establece la norma respecto a su origen? Decreto 624 de 1989.",
+    "options": [
+      "Solo son de fuente nacional si el técnico se desplaza físicamente a Colombia.",
+      "Se consideran de fuente nacional únicamente si el contrato supera los 100 UVT.",
+      "Son de fuente nacional sea que se suministren desde el exterior o en el país.",
+      "Son considerados ingresos de fuente extranjera si el software utilizado es de una multinacional."
+    ],
+    "correct": 2,
+    "explanation": "Los numerales 7 y 8 especifican que el aprovechamiento económico en el país prima sobre el lugar de origen del suministro, incluso si se prestan de forma remota."
+  },
+  {
+    "question": "¿Cuál de los siguientes se exceptúa de ser considerado ingreso de fuente nacional según el numeral 4 del Artículo 24? Decreto 624 de 1989.",
+    "options": [
+      "Intereses de créditos hipotecarios para vivienda en Colombia.",
+      "Intereses de créditos transitorios originados en la importación de mercancías.",
+      "Intereses pagados a residentes en el exterior por préstamos a largo plazo.",
+      "Rendimientos financieros de cuentas de ahorro en bancos nacionales."
+    ],
+    "correct": 1,
+    "explanation": "La ley hace una excepción específica para fomentar el comercio exterior mediante créditos transitorios de importación y sobregiros bancarios."
+  },
+  {
+    "question": "Respecto a los dividendos o participaciones, ¿cuándo se consideran de fuente nacional según el numeral 9? Decreto 624 de 1989.",
+    "options": [
+      "Solo cuando el socio es una persona natural residente.",
+      "Cuando provienen de sociedades colombianas domiciliadas en el país.",
+      "Siempre que el pago se realice en pesos colombianos.",
+      "Cuando la asamblea de accionistas se reúne fuera de Colombia."
+    ],
+    "correct": 1,
+    "explanation": "La fuente nacional se determina por el domicilio de la sociedad que distribuye la utilidad, no por la residencia del accionista ni el lugar de la reunión."
+  },
+  {
+    "question": "El numeral 17 introduce la 'Presencia Económica Significativa' (PES). ¿A quiénes afecta principalmente esta normativa? Decreto 624 de 1989.",
+    "options": [
+      "A exportadores colombianos que venden productos físicos a Europa.",
+      "A personas no residentes o entidades no domiciliadas que venden bienes o servicios digitales a clientes en Colombia.",
+      "A turistas extranjeros que realizan compras menores durante su estancia.",
+      "Exclusivamente a empresas de transporte de carga pesada nacional."
+    ],
+    "correct": 1,
+    "explanation": "Esta adición (Ley 2277 de 2022) busca gravar la economía digital y a vendedores remotos que, sin presencia física, explotan el mercado colombiano."
+  },
+  {
+    "question": "En un contrato 'llave en mano', ¿qué valor debe considerarse ingreso de fuente nacional para el contratista? Decreto 624 de 1989.",
+    "options": [
+      "Solo la porción correspondiente a la mano de obra local.",
+      "Únicamente el margen de utilidad neta después de impuestos.",
+      "El valor total del respectivo contrato.",
+      "Solo el valor de los materiales importados."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 15 establece que, para efectos fiscales, el valor íntegro de estos contratos es de fuente nacional para evitar la fragmentación de la base gravable."
+  },
+  {
+    "question": "Si un funcionario del Estado colombiano presta sus servicios en una embajada en el exterior, según Decreto 624 de 1989 su salario se considera:",
+    "options": [
+      "Ingreso de fuente extranjera por realizarse el trabajo fuera de Colombia.",
+      "Ingreso de fuente nacional, cualquiera que sea el lugar donde se hayan prestado.",
+      "Exento de impuestos por soberanía diplomática.",
+      "Ingreso de fuente nacional solo si el funcionario es residente fiscal."
+    ],
+    "correct": 1,
+    "explanation": "Según el numeral 6, las compensaciones pagadas por el Estado colombiano siempre conservan la fuente nacional por el origen del pagador público."
+  },
+  {
+    "question": "Según el Decreto 624 de 1989 Las utilidades obtenidas por la fabricación de mercancías en el país se consideran de fuente nacional:",
+    "options": [
+      "Solo si se venden dentro del territorio colombiano.",
+      "Cualquiera que sea el lugar de su venta o enajenación.",
+      "Siempre y cuando la materia prima sea 100% colombiana.",
+      "Solo si la empresa fabricante es de capital nacional."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 13 determina que el hecho generador es la transformación industrial realizada en Colombia, sin importar el destino final de la venta."
+  },
+  {
+    "question": "Sobre la explotación de recursos naturales (numeral 12 Decreto 624 de 1989), el ingreso es de fuente nacional si:",
+    "options": [
+      "Los productos se exportan a mercados internacionales.",
+      "Las fincas, minas o depósitos están ubicados dentro del territorio nacional.",
+      "La maquinaria utilizada es de origen colombiano.",
+      "El pago por la explotación se realiza en una divisa extranjera."
+    ],
+    "correct": 1,
+    "explanation": "La fuente nacional está ligada a la ubicación física de los bienes naturales explotados dentro del suelo o subsuelo colombiano."
+  },
+  {
+    "question": "¿Qué sucede con las regalías por propiedad literaria, artística y científica según el numeral 7 Decreto 624 de 1989?",
+    "options": [
+      "Son de fuente nacional solo si el autor nació en Colombia.",
+      "Son de fuente nacional cuando la propiedad es explotada en el país.",
+      "Nunca son de fuente nacional si se pagan a través de agencias extranjeras.",
+      "Están sujetas a la ley del país donde se registró el derecho de autor."
+    ],
+    "correct": 1,
+    "explanation": "El aprovechamiento económico de la obra en territorio colombiano es lo que otorga la calidad de fuente nacional al ingreso por regalías."
   }
 ]
