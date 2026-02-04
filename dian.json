@@ -752,5 +752,63 @@
     ],
     "correct": 1,
     "explanation": "El Parágrafo 1 indica que la simple posibilidad de visualizar precios o pagar en COP es suficiente para presumir interacción deliberada en el mercado colombiano."
+  },
+
+
+
+  {
+    "question": "¿Cuál de estos criterios NO determina por sí solo la nacionalidad de una sociedad según el Parágrafo 2 del Art. 12-1? Decreto 624 de 1989.",
+    "options": [
+      "Tener su domicilio principal en el territorio colombiano.",
+      "Haber sido constituida en Colombia de acuerdo con las leyes vigentes.",
+      "Que su junta directiva se reúna en el territorio colombiano.",
+      "Tener su sede efectiva de administración en Colombia."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 2 aclara que el simple hecho de que la junta directiva se reúna en el país o que los socios sean residentes no otorga nacionalidad por sede de administración."
+  },
+  {
+    "question": "Para efectos del beneficio del Parágrafo 6, ¿qué porcentaje de ingresos debe provenir de la jurisdicción de constitución? Decreto 624 de 1989.",
+    "options": [
+      "Igual o superior al 50%.",
+      "Igual o superior al 80%.",
+      "Menos del 25%.",
+      "Exactamente el 100%."
+    ],
+    "correct": 1,
+    "explanation": "La norma establece que no hay Sede Efectiva de Administración si los ingresos de la jurisdicción de origen son iguales o superiores al 80%."
+  },
+  {
+    "question": "Al calcular el porcentaje de ingresos para la excepción de nacionalidad, ¿cuál de estos se considera una renta pasiva? Decreto 624 de 1989.",
+    "options": [
+      "Venta de bienes físicos producidos en el exterior.",
+      "Prestación de servicios de consultoría técnica.",
+      "Intereses o regalías provenientes de la explotación de intangibles.",
+      "Dividendos de filiales con participación del 51%."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 6 excluye del cálculo de ingresos totales las rentas pasivas, mencionando explícitamente intereses y regalías por intangibles."
+  },
+  {
+    "question": "¿Qué condición debe cumplir una filial de una empresa que cotiza en bolsa para no tener sede de administración en Colombia? Decreto 624 de 1989.",
+    "options": [
+      "Tener un representante legal colombiano.",
+      "Estar consolidada contablemente en los estados financieros de la emisora.",
+      "Tener activos superiores a 100.000 UVT.",
+      "No tener oficinas físicas en territorio nacional."
+    ],
+    "correct": 1,
+    "explanation": "Según el Parágrafo 5, la subordinada debe estar consolidada a nivel contable en los estados financieros de la sociedad que emite acciones o bonos en bolsa."
+  },
+  {
+    "question": "¿Quién tiene la competencia para determinar el lugar de la sede de administración efectiva en casos de fiscalización? Decreto 624 de 1989.",
+    "options": [
+      "El Ministro de Hacienda.",
+      "Un Juez de la República.",
+      "El Comité de Fiscalización de la DIAN.",
+      "La Superintendencia de Sociedades."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 3 establece que la decisión será tomada por el Comité de Fiscalización de la Dirección de Impuestos y Aduanas Nacionales (DIAN)."
   }
 ]
