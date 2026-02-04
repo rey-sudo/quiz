@@ -953,5 +953,50 @@
     ],
     "correct": 1,
     "explanation": "El Parágrafo 2 permite que, para efectos de retención, los porcentajes fijos se apliquen sobre el valor bruto, independientemente de que una parte sea ingreso no gravado."
+  },
+
+  {
+    "question": "¿Cuál es el tratamiento fiscal principal que otorga el Artículo 48 a los dividendos recibidos por sociedades nacionales? Decreto 624 de 1989.",
+    "options": [
+      "Son considerados renta líquida gravable a la tarifa general.",
+      "Constituyen ingresos no constitutivos de renta ni ganancia ocasional.",
+      "Se consideran ganancias ocasionales exentas en su totalidad.",
+      "Son ingresos gravados con una tarifa reducida del 5%."
+    ],
+    "correct": 1,
+    "explanation": "El artículo define explícitamente que estos dividendos no constituyen renta ni ganancia ocasional para evitar la doble tributación a nivel corporativo."
+  },
+  {
+    "question": "Según el inciso segundo del Artículo 48, ¿qué condición deben cumplir los dividendos para no constituir renta? Decreto 624 de 1989.",
+    "options": [
+      "Deben ser pagados exclusivamente en acciones de la misma sociedad.",
+      "Deben haber sido reinvertidos en activos fijos por más de dos años.",
+      "Deben corresponder a utilidades que hayan sido declaradas en cabeza de la sociedad que los distribuye.",
+      "Deben provenir de sociedades extranjeras con sede de administración en Colombia."
+    ],
+    "correct": 2,
+    "explanation": "La norma exige que la utilidad ya haya tributado en la sociedad emisora para que el receptor pueda tratar el dividendo como un ingreso no constitutivo de renta."
+  },
+  {
+    "question": "Para utilidades obtenidas antes del 1 de enero de 1986, ¿qué requisito formal se exige para mantener el beneficio fiscal? Decreto 624 de 1989.",
+    "options": [
+      "Haber sido convertidas a reservas legales antes de 1990.",
+      "Figurar como utilidades retenidas en la declaración de renta de 1985, presentada a más tardar el 30 de julio de 1986.",
+      "Haber pagado un impuesto de remesas adicional en la época.",
+      "No tienen requisitos adicionales, se rigen por la norma general de 2026."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece un requisito de trazabilidad histórica: las utilidades de esa época deben haber sido reportadas en la declaración de 1985 bajo los plazos legales de ese entonces."
+  },
+  {
+    "question": "En una estructura de Holding en Colombia, ¿qué efecto busca el Artículo 48 al mover dividendos entre empresas nacionales? Decreto 624 de 1989.",
+    "options": [
+      "Fomentar el recaudo doble en cada nivel de la cadena corporativa.",
+      "Garantizar la neutralidad fiscal permitiendo que la utilidad circule sin carga tributaria de renta adicional entre sociedades.",
+      "Obligar a que todas las utilidades se repartan solo a personas naturales.",
+      "Sustituir el impuesto de industria y comercio por el de dividendos."
+    ],
+    "correct": 1,
+    "explanation": "El artículo busca la eficiencia y neutralidad, permitiendo que el flujo de caja se mueva entre sociedades nacionales sin ser erosionado por el impuesto de renta en cada transferencia."
   }
 ]
