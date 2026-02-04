@@ -754,8 +754,6 @@
     "explanation": "El Parágrafo 1 indica que la simple posibilidad de visualizar precios o pagar en COP es suficiente para presumir interacción deliberada en el mercado colombiano."
   },
 
-
-
   {
     "question": "¿Cuál de estos criterios NO determina por sí solo la nacionalidad de una sociedad según el Parágrafo 2 del Art. 12-1? Decreto 624 de 1989.",
     "options": [
@@ -810,5 +808,150 @@
     ],
     "correct": 2,
     "explanation": "El Parágrafo 3 establece que la decisión será tomada por el Comité de Fiscalización de la Dirección de Impuestos y Aduanas Nacionales (DIAN)."
+  },
+
+  {
+    "question": "¿A qué tipo de contribuyentes aplica el beneficio del componente inflacionario según el Artículo 38? Decreto 624 de 1989.",
+    "options": [
+      "A todas las personas jurídicas y sociedades de hecho.",
+      "Únicamente a las entidades vigiladas por la Superfinanciera.",
+      "A las personas naturales y sucesiones ilíquidas.",
+      "A los contribuyentes del Régimen Simple de Tributación."
+    ],
+    "correct": 2,
+    "explanation": "El primer párrafo del artículo señala expresamente que el beneficio es para los rendimientos percibidos por personas naturales y sucesiones ilíquidas."
+  },
+  {
+    "question": "Según la normativa, ¿cuál es la naturaleza tributaria de la parte que corresponde al componente inflacionario? Decreto 624 de 1989.",
+    "options": [
+      "Es una renta exenta del 100%.",
+      "Es un ingreso no constitutivo de renta ni de ganancia ocasional.",
+      "Es una deducción especial por gastos financieros.",
+      "Es un descuento tributario aplicable al impuesto a cargo."
+    ],
+    "correct": 1,
+    "explanation": "La norma define taxativamente que dicha porción 'No constituye renta ni ganancia ocasional'."
+  },
+  {
+    "question": "¿Cómo se determina el porcentaje no constitutivo de renta según el inciso segundo del artículo? Decreto 624 de 1989.",
+    "options": [
+      "Dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual percibida.",
+      "Multiplicando la inflación anual por el valor total del depósito bancario.",
+      "Restando la tasa de usura a la tasa de interés pactada con el banco.",
+      "Es un porcentaje fijo del 50% definido por el Gobierno cada año."
+    ],
+    "correct": 0,
+    "explanation": "El artículo establece que el porcentaje se determina dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual que corresponda a los rendimientos."
+  },
+  {
+    "question": "De acuerdo con el Parágrafo 3, ¿qué concepto se asimila a rendimientos financieros para efectos de este artículo? Decreto 624 de 1989.",
+    "options": [
+      "Los dividendos pagados por sociedades nacionales.",
+      "Las herencias y legados de sucesiones ilíquidas.",
+      "El ingreso originado en el ajuste por diferencia en cambio.",
+      "Las primas en colocación de acciones."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 3 establece literalmente que 'el ingreso originado en el ajuste por diferencia en cambio se asimilará a rendimientos financieros'."
+  },
+  {
+    "question": "Si un contribuyente solicita costos o deducciones por intereses, ¿qué regla aplica según el Parágrafo 1? Decreto 624 de 1989.",
+    "options": [
+      "No podrá aplicar el beneficio del componente inflacionario.",
+      "Dichos costos y gastos serán deducidos previamente para determinar la parte no gravada.",
+      "El beneficio se duplica para compensar el gasto financiero.",
+      "Debe pagar un impuesto adicional por doble beneficio."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 1 exige que los costos y gastos financieros se deduzcan previamente para efectos de determinar la parte no gravada de los rendimientos."
+  },
+  {
+    "question": "¿Qué obligación tienen las entidades que pagan los rendimientos financieros según la norma? Decreto 624 de 1989.",
+    "options": [
+      "Deben declarar renta en nombre de todos sus ahorradores.",
+      "Deben retener siempre el 35% del valor pagado.",
+      "Deben informar a sus ahorradores el valor no gravado conforme a la fórmula legal.",
+      "Deben reinvertir el componente inflacionario en títulos de deuda pública."
+    ],
+    "correct": 2,
+    "explanation": "La norma indica que las entidades informarán a sus ahorradores el valor no gravado de conformidad con el cálculo del componente inflacionario."
+  },
+
+  {
+    "question": "¿A qué tipo de contribuyentes aplica el beneficio del componente inflacionario según el Artículo 38? Decreto 624 de 1989.",
+    "options": [
+      "A todas las personas jurídicas y sociedades de hecho.",
+      "Únicamente a las entidades vigiladas por la Superfinanciera.",
+      "A las personas naturales y sucesiones ilíquidas.",
+      "A los contribuyentes del Régimen Simple de Tributación."
+    ],
+    "correct": 2,
+    "explanation": "El primer párrafo del artículo señala expresamente que el beneficio es para los rendimientos percibidos por personas naturales y sucesiones ilíquidas."
+  },
+  {
+    "question": "Según la normativa, ¿cuál es la naturaleza tributaria de la parte que corresponde al componente inflacionario? Decreto 624 de 1989.",
+    "options": [
+      "Es una renta exenta del 100%.",
+      "Es un ingreso no constitutivo de renta ni de ganancia ocasional.",
+      "Es una deducción especial por gastos financieros.",
+      "Es un descuento tributario aplicable al impuesto a cargo."
+    ],
+    "correct": 1,
+    "explanation": "La norma define taxativamente que dicha porción 'No constituye renta ni ganancia ocasional'."
+  },
+  {
+    "question": "¿Cómo se determina el porcentaje no constitutivo de renta según el inciso segundo del artículo? Decreto 624 de 1989.",
+    "options": [
+      "Dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual percibida.",
+      "Multiplicando la inflación anual por el valor total del depósito bancario.",
+      "Restando la tasa de usura a la tasa de interés pactada con el banco.",
+      "Es un porcentaje fijo del 50% definido por el Gobierno cada año."
+    ],
+    "correct": 0,
+    "explanation": "El artículo establece que el porcentaje se determina dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual que corresponda a los rendimientos."
+  },
+  {
+    "question": "De acuerdo con el Parágrafo 3, ¿qué concepto se asimila a rendimientos financieros para efectos de este artículo? Decreto 624 de 1989.",
+    "options": [
+      "Los dividendos pagados por sociedades nacionales.",
+      "Las herencias y legados de sucesiones ilíquidas.",
+      "El ingreso originado en el ajuste por diferencia en cambio.",
+      "Las primas en colocación de acciones."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 3 establece literalmente que 'el ingreso originado en el ajuste por diferencia en cambio se asimilará a rendimientos financieros'."
+  },
+  {
+    "question": "Si un contribuyente solicita costos o deducciones por intereses, ¿qué regla aplica según el Parágrafo 1? Decreto 624 de 1989.",
+    "options": [
+      "No podrá aplicar el beneficio del componente inflacionario.",
+      "Dichos costos y gastos serán deducidos previamente para determinar la parte no gravada.",
+      "El beneficio se duplica para compensar el gasto financiero.",
+      "Debe pagar un impuesto adicional por doble beneficio."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 1 exige que los costos y gastos financieros se deduzcan previamente para efectos de determinar la parte no gravada de los rendimientos."
+  },
+  {
+    "question": "¿Qué obligación tienen las entidades que pagan los rendimientos financieros según la norma? Decreto 624 de 1989.",
+    "options": [
+      "Deben declarar renta en nombre de todos sus ahorradores.",
+      "Deben retener siempre el 35% del valor pagado.",
+      "Deben informar a sus ahorradores el valor no gravado conforme a la fórmula legal.",
+      "Deben reinvertir el componente inflacionario en títulos de deuda pública."
+    ],
+    "correct": 2,
+    "explanation": "La norma indica que las entidades informarán a sus ahorradores el valor no gravado de conformidad con el cálculo del componente inflacionario."
+  },
+  {
+    "question": "Respecto a la retención en la fuente sobre rendimientos financieros, ¿qué facultad otorga el Parágrafo 2 al Gobierno Nacional? Decreto 624 de 1989.",
+    "options": [
+      "Prohibir cualquier tipo de retención sobre ahorros de personas naturales.",
+      "Aplicar los porcentajes de retención sobre el valor bruto del pago o abono en cuenta.",
+      "Exigir que la retención se calcule únicamente sobre el interés real neto.",
+      "Delegar la recaudación del impuesto a las Juntas de Acción Comunal."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 permite que, para efectos de retención, los porcentajes fijos se apliquen sobre el valor bruto, independientemente de que una parte sea ingreso no gravado."
   }
 ]
