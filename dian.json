@@ -12,7 +12,7 @@
   },
 
   {
-    "question": "¿A partir de qué fecha entraron en vigor las normas sobre presencia económica significativa en Colombia (Art. 20-3)?",
+    "question": "¿A partir de qué fecha entraron en vigor las normas sobre presencia económica significativa en Colombia (Art. 20-3)? Decreto 624 de 1989.",
     "options": [
       "1 de enero de 2020",
       "1 de enero de 2023",
@@ -595,5 +595,116 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 12-1, parágrafo 3, establece que en casos de fiscalización en que se discuta la determinación del lugar de la sede de administración efectiva, la decisión será tomada por el Comité de Fiscalización de la DIAN."
+  },
+
+  {
+    "question": "¿Cuál es el principio fundamental que establece el Artículo 90-3 respecto a la venta de sociedades extranjeras con activos en Colombia? Decreto 624 de 1989.",
+    "options": [
+      "La operación está exenta siempre que ocurra fuera del territorio nacional.",
+      "Se trata como si la enajenación del activo subyacente en Colombia se hubiera realizado directamente.",
+      "Solo se grava si el comprador y el vendedor son residentes fiscales en Colombia.",
+      "Se aplica un impuesto fijo del 10% sobre el valor total de la transacción internacional."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece una ficción legal de transparencia donde la enajenación indirecta de activos en Colombia se grava como si el activo subyacente se hubiera vendido de forma directa."
+  },
+  {
+    "question": "Según el Parágrafo 5, ¿cuál es el plazo que tiene un vendedor no residente para presentar la declaración de renta en Colombia? Decreto 624 de 1989.",
+    "options": [
+      "En las fechas estipuladas en el calendario tributario anual según el último dígito del NIT.",
+      "Dentro de los tres meses siguientes al cierre del año gravable.",
+      "Dentro del mes siguiente a la fecha de la enajenación.",
+      "Quince días hábiles después de recibir el pago total de la transacción."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 5 exige que el vendedor presente la declaración dentro del mes siguiente a la fecha de la enajenación, un plazo perentorio que suele requerir una logística previa ágil."
+  },
+  {
+    "question": "Para que no se aplique este impuesto bajo la excepción de 'sustancialidad' (Parágrafo 2), ¿qué requisito debe cumplirse? Decreto 624 de 1989.",
+    "options": [
+      "Que los activos en Colombia representen menos del 20% del valor en libros y del valor comercial de la entidad extranjera.",
+      "Que la empresa extranjera tenga activos en más de cinco países diferentes.",
+      "Que el valor comercial de los activos en Colombia sea inferior a 100.000 UVT.",
+      "Que el vendedor demuestre que no hubo utilidad real en la transacción global."
+    ],
+    "correct": 0,
+    "explanation": "La excepción de sustancialidad requiere que el activo colombiano pese menos del 20% del total de la entidad extranjera, cumpliendo la condición tanto en valor contable como en valor comercial."
+  },
+  {
+    "question": "Si el activo subyacente indirectamente enajenado ha estado en manos del poseedor por un término de 3 años, ¿qué tratamiento tributario recibe la utilidad? Decreto 624 de 1989.",
+    "options": [
+      "Renta ordinaria a la tarifa general del 35%.",
+      "Ganancia ocasional, con una tarifa (para 2026) del 15%.",
+      "Ingreso no constitutivo de renta ni ganancia ocasional.",
+      "Renta presuntiva sobre el valor comercial."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el Parágrafo 4 y las reglas generales del Estatuto, si el activo se poseyó por 2 años o más, la utilidad se grava como ganancia ocasional (tarifa del 15% vigente en 2026)."
+  },
+  {
+    "question": "¿Quién asume la responsabilidad solidaria si el vendedor extranjero no paga los impuestos derivados de la transferencia indirecta? Decreto 624 de 1989.",
+    "options": [
+      "El Gobierno Nacional a través del fondo de contingencias.",
+      "La sociedad subordinada ubicada en territorio colombiano.",
+      "Únicamente el representante legal de la empresa en el exterior.",
+      "La Bolsa de Valores donde se negociaron las acciones."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 3 determina que, ante el incumplimiento del vendedor extranjero, la subordinada en Colombia responde solidariamente por impuestos, intereses y sanciones."
+  },
+  {
+    "question": "Bajo el Parágrafo 1, ¿cuál es el límite de concentración de acciones para que aplique la excepción de Bolsa de Valores? Decreto 624 de 1989.",
+    "options": [
+      "No más del 10% en manos de un mismo beneficiario real.",
+      "No más del 50%, garantizando el control de la sociedad.",
+      "No más del 20% en un mismo beneficiario real.",
+      "La norma no establece un límite de concentración, solo que cotice en bolsa."
+    ],
+    "correct": 2,
+    "explanation": "Para gozar de la excepción bursátil, además de cotizar en una bolsa reconocida, las acciones no pueden estar concentradas en más de un 20% en un mismo beneficiario real."
+  },
+  {
+    "question": "¿Qué valor se debe tomar como base para el precio de venta en estas operaciones según el texto legal? Decreto 624 de 1989.",
+    "options": [
+      "El valor nominal de las acciones en el extranjero.",
+      "El costo fiscal de adquisición ajustado por inflación.",
+      "Su valor comercial de conformidad con el Estatuto Tributario.",
+      "El valor que acuerden libremente las partes sin intervención de la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "La normativa es enfática en que el precio de venta o valor de enajenación debe corresponder al valor comercial para evitar la subvaloración de los activos colombianos."
+  },
+  {
+    "question": "Cuando ocurre una SEGUNDA enajenación indirecta del mismo activo, ¿cómo se determina el costo fiscal? Decreto 624 de 1989.",
+    "options": [
+      "Vuelve a ser el costo original que tenía el activo en Colombia hace años.",
+      "El valor proporcionalmente pagado por las acciones de la entidad del exterior en la transacción anterior.",
+      "Se pierde el derecho a usar costo fiscal y se grava sobre el 100% del ingreso.",
+      "El promedio entre el valor comercial y el valor en libros."
+    ],
+    "correct": 1,
+    "explanation": "Para evitar la doble tributación sobre una misma utilidad, la ley permite que en ventas posteriores el costo fiscal sea el valor pagado en la enajenación indirecta inmediatamente anterior."
+  },
+  {
+    "question": "En caso de fusiones y escisiones entre entidades extranjeras que involucren activos colombianos, ¿qué artículo se debe aplicar? Decreto 624 de 1989.",
+    "options": [
+      "Artículo 240 del Estatuto Tributario.",
+      "Artículo 319-8 del Estatuto Tributario.",
+      "Ninguno, las fusiones internacionales están fuera de la jurisdicción colombiana.",
+      "Artículo 90, referente a la determinación del valor comercial."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 90-3 remite expresamente al artículo 319-8 del Estatuto Tributario para regular los efectos de reorganizaciones empresariales internacionales que impacten activos locales."
+  },
+  {
+    "question": "¿Cuál es la obligación del comprador si es residente colombiano y agente de retención en una enajenación indirecta? Decreto 624 de 1989.",
+    "options": [
+      "No tiene obligaciones, ya que el responsable es el vendedor extranjero.",
+      "Informar a la DIAN mediante una carta informal sobre la compra.",
+      "Practicar la correspondiente retención en la fuente según la naturaleza del pago.",
+      "Pagar el 100% del impuesto de renta del vendedor de forma anticipada."
+    ],
+    "correct": 2,
+    "explanation": "Si el adquirente es residente fiscal en Colombia y agente de retención, está obligado por ley a practicar la retención en la fuente sobre la base proporcional del activo colombiano."
   }
 ]
