@@ -706,5 +706,51 @@
     ],
     "correct": 2,
     "explanation": "Si el adquirente es residente fiscal en Colombia y agente de retención, está obligado por ley a practicar la retención en la fuente sobre la base proporcional del activo colombiano."
+  },
+
+  {
+    "question": "¿Cuál es el umbral de ingresos brutos para que una entidad no domiciliada se considere con Presencia Económica Significativa (PES) en Colombia? Decreto 624 de 1989.",
+    "options": ["10.000 UVT", "20.500 UVT", "31.300 UVT", "50.000 UVT"],
+    "correct": 2,
+    "explanation": "El numeral 1.2 del Artículo 20-3 establece que se deben obtener ingresos brutos de 31.300 UVT o más por transacciones con clientes o usuarios en Colombia."
+  },
+  {
+    "question": "¿Qué tarifa de impuesto sobre la renta puede elegir pagar opcionalmente una entidad extranjera con PES sobre sus ingresos brutos? Decreto 624 de 1989.",
+    "options": ["35%", "10%", "3%", "1%"],
+    "correct": 2,
+    "explanation": "El Parágrafo 2 permite a las entidades no domiciliadas optar por declarar y pagar una tarifa del 3% sobre la totalidad de los ingresos brutos derivados de la venta de bienes o servicios digitales."
+  },
+  {
+    "question": "¿Cuántos usuarios o clientes en Colombia se requieren para presumir una interacción deliberada y sistemática? Decreto 624 de 1989.",
+    "options": [
+      "100.000 usuarios",
+      "300.000 usuarios",
+      "500.000 usuarios",
+      "1.000.000 usuarios"
+    ],
+    "correct": 1,
+    "explanation": "Según el Parágrafo 1, se presume interacción sistemática cuando la entidad mantiene una interacción o despliegue de mercadeo con 300.000 o más usuarios en territorio nacional."
+  },
+  {
+    "question": "¿Qué sucede con la normativa PES si Colombia firma un acuerdo internacional que prohíba este tipo de tributación? Decreto 624 de 1989.",
+    "options": [
+      "Sigue vigente por encima del acuerdo internacional.",
+      "Se debe renegociar en el Congreso de la República.",
+      "Dejará de surtir efectos para los ejercicios fiscales posteriores a la entrada en vigor del acuerdo.",
+      "Se aumenta la tarifa al 10% automáticamente."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 5 establece una cláusula de subordinación donde la norma deja de tener efecto si entra en vigor un acuerdo internacional que prohíba esta tributación específica."
+  },
+  {
+    "question": "¿Cuál de estos criterios permite presumir PES sin importar el número de usuarios? Decreto 624 de 1989.",
+    "options": [
+      "Tener un dominio .co en su página web.",
+      "Permitir el pago o visualizar precios en pesos colombianos (COP).",
+      "Tener un representante legal con nacionalidad colombiana.",
+      "Enviar correos masivos a correos registrados en Colombia."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 1 indica que la simple posibilidad de visualizar precios o pagar en COP es suficiente para presumir interacción deliberada en el mercado colombiano."
   }
 ]
