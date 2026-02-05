@@ -609,7 +609,7 @@
     "explanation": "El artículo establece una ficción legal de transparencia donde la enajenación indirecta de activos en Colombia se grava como si el activo subyacente se hubiera vendido de forma directa."
   },
   {
-    "question": "Según el Parágrafo 5, ¿cuál es el plazo que tiene un vendedor no residente para presentar la declaración de renta en Colombia? Decreto 624 de 1989.",
+    "question": "Según el Parágrafo 5 Art 90-3, ¿cuál es el plazo que tiene un vendedor no residente para presentar la declaración de renta en Colombia? Decreto 624 de 1989.",
     "options": [
       "En las fechas estipuladas en el calendario tributario anual según el último dígito del NIT.",
       "Dentro de los tres meses siguientes al cierre del año gravable.",
@@ -617,10 +617,10 @@
       "Quince días hábiles después de recibir el pago total de la transacción."
     ],
     "correct": 2,
-    "explanation": "El Parágrafo 5 exige que el vendedor presente la declaración dentro del mes siguiente a la fecha de la enajenación, un plazo perentorio que suele requerir una logística previa ágil."
+    "explanation": "El Parágrafo 5 Art 90-3 exige que el vendedor presente la declaración dentro del mes siguiente a la fecha de la enajenación, un plazo perentorio que suele requerir una logística previa ágil."
   },
   {
-    "question": "Para que no se aplique este impuesto bajo la excepción de 'sustancialidad' (Parágrafo 2), ¿qué requisito debe cumplirse? Decreto 624 de 1989.",
+    "question": "Para que no se aplique este impuesto bajo la excepción de 'sustancialidad' (Parágrafo 2 Art 90-3), ¿qué requisito debe cumplirse? Decreto 624 de 1989.",
     "options": [
       "Que los activos en Colombia representen menos del 20% del valor en libros y del valor comercial de la entidad extranjera.",
       "Que la empresa extranjera tenga activos en más de cinco países diferentes.",
@@ -631,7 +631,7 @@
     "explanation": "La excepción de sustancialidad requiere que el activo colombiano pese menos del 20% del total de la entidad extranjera, cumpliendo la condición tanto en valor contable como en valor comercial."
   },
   {
-    "question": "Si el activo subyacente indirectamente enajenado ha estado en manos del poseedor por un término de 3 años, ¿qué tratamiento tributario recibe la utilidad? Decreto 624 de 1989.",
+    "question": "Si el activo subyacente indirectamente enajenado ha estado en manos del poseedor por un término de 3 años, ¿qué tratamiento tributario recibe la utilidad? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "Renta ordinaria a la tarifa general del 35%.",
       "Ganancia ocasional, con una tarifa (para 2026) del 15%.",
@@ -642,7 +642,7 @@
     "explanation": "De acuerdo con el Parágrafo 4 y las reglas generales del Estatuto, si el activo se poseyó por 2 años o más, la utilidad se grava como ganancia ocasional (tarifa del 15% vigente en 2026)."
   },
   {
-    "question": "¿Quién asume la responsabilidad solidaria si el vendedor extranjero no paga los impuestos derivados de la transferencia indirecta? Decreto 624 de 1989.",
+    "question": "¿Quién asume la responsabilidad solidaria si el vendedor extranjero no paga los impuestos derivados de la transferencia indirecta? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "El Gobierno Nacional a través del fondo de contingencias.",
       "La sociedad subordinada ubicada en territorio colombiano.",
@@ -653,7 +653,7 @@
     "explanation": "El Parágrafo 3 determina que, ante el incumplimiento del vendedor extranjero, la subordinada en Colombia responde solidariamente por impuestos, intereses y sanciones."
   },
   {
-    "question": "Bajo el Parágrafo 1, ¿cuál es el límite de concentración de acciones para que aplique la excepción de Bolsa de Valores? Decreto 624 de 1989.",
+    "question": "Bajo el Parágrafo 1, ¿cuál es el límite de concentración de acciones para que aplique la excepción de Bolsa de Valores? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "No más del 10% en manos de un mismo beneficiario real.",
       "No más del 50%, garantizando el control de la sociedad.",
@@ -664,7 +664,7 @@
     "explanation": "Para gozar de la excepción bursátil, además de cotizar en una bolsa reconocida, las acciones no pueden estar concentradas en más de un 20% en un mismo beneficiario real."
   },
   {
-    "question": "¿Qué valor se debe tomar como base para el precio de venta en estas operaciones según el texto legal? Decreto 624 de 1989.",
+    "question": "¿Qué valor se debe tomar como base para el precio de venta en estas operaciones según el texto legal? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "El valor nominal de las acciones en el extranjero.",
       "El costo fiscal de adquisición ajustado por inflación.",
@@ -675,7 +675,7 @@
     "explanation": "La normativa es enfática en que el precio de venta o valor de enajenación debe corresponder al valor comercial para evitar la subvaloración de los activos colombianos."
   },
   {
-    "question": "Cuando ocurre una SEGUNDA enajenación indirecta del mismo activo, ¿cómo se determina el costo fiscal? Decreto 624 de 1989.",
+    "question": "Cuando ocurre una SEGUNDA enajenación indirecta del mismo activo, ¿cómo se determina el costo fiscal? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "Vuelve a ser el costo original que tenía el activo en Colombia hace años.",
       "El valor proporcionalmente pagado por las acciones de la entidad del exterior en la transacción anterior.",
@@ -686,7 +686,7 @@
     "explanation": "Para evitar la doble tributación sobre una misma utilidad, la ley permite que en ventas posteriores el costo fiscal sea el valor pagado en la enajenación indirecta inmediatamente anterior."
   },
   {
-    "question": "En caso de fusiones y escisiones entre entidades extranjeras que involucren activos colombianos, ¿qué artículo se debe aplicar? Decreto 624 de 1989.",
+    "question": "En caso de fusiones y escisiones entre entidades extranjeras que involucren activos colombianos, ¿qué artículo se debe aplicar? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "Artículo 240 del Estatuto Tributario.",
       "Artículo 319-8 del Estatuto Tributario.",
@@ -697,7 +697,7 @@
     "explanation": "El artículo 90-3 remite expresamente al artículo 319-8 del Estatuto Tributario para regular los efectos de reorganizaciones empresariales internacionales que impacten activos locales."
   },
   {
-    "question": "¿Cuál es la obligación del comprador si es residente colombiano y agente de retención en una enajenación indirecta? Decreto 624 de 1989.",
+    "question": "¿Cuál es la obligación del comprador si es residente colombiano y agente de retención en una enajenación indirecta? Art 90-3 Decreto 624 de 1989.",
     "options": [
       "No tiene obligaciones, ya que el responsable es el vendedor extranjero.",
       "Informar a la DIAN mediante una carta informal sobre la compra.",
@@ -709,19 +709,19 @@
   },
 
   {
-    "question": "¿Cuál es el umbral de ingresos brutos para que una entidad no domiciliada se considere con Presencia Económica Significativa (PES) en Colombia? Decreto 624 de 1989.",
+    "question": "¿Cuál es el umbral de ingresos brutos para que una entidad no domiciliada se considere con Presencia Económica Significativa (PES) en Colombia? Art 20-3 Decreto 624 de 1989.",
     "options": ["10.000 UVT", "20.500 UVT", "31.300 UVT", "50.000 UVT"],
     "correct": 2,
     "explanation": "El numeral 1.2 del Artículo 20-3 establece que se deben obtener ingresos brutos de 31.300 UVT o más por transacciones con clientes o usuarios en Colombia."
   },
   {
-    "question": "¿Qué tarifa de impuesto sobre la renta puede elegir pagar opcionalmente una entidad extranjera con PES sobre sus ingresos brutos? Decreto 624 de 1989.",
+    "question": "¿Qué tarifa de impuesto sobre la renta puede elegir pagar opcionalmente una entidad extranjera con PES sobre sus ingresos brutos? Art 20-3 Decreto 624 de 1989.",
     "options": ["35%", "10%", "3%", "1%"],
     "correct": 2,
     "explanation": "El Parágrafo 2 permite a las entidades no domiciliadas optar por declarar y pagar una tarifa del 3% sobre la totalidad de los ingresos brutos derivados de la venta de bienes o servicios digitales."
   },
   {
-    "question": "¿Cuántos usuarios o clientes en Colombia se requieren para presumir una interacción deliberada y sistemática? Decreto 624 de 1989.",
+    "question": "¿Cuántos usuarios o clientes en Colombia se requieren para presumir una interacción deliberada y sistemática? 20-3 Decreto 624 de 1989.",
     "options": [
       "100.000 usuarios",
       "300.000 usuarios",
