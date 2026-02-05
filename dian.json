@@ -12,7 +12,7 @@
   },
 
   {
-    "question": "¿A partir de qué fecha entraron en vigor las normas sobre presencia económica significativa en Colombia (Art. 20-3)? Decreto 624 de 1989.",
+    "question": "¿A partir de qué fecha entraron en vigor las normas sobre presencia económica significativa en Colombia Art. 20-3 Decreto 624 de 1989?",
     "options": [
       "1 de enero de 2020",
       "1 de enero de 2023",
@@ -23,7 +23,7 @@
     "explanation": "El Artículo 20-3, adicionado por la Ley 2277 de 2022, entró a regir a partir del 1 de enero de 2024, según su parágrafo 8."
   },
   {
-    "question": "Según el Art. 10, una persona natural NO se considera residente en Colombia para efectos tributarios si:",
+    "question": "Según el Art. 10 del Decreto 624 de 1989, una persona natural NO se considera residente en Colombia para efectos tributarios si:",
     "options": [
       "Permanece en el país más de 183 días en un período de 365 días.",
       "Su cónyuge e hijos menores son residentes fiscales en Colombia.",
@@ -34,13 +34,13 @@
     "explanation": "Según el Parágrafo 2 del Artículo 10, los nacionales colombianos no serán residentes si tienen su residencia fiscal en otra jurisdicción y el 50% o más de sus ingresos provienen de ella. Nota: El numeral 3 literal d) del mismo artículo aclara que los diplomáticos colombianos SÍ se consideran residentes fiscales en Colombia, por lo cual esa opción no servía para la negación."
   },
   {
-    "question": "¿Cuál es la tarifa especial del impuesto sobre la renta para las cooperativas según el Art. 19-4 (vigente desde 2019)?",
+    "question": "¿Cuál es la tarifa especial del impuesto sobre la renta para las cooperativas según el Art 19-4 vigente desde 2019 Decreto 624 de 1989?",
     "options": ["15%", "20%", "25%", "33%"],
     "correct": 1,
     "explanation": "El Artículo 19-4 establece que las cooperativas pertenecientes al Régimen Tributario Especial tributan sobre sus beneficios netos a la tarifa única especial del veinte por ciento (20%)."
   },
   {
-    "question": "Para efectos tributarios, ¿cuándo se considera que una sociedad extranjera tiene un establecimiento permanente en Colombia según el Art. 20-1?",
+    "question": "Para efectos tributarios, ¿cuándo se considera que una sociedad extranjera tiene un establecimiento permanente en Colombia según el Art. 20-1 Decreto 624 de 1989?",
     "options": [
       "Cuando realiza actividades exclusivamente auxiliares o preparatorias.",
       "Cuando su junta directiva se reúne ocasionalmente en Colombia.",
@@ -51,7 +51,7 @@
     "explanation": "El Artículo 20-1 define establecimiento permanente como un lugar fijo de negocios ubicado en el país a través del cual una empresa extranjera realiza toda o parte de su actividad."
   },
   {
-    "question": "Según el Art. 90-3, ¿cuándo NO se aplica el gravamen a las enajenaciones indirectas de activos ubicados en Colombia?",
+    "question": "Según el Art. 90-3  del Decreto 624 de 1989, ¿cuándo NO se aplica el gravamen a las enajenaciones indirectas de activos ubicados en Colombia?",
     "options": [
       "Cuando las acciones se negocian en una bolsa de valores reconocida con mercado secundario activo y no están concentradas en más de 20% en un beneficiario real.",
       "Cuando el valor de los activos en Colombia representa menos del 50% del total de activos de la entidad.",
@@ -62,13 +62,13 @@
     "explanation": "El Parágrafo 1 del Artículo 90-3 establece que no se aplicará cuando las acciones o derechos se encuentren inscritos en una Bolsa de Valores reconocida con mercado secundario activo y no estén concentradas en más del 20% en un mismo beneficiario real."
   },
   {
-    "question": "¿Qué porcentaje de sus ingresos brutos puede optar por declarar una persona no residente con presencia económica significativa según el Art. 20-3?",
+    "question": "¿Qué porcentaje de sus ingresos brutos puede optar por declarar una persona no residente con presencia económica significativa según el Art. 20-3 del Decreto 624 de 1989?",
     "options": ["1%", "3%", "5%", "10%"],
     "correct": 1,
     "explanation": "El Parágrafo 2 del Artículo 20-3 establece que la persona no residente puede optar por declarar y pagar una tarifa del tres por ciento (3%) sobre la totalidad de los ingresos brutos."
   },
   {
-    "question": "Según el Art. 12-1, ¿cuál NO es un criterio para considerar una sociedad como nacional para efectos tributarios?",
+    "question": "Según el Art. 12-1del Decreto 624 de 1989, ¿cuál NO es un criterio para considerar una sociedad como nacional para efectos tributarios?",
     "options": [
       "Tener su sede efectiva de administración en Colombia.",
       "Haber sido constituida según leyes colombianas.",
@@ -79,7 +79,7 @@
     "explanation": "El Artículo 12-1 establece como criterios: sede efectiva de administración en Colombia, domicilio principal en Colombia, o haber sido constituida en Colombia. La composición accionarial no es un criterio."
   },
   {
-    "question": "¿Qué tratamiento tiene el componente inflacionario de los rendimientos financieros para personas naturales según el Art. 38?",
+    "question": "¿Qué tratamiento tiene el componente inflacionario de los rendimientos financieros para personas naturales según el Art. 38 del Decreto 624 de 1989?",
     "options": [
       "Constituye renta gravable en su totalidad.",
       "No constituye renta ni ganancia ocasional.",
@@ -90,7 +90,7 @@
     "explanation": "El Artículo 38 establece que no constituye renta ni ganancia ocasional la parte que corresponda al componente inflacionario de los rendimientos financieros percibidos por personas naturales y sucesiones ilíquidas."
   },
   {
-    "question": "Según el Art. 48, los dividendos percibidos por sociedades nacionales provenientes de otras sociedades nacionales:",
+    "question": "Según el Art. 48 del Decreto 624 de 1989, los dividendos percibidos por sociedades nacionales provenientes de otras sociedades nacionales:",
     "options": [
       "Constituyen renta gravable en su totalidad.",
       "No constituyen renta ni ganancia ocasional, si cumplen condiciones.",
@@ -101,7 +101,7 @@
     "explanation": "El Artículo 48 establece que los dividendos y participaciones percibidas por socios que sean sociedades nacionales no constituyen renta ni ganancia ocasional, siempre que correspondan a utilidades que hayan sido declaradas en cabeza de la sociedad."
   },
   {
-    "question": "¿Cuál de los siguientes NO es considerado un ingreso de fuente nacional según el Art. 24?",
+    "question": "¿Cuál de los siguientes NO es considerado un ingreso de fuente nacional según el Art. 24 del Decreto 624 de 1989?",
     "options": [
       "Rentas de trabajo desarrolladas físicamente en Colombia.",
       "Dividendos de sociedades extranjeras obtenidos por residentes.",
@@ -112,7 +112,7 @@
     "explanation": "El Artículo 24 lista los ingresos de fuente nacional. Los dividendos de sociedades extranjeras no están en la lista; solo los dividendos de sociedades colombianas (numeral 9) y los de colombianos residentes que provengan de sociedades extranjeras con negocios en Colombia (numeral 10)."
   },
   {
-    "question": "Según el Art. 81, el componente inflacionario de los intereses y costos financieros:",
+    "question": "Según el Art. 81 del Decreto 624 de 1989, el componente inflacionario de los intereses y costos financieros:",
     "options": [
       "Es totalmente deducible.",
       "No es deducible en su totalidad.",
@@ -123,7 +123,7 @@
     "explanation": "El Artículo 81 establece porcentajes crecientes de no deducibilidad del componente inflacionario (30% en 1989 hasta 100% en 1998 y siguientes). Por lo tanto, no es totalmente deducible."
   },
   {
-    "question": "¿Qué requiere un contribuyente para deducir pérdidas por inventarios obsoletos según el Art. 64?",
+    "question": "¿Qué requiere un contribuyente para deducir pérdidas por inventarios obsoletos según el Art. 64 del Decreto 624 de 1989?",
     "options": [
       "Solo una nota interna del contador.",
       "Documento con cantidad, descripción, costo y justificación firmado por el representante legal.",
@@ -855,7 +855,7 @@
     "explanation": "El Parágrafo 3 establece literalmente que 'el ingreso originado en el ajuste por diferencia en cambio se asimilará a rendimientos financieros'."
   },
   {
-    "question": "Si un contribuyente solicita costos o deducciones por intereses, ¿qué regla aplica según el Parágrafo 1? Decreto 624 de 1989.",
+    "question": "Si un contribuyente solicita costos o deducciones por intereses, ¿qué regla aplica según el Parágrafo 1 Art 38? Decreto 624 de 1989.",
     "options": [
       "No podrá aplicar el beneficio del componente inflacionario.",
       "Dichos costos y gastos serán deducidos previamente para determinar la parte no gravada.",
@@ -866,74 +866,7 @@
     "explanation": "El Parágrafo 1 exige que los costos y gastos financieros se deduzcan previamente para efectos de determinar la parte no gravada de los rendimientos."
   },
   {
-    "question": "¿Qué obligación tienen las entidades que pagan los rendimientos financieros según la norma? Decreto 624 de 1989.",
-    "options": [
-      "Deben declarar renta en nombre de todos sus ahorradores.",
-      "Deben retener siempre el 35% del valor pagado.",
-      "Deben informar a sus ahorradores el valor no gravado conforme a la fórmula legal.",
-      "Deben reinvertir el componente inflacionario en títulos de deuda pública."
-    ],
-    "correct": 2,
-    "explanation": "La norma indica que las entidades informarán a sus ahorradores el valor no gravado de conformidad con el cálculo del componente inflacionario."
-  },
-
-  {
-    "question": "¿A qué tipo de contribuyentes aplica el beneficio del componente inflacionario según el Artículo 38? Decreto 624 de 1989.",
-    "options": [
-      "A todas las personas jurídicas y sociedades de hecho.",
-      "Únicamente a las entidades vigiladas por la Superfinanciera.",
-      "A las personas naturales y sucesiones ilíquidas.",
-      "A los contribuyentes del Régimen Simple de Tributación."
-    ],
-    "correct": 2,
-    "explanation": "El primer párrafo del artículo señala expresamente que el beneficio es para los rendimientos percibidos por personas naturales y sucesiones ilíquidas."
-  },
-  {
-    "question": "Según la normativa, ¿cuál es la naturaleza tributaria de la parte que corresponde al componente inflacionario? Decreto 624 de 1989.",
-    "options": [
-      "Es una renta exenta del 100%.",
-      "Es un ingreso no constitutivo de renta ni de ganancia ocasional.",
-      "Es una deducción especial por gastos financieros.",
-      "Es un descuento tributario aplicable al impuesto a cargo."
-    ],
-    "correct": 1,
-    "explanation": "La norma define taxativamente que dicha porción 'No constituye renta ni ganancia ocasional'."
-  },
-  {
-    "question": "¿Cómo se determina el porcentaje no constitutivo de renta según el inciso segundo del artículo? Decreto 624 de 1989.",
-    "options": [
-      "Dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual percibida.",
-      "Multiplicando la inflación anual por el valor total del depósito bancario.",
-      "Restando la tasa de usura a la tasa de interés pactada con el banco.",
-      "Es un porcentaje fijo del 50% definido por el Gobierno cada año."
-    ],
-    "correct": 0,
-    "explanation": "El artículo establece que el porcentaje se determina dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual que corresponda a los rendimientos."
-  },
-  {
-    "question": "De acuerdo con el Parágrafo 3, ¿qué concepto se asimila a rendimientos financieros para efectos de este artículo? Decreto 624 de 1989.",
-    "options": [
-      "Los dividendos pagados por sociedades nacionales.",
-      "Las herencias y legados de sucesiones ilíquidas.",
-      "El ingreso originado en el ajuste por diferencia en cambio.",
-      "Las primas en colocación de acciones."
-    ],
-    "correct": 2,
-    "explanation": "El Parágrafo 3 establece literalmente que 'el ingreso originado en el ajuste por diferencia en cambio se asimilará a rendimientos financieros'."
-  },
-  {
-    "question": "Si un contribuyente solicita costos o deducciones por intereses, ¿qué regla aplica según el Parágrafo 1? Decreto 624 de 1989.",
-    "options": [
-      "No podrá aplicar el beneficio del componente inflacionario.",
-      "Dichos costos y gastos serán deducidos previamente para determinar la parte no gravada.",
-      "El beneficio se duplica para compensar el gasto financiero.",
-      "Debe pagar un impuesto adicional por doble beneficio."
-    ],
-    "correct": 1,
-    "explanation": "El Parágrafo 1 exige que los costos y gastos financieros se deduzcan previamente para efectos de determinar la parte no gravada de los rendimientos."
-  },
-  {
-    "question": "¿Qué obligación tienen las entidades que pagan los rendimientos financieros según la norma? Decreto 624 de 1989.",
+    "question": "¿Qué obligación tienen las entidades que pagan los rendimientos financieros según la norma? Art 38 Decreto 624 de 1989.",
     "options": [
       "Deben declarar renta en nombre de todos sus ahorradores.",
       "Deben retener siempre el 35% del valor pagado.",
@@ -944,7 +877,7 @@
     "explanation": "La norma indica que las entidades informarán a sus ahorradores el valor no gravado de conformidad con el cálculo del componente inflacionario."
   },
   {
-    "question": "Respecto a la retención en la fuente sobre rendimientos financieros, ¿qué facultad otorga el Parágrafo 2 al Gobierno Nacional? Decreto 624 de 1989.",
+    "question": "Respecto a la retención en la fuente sobre rendimientos financieros, ¿qué facultad otorga el Parágrafo 2 al Gobierno Nacional? Art 38 Decreto 624 de 1989.",
     "options": [
       "Prohibir cualquier tipo de retención sobre ahorros de personas naturales.",
       "Aplicar los porcentajes de retención sobre el valor bruto del pago o abono en cuenta.",
@@ -954,6 +887,7 @@
     "correct": 1,
     "explanation": "El Parágrafo 2 permite que, para efectos de retención, los porcentajes fijos se apliquen sobre el valor bruto, independientemente de que una parte sea ingreso no gravado."
   },
+
 
   {
     "question": "¿Cuál es el tratamiento fiscal principal que otorga el Artículo 48 a los dividendos recibidos por sociedades nacionales? Decreto 624 de 1989.",
@@ -978,7 +912,7 @@
     "explanation": "La norma exige que la utilidad ya haya tributado en la sociedad emisora para que el receptor pueda tratar el dividendo como un ingreso no constitutivo de renta."
   },
   {
-    "question": "Para utilidades obtenidas antes del 1 de enero de 1986, ¿qué requisito formal se exige para mantener el beneficio fiscal? Decreto 624 de 1989.",
+    "question": "Para utilidades obtenidas antes del 1 de enero de 1986, ¿qué requisito formal se exige para mantener el beneficio fiscal? Artículo 48 Decreto 624 de 1989.",
     "options": [
       "Haber sido convertidas a reservas legales antes de 1990.",
       "Figurar como utilidades retenidas en la declaración de renta de 1985, presentada a más tardar el 30 de julio de 1986.",
@@ -1012,7 +946,7 @@
     "explanation": "La norma establece que la ejecución de la actividad dentro del país define la fuente nacional, independientemente de la duración o de si existe una oficina física."
   },
   {
-    "question": "En el caso de los servicios técnicos y de asistencia técnica, ¿qué particularidad establece la norma respecto a su origen? Decreto 624 de 1989.",
+    "question": "En el caso de los servicios técnicos y de asistencia técnica, ¿qué particularidad establece la norma respecto a su origen? Art 24 Decreto 624 de 1989.",
     "options": [
       "Solo son de fuente nacional si el técnico se desplaza físicamente a Colombia.",
       "Se consideran de fuente nacional únicamente si el contrato supera los 100 UVT.",
@@ -1034,7 +968,7 @@
     "explanation": "La ley hace una excepción específica para fomentar el comercio exterior mediante créditos transitorios de importación y sobregiros bancarios."
   },
   {
-    "question": "Respecto a los dividendos o participaciones, ¿cuándo se consideran de fuente nacional según el numeral 9? Decreto 624 de 1989.",
+    "question": "Respecto a los dividendos o participaciones, ¿cuándo se consideran de fuente nacional según el Art 24 numeral 9 Decreto 624 de 1989 ?.",
     "options": [
       "Solo cuando el socio es una persona natural residente.",
       "Cuando provienen de sociedades colombianas domiciliadas en el país.",
@@ -1045,7 +979,7 @@
     "explanation": "La fuente nacional se determina por el domicilio de la sociedad que distribuye la utilidad, no por la residencia del accionista ni el lugar de la reunión."
   },
   {
-    "question": "El numeral 17 introduce la 'Presencia Económica Significativa' (PES). ¿A quiénes afecta principalmente esta normativa? Decreto 624 de 1989.",
+    "question": "El Art 24 numeral 17 introduce la 'Presencia Económica Significativa' (PES). ¿A quiénes afecta principalmente esta normativa? Decreto 624 de 1989.",
     "options": [
       "A exportadores colombianos que venden productos físicos a Europa.",
       "A personas no residentes o entidades no domiciliadas que venden bienes o servicios digitales a clientes en Colombia.",
@@ -1056,7 +990,7 @@
     "explanation": "Esta adición (Ley 2277 de 2022) busca gravar la economía digital y a vendedores remotos que, sin presencia física, explotan el mercado colombiano."
   },
   {
-    "question": "En un contrato 'llave en mano', ¿qué valor debe considerarse ingreso de fuente nacional para el contratista? Decreto 624 de 1989.",
+    "question": "En un contrato 'llave en mano', ¿qué valor debe considerarse ingreso de fuente nacional para el contratista? Art 24 Decreto 624 de 1989.",
     "options": [
       "Solo la porción correspondiente a la mano de obra local.",
       "Únicamente el margen de utilidad neta después de impuestos.",
@@ -1067,7 +1001,7 @@
     "explanation": "El numeral 15 establece que, para efectos fiscales, el valor íntegro de estos contratos es de fuente nacional para evitar la fragmentación de la base gravable."
   },
   {
-    "question": "Si un funcionario del Estado colombiano presta sus servicios en una embajada en el exterior, según Decreto 624 de 1989 su salario se considera:",
+    "question": "Si un funcionario del Estado colombiano presta sus servicios en una embajada en el exterior, según el Artículo 24 del Decreto 624 de 1989 su salario se considera:",
     "options": [
       "Ingreso de fuente extranjera por realizarse el trabajo fuera de Colombia.",
       "Ingreso de fuente nacional, cualquiera que sea el lugar donde se hayan prestado.",
@@ -1078,7 +1012,7 @@
     "explanation": "Según el numeral 6, las compensaciones pagadas por el Estado colombiano siempre conservan la fuente nacional por el origen del pagador público."
   },
   {
-    "question": "Según el Decreto 624 de 1989 Las utilidades obtenidas por la fabricación de mercancías en el país se consideran de fuente nacional:",
+    "question": "Según el Artículo Decreto 624 de 1989 Las utilidades obtenidas por la fabricación de mercancías en el país se consideran de fuente nacional:",
     "options": [
       "Solo si se venden dentro del territorio colombiano.",
       "Cualquiera que sea el lugar de su venta o enajenación.",
@@ -1089,7 +1023,7 @@
     "explanation": "El numeral 13 determina que el hecho generador es la transformación industrial realizada en Colombia, sin importar el destino final de la venta."
   },
   {
-    "question": "Sobre la explotación de recursos naturales (numeral 12 Decreto 624 de 1989), el ingreso es de fuente nacional si:",
+    "question": "Sobre la explotación de recursos naturales (Artículo 24 numeral 12 Decreto 624 de 1989), el ingreso es de fuente nacional si:",
     "options": [
       "Los productos se exportan a mercados internacionales.",
       "Las fincas, minas o depósitos están ubicados dentro del territorio nacional.",
@@ -1100,7 +1034,7 @@
     "explanation": "La fuente nacional está ligada a la ubicación física de los bienes naturales explotados dentro del suelo o subsuelo colombiano."
   },
   {
-    "question": "¿Qué sucede con las regalías por propiedad literaria, artística y científica según el numeral 7 Decreto 624 de 1989?",
+    "question": "¿Qué sucede con las regalías por propiedad literaria, artística y científica según el Artículo 24 numeral 7 Decreto 624 de 1989?",
     "options": [
       "Son de fuente nacional solo si el autor nació en Colombia.",
       "Son de fuente nacional cuando la propiedad es explotada en el país.",
