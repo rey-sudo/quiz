@@ -729,7 +729,7 @@
       "1.000.000 usuarios"
     ],
     "correct": 1,
-    "explanation": "Según el Parágrafo 1, se presume interacción sistemática cuando la entidad mantiene una interacción o despliegue de mercadeo con 300.000 o más usuarios en territorio nacional."
+    "explanation": "Según el Decreto 624 de 1989 Parágrafo 1 Art 20-3, se presume interacción sistemática cuando la entidad mantiene una interacción o despliegue de mercadeo con 300.000 o más usuarios en territorio nacional ."
   },
   {
     "question": "¿Qué sucede con la normativa PES si Colombia firma un acuerdo internacional que prohíba este tipo de tributación? Decreto 624 de 1989.",
@@ -743,7 +743,7 @@
     "explanation": "El Parágrafo 5 establece una cláusula de subordinación donde la norma deja de tener efecto si entra en vigor un acuerdo internacional que prohíba esta tributación específica."
   },
   {
-    "question": "¿Cuál de estos criterios permite presumir PES sin importar el número de usuarios? Decreto 624 de 1989.",
+    "question": "¿Cuál de estos criterios permite presumir PES sin importar el número de usuarios? Art 20-3 Decreto 624 de 1989.",
     "options": [
       "Tener un dominio .co en su página web.",
       "Permitir el pago o visualizar precios en pesos colombianos (COP).",
@@ -766,7 +766,7 @@
     "explanation": "El Parágrafo 2 aclara que el simple hecho de que la junta directiva se reúna en el país o que los socios sean residentes no otorga nacionalidad por sede de administración."
   },
   {
-    "question": "Para efectos del beneficio del Parágrafo 6, ¿qué porcentaje de ingresos debe provenir de la jurisdicción de constitución? Decreto 624 de 1989.",
+    "question": "Para efectos del beneficio del Parágrafo 6 Art. 12-1, ¿qué porcentaje de ingresos debe provenir de la jurisdicción de constitución? Decreto 624 de 1989.",
     "options": [
       "Igual o superior al 50%.",
       "Igual o superior al 80%.",
@@ -777,7 +777,7 @@
     "explanation": "La norma establece que no hay Sede Efectiva de Administración si los ingresos de la jurisdicción de origen son iguales o superiores al 80%."
   },
   {
-    "question": "Al calcular el porcentaje de ingresos para la excepción de nacionalidad, ¿cuál de estos se considera una renta pasiva? Decreto 624 de 1989.",
+    "question": "Al calcular el porcentaje de ingresos para la excepción de nacionalidad, ¿cuál de estos se considera una renta pasiva? Art. 12-1 Decreto 624 de 1989.",
     "options": [
       "Venta de bienes físicos producidos en el exterior.",
       "Prestación de servicios de consultoría técnica.",
@@ -788,7 +788,7 @@
     "explanation": "El Parágrafo 6 excluye del cálculo de ingresos totales las rentas pasivas, mencionando explícitamente intereses y regalías por intangibles."
   },
   {
-    "question": "¿Qué condición debe cumplir una filial de una empresa que cotiza en bolsa para no tener sede de administración en Colombia? Decreto 624 de 1989.",
+    "question": "¿Qué condición debe cumplir una filial de una empresa que cotiza en bolsa para no tener sede de administración en Colombia? Art. 12-1 Decreto 624 de 1989.",
     "options": [
       "Tener un representante legal colombiano.",
       "Estar consolidada contablemente en los estados financieros de la emisora.",
@@ -799,7 +799,7 @@
     "explanation": "Según el Parágrafo 5, la subordinada debe estar consolidada a nivel contable en los estados financieros de la sociedad que emite acciones o bonos en bolsa."
   },
   {
-    "question": "¿Quién tiene la competencia para determinar el lugar de la sede de administración efectiva en casos de fiscalización? Decreto 624 de 1989.",
+    "question": "¿Quién tiene la competencia para determinar el lugar de la sede de administración efectiva en casos de fiscalización? Art. 12-1 Decreto 624 de 1989.",
     "options": [
       "El Ministro de Hacienda.",
       "Un Juez de la República.",
@@ -822,7 +822,7 @@
     "explanation": "El primer párrafo del artículo señala expresamente que el beneficio es para los rendimientos percibidos por personas naturales y sucesiones ilíquidas."
   },
   {
-    "question": "Según la normativa, ¿cuál es la naturaleza tributaria de la parte que corresponde al componente inflacionario? Decreto 624 de 1989.",
+    "question": "Según la normativa, ¿cuál es la naturaleza tributaria de la parte que corresponde al componente inflacionario? Artículo 38 Decreto 624 de 1989.",
     "options": [
       "Es una renta exenta del 100%.",
       "Es un ingreso no constitutivo de renta ni de ganancia ocasional.",
@@ -833,7 +833,7 @@
     "explanation": "La norma define taxativamente que dicha porción 'No constituye renta ni ganancia ocasional'."
   },
   {
-    "question": "¿Cómo se determina el porcentaje no constitutivo de renta según el inciso segundo del artículo? Decreto 624 de 1989.",
+    "question": "¿Cómo se determina el porcentaje no constitutivo de renta según el inciso segundo del artículo 38? Decreto 624 de 1989.",
     "options": [
       "Dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual percibida.",
       "Multiplicando la inflación anual por el valor total del depósito bancario.",
@@ -844,7 +844,7 @@
     "explanation": "El artículo establece que el porcentaje se determina dividiendo la tasa de corrección monetaria vigente al 31 de diciembre por la tasa de interés anual que corresponda a los rendimientos."
   },
   {
-    "question": "De acuerdo con el Parágrafo 3, ¿qué concepto se asimila a rendimientos financieros para efectos de este artículo? Decreto 624 de 1989.",
+    "question": "De acuerdo con el Parágrafo 3, ¿qué concepto se asimila a rendimientos financieros para efectos de este artículo Artículo 38? Decreto 624 de 1989.",
     "options": [
       "Los dividendos pagados por sociedades nacionales.",
       "Las herencias y legados de sucesiones ilíquidas.",
