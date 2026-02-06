@@ -187,8 +187,7 @@
 
         const getScoreMessage = () => {
           const percentage = getScorePercentage();
-          if (percentage >= 90)
-            return "¡Excelente! Dominas el conocimiento.";
+          if (percentage >= 90) return "¡Excelente! Dominas el conocimiento.";
           if (percentage >= 70)
             return "¡Muy bien! Tienes un buen conocimiento del tema.";
           if (percentage >= 50)
@@ -200,9 +199,12 @@
         const [loading, setLoading] = useState(true);
         const [error, setError] = useState(null);
 
-        const INPUT_NAME= "dian";
+        const params = new URLSearchParams(window.location.search);
+        const INPUT_NAME = params.get("input");
 
         React.useEffect(() => {
+           if (!INPUT_NAME) return;
+           
           fetch(`${INPUT_NAME}.json?t=${new Date().getTime()}`)
             .then((response) => {
               if (!response.ok) throw new Error("No se pudo cargar el archivo");

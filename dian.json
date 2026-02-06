@@ -134,18 +134,7 @@
     "explanation": "El Artículo 64, numeral 2, exige como mínimo un documento con información detallada y justificación, firmado por el representante legal y los responsables de la destrucción."
   },
   {
-    "question": "Según el Art. 87, los costos y deducciones de profesionales independientes (personas naturales) no pueden exceder de:",
-    "options": [
-      "30% de sus ingresos por la actividad.",
-      "50% de sus ingresos por la actividad.",
-      "70% de sus ingresos por la actividad.",
-      "90% de sus ingresos por la actividad."
-    ],
-    "correct": 1,
-    "explanation": "El Artículo 87 establece un límite del cincuenta por ciento (50%) para los costos y deducciones imputables a la actividad propia de profesionales independientes y comisionistas que sean personas naturales."
-  },
-  {
-    "question": "Para efectos del Art. 20-3, se presume interacción deliberada y sistemática en el mercado colombiano cuando:",
+    "question": "Para efectos del Art. 20-3 del Decreto 624 de 1989?, se presume interacción deliberada y sistemática en el mercado colombiano cuando:",
     "options": [
       "Se tiene al menos 100,000 usuarios en Colombia.",
       "Se permite el pago en pesos colombianos (COP).",
@@ -156,7 +145,7 @@
     "explanation": "El Parágrafo 1 del Artículo 20-3 establece que se presume interacción deliberada y sistemática cuando la persona no residente mantiene o establece la posibilidad de visualizar precios en COP o permitir el pago en COP."
   },
   {
-    "question": "¿Qué artículo establece la obligación de llevar contabilidad separada para establecimientos permanentes?",
+    "question": "¿Qué artículo del Decreto 624 de 1989 establece la obligación de llevar contabilidad separada para establecimientos permanentes?",
     "options": [
       "Artículo 20-1",
       "Artículo 20-2",
@@ -167,7 +156,7 @@
     "explanation": "El Artículo 20-2, parágrafo 1, establece que los establecimientos permanentes y sucursales de sociedades extranjeras deberán llevar contabilidad separada."
   },
   {
-    "question": "Según el Art. 1, la obligación tributaria sustancial se origina cuando:",
+    "question": "Según el Art. 1 del Decreto 624 de 1989, la obligación tributaria sustancial se origina cuando:",
     "options": [
       "El contribuyente presenta su declaración de renta.",
       "Se realiza el presupuesto previsto en la ley como generador del impuesto.",
@@ -1098,5 +1087,62 @@
     ],
     "correct": 2,
     "explanation": "Para deudas externas, la norma exige utilizar la proporción basada en la tasa representativa del costo del endeudamiento externo certificada por el Banco de la República."
+  },
+
+  
+  {
+    "question": "Según el Artículo 20-2 del Decreto 624 de 1989, ¿sobre qué rentas deben tributar los establecimientos permanentes y sucursales de entidades extranjeras en Colombia?",
+    "options": [
+      "Sobre la totalidad de sus rentas de fuente mundial.",
+      "Exclusivamente sobre las rentas y ganancias ocasionales de fuente nacional que les sean atribuibles.",
+      "Únicamente sobre los ingresos brutos obtenidos en el territorio, sin considerar costos.",
+      "Sobre las rentas que la casa matriz decida asignarles voluntariamente."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 20-2 limita la soberanía fiscal de Colombia sobre los EP y sucursales a las rentas de fuente nacional que puedan atribuirse directamente a la operación local."
+  },
+  {
+    "question": "En el marco del Artículo 20-2 del Decreto 624 de 1989, ¿cuáles son los criterios fundamentales para realizar la atribución de rentas y ganancias ocasionales?",
+    "options": [
+      "El volumen de ventas y el número total de clientes en el país.",
+      "El capital suscrito y el tiempo de permanencia de la sucursal en Colombia.",
+      "Funciones, activos, riesgos y personal involucrados en la obtención de dichas rentas.",
+      "Únicamente los activos fijos registrados en la contabilidad local."
+    ],
+    "correct": 2,
+    "explanation": "La norma adopta el estándar internacional FAR (Functions, Assets, Risks) incluyendo además el factor del personal para determinar la realidad económica de la atribución."
+  },
+  {
+    "question": "Respecto a la obligación contable, el parágrafo del Artículo 20-2 del Decreto 624 de 1989 exige que los establecimientos permanentes deban:",
+    "options": [
+      "Llevar una contabilidad consolidada con la casa matriz en el exterior.",
+      "Llevar contabilidad separada donde se discriminen claramente ingresos, costos y gastos atribuibles.",
+      "Presentar únicamente un informe de ingresos brutos al final del año fiscal.",
+      "Utilizar la contabilidad de la casa matriz traducida al español."
+    ],
+    "correct": 1,
+    "explanation": "Para efectos fiscales, el parágrafo obliga a tratar al EP como una entidad independiente, exigiendo libros contables propios y separados."
+  },
+  {
+    "question": "De acuerdo con el Artículo 20-2 del Decreto 624 de 1989, además de la contabilidad, ¿qué documento técnico es indispensable para soportar la atribución de rentas?",
+    "options": [
+      "Un certificado de existencia y representación legal apostillado.",
+      "Una declaración juramentada del representante legal de la casa matriz.",
+      "Un estudio sobre funciones, activos, riesgos y personal involucrados.",
+      "Copia de los contratos laborales de todos los empleados extranjeros."
+    ],
+    "correct": 2,
+    "explanation": "La contabilidad debe estar obligatoriamente respaldada por un estudio técnico que justifique la asignación de activos, personal y riesgos al territorio colombiano."
+  },
+  {
+    "question": "Basándose en el Artículo 20-2 del Decreto 624 de 1989, ¿cuál es la relación entre el cumplimiento de este artículo y el régimen de precios de transferencia?",
+    "options": [
+      "Cumplir con la atribución de rentas exime del régimen de precios de transferencia.",
+      "La atribución de rentas es independiente del cumplimiento de los deberes relativos a precios de transferencia.",
+      "Solo se debe cumplir con uno de los dos regímenes, a elección del contribuyente.",
+      "El Artículo 20-2 anula las obligaciones de la declaración informativa de precios de transferencia."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo aclara que el cumplimiento de la atribución de rentas se da 'sin perjuicio' de las obligaciones de precios de transferencia; ambos regímenes coexisten."
   }
 ]
