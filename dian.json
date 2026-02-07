@@ -1489,5 +1489,61 @@
     ],
     "correct": 1,
     "explanation": "Para el caso específico de cuentas en participación, la norma señala que dicha certificación es el soporte equivalente al registro de las actividades del contrato."
+  },
+
+  {
+    "question": "De acuerdo con el numeral 2 del Artículo 18-1 del Estatuto Tributario (Decreto 624 de 1989), ¿quién es el sujeto responsable de pagar el impuesto mediante retenciones practicadas al final de cada mes?",
+    "options": [
+      "El inversionista extranjero mediante autoliquidación mensual.",
+      "La DIAN a través de convenios de doble imposición.",
+      "El administrador de la inversión o la entidad que haga sus veces.",
+      "El Banco de la República al momento del registro de capitales."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 18-1 establece que el impuesto será pagado íntegramente mediante retenciones practicadas por el administrador de las inversiones al final de cada mes."
+  },
+  {
+    "question": "Según el literal (f) del numeral 4 del Artículo 18-1 del Estatuto Tributario (Decreto 624 de 1989), ¿qué tarifa de retención se aplica a los valores de renta fija pública o privada?",
+    "options": [
+      "Una tarifa general del 14%.",
+      "Una tarifa preferencial del 5%.",
+      "Una tarifa de paraíso fiscal del 25%.",
+      "Está exento de retención según la Ley 1607."
+    ],
+    "correct": 1,
+    "explanation": "La norma especifica que para valores de renta fija y derivados con subyacente en renta fija, la tarifa de retención en la fuente es del 5%."
+  },
+  {
+    "question": "Respecto a la declaración de renta, el Artículo 18-1 del Estatuto Tributario (Decreto 624 de 1989) señala que las retenciones practicadas:",
+    "options": [
+      "Son un pago a cuenta que obliga a declarar siempre.",
+      "No son válidas para inversionistas institucionales.",
+      "Constituyen el impuesto definitivo, otorgando la condición de no declarantes.",
+      "Solo son definitivas si el inversionista reside en un paraíso fiscal."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 5 del artículo establece que las retenciones constituyen el impuesto definitivo y los inversionistas tendrán la condición de no declarantes."
+  },
+  {
+    "question": "En el contexto de las pérdidas mensuales, el Artículo 18-1 del Estatuto Tributario (Decreto 624 de 1989) permite al inversionista de portafolio:",
+    "options": [
+      "Solicitarlas como devolución inmediata en efectivo ante la DIAN.",
+      "Amortizarlas con utilidades de los meses subsiguientes.",
+      "Deducirlas del impuesto de industria y comercio.",
+      "Traspasarlas a otros inversionistas del mismo administrador."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 7 del artículo permite que las pérdidas sufridas en un mes sean amortizadas con las utilidades obtenidas en los meses subsiguientes."
+  },
+  {
+    "question": "Según los parágrafos 4 y 5 del Artículo 18-1 del Estatuto Tributario (Decreto 624 de 1989), las normas de este artículo NO son aplicables si:",
+    "options": [
+      "La inversión es menor a 1.000 UVT.",
+      "El administrador es una entidad extranjera sin sede en Colombia.",
+      "El beneficiario final es un residente fiscal en Colombia con control sobre la inversión.",
+      "La inversión se realiza en acciones de la bolsa de valores."
+    ],
+    "correct": 2,
+    "explanation": "La ley excluye de este régimen especial a las inversiones cuyo beneficiario final sea un residente colombiano con control, para evitar estructuras de elusión fiscal."
   }
 ]
