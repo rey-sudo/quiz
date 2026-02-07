@@ -211,7 +211,7 @@
     "explanation": "El Artículo 11 establece que estos bienes están sometidos al impuesto según el régimen de personas naturales, excepto cuando los donatarios los usufructúan personalmente, caso en el cual se gravan en cabeza de quienes los recibieron."
   },
   {
-    "question": "De acuerdo con el Art. 13, las sociedades de responsabilidad limitada y asimiladas:",
+    "question": "De acuerdo con el Art. 13 Decreto 624 de 1989, las sociedades de responsabilidad limitada y asimiladas:",
     "options": [
       "No están sometidas al impuesto sobre la renta.",
       "Están sometidas al impuesto, sin perjuicio de que los socios paguen sobre sus utilidades.",
@@ -222,18 +222,7 @@
     "explanation": "El Artículo 13 establece que estas sociedades están sometidas al impuesto sobre la renta y complementarios, sin perjuicio de que los socios paguen el impuesto correspondiente sobre sus participaciones o utilidades."
   },
   {
-    "question": "Según el Art. 15, las cooperativas serán contribuyentes del impuesto sobre la renta si:",
-    "options": [
-      "Siempre lo son, independientemente de su actividad.",
-      "Destinan sus excedentes en forma diferente a la establecida en la legislación cooperativa.",
-      "Tienen más de 100 asociados.",
-      "Realizan actividades comerciales."
-    ],
-    "correct": 1,
-    "explanation": "El Artículo 15 establece que las cooperativas se someterán al impuesto sobre la renta si destinan sus excedentes, en todo o en parte, en forma diferente a la que establece la legislación cooperativa vigente."
-  },
-  {
-    "question": "De acuerdo con el Art. 18, los contratos de colaboración empresarial (consorcios, uniones temporales, etc.):",
+    "question": "De acuerdo con el Art. 18 Decreto 624 de 1989, los contratos de colaboración empresarial (consorcios, uniones temporales, etc.):",
     "options": [
       "Son contribuyentes del impuesto sobre la renta.",
       "No son contribuyentes; las partes declaran de manera independiente.",
@@ -1257,7 +1246,6 @@
     "explanation": "El parágrafo del Artículo 6 especifica que la facultad es para 'personas naturales residentes'. Las declaraciones de no residentes que no están obligados a declarar no producen efecto legal alguno."
   },
 
-
   {
     "question": "Según el Artículo 11 del Decreto 624 de 1989, ¿bajo qué régimen impositivo tributan los bienes destinados a fines especiales por donaciones o asignaciones modales?",
     "options": [
@@ -1367,5 +1355,61 @@
     ],
     "correct": 1,
     "explanation": "La fuente original compilada del primer inciso del Artículo 11 es el Artículo 3 del Decreto 2053 de 1974."
+  },
+
+  {
+    "question": "Según el Artículo 13 del Estatuto Tributario (Decreto 624 de 1989), ¿cuál es el tratamiento fiscal de las sociedades de responsabilidad limitada frente al impuesto sobre la renta?",
+    "options": [
+      "Están exoneradas del impuesto, ya que solo los socios deben tributar individualmente.",
+      "Son sujetos pasivos del impuesto, sin perjuicio de que los socios paguen sobre sus participaciones cuando resulten gravadas.",
+      "Solo pagan impuesto si sus ingresos superan las 100.000 UVT anuales.",
+      "Su tributación es opcional y depende de lo que decida la junta de socios al cierre del ejercicio."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 13 del Decreto 624 de 1989 establece que estas sociedades están sometidas al impuesto sobre la renta y complementarios de forma independiente a la tributación de sus socios."
+  },
+  {
+    "question": "El Artículo 13 del Decreto 624 de 1989 establece una lista de entidades asimiladas. ¿Cuál de las siguientes se incluye en dicha categoría?",
+    "options": [
+      "Sociedades Anónimas Abiertas.",
+      "Sociedades por Acciones Simplificadas (S.A.S).",
+      "Sociedades colectivas, en comandita simple y sociedades ordinarias de minas.",
+      "Entidades públicas de orden nacional."
+    ],
+    "correct": 2,
+    "explanation": "La norma asimila explícitamente a las sociedades colectivas, en comandita simple y ordinarias de minas al régimen de las sociedades de responsabilidad limitada."
+  },
+  {
+    "question": "Respecto a las fundaciones de interés privado, ¿qué dispone el Artículo 13 del Estatuto Tributario (Decreto 624 de 1989)?",
+    "options": [
+      "Son consideradas entidades del Régimen Tributario Especial automáticamente.",
+      "Se asimilan a sociedades de responsabilidad limitada para efectos fiscales.",
+      "No son contribuyentes del impuesto sobre la renta en Colombia.",
+      "Tributan únicamente sobre sus activos poseídos en el exterior."
+    ],
+    "correct": 1,
+    "explanation": "El inciso segundo del Artículo 13 del Decreto 624 de 1989 asimila las fundaciones de interés privado a sociedades de responsabilidad limitada, sometiéndolas al régimen ordinario."
+  },
+  {
+    "question": "Bajo el Artículo 13 del Decreto 624 de 1989, ¿qué tratamiento reciben las sociedades de hecho similares a las colectivas o limitadas?",
+    "options": [
+      "No tienen obligaciones tributarias por carecer de personería jurídica.",
+      "Se asimilan a las sociedades de responsabilidad limitada para efectos del impuesto sobre la renta.",
+      "Deben registrarse como Entidades Sin Ánimo de Lucro obligatoriamente.",
+      "Solo los socios responden por el impuesto de renta de forma proporcional."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 13 incluye a las sociedades irregulares o de hecho con características similares a las limitadas o colectivas como sujetos asimilados para efectos tributarios."
+  },
+  {
+    "question": "Considerando el Artículo 13 del Estatuto Tributario (Decreto 624 de 1989), ¿cuál es la fuente original compilada de esta norma?",
+    "options": [
+      "La Ley 49 de 1990, Artículo 83.",
+      "El Decreto 2053 de 1974, Artículo 5o.",
+      "La Ley 75 de 1986, Artículo 10.",
+      "El Decreto 187 de 1975, Artículo 15."
+    ],
+    "correct": 1,
+    "explanation": "Tal como indica la nota de vigencia del Artículo 13, la fuente original compilada es el Artículo 5o del Decreto 2053 de 1974."
   }
 ]
