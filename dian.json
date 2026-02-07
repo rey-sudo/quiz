@@ -200,7 +200,7 @@
     "explanation": "El Artículo 6 establece que el impuesto de renta a cargo de personas naturales residentes no obligadas a presentar declaración es el que resulte de sumar las retenciones en la fuente por todo concepto practicadas durante el año gravable."
   },
   {
-    "question": "Según el Art. 11, los bienes destinados a fines especiales por donaciones modales se gravan:",
+    "question": "Según el Art. 11 Decreto 624 de 1989, los bienes destinados a fines especiales por donaciones modales se gravan:",
     "options": [
       "Siempre en cabeza de los donatarios.",
       "Según el régimen de personas naturales, excepto si los donatarios los usufructúan personalmente.",
@@ -1201,7 +1201,6 @@
     "explanation": "El artículo define que dentro del 'solo impuesto' se incluye la transferencia al exterior de rentas y ganancias ocasionales, integrando este concepto al impuesto sobre la renta."
   },
 
-  
   {
     "question": "De acuerdo con el Artículo 6 del Decreto 624 de 1989, ¿cuál es el impuesto de renta definitivo para un contribuyente residente que no está obligado a declarar y decide no hacerlo?",
     "options": [
@@ -1256,5 +1255,117 @@
     ],
     "correct": 2,
     "explanation": "El parágrafo del Artículo 6 especifica que la facultad es para 'personas naturales residentes'. Las declaraciones de no residentes que no están obligados a declarar no producen efecto legal alguno."
+  },
+
+
+  {
+    "question": "Según el Artículo 11 del Decreto 624 de 1989, ¿bajo qué régimen impositivo tributan los bienes destinados a fines especiales por donaciones o asignaciones modales?",
+    "options": [
+      "Régimen de personas jurídicas.",
+      "Régimen de personas naturales.",
+      "Régimen de entidades sin ánimo de lucro exclusivamente.",
+      "Régimen de tributación simple."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece que estos bienes están sometidos al impuesto sobre la renta de acuerdo con el régimen impositivo de las personas naturales excepto cuando los donatarios o asignatarios los usufructúen personalmente. En este último caso, los bienes y las rentas o ganancias ocasionales respectivas se gravan en cabeza de quienes los hayan recibido como donación o asignación."
+  },
+  {
+    "question": "De acuerdo con el Artículo 11 del Decreto 624 de 1989, ¿qué sucede si el donatario usufructúa personalmente los bienes recibidos para fines especiales?",
+    "options": [
+      "Los bienes quedan exentos de todo impuesto de renta.",
+      "Siguen tributando como un patrimonio independiente.",
+      "Se gravan en cabeza de quienes los hayan recibido como donación o asignación.",
+      "El donante debe reintegrar el impuesto exonerado."
+    ],
+    "correct": 2,
+    "explanation": "La norma exceptúa el tratamiento independiente cuando el donatario usufructúa el bien, trasladando la carga tributaria a la cabeza del receptor."
+  },
+  {
+    "question": "En el contexto del Artículo 11 del Decreto 624 de 1989, ¿qué requisito es indispensable para que los gastos de financiación sean deducibles?",
+    "options": [
+      "Que sean pagados exclusivamente a entidades bancarias del exterior.",
+      "Que tengan relación de causalidad con la actividad productora de renta.",
+      "Que el monto no supere el 50% de los ingresos brutos.",
+      "Que hayan sido autorizados previamente por el Ministerio de Hacienda."
+    ],
+    "correct": 1,
+    "explanation": "El inciso 2 del artículo exige explícitamente la relación de causalidad con la actividad productora de renta para que el gasto sea deducible."
+  },
+  {
+    "question": "Basándose en el Artículo 11 del Decreto 624 de 1989, ¿cuál de los siguientes conceptos NO es deducible de la renta?",
+    "options": [
+      "Gastos de financiación ordinarios relacionados con la actividad.",
+      "Gastos de financiación extraordinarios con relación de causalidad.",
+      "Intereses moratorios pagados por impuestos o contribuciones fiscales.",
+      "Gastos de financiación moratorios pagados a proveedores comerciales."
+    ],
+    "correct": 2,
+    "explanation": "El artículo prohíbe explícitamente la deducción de intereses corrientes o moratorios pagados por impuestos, tasas o contribuciones fiscales o parafiscales."
+  },
+  {
+    "question": "Según el inciso 2 del Artículo 11 del Decreto 624 de 1989, ¿qué tipos de gastos de financiación son mencionados como potencialmente deducibles?",
+    "options": [
+      "Solo los intereses corrientes.",
+      "Gastos de financiación ordinarios, extraordinarios o moratorios.",
+      "Únicamente los gastos de deudas en moneda extranjera.",
+      "Solo los gastos destinados a la adquisición de activos fijos."
+    ],
+    "correct": 1,
+    "explanation": "El texto lista expresamente que los gastos ordinarios, extraordinarios o moratorios (distintos de los tributarios) serán deducibles si cumplen la causalidad."
+  },
+  {
+    "question": "El Artículo 11 del Decreto 624 de 1989 aclara que, en caso de usufructo personal, se gravan en cabeza del receptor:",
+    "options": [
+      "Únicamente el valor comercial del bien.",
+      "Las rentas y ganancias ocasionales respectivas.",
+      "El impuesto al patrimonio de años anteriores.",
+      "Las deudas personales del donante original."
+    ],
+    "correct": 1,
+    "explanation": "La normativa señala que tanto los bienes como las rentas o ganancias ocasionales respectivas se gravan en cabeza de quien los recibe si los usufructúa."
+  },
+  {
+    "question": "Respecto a la contribución de los Decretos de Emergencia Económica de 1998, el Artículo 11 del Decreto 624 de 1989 indica que los gastos deducibles son:",
+    "options": [
+      "Los mismos establecidos en dichos decretos.",
+      "Sustitutos de las contribuciones de emergencia.",
+      "Distintos de la contribución establecida en dichos decretos legislativos.",
+      "Deducibles solo si se compensan con dicha contribución."
+    ],
+    "correct": 2,
+    "explanation": "El cierre del artículo aclara que los gastos deducibles permitidos son distintos de la contribución establecida en los Decretos de Emergencia de 1998."
+  },
+  {
+    "question": "Bajo el Artículo 11 del Decreto 624 de 1989, si un contribuyente paga intereses de mora por un aporte parafiscal adeudado:",
+    "options": [
+      "Puede deducirlos si demuestra que no tenía liquidez.",
+      "No son deducibles por tratarse de una contribución parafiscal.",
+      "Son deducibles siempre que la tasa sea la bancaria corriente.",
+      "Son deducibles como gasto extraordinario de financiación."
+    ],
+    "correct": 1,
+    "explanation": "El artículo prohíbe la deducción de intereses moratorios pagados por impuestos, tasas, contribuciones fiscales o parafiscales."
+  },
+  {
+    "question": "Según el Artículo 11 del Decreto 624 de 1989, una 'asignación modal' con fines especiales que NO es usufructuada personalmente se considera:",
+    "options": [
+      "Un ingreso exento de impuestos.",
+      "Un sujeto pasivo sometido al impuesto bajo el régimen de personas naturales.",
+      "Una extensión de la declaración de renta del donante.",
+      "Una entidad que no debe cumplir con obligaciones tributarias."
+    ],
+    "correct": 1,
+    "explanation": "La norma indica que estos bienes están sometidos al impuesto sobre la renta bajo el régimen de personas naturales cuando no hay usufructo personal."
+  },
+  {
+    "question": "El Artículo 11 del Decreto 624 de 1989 compila originalmente qué normativa anterior?",
+    "options": [
+      "La Ley 488 de 1998 en su totalidad.",
+      "El Decreto 2053 de 1974, Artículo 3.",
+      "La Ley 100 de 1993, Artículo 11.",
+      "El Decreto 187 de 1975, Artículo 1."
+    ],
+    "correct": 1,
+    "explanation": "La fuente original compilada del primer inciso del Artículo 11 es el Artículo 3 del Decreto 2053 de 1974."
   }
 ]
