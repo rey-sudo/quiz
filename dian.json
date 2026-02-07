@@ -233,10 +233,10 @@
     "explanation": "El Artículo 18 establece que estos contratos NO son contribuyentes del impuesto sobre la renta. Sin embargo, tienen la obligación de presentar declaración informativa de renta. Las partes que los conforman deben declarar de manera independiente los activos, pasivos, ingresos, costos y deducciones que les correspondan."
   },
   {
-    "question": "Según el Art. 18-1, la tarifa general de retención en la fuente para inversionistas de capital de portafolio del exterior no domiciliados en paraísos fiscales es:",
+    "question": "Según el Art. 18-1 Decreto 624 de 1989, la tarifa general de retención en la fuente para inversionistas de capital de portafolio del exterior no domiciliados en paraísos fiscales es:",
     "options": ["5%", "10%", "14%", "25%"],
     "correct": 2,
-    "explanation": "El Artículo 18-1, literal e), establece una tarifa general de retención en la fuente del catorce por ciento (14%) para inversionistas no domiciliados en paraísos fiscales."
+    "explanation": "El Artículo 18-1 , literal e), establece una tarifa general de retención en la fuente del catorce por ciento (14%) para inversionistas no domiciliados en paraísos fiscales."
   },
   {
     "question": "De acuerdo con el Art. 19, las asociaciones y fundaciones sin ánimo de lucro pueden solicitar ser contribuyentes del Régimen Tributario Especial si cumplen, entre otros, el requisito de que:",
@@ -1411,5 +1411,83 @@
     ],
     "correct": 1,
     "explanation": "Tal como indica la nota de vigencia del Artículo 13, la fuente original compilada es el Artículo 5o del Decreto 2053 de 1974."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 18 del Estatuto Tributario (Decreto 624 de 1989), ¿cuál es la calidad tributaria de los consorcios y uniones temporales frente al impuesto sobre la renta?",
+    "options": [
+      "Son contribuyentes del régimen ordinario con tarifa general.",
+      "No son contribuyentes del impuesto sobre la renta y complementarios.",
+      "Son responsables solidarios del impuesto de sus partícipes.",
+      "Son contribuyentes únicamente si superan topes de ingresos anuales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 18 establece explícitamente que los contratos de colaboración empresarial no son contribuyentes del impuesto sobre la renta, aplicando el principio de transparencia fiscal."
+  },
+  {
+    "question": "Según el Artículo 18 del Estatuto Tributario (Decreto 624 de 1989), ¿cómo deben cumplir las partes del contrato con su obligación de declarar?",
+    "options": [
+      "Deben declarar únicamente la utilidad neta recibida del contrato.",
+      "El gestor declara la totalidad de los ingresos y los socios solo el patrimonio.",
+      "Deben declarar de manera independiente los activos, pasivos, ingresos, costos y deducciones que les correspondan.",
+      "La declaración se presenta de forma conjunta bajo el NIT del consorcio."
+    ],
+    "correct": 2,
+    "explanation": "La norma exige que cada parte reporte de forma independiente su participación proporcional en cada uno de los rubros fiscales (activos, pasivos, ingresos, costos y gastos)."
+  },
+  {
+    "question": "Considerando el Artículo 18 del Estatuto Tributario (Decreto 624 de 1989), ¿qué tratamiento reciben las relaciones comerciales con 'rendimiento garantizado'?",
+    "options": [
+      "Se consideran aportes al capital del contrato de colaboración.",
+      "Se tratan para todos los efectos fiscales como relaciones entre partes independientes.",
+      "Están exentas de facturación electrónica por ser operaciones internas.",
+      "Se consideran utilidades distribuidas por anticipado."
+    ],
+    "correct": 1,
+    "explanation": "El inciso tercero aclara que si hay un rendimiento garantizado, no hay un aporte sino una enajenación o prestación de servicios tratada como operación entre terceros."
+  },
+  {
+    "question": "Bajo el Parágrafo 1 del Artículo 18 del Estatuto Tributario (Decreto 624 de 1989), ¿quién tiene la obligación de certificar la información fiscal a los partícipes?",
+    "options": [
+      "El Revisor Fiscal de cada una de las empresas asociadas.",
+      "La Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "El gestor, representante o administrador del contrato.",
+      "Cualquier socio que posea más del 25% de participación."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo 1 asigna la responsabilidad de certificar y proporcionar la información financiera y fiscal al gestor, representante o administrador del contrato."
+  },
+  {
+    "question": "De acuerdo con el Parágrafo 1 del Artículo 18 del Estatuto Tributario (Decreto 624 de 1989), ¿qué firmas debe contener la certificación expedida a los socios?",
+    "options": [
+      "Firma del Representante Legal y el Revisor Fiscal de la DIAN.",
+      "Firma del Representante Legal y el Contador Público o Revisor Fiscal respectivo.",
+      "Firma de todos los miembros del consorcio o unión temporal.",
+      "Firma únicamente del Contador Público que elaboró el registro."
+    ],
+    "correct": 1,
+    "explanation": "La ley exige que la certificación esté avalada tanto por el representante legal (o quien haga sus veces) como por el profesional contable (contador o revisor fiscal)."
+  },
+  {
+    "question": "Según el Parágrafo 2 del Artículo 18 del Estatuto Tributario (Decreto 624 de 1989), ¿qué posibilidad tienen las partes respecto a la contabilidad del contrato?",
+    "options": [
+      "Están obligadas a no llevar contabilidad independiente.",
+      "Pueden establecer que el contrato llevará contabilidad según los marcos técnicos normativos de información financiera.",
+      "Deben llevar contabilidad únicamente bajo el sistema de caja.",
+      "Solo pueden llevar contabilidad si el contrato es un Joint Venture extranjero."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo 2 faculta a las partes para decidir si el contrato lleva su propia contabilidad siguiendo las NIIF (Marcos Técnicos Normativos) aplicables."
+  },
+  {
+    "question": "En el contexto de 'cuentas en participación', el Artículo 18 del Estatuto Tributario (Decreto 624 de 1989) indica que la certificación del gestor al partícipe oculto:",
+    "options": [
+      "Es un documento meramente informativo sin validez fiscal.",
+      "Hace las veces del registro sobre las actividades desarrolladas en virtud del contrato.",
+      "Debe ser elevada a escritura pública para ser válida ante la DIAN.",
+      "Sustituye la obligación del socio oculto de presentar declaración de renta."
+    ],
+    "correct": 1,
+    "explanation": "Para el caso específico de cuentas en participación, la norma señala que dicha certificación es el soporte equivalente al registro de las actividades del contrato."
   }
 ]
