@@ -239,7 +239,7 @@
     "explanation": "El Artículo 18-1 , literal e), establece una tarifa general de retención en la fuente del catorce por ciento (14%) para inversionistas no domiciliados en paraísos fiscales."
   },
   {
-    "question": "De acuerdo con el Art. 19, las asociaciones y fundaciones sin ánimo de lucro pueden solicitar ser contribuyentes del Régimen Tributario Especial si cumplen, entre otros, el requisito de que:",
+    "question": "De acuerdo con el Art. 19 Decreto 624 de 1989, las asociaciones y fundaciones sin ánimo de lucro pueden solicitar ser contribuyentes del Régimen Tributario Especial si cumplen, entre otros, el requisito de que:",
     "options": [
       "Distribuyan sus excedentes entre sus fundadores.",
       "Su objeto social sea de interés general en actividades meritorias.",
@@ -250,7 +250,7 @@
     "explanation": "El Artículo 19, numeral 2, establece como requisito que su objeto social sea de interés general en una o varias actividades meritorias establecidas en el artículo 359."
   },
   {
-    "question": "Según el Art. 23-1, los fondos de capital privado y de inversión colectiva:",
+    "question": "Según el Art. 23-1 Decreto 624 de 1989, los fondos de capital privado y de inversión colectiva:",
     "options": [
       "Son contribuyentes del impuesto sobre la renta.",
       "No son contribuyentes; los ingresos se atribuyen a sus partícipes.",
@@ -1545,5 +1545,61 @@
     ],
     "correct": 2,
     "explanation": "La ley excluye de este régimen especial a las inversiones cuyo beneficiario final sea un residente colombiano con control, para evitar estructuras de elusión fiscal."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 19 del Estatuto Tributario (Decreto 624 de 1989), ¿cuál es el tratamiento tributario inicial para las asociaciones, fundaciones y corporaciones ESAL antes de ser calificadas?",
+    "options": [
+      "Son consideradas entidades no contribuyentes de impuestos nacionales por su naturaleza.",
+      "Son contribuyentes del impuesto sobre la renta conforme a las normas de las sociedades nacionales.",
+      "Están exentas de presentar declaración de renta si sus activos son bajos.",
+      "Tributan automáticamente con la tarifa del 20% desde su constitución."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 19 establece que estas entidades son contribuyentes del régimen ordinario (como cualquier sociedad comercial) a menos que soliciten y obtengan su calificación al Régimen Tributario Especial."
+  },
+  {
+    "question": "Según el numeral 2 del Artículo 19 del Decreto 624 de 1989, para que una entidad sea calificada en el Régimen Tributario Especial, su objeto social debe:",
+    "options": [
+      "Ser de beneficio exclusivo para los miembros de la asociación.",
+      "Corresponder a cualquier actividad lícita que genere empleos.",
+      "Ser de interés general en actividades meritorias (Art. 359) y tener acceso a la comunidad.",
+      "Generar excedentes que superen obligatoriamente las 160.000 UVT."
+    ],
+    "correct": 2,
+    "explanation": "La norma exige que el objeto social se centre en actividades de interés general descritas en el artículo 359 y que la comunidad pueda acceder a ellas, evitando beneficios cerrados o privados."
+  },
+  {
+    "question": "Respecto a la distribución de recursos, el Artículo 19 del Estatuto Tributario (Decreto 624 de 1989) prohíbe que los excedentes sean distribuidos:",
+    "options": [
+      "Únicamente de forma directa a los fundadores.",
+      "Bajo ninguna modalidad, directa o indirectamente, durante su existencia o en su liquidación.",
+      "Solo si la entidad tiene deudas pendientes con la administración tributaria.",
+      "Excepto en el momento de la liquidación total de la persona jurídica."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 3 del artículo prohíbe taxativamente el reembolso de aportes y la distribución de excedentes en cualquier momento, asegurando que el patrimonio permanezca afecto a la causa social."
+  },
+  {
+    "question": "Según el Parágrafo 2 del Artículo 19 del Decreto 624 de 1989, las entidades con ingresos anuales superiores a 160.000 UVT tienen la obligación de:",
+    "options": [
+      "Pagar una tarifa de renta del 35% sin posibilidad de exención.",
+      "Registrarse ante la Cámara de Comercio como empresas comerciales.",
+      "Presentar una memoria económica ante la Dirección de Gestión de Fiscalización.",
+      "Destinar el 100% de sus ingresos a donaciones externas obligatorias."
+    ],
+    "correct": 2,
+    "explanation": "Para efectos de control sobre la destinación de los excedentes, las entidades de mayor tamaño deben presentar este informe detallado para mantener su transparencia ante la DIAN."
+  },
+  {
+    "question": "Con base en el Parágrafo 1 del Artículo 19 del Estatuto Tributario (Decreto 624 de 1989), la calificación al Régimen Tributario Especial NO aplica para:",
+    "options": [
+      "Entidades enunciadas como no contribuyentes en los artículos 22 y 23 del Estatuto.",
+      "Las fundaciones creadas por extranjeros residentes en Colombia.",
+      "Las corporaciones que no tengan ánimo de lucro pero realicen ventas de servicios.",
+      "Las asociaciones que tengan más de 10 años de existencia legal."
+    ],
+    "correct": 0,
+    "explanation": "Las entidades de los artículos 22 y 23 ya poseen un estatus de 'no contribuyente', por lo que están fuera del ámbito de aplicación del proceso de calificación del artículo 19."
   }
 ]
