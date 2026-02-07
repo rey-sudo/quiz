@@ -1601,5 +1601,116 @@
     ],
     "correct": 0,
     "explanation": "Las entidades de los artículos 22 y 23 ya poseen un estatus de 'no contribuyente', por lo que están fuera del ámbito de aplicación del proceso de calificación del artículo 19."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 23-1 del Estatuto Tributario (Decreto 624 de 1989), ¿cuál es el tratamiento tributario general para los Fondos de Capital Privado (FCP) y Fondos de Inversión Colectiva (FIC)?",
+    "options": [
+      "Son contribuyentes del régimen ordinario con tarifa reducida.",
+      "Son contribuyentes del Régimen Tributario Especial.",
+      "No son contribuyentes del impuesto sobre la renta y complementarios.",
+      "Son contribuyentes únicamente si no cotizan en la Bolsa de Valores."
+    ],
+    "correct": 2,
+    "explanation": "El inciso 1 del artículo 23-1 establece explícitamente que estos fondos, administrados por entidades autorizadas, no son contribuyentes del impuesto sobre la renta."
+  },
+  {
+    "question": "Según el Artículo 23-1 del Decreto 624 de 1989, la remuneración que recibe la sociedad administradora por su labor en el fondo:",
+    "options": [
+      "Está exenta de impuestos por ser un gasto del fondo.",
+      "Constituye un ingreso gravable para la administradora y está sujeta a retención en la fuente.",
+      "Se considera un ingreso no constitutivo de renta ni ganancia ocasional.",
+      "Debe ser distribuida entre los partícipes para que ellos paguen el impuesto."
+    ],
+    "correct": 1,
+    "explanation": "La norma separa la fiscalidad del fondo de la de su administrador, señalando que la comisión o pago por administración es un ingreso plenamente gravado para la entidad que presta el servicio."
+  },
+  {
+    "question": "Bajo el principio de transparencia fiscal del Artículo 23-1 del Estatuto Tributario, ¿en qué condiciones reciben los ingresos los suscriptores del fondo?",
+    "options": [
+      "Siempre como rentas de trabajo independientemente de su origen.",
+      "Como dividendos exentos en todos los casos.",
+      "Al mismo título y en las mismas condiciones tributarias que si fueran percibidos directamente por el suscriptor.",
+      "Como ganancias ocasionales de manera obligatoria."
+    ],
+    "correct": 2,
+    "explanation": "El inciso 3 consagra la transparencia fiscal: el fondo actúa como un vehículo que mantiene la naturaleza y condiciones tributarias del ingreso original para el inversionista."
+  },
+  {
+    "question": "Con base en el Artículo 23-1 del Decreto 624 de 1989, el diferimiento del impuesto hasta la distribución de utilidades se permite cuando:",
+    "options": [
+      "El fondo tiene menos de 10 inversionistas.",
+      "Las participaciones del fondo son negociadas en una bolsa de valores supervisada por la Superfinanciera.",
+      "El fondo invierte exclusivamente en bonos del Estado (TES).",
+      "El administrador del fondo es una entidad extranjera sin domicilio en Colombia."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 del inciso 4 permite el diferimiento de la renta para los partícipes cuando el fondo es listado y negociado en bolsa."
+  },
+  {
+    "question": "Para que un fondo que NO cotiza en bolsa mantenga el diferimiento según el Artículo 23-1 del ET, ningún beneficiario efectivo puede poseer, directa o indirectamente:",
+    "options": [
+      "Más del 10% del fondo.",
+      "Más del 25% del fondo.",
+      "Más del 50% del fondo.",
+      "Más del 75% del fondo."
+    ],
+    "correct": 2,
+    "explanation": "El literal a) del numeral 2 del inciso 4 exige que no haya una concentración superior al 50% en un solo beneficiario o grupo vinculado para evitar el uso del fondo como instrumento de elusión personal."
+  },
+  {
+    "question": "De acuerdo con el Artículo 23-1 del Estatuto Tributario, si un fondo tiene como propósito principal realizar una transacción única de venta de activos para diferir impuestos:",
+    "options": [
+      "La DIAN otorgará un plazo de 5 años para pagar el impuesto.",
+      "Las rentas de los partícipes se causarán en el mismo ejercicio en que son percibidas por el fondo.",
+      "El fondo será sancionado con la pérdida de su personería jurídica.",
+      "Los inversionistas podrán compensar esa renta con pérdidas de años anteriores."
+    ],
+    "correct": 1,
+    "explanation": "La norma contiene una cláusula anti-abuso específica que elimina el beneficio de diferimiento si la creación del fondo carece de sustancia económica y busca principalmente la postergación del impuesto."
+  },
+  {
+    "question": "Según el Parágrafo 1 del Artículo 23-1 del Decreto 624 de 1989, los fondos de emprendimiento innovador están exceptuados del límite de concentración si su valor es inferior a:",
+    "options": [
+      "100.000 UVT.",
+      "300.000 UVT.",
+      "600.000 UVT.",
+      "1.000.000 UVT."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo 1 establece el límite de 600.000 UVT para fomentar el capital de riesgo en nuevos emprendimientos, permitiendo mayor concentración de propiedad."
+  },
+  {
+    "question": "Respecto a los fondos parafiscales agropecuarios y el Fondo de Promoción Turística, el Parágrafo 2 del Artículo 23-1 del ET señala que:",
+    "options": [
+      "Son contribuyentes del régimen ordinario desde el año 2021.",
+      "No son contribuyentes del impuesto sobre la renta y están sujetos a control fiscal.",
+      "Deben pagar una tarifa única del 10% sobre sus rendimientos.",
+      "No pueden ser administrados por entidades privadas."
+    ],
+    "correct": 1,
+    "explanation": "Debido a su naturaleza pública o de fomento, estos fondos no son contribuyentes, pero el Estado garantiza su transparencia mediante el control fiscal."
+  },
+  {
+    "question": "Conforme al Parágrafo 3 del Artículo 23-1 del Estatuto Tributario, la facultad de decidir sobre las distribuciones (discrecionalidad) por parte del gestor no anula el diferimiento siempre que:",
+    "options": [
+      "El gestor no reciba honorarios por dicha gestión.",
+      "El fondo tenga más de 100 suscriptores.",
+      "No exista vinculación económica entre el gestor y los beneficiarios o inversionistas mayoritarios.",
+      "El gestor sea una entidad pública."
+    ],
+    "correct": 2,
+    "explanation": "Se permite la discrecionalidad técnica del gestor profesional siempre que no haya un conflicto de interés o vinculación con los dueños del capital, preservando la independencia del fondo."
+  },
+  {
+    "question": "Según el Parágrafo Transitorio del Artículo 23-1 del Decreto 624 de 1989, ¿qué sucedía con los fondos que al 30 de junio de 2021 no se acogieron a los requisitos de la norma?",
+    "options": [
+      "Las utilidades pendientes de causación fiscal se entendieron causadas en el año gravable 2021.",
+      "Fueron disueltos por la Superintendencia de Sociedades.",
+      "Pasaron a ser contribuyentes del impuesto de industria y comercio.",
+      "Se les permitió mantener el régimen anterior hasta el año 2026."
+    ],
+    "correct": 0,
+    "explanation": "El parágrafo transitorio estableció una fecha límite para la adaptación. De no cumplirse, la ley forzó la realización de las rentas acumuladas en el año 2021."
   }
 ]
