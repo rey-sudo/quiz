@@ -189,7 +189,7 @@
     "explanation": "El Artículo 5 establece que el impuesto sobre la renta y complementarios se considera como un solo tributo."
   },
   {
-    "question": "Según el Art. 6 Decreto 624 de 1989, el impuesto de renta de los asalariados no obligados a declarar es igual a:",
+    "question": "Según el Art. 6 Decreto 624 de 1989, el impuesto de renta de las personas naturales residentes no obligados a declarar es igual a:",
     "options": [
       "La tarifa general del impuesto.",
       "El 50% de sus ingresos brutos.",
@@ -197,7 +197,7 @@
       "Un monto fijo establecido por el Gobierno."
     ],
     "correct": 2,
-    "explanation": "El Artículo 6 establece que el impuesto de renta a cargo de asalariados no obligados a presentar declaración es el que resulte de sumar las retenciones en la fuente por todo concepto practicadas durante el año gravable."
+    "explanation": "El Artículo 6 establece que el impuesto de renta a cargo de personas naturales residentes no obligadas a presentar declaración es el que resulte de sumar las retenciones en la fuente por todo concepto practicadas durante el año gravable."
   },
   {
     "question": "Según el Art. 11, los bienes destinados a fines especiales por donaciones modales se gravan:",
@@ -1199,5 +1199,62 @@
     ],
     "correct": 2,
     "explanation": "El artículo define que dentro del 'solo impuesto' se incluye la transferencia al exterior de rentas y ganancias ocasionales, integrando este concepto al impuesto sobre la renta."
+  },
+
+  
+  {
+    "question": "De acuerdo con el Artículo 6 del Decreto 624 de 1989, ¿cuál es el impuesto de renta definitivo para un contribuyente residente que no está obligado a declarar y decide no hacerlo?",
+    "options": [
+      "El valor equivalente al 1% de su patrimonio bruto anual.",
+      "La suma de las retenciones en la fuente por todo concepto aplicadas en el período.",
+      "El monto que resulte de aplicar la tabla de retención del artículo 383.",
+      "Cero pesos, pues la ley lo exonera de toda carga tributaria."
+    ],
+    "correct": 1,
+    "explanation": "La norma establece explícitamente que el impuesto a cargo de los no obligados es el que resulte de sumar las retenciones en la fuente que deban aplicarse a sus pagos o abonos en cuenta."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 6 del Decreto 624 de 1989, ¿qué condición es indispensable para que una persona natural pueda presentar una declaración de renta voluntaria con efectos legales?",
+    "options": [
+      "Tener ingresos superiores a 1.400 UVT.",
+      "Poseer bienes en el exterior por más de 2.000 UVT.",
+      "Ser residente en el país y haber sido objeto de retenciones en la fuente.",
+      "Estar inscrito en el Régimen Simple de Tributación (RST)."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo limita esta facultad a las personas naturales residentes en el país a quienes se les hayan practicado retenciones en la fuente."
+  },
+  {
+    "question": "Considerando el Artículo 6 del Decreto 624 de 1989, ¿bajo qué marco normativo se rige la declaración voluntaria una vez el contribuyente decide presentarla?",
+    "options": [
+      "Bajo las normas exclusivas del impuesto al consumo.",
+      "Se rige por lo dispuesto en el Libro I del Estatuto Tributario.",
+      "Bajo un régimen especial de tributación abreviada.",
+      "Únicamente bajo los decretos reglamentarios de la Ley 1607 de 2012."
+    ],
+    "correct": 1,
+    "explanation": "La norma indica que dicha declaración produce efectos legales y se regirá por lo dispuesto en el Libro I de este Estatuto (Impuesto sobre la Renta y Complementarios)."
+  },
+  {
+    "question": "Bajo la interpretación del Artículo 6 del Decreto 624 de 1989, ¿por qué es posible que un contribuyente obtenga una devolución de dinero al declarar voluntariamente?",
+    "options": [
+      "Porque la DIAN premia con un bono de descuento a quienes declaran sin estar obligados.",
+      "Porque al aplicar costos y deducciones, el impuesto calculado puede ser menor a las retenciones practicadas.",
+      "Porque las declaraciones voluntarias no están sujetas a la tarifa de ganancias ocasionales.",
+      "Porque la norma prohíbe que el Estado retenga más de 10 UVT a los no obligados."
+    ],
+    "correct": 1,
+    "explanation": "Al declarar voluntariamente, el contribuyente puede depurar su renta siguiendo las reglas del Libro I, lo que permite que el impuesto real sea inferior a lo retenido, generando un saldo a favor."
+  },
+  {
+    "question": "En el contexto del Artículo 6 del Decreto 624 de 1989, si un contribuyente NO residente presenta una declaración de renta sin estar obligado, ¿qué efecto tiene según la normativa?",
+    "options": [
+      "Tiene plenos efectos legales y puede solicitar devolución.",
+      "Se considera una declaración de corrección automática.",
+      "No produce efectos legales, pues el beneficio es exclusivo para residentes.",
+      "Se convierte automáticamente en una declaración de IVA."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del Artículo 6 especifica que la facultad es para 'personas naturales residentes'. Las declaraciones de no residentes que no están obligados a declarar no producen efecto legal alguno."
   }
 ]
