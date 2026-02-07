@@ -1089,7 +1089,6 @@
     "explanation": "Para deudas externas, la norma exige utilizar la proporción basada en la tasa representativa del costo del endeudamiento externo certificada por el Banco de la República."
   },
 
-  
   {
     "question": "Según el Artículo 20-2 del Decreto 624 de 1989, ¿sobre qué rentas deben tributar los establecimientos permanentes y sucursales de entidades extranjeras en Colombia?",
     "options": [
@@ -1144,5 +1143,61 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo aclara que el cumplimiento de la atribución de rentas se da 'sin perjuicio' de las obligaciones de precios de transferencia; ambos regímenes coexisten."
+  },
+
+  {
+    "question": "Basándose en el Artículo 5º del Decreto 624 de 1989, ¿cuál es la naturaleza jurídica de la relación entre el impuesto sobre la renta y sus complementarios?",
+    "options": [
+      "Son impuestos independientes que se liquidan por separado y en diferentes períodos.",
+      "Constituyen un solo impuesto unificado que comprende diversos conceptos de liquidación.",
+      "El impuesto sobre la renta es principal y los complementarios son opcionales según el contribuyente.",
+      "Solo se consideran un solo tributo para las personas jurídicas, excluyendo a las naturales."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece explícitamente que el impuesto sobre la renta y sus complementarios 'constituyen un solo impuesto' y se consideran como un solo tributo."
+  },
+  {
+    "question": "Conforme al numeral 1 del Artículo 5º del Decreto 624 de 1989, ¿sobre qué bases se liquida el impuesto para las sucesiones ilíquidas y bienes destinados a fines especiales?",
+    "options": [
+      "Únicamente sobre la renta ordinaria y el IVA.",
+      "Sobre la renta, ganancias ocasionales y el impuesto de industria y comercio.",
+      "Sobre la renta, ganancias ocasionales, patrimonio y transferencia de rentas al exterior.",
+      "Exclusivamente sobre las utilidades comerciales del ejercicio fiscal."
+    ],
+    "correct": 2,
+    "explanation": "La norma indica que para este grupo de contribuyentes, el tributo se liquida con base en la renta, ganancias ocasionales, patrimonio y transferencias al exterior."
+  },
+  {
+    "question": "Según el Artículo 5º del Decreto 624 de 1989, ¿cuál es un componente específico de liquidación para las sucursales de sociedades y entidades extranjeras?",
+    "options": [
+      "Las asignaciones modales contempladas en el artículo 11.",
+      "Las utilidades comerciales obtenidas por la sucursal.",
+      "Los aportes parafiscales derivados de la nómina.",
+      "Únicamente el patrimonio bruto poseído a 31 de diciembre."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2 del artículo señala que para los demás contribuyentes (incluyendo sucursales extranjeras), el impuesto comprende también la liquidación sobre las utilidades comerciales."
+  },
+  {
+    "question": "De acuerdo con el Artículo 5º del Decreto 624 de 1989, ¿qué elemento es común en la liquidación del impuesto tanto para personas naturales como para los demás contribuyentes?",
+    "options": [
+      "El impuesto al patrimonio.",
+      "Las donaciones o asignaciones modales.",
+      "La renta, las ganancias ocasionales y las transferencias al exterior.",
+      "Las utilidades comerciales de entidades extranjeras."
+    ],
+    "correct": 2,
+    "explanation": "Ambos numerales del artículo coinciden en que la renta, las ganancias ocasionales y las transferencias de rentas al exterior forman parte de la base de liquidación del tributo unificado."
+  },
+  {
+    "question": "Considerando la fuente original citada en el Artículo 5º del Decreto 624 de 1989 (D. 2053/74), ¿qué concepto se aplica específicamente a las transferencias de riqueza fuera del país?",
+    "options": [
+      "Impuesto a las ventas internacionales.",
+      "Gravamen a los movimientos financieros.",
+      "Transferencia de rentas y ganancias ocasionales al exterior.",
+      "Retención en la fuente por ingresos de fuente extranjera."
+    ],
+    "correct": 2,
+    "explanation": "El artículo define que dentro del 'solo impuesto' se incluye la transferencia al exterior de rentas y ganancias ocasionales, integrando este concepto al impuesto sobre la renta."
   }
 ]
