@@ -305,7 +305,7 @@
     "explanation": "El Artículo 30, numeral 1, define como dividendos o participaciones en utilidades toda distribución de beneficios, en dinero o en especie, con cargo a patrimonio."
   },
   {
-    "question": "Según el Art. 32, en contratos de concesión y APP, la amortización del activo intangible se efectúa:",
+    "question": "Según el Art. 32 Decreto 624 de 1989, en contratos de concesión y APP, la amortización del activo intangible se efectúa:",
     "options": [
       "Por el método de saldos decrecientes.",
       "En línea recta, según el plazo de la concesión.",
@@ -1875,5 +1875,61 @@
     ],
     "correct": 1,
     "explanation": "La normativa exige que la distribución de beneficios, para ser considerada dividendo, debe realizarse con cargo al patrimonio de la sociedad o entidad."
+  },
+
+  {
+    "question": "Según el Artículo 32 del Decreto 624 de 1989, ¿cómo deben tratarse los costos por préstamos (intereses) devengados durante la etapa de construcción en un contrato de concesión?",
+    "options": [
+      "Deben deducirse como gasto financiero en el mismo periodo en que se causan.",
+      "Deben capitalizarse como parte del costo fiscal del activo intangible.",
+      "Deben ser asumidos directamente por la entidad estatal contratante.",
+      "Se consideran un ingreso para el concesionario por concepto de financiación."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 del artículo 32 del Decreto 624 de 1989 establece que todos los costos y gastos devengados en construcción, incluyendo los costos por préstamos, deben ser capitalizados y no llevados al gasto inmediatamente."
+  },
+  {
+    "question": "Bajo el Artículo 32 del Decreto 624 de 1989, ¿cuál es el manejo fiscal de los ingresos devengados por el concesionario asociados a la etapa de construcción?",
+    "options": [
+      "Se reconocen como ingreso gravable inmediatamente al momento del cobro.",
+      "Se consideran ingresos no constitutivos de renta ni ganancia ocasional.",
+      "Deben acumularse como un pasivo por ingresos diferidos hasta el inicio de la operación.",
+      "Se descuentan de la base gravable del impuesto de industria y comercio."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 del artículo 32 del Decreto 624 de 1989 indica que estos ingresos no se gravan de inmediato, sino que se acumulan como un pasivo fiscal para ser reconocidos en la etapa de operación."
+  },
+  {
+    "question": "De acuerdo con el Artículo 32 del Decreto 624 de 1989, ¿cuándo inicia la amortización del costo fiscal del activo intangible y bajo qué método?",
+    "options": [
+      "Desde el inicio de la construcción mediante el método de reducción de saldos.",
+      "Desde la firma del contrato mediante el método de suma de dígitos.",
+      "A partir del inicio de la etapa de operación y mantenimiento en línea recta.",
+      "Únicamente al finalizar la concesión mediante un solo pago global."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2 del artículo 32 del Decreto 624 de 1989 estipula que la amortización se efectuará en línea recta, en iguales proporciones, a partir del inicio de la etapa de operación."
+  },
+  {
+    "question": "Según el numeral 6 del Artículo 32 del Decreto 624 de 1989, ¿qué tratamiento tienen los gastos por mantenimientos mayores o intervenciones significativas en la etapa de operación?",
+    "options": [
+      "Son deducibles al 100% en el año en que se incurre en el gasto.",
+      "Deben capitalizarse para su amortización en línea recta durante el término que dure dicha actividad.",
+      "Se consideran una pérdida fiscal compensable en los siguientes 5 años.",
+      "Deben ser descontados del pasivo por ingresos diferidos creado en la construcción."
+    ],
+    "correct": 1,
+    "explanation": "La norma exige que estos gastos significativos sean capitalizados para su amortización en línea recta durante el término que dure la rehabilitación o mantenimiento mayor."
+  },
+  {
+    "question": "En el marco del Parágrafo 4 del Artículo 32 del Decreto 624 de 1989, ¿qué ocurre si el contrato establece entregas por unidades funcionales o hitos?",
+    "options": [
+      "Se debe esperar a terminar la totalidad de la obra para aplicar las reglas fiscales.",
+      "Las reglas de este artículo se aplicarán de forma independiente para cada unidad funcional o hito que otorgue derecho a pago.",
+      "El concesionario pierde el derecho a la amortización en línea recta.",
+      "Solo se podrá amortizar el costo si el hito representa más del 50% de la obra total."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo 4 permite que el tratamiento de ingresos y costos se aplique individualmente por cada unidad de entrega de obra (unidad funcional) que genere derecho a pago."
   }
 ]
