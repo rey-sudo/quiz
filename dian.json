@@ -316,7 +316,7 @@
     "explanation": "El Artículo 32, numeral 2, establece que la amortización del costo fiscal del activo intangible se efectuará en línea recta, teniendo en cuenta el plazo de la concesión."
   },
   {
-    "question": "De acuerdo con el Art. 33, los ingresos por títulos de renta variable medidos a valor razonable serán objeto del impuesto sobre la renta:",
+    "question": "De acuerdo con el Art. 33 Decreto 624 de 1989, los ingresos por títulos de renta variable medidos a valor razonable serán objeto del impuesto sobre la renta:",
     "options": [
       "Al momento de su medición contable.",
       "Al cierre de cada ejercicio fiscal.",
@@ -1931,5 +1931,54 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo 4 permite que el tratamiento de ingresos y costos se aplique individualmente por cada unidad de entrega de obra (unidad funcional) que genere derecho a pago."
+  },
+
+  {
+    "question": "Según el numeral 1 del Artículo 33 del Decreto 624 de 1989, ¿cuándo son objeto del Impuesto sobre la Renta los ingresos devengados por títulos de renta variable medidos a valor razonable?",
+    "options": [
+      "Al cierre de cada periodo gravable según su valor de mercado.",
+      "Únicamente cuando el valor razonable supere el costo de adquisición en un 20%.",
+      "Solo hasta el momento de su enajenación o liquidación, lo que suceda primero.",
+      "En el momento en que se decreten dividendos, independientemente de la venta."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 1 del Artículo 33 establece que para títulos de renta variable (como acciones), los efectos fiscales se postergan hasta la venta o liquidación del instrumento, ignorando las valoraciones intermedias."
+  },
+  {
+    "question": "De acuerdo con el literal a) del numeral 2 del Artículo 33 del Decreto 624 de 1989, ¿cómo se realiza fiscalmente el ingreso por intereses en títulos de renta fija?",
+    "options": [
+      "De manera lineal, considerando valor nominal, tasa facial, plazo y tiempo de tenencia.",
+      "Siguiendo el modelo de costo amortizado definido exclusivamente por las NIIF.",
+      "Bajo el sistema de caja, es decir, solo cuando se reciba el pago efectivo.",
+      "Al final del vencimiento del título como una ganancia ocasional."
+    ],
+    "correct": 0,
+    "explanation": "La norma exige que en renta fija el rendimiento se cause linealmente para efectos fiscales, basándose en la tasa facial y el valor nominal, separándolo de la medición contable por interés efectivo."
+  },
+  {
+    "question": "Respecto a los instrumentos derivados financieros, el numeral 3 del Artículo 33 del Decreto 624 de 1989 dispone que:",
+    "options": [
+      "Deben tributar anualmente por los cambios en su valor razonable con cambios en resultados.",
+      "No serán objeto del impuesto sino hasta el momento de su enajenación o liquidación.",
+      "Su tratamiento fiscal es idéntico al de los títulos de renta fija (interés lineal).",
+      "Las pérdidas devengadas son deducibles en el mismo año, pero las utilidades se difieren."
+    ],
+    "correct": 1,
+    "explanation": "Los derivados financieros siguen la regla de realización: los ingresos, costos y gastos solo impactan el impuesto de renta al momento de liquidar o enajenar el instrumento."
+  },
+  {
+    "question": "Bajo el numeral 4 del Artículo 33 del Decreto 624 de 1989, ¿qué tratamiento recibe el gasto generado por pasivos financieros medidos a valor razonable?",
+    "options": [
+      "Es deducible en su totalidad según lo registrado en el estado de resultados contable.",
+      "No es deducible bajo ninguna circunstancia por ser una estimación de mercado.",
+      "Será objeto del impuesto solo en lo correspondiente al gasto generado aplicando el modelo del costo amortizado.",
+      "Solo se puede deducir si la tasa efectiva es menor a la tasa facial del mercado."
+    ],
+    "correct": 2,
+    "explanation": "Para pasivos medidos a valor razonable, el legislador limita la deducción fiscal al gasto calculado mediante el modelo de costo amortizado de acuerdo con la técnica contable."
   }
+
+
+
+
 ]
