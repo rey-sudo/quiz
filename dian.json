@@ -272,7 +272,7 @@
     "explanation": "El Artículo 25, literal a) numeral 1, establece que no generan renta de fuente nacional los créditos a corto plazo originados en la importación de mercancías y servicios."
   },
   {
-    "question": "De acuerdo con el Art. 27, para contribuyentes no obligados a llevar contabilidad, los ingresos por enajenación de bienes inmuebles se entienden realizados en:",
+    "question": "De acuerdo con el Art. 27 Decreto 624 de 1989, para contribuyentes no obligados a llevar contabilidad, los ingresos por enajenación de bienes inmuebles se entienden realizados en:",
     "options": [
       "La fecha del contrato promesa de venta.",
       "La fecha de la escritura pública.",
@@ -1774,5 +1774,61 @@
     ],
     "correct": 2,
     "explanation": "El literal b especifica que los ingresos por servicios técnicos de reparación y mantenimiento de equipos prestados físicamente en el exterior no son de fuente nacional."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 27 del Decreto 624 de 1989, ¿cuál es la regla general para la realización del ingreso en contribuyentes no obligados a llevar contabilidad?",
+    "options": [
+      "Se realizan cuando se causa el derecho a cobrarlos, aunque no se haya recibido el pago.",
+      "Se realizan cuando se reciben efectivamente en dinero o en especie.",
+      "Se realizan en el momento en que se emite la factura electrónica de venta.",
+      "Se realizan cuando el costo asociado al ingreso ha sido pagado."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 27 establece que para estos contribuyentes el ingreso se entiende realizado cuando se recibe efectivamente en dinero o especie (sistema de caja)."
+  },
+  {
+    "question": "Según el numeral 2 del Artículo 27 del Decreto 624 de 1989, ¿en qué momento se entiende realizado el ingreso por la enajenación de bienes inmuebles?",
+    "options": [
+      "En la fecha en que se firma la promesa de compraventa.",
+      "Cuando el comprador paga más del 50% del valor del inmueble.",
+      "En la fecha de la escritura pública correspondiente.",
+      "Cuando se realiza la entrega material del bien (entrega de llaves)."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2 del artículo exceptúa a los inmuebles de la regla de caja, fijando su realización en la fecha de la escritura pública."
+  },
+  {
+    "question": "Respecto a los dividendos, ¿qué dispone el numeral 1 del Artículo 27 del Decreto 624 de 1989 sobre su realización?",
+    "options": [
+      "Se realizan solo cuando el dinero es transferido a la cuenta bancaria del socio.",
+      "Se realizan cuando hayan sido abonados en cuenta en calidad de exigibles.",
+      "Se realizan al cierre del ejercicio contable de la sociedad que reparte utilidades.",
+      "Se realizan únicamente cuando se decretan como dividendos en acciones."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 señala que los dividendos se entienden realizados cuando se abonan en cuenta y el socio ya tiene el derecho legal de exigirlos."
+  },
+  {
+    "question": "Según el numeral 3 del Artículo 27 del Decreto 624 de 1989, ¿cuándo se entiende realizado el ingreso por auxilio de cesantías en el régimen de liquidación anual?",
+    "options": [
+      "Únicamente cuando el trabajador se retira de la empresa.",
+      "Cuando el trabajador solicita un retiro parcial para vivienda o educación.",
+      "En el momento del pago del empleador al trabajador o en la consignación al fondo de cesantías.",
+      "Cuando el fondo de cesantías reporta rendimientos positivos al finalizar el año."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 (adicionado por la Ley 2010 de 2019) establece que la consignación al fondo ya constituye realización del ingreso para el trabajador."
+  },
+  {
+    "question": "Para el régimen tradicional de cesantías, ¿cómo ordena el Artículo 27 del Decreto 624 de 1989 que el trabajador reconozca el ingreso cada año?",
+    "options": [
+      "Tomando la diferencia entre los saldos a 31 de diciembre del año gravable y el del año anterior.",
+      "Reportando el 100% del saldo acumulado que certifique el empleador.",
+      "No se reconoce ingreso hasta que el contrato laboral finalice.",
+      "Dividiendo el saldo total de las cesantías por los años de servicio del trabajador."
+    ],
+    "correct": 0,
+    "explanation": "El inciso final del artículo indica que en el régimen tradicional se reconoce el ingreso anual basado en la diferencia de saldos entre el año actual y el anterior."
   }
 ]
