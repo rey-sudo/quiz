@@ -261,7 +261,7 @@
     "explanation": "El Artículo 23-1 establece que estos fondos no son contribuyentes; los ingresos, previa deducción de gastos, se distribuyen entre los suscriptores o partícipes, quienes los gravan como si los hubieran percibido directamente."
   },
   {
-    "question": "Según el Art. 25, no generan renta de fuente nacional:",
+    "question": "Según el Art. 25 Decreto 624 de 1989, no generan renta de fuente nacional:",
     "options": [
       "Los intereses de créditos a corto plazo por importación de mercancías.",
       "Los arrendamientos de inmuebles ubicados en Colombia.",
@@ -1712,5 +1712,67 @@
     ],
     "correct": 0,
     "explanation": "El parágrafo transitorio estableció una fecha límite para la adaptación. De no cumplirse, la ley forzó la realización de las rentas acumuladas en el año 2021."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 25 del Decreto 624 de 1989, ¿cuál es el plazo máximo para que un crédito originado en la importación de mercancías no se considere de fuente nacional ni poseído en Colombia?",
+    "options": ["3 meses.", "6 meses.", "12 meses.", "24 meses."],
+    "correct": 1,
+    "explanation": "El numeral 1 del literal a del Artículo 25 establece explícitamente que, para estos efectos, se entiende por corto plazo un máximo de 6 meses."
+  },
+  {
+    "question": "Bajo el Artículo 25 del Estatuto Tributario (Decreto 624 de 1989), ¿qué tratamiento tributario reciben los intereses pagados por créditos destinados a la financiación o prefinanciación de exportaciones?",
+    "options": [
+      "Están sujetos a una retención en la fuente del 15%.",
+      "Se consideran renta de fuente nacional gravada a la tarifa general.",
+      "No están gravados con impuesto de renta y no se les debe practicar retención en la fuente.",
+      "Solo están exentos si el crédito es otorgado por una entidad multilateral."
+    ],
+    "correct": 2,
+    "explanation": "El literal a dispone que los intereses sobre créditos para exportación no generan renta de fuente dentro del país y el párrafo final del mismo literal exonera de la retención en la fuente a quienes realicen el pago."
+  },
+  {
+    "question": "Según el literal c del Artículo 25 del Decreto 624 de 1989, ¿cuál es un requisito esencial para que la enajenación de mercancías extranjeras en Centros de Distribución de Logística Internacional no genere renta en el país si existe vinculación económica?",
+    "options": [
+      "Que los vinculados económicos en Colombia no obtengan beneficio alguno asociado a la enajenación de las mercancías.",
+      "Que el vinculado económico en Colombia pague el IVA por la transacción.",
+      "Que la sociedad extranjera tenga una oficina física dentro del puerto.",
+      "Que las mercancías permanezcan en el centro logístico por más de 12 meses."
+    ],
+    "correct": 0,
+    "explanation": "La norma busca evitar la erosión de la base gravable exigiendo que, en caso de vinculación, el beneficio de la venta no sea trasladado o aprovechado por el vinculado residente en Colombia."
+  },
+  {
+    "question": "Conforme al Artículo 25 del Decreto 624 de 1989, ¿cuál de los siguientes ingresos se considera de fuente extranjera para una empresa residente fiscal colombiana?",
+    "options": [
+      "Ingresos por consultoría técnica prestada dentro del territorio nacional.",
+      "Ingresos provenientes del transporte aéreo o marítimo internacional.",
+      "Ingresos por servicios de publicidad prestados a empresas en el exterior.",
+      "Dividendos pagados por filiales ubicadas en zonas francas colombianas."
+    ],
+    "correct": 1,
+    "explanation": "El literal d del artículo clasifica específicamente los ingresos por transporte internacional aéreo o marítimo como de fuente extranjera para los residentes fiscales colombianos."
+  },
+  {
+    "question": "Respecto a las Compañías Holding Colombianas (CHC) en el Artículo 25 del Estatuto Tributario (Decreto 624 de 1989), ¿qué condición debe cumplirse para que los dividendos distribuidos a no residentes no generen renta en Colombia?",
+    "options": [
+      "Que la CHC cotice activamente en la Bolsa de Valores de Colombia.",
+      "Que el socio no residente tenga una cuenta bancaria en Colombia.",
+      "Que dichos dividendos provengan de rentas atribuibles a actividades realizadas por entidades no residentes.",
+      "Que los dividendos sean reinvertidos en proyectos de infraestructura nacional."
+    ],
+    "correct": 2,
+    "explanation": "El literal e establece que la exención para el no residente depende de que la utilidad distribuida tenga su origen en actividades ejecutadas fuera del territorio colombiano por entidades extranjeras."
+  },
+  {
+    "question": "Según el literal b del Artículo 25 del Decreto 624 de 1989, ¿qué servicios prestados en el exterior no se consideran de fuente nacional y, por ende, no requieren retención en la fuente?",
+    "options": [
+      "Servicios de asesoría financiera y legal.",
+      "Servicios de auditoría y revisoría fiscal.",
+      "Servicios técnicos de reparación y mantenimiento de equipos.",
+      "Servicios de diseño gráfico y desarrollo web."
+    ],
+    "correct": 2,
+    "explanation": "El literal b especifica que los ingresos por servicios técnicos de reparación y mantenimiento de equipos prestados físicamente en el exterior no son de fuente nacional."
   }
 ]
