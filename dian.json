@@ -2087,5 +2087,50 @@
     ],
     "correct": 1,
     "explanation": "Al ser la sociedad quien entrega el dinero (prestamista), es ella quien debe reportar el ingreso fiscal por el rendimiento mínimo que la ley asume que debió percibir."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 36 del Decreto 624 de 1989, ¿cuál es la naturaleza tributaria del superávit de capital por prima en colocación de acciones?",
+    "options": [
+      "Se considera un ingreso extraordinario gravado a la tarifa general de renta.",
+      "Hace parte del aporte y está sometido a las mismas reglas tributarias aplicables al capital.",
+      "Es una reserva obligatoria que no puede ser capitalizada.",
+      "Se trata como una ganancia ocasional para la sociedad que recibe el dinero."
+    ],
+    "correct": 1,
+    "explanation": "La norma establece que para efectos tributarios la prima no es un ingreso, sino que se integra al capital como parte del aporte inicial o adicional."
+  },
+  {
+    "question": "Según el Artículo 36 del Estatuto Tributario (Decreto 624 de 1989), ¿qué efecto tiene la prima sobre el costo fiscal del accionista?",
+    "options": [
+      "No tiene ningún efecto, el costo fiscal es solo el valor nominal.",
+      "Aumenta el costo fiscal solo para los socios fundadores.",
+      "Integra el costo fiscal de las acciones exclusivamente para quien realiza el aporte.",
+      "Reduce el costo fiscal debido a que se considera un gasto diferido."
+    ],
+    "correct": 2,
+    "explanation": "El artículo es claro al señalar que la prima forma parte del costo fiscal de la inversión para el suscriptor que la aporta, lo cual es clave para calcular la utilidad en una futura venta."
+  },
+  {
+    "question": "Conforme al Artículo 36 del Decreto 624 de 1989, ¿qué sucede tributariamente cuando se capitaliza la prima en colocación de acciones?",
+    "options": [
+      "Se genera un ingreso gravado para el socio por el valor de las nuevas acciones.",
+      "La sociedad debe pagar un impuesto de timbre sobre el nuevo capital social.",
+      "No genera ingreso tributario ni da lugar a costo fiscal de las acciones o cuotas emitidas.",
+      "El valor capitalizado se convierte automáticamente en renta líquida cedular."
+    ],
+    "correct": 2,
+    "explanation": "Como la prima ya fue reconocida como parte del costo del aporte original, su formalización como capital (emisión de nuevas acciones) es un movimiento neutro que no crea nuevo costo ni ingreso."
+  },
+  {
+    "question": "Respecto al reembolso de la prima, ¿qué establece el Artículo 36 del Decreto 624 de 1989 sobre su procedimiento?",
+    "options": [
+      "Está prohibido reembolsar la prima hasta que la sociedad se liquide.",
+      "Será reembolsable bajo los términos y condiciones que dicte la ley mercantil.",
+      "El reembolso es libre y se considera un gasto deducible para la empresa.",
+      "Solo se puede reembolsar si se paga previamente el impuesto a los dividendos."
+    ],
+    "correct": 1,
+    "explanation": "La normativa tributaria remite directamente a la legislación comercial (ley mercantil) para los procesos de devolución de estos aportes a los socios."
   }
 ]
