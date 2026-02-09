@@ -327,7 +327,7 @@
     "explanation": "El Artículo 33, numeral 1, establece que los ingresos, costos y gastos devengados por estos instrumentos no serán objeto del impuesto sino hasta el momento de su enajenación o liquidación, lo que suceda primero."
   },
   {
-    "question": "Según el Art. 35, se presume de derecho que los préstamos entre sociedades y socios generan intereses a una tasa equivalente a:",
+    "question": "Según el Art. 35 Decreto 624 de 1989, se presume de derecho que los préstamos entre sociedades y socios generan intereses a una tasa equivalente a:",
     "options": [
       "La DTF vigente a 31 de diciembre del año anterior.",
       "El 10% anual fijo.",
@@ -338,7 +338,7 @@
     "explanation": "El Artículo 35 establece que se presume de derecho que todo préstamo genera un rendimiento mínimo anual equivalente a la tasa DTF vigente a 31 de diciembre del año inmediatamente anterior al gravable."
   },
   {
-    "question": "De acuerdo con el Art. 36, la prima en colocación de acciones o cuotas sociales:",
+    "question": "De acuerdo con el Art. 36 Decreto 624 de 1989, la prima en colocación de acciones o cuotas sociales:",
     "options": [
       "Constituye renta gravable para la sociedad.",
       "Hace parte del aporte y se somete a las reglas del capital.",
@@ -1976,9 +1976,116 @@
     ],
     "correct": 2,
     "explanation": "Para pasivos medidos a valor razonable, el legislador limita la deducción fiscal al gasto calculado mediante el modelo de costo amortizado de acuerdo con la técnica contable."
+  },
+
+  {
+    "question": "Según el Artículo 35 del Decreto 624 de 1989, ¿cuál es el indicador financiero que determina el rendimiento mínimo anual en los préstamos entre sociedades y socios?",
+    "options": [
+      "La tasa de usura vigente al momento de la transacción.",
+      "La tasa para DTF vigente al 31 de diciembre del año inmediatamente anterior al gravable.",
+      "El Índice de Precios al Consumidor (IPC) certificado por el DANE.",
+      "La tasa de interés bancario corriente para créditos de libre consumo."
+    ],
+    "correct": 1,
+    "explanation": "El artículo establece expresamente que el rendimiento mínimo será el equivalente a la tasa DTF vigente al cierre del año anterior al periodo gravable que se reporta."
+  },
+  {
+    "question": "Bajo el Artículo 35 del Decreto 624 de 1989, si un socio presta dinero a su sociedad sin pactar intereses, ¿qué efecto tributario se genera?",
+    "options": [
+      "No hay efecto fiscal ya que prima la voluntad de las partes de no generar utilidades.",
+      "Se debe calcular un ingreso presuntivo para la sociedad por el beneficio recibido.",
+      "Se presume de derecho un rendimiento mínimo que el socio debe declarar como ingreso gravado.",
+      "La DIAN sanciona a la empresa con el 5% del valor del préstamo por no ser oneroso."
+    ],
+    "correct": 2,
+    "explanation": "La presunción de derecho obliga al prestamista (en este caso el socio) a reconocer un ingreso fiscal mínimo, independientemente de lo que se haya pactado en el contrato."
+  },
+  {
+    "question": "El Artículo 35 del Decreto 624 de 1989 define la presunción de intereses como una presunción 'de derecho'. ¿Qué significa esto para el contribuyente?",
+    "options": [
+      "Que puede presentar certificaciones contables para demostrar que el préstamo fue al 0%.",
+      "Que no admite prueba en contrario; el rendimiento se asume legalmente causado para efectos fiscales.",
+      "Que solo aplica si el préstamo está elevado a escritura pública.",
+      "Que la DIAN es quien tiene la carga de la prueba para demostrar que hubo pago de intereses."
+    ],
+    "correct": 1,
+    "explanation": "Las presunciones de derecho en materia tributaria no permiten al contribuyente desvirtuar el hecho; la ley asume que el rendimiento existió por el solo hecho del préstamo."
+  },
+  {
+    "question": "De acuerdo con el Artículo 35 del Decreto 624 de 1989, ¿cómo se calcula el interés si el préstamo solo estuvo vigente durante 4 meses del año fiscal?",
+    "options": [
+      "Se aplica la tasa DTF completa sobre el valor del préstamo por ser un impuesto anual.",
+      "Se exonera del cálculo por ser un periodo inferior a un semestre.",
+      "Se debe calcular de forma proporcional al tiempo de posesión del dinero.",
+      "Se aplica la tasa DTF dividida entre los 12 meses, pero multiplicada por el IPC mensual."
+    ],
+    "correct": 2,
+    "explanation": "La norma indica explícitamente que el rendimiento mínimo anual debe ser proporcional al tiempo de posesión del préstamo durante el año gravable."
+  },
+  {
+    "question": "En virtud del Artículo 35 del Decreto 624 de 1989, si el interés real pactado es superior a la tasa DTF de referencia, ¿cuál es el tratamiento correcto?",
+    "options": [
+      "Se debe declarar únicamente sobre la tasa DTF por ser el límite legal.",
+      "Se debe declarar sobre el rendimiento real, pues la presunción no limita la facultad de la DIAN de determinar valores superiores.",
+      "El contribuyente puede elegir la tasa que más le convenga para el cálculo de su renta.",
+      "Se genera una sanción por exceder los límites de intereses permitidos entre vinculados."
+    ],
+    "correct": 1,
+    "explanation": "El último inciso del artículo aclara que la presunción no limita a la Administración Tributaria para gravar rendimientos reales cuando estos sean superiores a la tasa presuntiva."
+  },
+  {
+    "question": "Según el Artículo 35 del Decreto 624 de 1989, ¿a qué tipo de deudas aplica esta presunción de intereses?",
+    "options": [
+      "Únicamente a los préstamos de la sociedad hacia sus socios accionistas.",
+      "Solo a préstamos entre empresas del mismo grupo económico (vinculados).",
+      "A todo préstamo en dinero, cualquiera que sea su naturaleza o denominación, entre sociedades y socios.",
+      "Exclusivamente a los préstamos que superen las 1.000 UVT."
+    ],
+    "correct": 2,
+    "explanation": "La ley es amplia y utiliza la expresión 'cualquiera que sea su naturaleza o denominación' para cubrir todo flujo de dinero en calidad de mutuo entre la sociedad y sus dueños."
+  },
+  {
+    "question": "Bajo el Artículo 35 del Decreto 624 de 1989, ¿cuál es el efecto para el prestatario (quien recibe el dinero) sobre el interés presuntivo?",
+    "options": [
+      "Puede deducir el gasto presuntivo en su declaración de renta.",
+      "El interés presuntivo no es deducible para quien recibe el préstamo.",
+      "Genera un descuento tributario equivalente al 10% de la DTF aplicada.",
+      "Debe practicar retención en la fuente sobre el interés que la ley presume."
+    ],
+    "correct": 1,
+    "explanation": "El interés presuntivo es una ficción legal que genera un ingreso gravado para el prestamista, pero no otorga el derecho a una deducción real al prestatario."
+  },
+  {
+    "question": "Si una sociedad pertenece al Régimen Simple de Tributación, ¿cómo le afecta el Artículo 35 del Decreto 624 de 1989?",
+    "options": [
+      "Aplica exactamente igual que en el régimen ordinario.",
+      "No aplica, pues el Régimen Simple grava ingresos brutos y no se rige por el sistema de renta cedular u ordinaria del Art. 35.",
+      "Aplica pero con una tasa reducida al 50% de la DTF.",
+      "Solo aplica si la sociedad tiene deudas con socios que son personas jurídicas."
+    ],
+    "correct": 1,
+    "explanation": "Las sociedades en el Régimen Simple no calculan su impuesto sobre renta líquida gravable, por lo que la presunción de intereses del Art. 35 no tiene aplicación práctica en su liquidación de impuestos."
+  },
+  {
+    "question": "Considerando el Artículo 35 del Decreto 624 de 1989, ¿qué sucede con los préstamos realizados en moneda extranjera?",
+    "options": [
+      "Están exentos de la presunción de intereses para fomentar la inversión.",
+      "Deben convertirse a pesos colombianos para aplicar la tasa DTF sobre el saldo equivalente.",
+      "Se les aplica la tasa LIBOR o SOFR en lugar de la DTF.",
+      "La presunción solo aplica si el préstamo se monetiza en una cuenta bancaria nacional."
+    ],
+    "correct": 1,
+    "explanation": "La norma no excluye los préstamos en moneda extranjera; el saldo de la deuda debe valorarse en pesos para aplicar la presunción legal basada en la DTF."
+  },
+  {
+    "question": "De acuerdo con el Artículo 35 del Decreto 624 de 1989, ¿quién es el sujeto pasivo del ingreso por intereses presuntivos en un préstamo de la sociedad al socio?",
+    "options": [
+      "El socio, por el beneficio de no pagar intereses.",
+      "La sociedad, quien debe reconocer el ingreso mínimo anual en su declaración de renta.",
+      "Ambas partes deben declarar el 50% del interés presunto.",
+      "Ninguno, es una figura informativa que no genera pago de impuestos."
+    ],
+    "correct": 1,
+    "explanation": "Al ser la sociedad quien entrega el dinero (prestamista), es ella quien debe reportar el ingreso fiscal por el rendimiento mínimo que la ley asume que debió percibir."
   }
-
-
-
-
 ]
