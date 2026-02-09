@@ -283,7 +283,7 @@
     "explanation": "El Artículo 27, numeral 2, establece que los ingresos provenientes de la enajenación de bienes inmuebles se entienden realizados en la fecha de la escritura pública correspondiente."
   },
   {
-    "question": "Según el Art. 29, el valor de los pagos en especie constitutivos de ingresos se determina por:",
+    "question": "Según el Art. 29 Decreto 624 de 1989, el valor de los pagos en especie constitutivos de ingresos se determina por:",
     "options": [
       "El valor en libros del activo.",
       "El valor comercial en el momento de la entrega.",
@@ -294,7 +294,7 @@
     "explanation": "El Artículo 29 establece que el valor de los pagos o abonos en especie se determina por el valor comercial de las especies en el momento de la entrega."
   },
   {
-    "question": "De acuerdo con el Art. 30, se considera dividendos o participaciones en utilidades:",
+    "question": "De acuerdo con el Art. 30 Decreto 624 de 1989, se considera dividendos o participaciones en utilidades:",
     "options": [
       "La disminución de capital social.",
       "La prima en colocación de acciones.",
@@ -1830,5 +1830,50 @@
     ],
     "correct": 0,
     "explanation": "El inciso final del artículo indica que en el régimen tradicional se reconoce el ingreso anual basado en la diferencia de saldos entre el año actual y el anterior."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 30 del Decreto 624 de 1989, ¿cuál de los siguientes conceptos no se considera un dividendo o participación en utilidades?",
+    "options": [
+      "La distribución de beneficios en dinero con cargo al patrimonio.",
+      "La disminución de capital y la prima en colocación de acciones.",
+      "La distribución de beneficios en especie a favor de los accionistas.",
+      "La transferencia de utilidades de sucursales a vinculadas en el exterior."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 del artículo 30 del Estatuto Tributario excluye expresamente del concepto de dividendos a la disminución de capital y la prima en colocación de acciones."
+  },
+  {
+    "question": "Según la definición técnica del Artículo 30 del Decreto 624 de 1989, si una sociedad entrega un activo fijo a un socio para distribuir utilidades, ¿cómo debe tratarse fiscalmente?",
+    "options": [
+      "Como una ganancia ocasional exenta para el socio.",
+      "Como un ingreso no constitutivo de renta ni ganancia ocasional.",
+      "Como un dividendo o participación en utilidades recibido en especie.",
+      "Como un préstamo de la sociedad al accionista."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 1 del artículo 30 establece que se entiende por dividendo toda distribución de beneficios tanto en dinero como en especie."
+  },
+  {
+    "question": "Respecto a las sucursales de sociedades extranjeras, ¿qué hecho económico se asimila a un dividendo según el numeral 2 del Artículo 30 del Decreto 624 de 1989?",
+    "options": [
+      "La transferencia de utilidades de fuente nacional obtenidas a través de establecimientos permanentes a favor de vinculadas en el exterior.",
+      "El pago de salarios a los empleados extranjeros de la sucursal en Colombia.",
+      "La capitalización de reservas en la contabilidad local de la sucursal.",
+      "El pago de impuestos locales realizado por la sucursal ante la DIAN."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 2 asimila a dividendos la transferencia de rentas y ganancias ocasionales de fuente nacional desde sucursales o establecimientos permanentes hacia sus vinculadas en el extranjero."
+  },
+  {
+    "question": "Bajo el marco del Artículo 30 del Decreto 624 de 1989, ¿cuál es el requisito contable fundamental para que una distribución sea catalogada como dividendo?",
+    "options": [
+      "Que el pago se realice exclusivamente en cuentas bancarias del exterior.",
+      "Que la distribución se realice con cargo al patrimonio de la entidad.",
+      "Que el monto distribuido sea superior a 1.000 UVT.",
+      "Que la sociedad tenga más de 10 años de constitución legal."
+    ],
+    "correct": 1,
+    "explanation": "La normativa exige que la distribución de beneficios, para ser considerada dividendo, debe realizarse con cargo al patrimonio de la sociedad o entidad."
   }
 ]
