@@ -404,7 +404,7 @@
     "explanation": "El Artículo 55 establece que los aportes obligatorios al Sistema General de Pensiones no harán parte de la base para retención en la fuente y serán considerados como un ingreso no constitutivo de renta ni ganancia ocasional."
   },
   {
-    "question": "De acuerdo con el Art. 58, para contribuyentes no obligados a llevar contabilidad, los costos se entienden realizados cuando:",
+    "question": "De acuerdo con el Art. 58 Decreto 624 de 1989, para contribuyentes no obligados a llevar contabilidad, los costos se entienden realizados cuando:",
     "options": [
       "Se devengan contablemente.",
       "Se pagan efectivamente o su exigibilidad termina por modo equivalente a pago.",
@@ -2356,5 +2356,50 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 55 exceptúa de ser renta líquida gravable aquellos retiros que se efectúen con el fin de obtener una mayor pensión o un retiro anticipado."
+  },
+
+  {
+    "question": "El señor Juan Pérez, no obligado a llevar contabilidad, paga en diciembre de 2025 el arriendo de su oficina para todo el año 2026. Según el Artículo 58 del Decreto 624 de 1989, ¿cuándo es deducible este costo?",
+    "options": [
+      "En el año 2025, por ser el momento en que se efectuó el pago en dinero.",
+      "En el año 2026, periodo en el cual se presta efectivamente el servicio de arrendamiento.",
+      "Se divide el costo en un 50% para el año 2025 y 50% para el año 2026.",
+      "No es deducible por tratarse de un pago anticipado."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 58 establece que los costos incurridos por anticipado solo se deducen en el periodo gravable en que se preste el servicio o venda el bien."
+  },
+  {
+    "question": "La ingeniera María entrega un computador como pago por un servicio técnico recibido en 2026. Bajo el Artículo 58 del Decreto 624 de 1989, ¿se entiende realizado el costo?",
+    "options": [
+      "No, porque para los no obligados a llevar contabilidad solo valen pagos en efectivo.",
+      "No, hasta que María no liquide el valor comercial en una factura de venta.",
+      "Sí, porque la norma permite que el costo se realice mediante el pago en especie.",
+      "Solo si el bien entregado tiene un valor inferior a 50 UVT."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 58 indica que los costos se entienden realizados cuando se paguen efectivamente en dinero o en especie."
+  },
+  {
+    "question": "Un contribuyente extingue una deuda con su proveedor mediante una compensación de cuentas en 2026. Según el Artículo 58 del Decreto 624 de 1989, ¿es este costo legalmente aceptable?",
+    "options": [
+      "No, la compensación no se considera un pago efectivo para efectos tributarios.",
+      "Sí, siempre que la exigibilidad termine por cualquier modo que equivalga legalmente a un pago.",
+      "Solo si el proveedor emite una nota de crédito por el valor total.",
+      "No, los no obligados a llevar contabilidad están obligados a usar únicamente canales bancarios."
+    ],
+    "correct": 1,
+    "explanation": "La normativa permite la realización del costo cuando su exigibilidad termine por cualquier modo equivalente legal al pago, como la compensación."
+  },
+  {
+    "question": "Un comerciante no obligado a llevar contabilidad paga mercancía en 2026, pero la recibe y vende en 2027. De acuerdo con el Artículo 58 del Decreto 624 de 1989, ¿en qué año deduce el costo?",
+    "options": [
+      "En el año 2026, siguiendo el principio de caja por el pago en dinero.",
+      "En el año 2027, que es el periodo gravable en que se vende el bien.",
+      "En ambos años, prorrateando el costo según el inventario.",
+      "En el año 2026, siempre que la factura electrónica tenga fecha de ese año."
+    ],
+    "correct": 1,
+    "explanation": "El párrafo segundo del Artículo 58 condiciona la deducción de costos anticipados al periodo en que se venda el bien."
   }
 ]
