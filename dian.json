@@ -415,7 +415,7 @@
     "explanation": "El Artículo 58 establece que para estos contribuyentes se entienden realizados los costos cuando se paguen efectivamente en dinero o en especie, o cuando su exigibilidad termine por cualquier otro modo que equivalga legalmente a un pago."
   },
   {
-    "question": "Según el Art. 60, los activos que se enajenan dentro del giro ordinario de los negocios se clasifican como:",
+    "question": "Según el Art. 60 Decreto 624 de 1989, los activos que se enajenan dentro del giro ordinario de los negocios se clasifican como:",
     "options": [
       "Activos fijos.",
       "Activos movibles (inventarios).",
@@ -2401,5 +2401,61 @@
     ],
     "correct": 1,
     "explanation": "El párrafo segundo del Artículo 58 condiciona la deducción de costos anticipados al periodo en que se venda el bien."
+  },
+
+  {
+    "question": "Una empresa dedicada exclusivamente a la fabricación y venta de muebles de oficina decide vender la camioneta que utilizaba para repartir sus productos. Según el Artículo 60 del Decreto 624 de 1989, ¿cómo se clasifica esta camioneta?",
+    "options": [
+      "Como activo movible por ser un bien corporal mueble.",
+      "Como activo fijo o inmovilizado, ya que no se enajena dentro del giro ordinario del negocio.",
+      "Como inventario, de acuerdo con el parágrafo adicionado por la Ley 1819 de 2016.",
+      "Como activo incorporal, debido a su depreciación acumulada."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 60 define los activos fijos como aquellos que no se enajenan dentro del giro ordinario de los negocios. Para una fábrica de muebles, la camioneta es un bien de uso, no el objeto de su comercio habitual."
+  },
+  {
+    "question": "Un concesionario de vehículos posee 20 automóviles para la venta al cierre del periodo gravable 2026. De acuerdo con el parágrafo del Art. 60 del Estatuto Tributario, ¿qué clasificación técnica deben recibir estos bienes?",
+    "options": [
+      "Propiedad, planta y equipo.",
+      "Propiedades de inversión.",
+      "Inventarios.",
+      "Activos no corrientes mantenidos para la venta."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del Art. 60 (adicionado por la Ley 1819 de 2016) vincula la materia tributaria con la contable, estableciendo que para los obligados a llevar contabilidad, los activos movibles son equivalentes a los inventarios."
+  },
+  {
+    "question": "Según el Artículo 60 del Decreto 624 de 1989, ¿cuál es la característica principal que define a un activo como 'movible'?",
+    "options": [
+      "Que el bien sea corporal y se pueda trasladar de un lugar a otro.",
+      "Que se mantenga en el patrimonio del contribuyente por un término superior a dos años.",
+      "Que se enajene dentro del giro ordinario de los negocios e implique ordinariamente existencias al principio y fin del año.",
+      "Que esté clasificado contablemente como propiedad, planta y equipo."
+    ],
+    "correct": 2,
+    "explanation": "La norma define activos movibles como bienes (corporales o incorporales) cuya enajenación es la actividad ordinaria del contribuyente y que suelen presentar stock al inicio y fin del ejercicio."
+  },
+  {
+    "question": "Una constructora finaliza un edificio en 2026 con el objetivo de vender los apartamentos. Bajo el Art. 60 del Estatuto Tributario, ¿qué tipo de activos son estos inmuebles para la constructora?",
+    "options": [
+      "Activos fijos, por ser bienes inmuebles.",
+      "Activos movibles, porque su enajenación constituye el giro ordinario del negocio.",
+      "Activos inmovilizados, según los nuevos marcos técnicos normativos.",
+      "Propiedades de inversión, por generar una utilidad futura."
+    ],
+    "correct": 1,
+    "explanation": "La naturaleza de bien raíz no lo convierte automáticamente en activo fijo. Si el contribuyente (constructora) se dedica a venderlos como parte de su negocio, son activos movibles."
+  },
+  {
+    "question": "Un inversionista adquiere una patente en 2026 para mejorar su proceso productivo, sin intención de venderla. ¿Cómo se clasifica este bien según el Art. 60 del Decreto 624 de 1989?",
+    "options": [
+      "Activo fijo incorporal.",
+      "Activo movible incorporal.",
+      "Activo fijo corporal.",
+      "Inventario de propiedad intelectual."
+    ],
+    "correct": 0,
+    "explanation": "Las patentes son bienes incorporales. Al ser utilizada para la producción y no para la venta habitual, cumple la definición de activo fijo o inmovilizado del Art. 60."
   }
 ]
