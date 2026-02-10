@@ -2246,9 +2246,8 @@
     "explanation": "El parágrafo 4 remite expresamente al tratamiento establecido en el Título II del Libro Séptimo del Estatuto Tributario para las Compañías Holding Colombianas (CHC)."
   },
 
-  
   {
-    "question": "La sociedad 'Inversiones ABC Ltda.' entra en proceso de liquidación. El socio Juan aportó inicialmente $50.000.000 y, al liquidarse la sociedad, recibe $80.000.000. Según el Art. 51, ¿qué tratamiento recibe el monto de los $50.000.000 iniciales?",
+    "question": "La sociedad 'Inversiones ABC Ltda.' entra en proceso de liquidación. El socio Juan aportó inicialmente $50.000.000 y, al liquidarse la sociedad, recibe $80.000.000. Según el Art. 51 Decreto 624 de 1989, ¿qué tratamiento recibe el monto de los $50.000.000 iniciales?",
     "options": [
       "Constituye ganancia ocasional gravada.",
       "No constituye renta ni ganancia ocasional.",
@@ -2259,7 +2258,7 @@
     "explanation": "El Artículo 51 establece expresamente que la distribución no constituye renta hasta por el monto del capital aportado o invertido por el socio."
   },
   {
-    "question": "Siguiendo el caso de 'Inversiones ABC Ltda.', el socio Juan recibe $30.000.000 adicionales por utilidades acumuladas. ¿Qué requisito es indispensable para que este monto sea un Ingreso No Constitutivo de Renta?",
+    "question": "Siguiendo el caso de 'Inversiones ABC Ltda.', el socio Juan recibe $30.000.000 adicionales por utilidades acumuladas. ¿Qué requisito es indispensable para que este monto sea un Ingreso No Constitutivo de Renta? Art 51 Decreto 624 de 1989",
     "options": [
       "Que la sociedad haya operado por más de 10 años.",
       "Que el socio reinvierta el dinero en una nueva sociedad.",
@@ -2270,7 +2269,7 @@
     "explanation": "La norma condiciona el beneficio a que las utilidades correspondan a la parte alícuota que ya tributó en cabeza de la sociedad, según el cálculo de los artículos 48 y 49."
   },
   {
-    "question": "Si una sociedad de responsabilidad limitada se fusiona y distribuye activos en especie a sus socios, ¿cómo define el Artículo 51 el valor que no constituye renta?",
+    "question": "Si una sociedad de responsabilidad limitada se fusiona y distribuye activos en especie a sus socios, ¿cómo define el Artículo 51 Decreto 624 de 1989 el valor que no constituye renta?",
     "options": [
       "Únicamente el valor comercial de los bienes entregados.",
       "El monto del capital aportado más la parte alícuota de utilidades no distribuidas de años anteriores.",
@@ -2281,7 +2280,7 @@
     "explanation": "El artículo aplica tanto para distribuciones en dinero como en especie, protegiendo el capital invertido y las utilidades que ya cumplieron su ciclo tributario en la empresa."
   },
   {
-    "question": "Un socio posee una alícuota del 20% en una Ltda. en liquidación. La empresa tiene $200.000.000 en utilidades que ya pagaron impuestos. ¿Qué monto puede recibir el socio por este concepto sin pagar impuesto de renta?",
+    "question": "Un socio posee una alícuota del 20% en una Ltda. en liquidación. La empresa tiene $200.000.000 en utilidades que ya pagaron impuestos. ¿Qué monto puede recibir el socio por este concepto sin pagar impuesto de renta? Art 51 Decreto 624 de 1989",
     "options": [
       "Los $200.000.000 completos.",
       "Un monto máximo de 1.000 UVT.",
@@ -2292,7 +2291,7 @@
     "explanation": "La 'parte alícuota' se refiere a la proporción que le corresponde al socio según su participación. En este caso, el 20% de las utilidades que cumplen los requisitos de ley."
   },
   {
-    "question": "¿A qué tipo de organizaciones aplica principalmente el tratamiento de distribución por liquidación o fusión mencionado en el Artículo 51?",
+    "question": "¿A qué tipo de organizaciones aplica principalmente el tratamiento de distribución por liquidación o fusión mencionado en el Artículo 51 Decreto 624 de 1989?",
     "options": [
       "Sociedades Anónimas y Comanditas por Acciones.",
       "Sociedades de Responsabilidad Limitada o asimiladas.",
