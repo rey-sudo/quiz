@@ -349,7 +349,7 @@
     "explanation": "El Artículo 36 establece que el superávit de capital correspondiente a la prima en colocación hace parte del aporte y estará sometido a las mismas reglas tributarias aplicables al capital."
   },
   {
-    "question": "Según el Art. 38, para determinar la parte no gravable de rendimientos financieros por componente inflacionario, se divide la tasa de corrección monetaria por:",
+    "question": "Según el Art. 38 Decreto 624 de 1989, para determinar la parte no gravable de rendimientos financieros por componente inflacionario, se divide la tasa de corrección monetaria por:",
     "options": [
       "La tasa de inflación del año.",
       "La tasa de interés anual que corresponda a los rendimientos percibidos.",
@@ -360,7 +360,7 @@
     "explanation": "El Artículo 38 establece que el porcentaje no constitutivo de renta se determina dividiendo la tasa de corrección monetaria por la tasa de interés anual que corresponda a los rendimientos percibidos."
   },
   {
-    "question": "De acuerdo con el Art. 45, las indemnizaciones por seguros de daño en la parte correspondiente al daño emergente:",
+    "question": "De acuerdo con el Art. 45 Decreto 624 de 1989, las indemnizaciones por seguros de daño en la parte correspondiente al daño emergente:",
     "options": [
       "Siempre son renta gravable.",
       "Son ingreso no constitutivo, si se invierte en bienes similares.",
@@ -2132,5 +2132,61 @@
     ],
     "correct": 1,
     "explanation": "La normativa tributaria remite directamente a la legislación comercial (ley mercantil) para los procesos de devolución de estos aportes a los socios."
+  },
+
+  {
+    "question": "Según el Artículo 45 del Decreto 624 de 1989, ¿qué parte de la indemnización por seguro de daño puede tratarse como ingreso no constitutivo de renta ni ganancia ocasional?",
+    "options": [
+      "La totalidad de lo recibido, incluyendo el lucro cesante y los intereses.",
+      "Únicamente la parte correspondiente al daño emergente.",
+      "Solo el valor que exceda el costo fiscal del bien asegurado.",
+      "El valor total, siempre y cuando el contribuyente sea una persona natural."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 45 del Estatuto Tributario limita el beneficio exclusivamente al daño emergente, ya que este busca reponer el patrimonio perdido y no generar una utilidad gravable."
+  },
+  {
+    "question": "Para aplicar el beneficio del Artículo 45 del Decreto 624 de 1989, ¿qué requisito de inversión debe cumplir el contribuyente?",
+    "options": [
+      "Invertir el 50% de la indemnización en bonos del Estado.",
+      "Demostrar la inversión de la totalidad de la indemnización en bienes iguales o semejantes a los asegurados.",
+      "Utilizar el dinero para cancelar deudas tributarias pendientes con la DIAN.",
+      "Invertir la utilidad de la indemnización en activos fijos de cualquier naturaleza."
+    ],
+    "correct": 1,
+    "explanation": "La norma exige que la totalidad de la indemnización se destine a la adquisición de bienes iguales o semejantes para garantizar la neutralidad patrimonial."
+  },
+  {
+    "question": "Respecto al cumplimiento del Artículo 45 del Decreto 624 de 1989, ¿qué sucede si el contribuyente no demuestra la reinversión en el plazo legal?",
+    "options": [
+      "La aseguradora será sancionada por la Superintendencia Financiera.",
+      "El contribuyente deberá devolver el dinero de la indemnización a la aseguradora.",
+      "El valor recibido se convierte en un ingreso gravado con el impuesto de renta o ganancia ocasional.",
+      "Se le otorga un plazo automático de 5 años adicionales sin necesidad de reglamentación."
+    ],
+    "correct": 2,
+    "explanation": "Al no cumplirse la condición suspensiva de reinversión que dicta el Artículo 45, el ingreso pierde su calidad de 'no constitutivo de renta' y pasa a ser parte de la base gravable."
+  },
+  {
+    "question": "En el marco del Artículo 45 del Decreto 624 de 1989, ¿quién define el plazo para demostrar la inversión de la indemnización?",
+    "options": [
+      "El contribuyente según su flujo de caja.",
+      "La compañía de seguros al momento de pagar el siniestro.",
+      "El reglamento emitido por el Gobierno Nacional.",
+      "El contador público a través de una nota a los estados financieros."
+    ],
+    "correct": 2,
+    "explanation": "El texto original de la norma delega expresamente en el reglamento (Decretos Reglamentarios) la fijación de los términos temporales para probar la reinversión."
+  },
+  {
+    "question": "¿Cuál es la finalidad fiscal de la semejanza de bienes mencionada en el Artículo 45 del Decreto 624 de 1989?",
+    "options": [
+      "Que el contribuyente adquiera un bien de menor valor para pagar menos impuestos.",
+      "Garantizar que la indemnización se use para restaurar la capacidad productiva o patrimonial afectada.",
+      "Obligar al contribuyente a comprar bienes de fabricación nacional únicamente.",
+      "Evitar que las aseguradoras entreguen indemnizaciones en especie."
+    ],
+    "correct": 1,
+    "explanation": "La 'semejanza' permite que el contribuyente recupere un activo que cumpla la misma función económica que el anterior, manteniendo la integridad de su patrimonio sin generar una renta líquida."
   }
 ]
