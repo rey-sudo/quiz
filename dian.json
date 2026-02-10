@@ -371,7 +371,7 @@
     "explanation": "El Artículo 45 establece que el valor de las indemnizaciones por seguros de daño (daño emergente) es un ingreso no constitutivo, siempre que se demuestre la inversión de la totalidad en la adquisición de bienes iguales o semejantes."
   },
   {
-    "question": "Según el Art. 49, para determinar los dividendos no gravados, a la renta líquida gravable se le resta:",
+    "question": "Según el Art. 49 Decreto 624 de 1989, para determinar los dividendos no gravados, a la renta líquida gravable se le resta:",
     "options": [
       "El patrimonio neto de la sociedad.",
       "El impuesto básico de renta y ganancias ocasionales del año.",
@@ -2188,5 +2188,61 @@
     ],
     "correct": 1,
     "explanation": "La 'semejanza' permite que el contribuyente recupere un activo que cumpla la misma función económica que el anterior, manteniendo la integridad de su patrimonio sin generar una renta líquida."
+  },
+
+  {
+    "question": "Según el Art. 49 Decreto 624 de 1989, para determinar los dividendos no gravados, a la renta líquida gravable se le resta:",
+    "options": [
+      "El patrimonio neto de la sociedad.",
+      "El impuesto básico de renta y ganancias ocasionales del año.",
+      "El total de los activos fijos.",
+      "Las reservas legales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 49, numeral 1, establece que se toma la Renta Líquida Gravable más las Ganancias Ocasionales Gravables y se le resta el resultado del Impuesto Básico de Renta y el Impuesto de Ganancias Ocasionales."
+  },
+  {
+    "question": "De acuerdo con el numeral 2 del Art. 49 del Decreto 624 de 1989, ¿qué concepto se suma al resultado del cálculo inicial para aumentar el cupo no gravado?",
+    "options": [
+      "Las pérdidas operacionales de años anteriores.",
+      "Los dividendos de otras sociedades nacionales que tengan el carácter de no gravado.",
+      "Los gastos de representación de la gerencia.",
+      "El valor de la depreciación acumulada."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2, literal a), indica que se deben adicionar los dividendos o participaciones de otras sociedades nacionales o de la CAN que tengan el carácter de no gravados."
+  },
+  {
+    "question": "Según el numeral 5 del Art. 49 del Decreto 624 de 1989, si el cupo fiscal no gravado excede las utilidades comerciales, ¿a qué años se puede imputar dicho exceso?",
+    "options": [
+      "A los 10 años siguientes únicamente.",
+      "A los 3 años anteriores únicamente.",
+      "A los 5 años siguientes o a los 2 períodos anteriores.",
+      "Solo al año inmediatamente anterior."
+    ],
+    "correct": 2,
+    "explanation": "La norma permite compensar el exceso de utilidad no gravada contra utilidades calificadas como gravadas de los 5 años siguientes o de los 2 años anteriores."
+  },
+  {
+    "question": "Según el Parágrafo 2 del Art. 49 del Decreto 624 de 1989, si se distribuyen utilidades que exceden el cálculo del numeral 3, estas tendrán la calidad de:",
+    "options": [
+      "Rentas exentas para el socio.",
+      "Ganancias ocasionales exentas.",
+      "Utilidades gravadas en cabeza de los socios.",
+      "Ingresos no constitutivos de renta."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo 2 señala que las utilidades que excedan el cálculo del numeral 3 tendrán la calidad de gravadas y constituirán renta en cabeza de los socios en el año en que se distribuyan."
+  },
+  {
+    "question": "Conforme al Parágrafo 4 del Art. 49 del Decreto 624 de 1989, las sociedades bajo un régimen especial tienen un tratamiento específico. ¿A cuál se refiere?",
+    "options": [
+      "Régimen Simple de Tributación.",
+      "Compañías Holding Colombianas (CHC).",
+      "Entidades del Sector Cooperativo.",
+      "Zonas Francas."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo 4 remite expresamente al tratamiento establecido en el Título II del Libro Séptimo del Estatuto Tributario para las Compañías Holding Colombianas (CHC)."
   }
 ]
