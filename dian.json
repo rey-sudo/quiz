@@ -2457,5 +2457,61 @@
     ],
     "correct": 0,
     "explanation": "Las patentes son bienes incorporales. Al ser utilizada para la producción y no para la venta habitual, cumple la definición de activo fijo o inmovilizado del Art. 60."
+  },
+
+  {
+    "question": "Una distribuidora de químicos reporta en 2026 una pérdida por evaporación del 2.8% sobre la suma de su inventario inicial y compras. ¿Cómo debe proceder según el numeral 1 del Art. 64 del Decreto 624 de 1989?",
+    "options": [
+      "Debe solicitar permiso a la DIAN para aceptar la pérdida.",
+      "Puede disminuir el inventario final sin pruebas adicionales de fuerza mayor.",
+      "Solo puede deducir hasta el 1% por ser un químico peligroso.",
+      "Debe registrarlo como un gasto administrativo y no como costo."
+    ],
+    "correct": 1,
+    "explanation": "El Art. 64 permite disminuciones de hasta el 3% para bienes de fácil destrucción o pérdida (como líquidos volátiles) sin requerir prueba de fuerza mayor o caso fortuito."
+  },
+  {
+    "question": "Una empresa de calzado decide dar de baja 500 pares de zapatos obsoletos. El contador realiza el asiento, pero no se efectúa la destrucción física. Según el Art. 64 del E.T., ¿es válida la deducción?",
+    "options": [
+      "Sí, el registro contable es prueba suficiente.",
+      "Sí, siempre que el representante legal firme un certificado de obsolescencia.",
+      "No, la norma exige que sean efectivamente destruidos, reciclados o chatarrizados.",
+      "No, los textiles y calzado no pueden darse de baja por obsolescencia."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2 del Art. 64 condiciona la deducibilidad a que los bienes sean efectivamente destruidos, reciclados o chatarrizados, además de contar con el acta soporte firmada."
+  },
+  {
+    "question": "Un supermercado pierde inventario por $50.000.000 en una inundación. La aseguradora indemniza $40.000.000. ¿Qué valor puede deducir según el Art. 64 del Decreto 624 de 1989?",
+    "options": [
+      "Los $50.000.000 totales por ser un desastre natural.",
+      "Los $40.000.000 recibidos para compensar el ingreso.",
+      "Solo los $10.000.000 que no fueron cubiertos por el seguro.",
+      "Nada, porque el seguro ya cubrió la mayor parte de la pérdida."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 del Art. 64 establece que la pérdida fiscal objeto de deducción será únicamente la parte que no hubiere sido cubierta por la indemnización o seguros."
+  },
+  {
+    "question": "Al documentar una baja por obsolescencia en 2026, ¿cuál de los siguientes datos NO es obligatorio en el acta según el numeral 2 del Art. 64 del E.T.?",
+    "options": [
+      "Costo fiscal unitario y total.",
+      "Justificación de la obsolescencia o destrucción.",
+      "Firma de los responsables de la destrucción.",
+      "Copia de la factura original de compra de cada producto."
+    ],
+    "correct": 3,
+    "explanation": "La norma exige cantidad, descripción, costo, justificación y firmas; sin embargo, no menciona la factura original de compra como requisito del acta."
+  },
+  {
+    "question": "Una empresa destruye inventario y vende los residuos como chatarra. Según el Parágrafo 2 del Art. 64 del E.T., ¿qué tratamiento tiene ese ingreso?",
+    "options": [
+      "Ingreso no constitutivo de renta.",
+      "Renta líquida por recuperación de deducciones.",
+      "Ganancia ocasional por venta de activos.",
+      "Menor valor del costo de ventas del ejercicio."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 indica que si la aplicación de la baja genera ingresos por recuperación, estos deben tratarse como renta líquida por recuperación de deducciones."
   }
 ]
