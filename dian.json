@@ -393,7 +393,7 @@
     "explanation": "El Artículo 51 establece que no constituyen renta la distribución hasta por el monto del capital aportado más la parte alícuota en utilidades no distribuidas de años anteriores, siempre que se mantengan dentro de los parámetros de los artículos 48 y 49."
   },
   {
-    "question": "Según el Art. 55, los aportes obligatorios al Sistema General de Pensiones:",
+    "question": "Según el Art. 55 Decreto 624 de 1989, los aportes obligatorios al Sistema General de Pensiones:",
     "options": [
       "Hacen parte de la base para retención en la fuente.",
       "Son un ingreso no constitutivo de renta.",
@@ -2300,5 +2300,61 @@
     ],
     "correct": 1,
     "explanation": "El texto original del Artículo 51 delimita su aplicación a las sociedades de responsabilidad limitada o aquellas que se asimilen a estas para efectos tributarios."
+  },
+
+  {
+    "question": "Un empleado con un salario mensual de $10.000.000 realiza sus aportes obligatorios a pensión. Según el Artículo 55 del Estatuto Tributario (Decreto 624 de 1989), ¿cómo debe tratarse contablemente este aporte en su base de retención?",
+    "options": [
+      "Como una deducción imputable a la renta.",
+      "Como un ingreso no constitutivo de renta ni ganancia ocasional.",
+      "Como una renta exenta limitada al 25%.",
+      "Como un gasto necesario para la obtención de renta."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 55 establece explícitamente que los aportes obligatorios no harán parte de la base para aplicar la retención en la fuente y serán considerados como un ingreso no constitutivo de renta ni de ganancia ocasional."
+  },
+  {
+    "question": "La empresa 'Logística 2026' realiza los aportes a pensión de sus 50 empleados. Teniendo en cuenta el Artículo 55 del Decreto 624 de 1989, ¿qué beneficio obtiene la empresa?",
+    "options": [
+      "Los aportes son deducibles de su renta.",
+      "Obtiene un descuento tributario del 35% del valor pagado.",
+      "Los aportes no generan ningún beneficio para el empleador.",
+      "La empresa puede considerar los aportes como activos fijos."
+    ],
+    "correct": 0,
+    "explanation": "La normativa vigente en el Artículo 55 del ET indica claramente que 'Los aportes a cargo del empleador serán deducibles de su renta'."
+  },
+  {
+    "question": "Un afiliado al RAIS ahorra $150.000.000 adicionales en 2026. Considerando que la UVT es de $52.374 y el Artículo 55 del ET, ¿qué parte de este ahorro tiene el beneficio de ingreso no constitutivo de renta?",
+    "options": [
+      "La totalidad de los $150.000.000.",
+      "Solo hasta $130.935.000.",
+      "Solo el 40% del ingreso laboral anual.",
+      "Hasta 3.800 UVT."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 55 limita el beneficio de las cotizaciones voluntarias al 25% del ingreso, con un tope máximo de 2.500 UVT. Para 2026, esto equivale a $130.935.000 ($52.374 * 2.500)."
+  },
+  {
+    "question": "Carlos retira sus aportes voluntarios para comprar un vehículo. Según el parágrafo del Artículo 55 (Decreto 624 de 1989), ¿qué retención en la fuente debe aplicar la sociedad administradora?",
+    "options": [
+      "Una retención del 7%.",
+      "Una retención del 15%.",
+      "Una retención del 35%.",
+      "No aplica retención si el dinero estuvo más de 10 años."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del artículo señala que los retiros para fines distintos a la obtención de una mayor pensión constituyen renta líquida gravable y la administradora debe aplicar una retención del 35%."
+  },
+  {
+    "question": "Martha retira parte de sus aportes voluntarios para completar el dinero de una pensión anticipada. De acuerdo con el Artículo 55 del Decreto 624 de 1989, ¿este retiro constituye renta gravada?",
+    "options": [
+      "Sí, siempre que se retire dinero hay gravamen.",
+      "No, porque el fin es la obtención de una pensión.",
+      "Sí, pero con una tarifa reducida del 5%.",
+      "Solo si Martha tiene menos de 50 años."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 55 exceptúa de ser renta líquida gravable aquellos retiros que se efectúen con el fin de obtener una mayor pensión o un retiro anticipado."
   }
 ]
