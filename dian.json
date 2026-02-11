@@ -487,7 +487,7 @@
     "explanation": "El Artículo 85 establece que no serán deducibles los costos y gastos cuando correspondan a pagos a favor de vinculados económicos que tengan el carácter de no contribuyentes del impuesto sobre la renta."
   },
   {
-    "question": "De acuerdo con el Art. 90, en la enajenación de inmuebles, NO se aceptará un precio inferior al:",
+    "question": "De acuerdo con el Art. 90 Decreto 624 de 1989, en la enajenación de inmuebles, NO se aceptará un precio inferior al:",
     "options": [
       "Costo, avalúo catastral o autoavalúo.",
       "50% del valor comercial.",
@@ -2765,5 +2765,61 @@
     ],
     "correct": 1,
     "explanation": "El Art. 85, en concordancia con las reglas de vinculación del Art. 260-1, incluye relaciones indirectas y por parentesco. Si el receptor es no contribuyente y hay vínculo, el gasto no es deducible."
+  },
+
+  {
+    "question": "Una constructora vende un apartamento por $500 millones, pero el valor comercial promedio en la zona para inmuebles similares es de $650 millones. De acuerdo con el Artículo 90 del ET, ¿qué facultad tiene la DIAN en este caso?",
+    "options": [
+      "Debe aceptar el valor pactado si las partes lo declararon bajo juramento en la escritura pública.",
+      "Puede rechazar el precio si este se aparta en más de un 15% del valor comercial promedio vigente para bienes de la misma especie.",
+      "No puede intervenir en el precio de venta siempre que este supere el avalúo catastral del inmueble.",
+      "La DIAN está obligada a aceptar el precio si el contribuyente demuestra que necesitaba liquidez inmediata."
+    ],
+    "correct": 1,
+    "explanation": "El artículo 90 establece que se entiende que el valor asignado difiere notoriamente cuando se aparte en más de un 15% de los precios establecidos en el comercio, permitiendo al funcionario de fiscalización señalar un precio acorde a la naturaleza del activo."
+  },
+  {
+    "question": "En la escritura pública de enajenación de un local comercial, las partes omitieron incluir la declaración bajo juramento sobre la realidad del precio. Según el Decreto 624 de 1989, ¿cuál es la consecuencia?",
+    "options": [
+      "La escritura pública pierde validez legal y el contrato de compraventa se entiende por no inexistente.",
+      "El notario debe ser sancionado con una multa de 1.000 UVT por permitir la firma sin las declaraciones.",
+      "El impuesto de renta, ganancia ocasional y derechos de registro se liquidarán sobre una base equivalente a cuatro veces el valor incluido en la escritura.",
+      "La DIAN solo podrá cobrar una sanción por corrección equivalente al 10% del valor del inmueble."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 90 es taxativo: sin las declaraciones de que el precio es real y no existen pactos privados, las bases gravables de los impuestos y derechos notariales serán cuatro veces el valor escriturado."
+  },
+  {
+    "question": "Un contribuyente adquiere una oficina por $800 millones, pagando $300 millones por transferencia bancaria y $500 millones en efectivo. ¿Qué impacto tiene esta operación en su costo fiscal futuro?",
+    "options": [
+      "Podrá declarar los $800 millones como costo siempre que los recibos de caja estén debidamente autenticados.",
+      "El efectivo pagado se acepta como costo siempre que se haya pagado el respectivo impuesto de timbre.",
+      "No serán constitutivos de costo de los bienes raíces aquellas sumas que no se hayan desembolsado a través de entidades financieras.",
+      "El costo será de $800 millones, pero la DIAN le impondrá una sanción por uso de efectivo del 5%."
+    ],
+    "correct": 2,
+    "explanation": "La norma prohíbe explícitamente reconocer como costo de bienes raíces cualquier suma que no se haya canalizado a través del sistema financiero, invalidando el uso de efectivo para estos fines."
+  },
+  {
+    "question": "Se enajenan acciones de una sociedad nacional que no cotiza en bolsa. Si el valor intrínseco de la acción es de $100, ¿cuál es el precio mínimo de enajenación que presume la ley, salvo prueba en contrario?",
+    "options": [
+      "$100, ya que el valor intrínseco representa la realidad contable de la empresa.",
+      "$115, aplicando el margen de desviación general del 15%.",
+      "$130, correspondiente al valor intrínseco incrementado en un 30%.",
+      "$200, basándose en la facultad de la DIAN de duplicar el valor contable en empresas cerradas."
+    ],
+    "correct": 2,
+    "explanation": "Para acciones que no cotizan en bolsa, el Artículo 90 establece la presunción de que el precio de enajenación no puede ser inferior al valor intrínseco incrementado en un 30%."
+  },
+  {
+    "question": "Al vender un activo fijo depreciable por un valor superior a su costo fiscal, ¿cómo debe imputarse la utilidad resultante según el Artículo 90?",
+    "options": [
+      "La totalidad de la utilidad debe declararse siempre como ganancia ocasional si el bien se poseyó por más de 2 años.",
+      "La utilidad debe imputarse primero a la renta líquida por recuperación de deducciones (depreciaciones) y el saldo constituye renta o ganancia ocasional.",
+      "El contribuyente puede elegir libremente si declara la utilidad como renta ordinaria o como ganancia ocasional.",
+      "La utilidad no está gravada si se demuestra que se reinvertirá en el giro ordinario del negocio."
+    ],
+    "correct": 1,
+    "explanation": "El segundo inciso del Artículo 90 obliga a que la utilidad primero recupere las depreciaciones o amortizaciones solicitadas previamente como deducción, antes de calificar cualquier remanente como ganancia ocasional."
   }
 ]
