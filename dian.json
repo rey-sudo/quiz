@@ -437,7 +437,7 @@
     "explanation": "El Artículo 64, numeral 1, permite disminuir hasta un tres por ciento (3%) de la suma del inventario inicial más las compras."
   },
   {
-    "question": "Según el Art. 66-1, para cultivos de café, se presume que un porcentaje del ingreso gravado corresponde a costos de mano de obra. Dicho porcentaje es:",
+    "question": "Según el Art. 66-1 Decreto 624 de 1989, para cultivos de café, se presume que un porcentaje del ingreso gravado corresponde a costos de mano de obra. Dicho porcentaje es:",
     "options": ["20%", "30%", "40%", "50%"],
     "correct": 2,
     "explanation": "El Artículo 66-1 establece que se presume de derecho que el cuarenta por ciento (40%) del valor del ingreso gravado corresponde a costos y deducciones inherentes a la mano de obra."
@@ -2513,5 +2513,56 @@
     ],
     "correct": 1,
     "explanation": "El Parágrafo 2 indica que si la aplicación de la baja genera ingresos por recuperación, estos deben tratarse como renta líquida por recuperación de deducciones."
+  },
+
+  {
+    "question": "Un caficultor registra ingresos gravados por $100.000.000 en el año 2026. Según el artículo 66-1 del E.T., ¿cuál es el valor máximo que puede imputar como costo de mano de obra bajo la figura de presunción de derecho?",
+    "options": ["$20.000.000", "$40.000.000", "$60.000.000", "$10.000.000"],
+    "correct": 1,
+    "explanation": "El artículo 66-1 establece una presunción de derecho del 40% del valor del ingreso gravado para costos y deducciones inherentes a la mano de obra en el cultivo de café."
+  },
+  {
+    "question": "Para que el costo presunto del 40% sea aceptado, ¿qué requisitos del Estatuto Tributario debe acreditar el contribuyente según la norma analizada?",
+    "options": [
+      "Únicamente el pago de aportes a seguridad social de todos los recolectores.",
+      "Causalidad y necesidad contenidos en el artículo 107 del Estatuto Tributario.",
+      "Tener contratados a los trabajadores mediante contrato escrito a término fijo.",
+      "Que los trabajadores estén inscritos obligatoriamente en el RUT."
+    ],
+    "correct": 1,
+    "explanation": "La norma exige acreditar únicamente el cumplimiento de los requisitos de causalidad y necesidad (Art. 107 del E.T.) para que el costo sea procedente."
+  },
+  {
+    "question": "Respecto a la prueba de los costos de mano de obra en el café, ¿qué documentos acepta la DIAN según el Artículo 66-1?",
+    "options": [
+      "Exclusivamente facturas electrónicas y nómina electrónica.",
+      "Solo certificaciones emitidas por la Federación Nacional de Cafeteros.",
+      "Cualquier documento que resulte idóneo para acreditar el gasto.",
+      "Únicamente recibos de pago autenticados ante notario público."
+    ],
+    "correct": 2,
+    "explanation": "El artículo menciona explícitamente que los requisitos de causalidad y necesidad se podrán acreditar a través de cualquier documento que resulte idóneo para ello."
+  },
+  {
+    "question": "Un productor afirma que, gracias a la presunción del Art. 66-1, ya no tiene que pagar salud ni pensiones a sus empleados. Según el último inciso de dicho artículo, ¿es esto correcto?",
+    "options": [
+      "Sí, la presunción tributaria sustituye las obligaciones parafiscales.",
+      "No, la disposición no exime al empleador del cumplimiento de las obligaciones laborales y de seguridad social.",
+      "Solo si el productor demuestra que el 100% de sus trabajadores son flotantes.",
+      "Sí, siempre y cuando el ingreso anual no supere las 3.500 UVT."
+    ],
+    "correct": 1,
+    "explanation": "El último inciso del artículo aclara taxativamente que esta disposición no exime al empleador del cumplimiento de todas las obligaciones laborales y de seguridad social."
+  },
+  {
+    "question": "Si un caficultor decide tomar el 40% como costo presunto en su declaración de renta 2026, ¿qué tipo de presunción está aplicando según el texto legal?",
+    "options": [
+      "Presunción legal (que admite prueba en contrario).",
+      "Presunción de hecho (basada en indicios).",
+      "Presunción de derecho (no admite prueba en contrario respecto al porcentaje).",
+      "Presunción de ingresos por comparación patrimonial."
+    ],
+    "correct": 2,
+    "explanation": "El texto del Artículo 66-1 indica explícitamente que se trata de una 'presunción de derecho', lo que significa que el legislador ya fijó el porcentaje y no se requiere probar que el costo fue exactamente ese."
   }
 ]
