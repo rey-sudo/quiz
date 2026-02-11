@@ -476,7 +476,7 @@
     "explanation": "El Artículo 82 establece que si no es posible determinar el costo mediante pruebas directas, se estimará en el setenta y cinco por ciento (75%) del valor de la respectiva enajenación."
   },
   {
-    "question": "Según el Art. 85, no serán deducibles los costos y gastos pagados a vinculados económicos que sean:",
+    "question": "Según el Art. 85 Decreto 624 de 1989, no serán deducibles los costos y gastos pagados a vinculados económicos que sean:",
     "options": [
       "Contribuyentes del régimen ordinario.",
       "No contribuyentes del impuesto sobre la renta.",
@@ -2709,5 +2709,61 @@
     ],
     "correct": 1,
     "explanation": "La norma indica explícitamente: 'Su aplicación y discusión se hará dentro del mismo proceso', garantizando el derecho a la defensa y contradicción durante la etapa de fiscalización."
+  },
+
+  {
+    "question": "Caso: La empresa 'Tecnología S.A.' (contribuyente) paga $50 millones por una licencia de software a una fundación educativa que es dueña del 60% de sus acciones. La fundación es no contribuyente del impuesto sobre la renta. ¿Es deducible este gasto para 'Tecnología S.A.'?",
+    "options": [
+      "Sí, porque el software es necesario para la actividad productora de renta y cumple con el principio de causalidad.",
+      "No, porque existe vinculación económica por control accionario y el beneficiario tiene la calidad de no contribuyente.",
+      "Sí, siempre que el valor de la licencia se ajuste a los precios de mercado bajo el régimen de precios de transferencia.",
+      "No, a menos que la fundación demuestre que el ingreso será reinvertido en su objeto social educativo."
+    ],
+    "correct": 1,
+    "explanation": "Según el Art. 85 del E.T., no son deducibles los costos y gastos cuando el pago se realiza a vinculados económicos que sean no contribuyentes de renta. El control del 60% configura la vinculación."
+  },
+  {
+    "question": "Caso: Una sociedad limitada paga arriendo por sus oficinas a un sindicato. El sindicato es no contribuyente de renta, pero no tiene ninguna participación accionaria ni control sobre la sociedad, ni viceversa. ¿Es deducible este costo?",
+    "options": [
+      "No, porque los sindicatos son no contribuyentes y el Art. 85 prohíbe cualquier pago deducible hacia ellos.",
+      "No, porque todo pago realizado a un no contribuyente se considera una transferencia de utilidades indirecta.",
+      "Sí, es deducible, ya que para que opere la restricción del Art. 85 deben concurrir dos condiciones: ser no contribuyente Y ser vinculado económico.",
+      "Sí, pero la deducción está limitada al 50% del valor pagado por tratarse de una entidad del régimen ordinario a una exceptuada."
+    ],
+    "correct": 2,
+    "explanation": "Al no existir vinculación económica (control, subordinación o unidad de propósito), la prohibición del Art. 85 no aplica. El gasto se rige por las reglas generales de deducibilidad del Art. 107."
+  },
+  {
+    "question": "De acuerdo con el Decreto 624 de 1989, si una empresa matriz paga servicios de consultoría a una filial que es 'no contribuyente' por ley, ¿qué tratamiento recibe este gasto?",
+    "options": [
+      "Es deducible si se cuenta con el certificado de existencia y representación legal de la filial.",
+      "Es deducible siempre que la filial facture electrónicamente y se practique la retención en la fuente respectiva.",
+      "El gasto es no deducible en su totalidad debido a la relación de subordinación y la calidad tributaria del receptor.",
+      "Se puede deducir únicamente si la matriz demuestra que no hubo erosión de la base gravable en la consolidación de estados financieros."
+    ],
+    "correct": 2,
+    "explanation": "La relación matriz-filial es un caso típico de vinculación económica. Si el receptor es no contribuyente, el Art. 85 del Estatuto Tributario ordena el rechazo total del costo o gasto."
+  },
+  {
+    "question": "Si un contribuyente realiza un pago a un vinculado económico que pertenece al Régimen Tributario Especial (tarifa del 20%), ¿aplica la restricción de no deducibilidad del Artículo 85?",
+    "options": [
+      "Sí, porque el Régimen Especial no se considera un contribuyente del régimen ordinario.",
+      "No, porque las entidades del Régimen Especial sí tienen el carácter de contribuyentes del impuesto sobre la renta.",
+      "Sí, porque cualquier tarifa inferior a la general activa automáticamente la presunción de beneficio a vinculados.",
+      "No, a menos que la DIAN demuestre que el pago excede los precios de mercado."
+    ],
+    "correct": 1,
+    "explanation": "El Art. 85 se refiere exclusivamente a pagos a 'no contribuyentes'. Como las entidades del Régimen Especial SÍ son contribuyentes (aunque con tarifa diferenciada), la restricción de este artículo no les aplica."
+  },
+  {
+    "question": "Un contribuyente persona jurídica paga honorarios a una entidad sin ánimo de lucro (no contribuyente) que es controlada por el cónyuge del accionista mayoritario de la empresa. ¿Bajo qué fundamento la DIAN rechazaría este gasto?",
+    "options": [
+      "Por falta de envío de la información exógena en los tiempos establecidos.",
+      "Bajo el Artículo 85 del Estatuto Tributario, debido a la vinculación económica indirecta con un no contribuyente.",
+      "Bajo el Artículo 107 del E.T., por no ser un gasto necesario para la generación de ingresos.",
+      "Por violación del régimen de transparencia fiscal internacional."
+    ],
+    "correct": 1,
+    "explanation": "El Art. 85, en concordancia con las reglas de vinculación del Art. 260-1, incluye relaciones indirectas y por parentesco. Si el receptor es no contribuyente y hay vínculo, el gasto no es deducible."
   }
 ]
