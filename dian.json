@@ -443,7 +443,7 @@
     "explanation": "El Artículo 66-1 establece que se presume de derecho que el cuarenta por ciento (40%) del valor del ingreso gravado corresponde a costos y deducciones inherentes a la mano de obra."
   },
   {
-    "question": "De acuerdo con el Art. 72, el avalúo catastral puede ser tomado como costo fiscal para enajenación de inmuebles si figura en:",
+    "question": "De acuerdo con el Art. 72 Decreto 624 de 1989, el avalúo catastral puede ser tomado como costo fiscal para enajenación de inmuebles si figura en:",
     "options": [
       "La declaración del impuesto predial del año de la enajenación.",
       "La declaración de renta o predial del año anterior a la enajenación.",
@@ -2564,5 +2564,50 @@
     ],
     "correct": 2,
     "explanation": "El texto del Artículo 66-1 indica explícitamente que se trata de una 'presunción de derecho', lo que significa que el legislador ya fijó el porcentaje y no se requiere probar que el costo fue exactamente ese."
+  },
+
+  {
+    "question": "La señora Martha vende en febrero de 2026 un local comercial. Para efectos de determinar el costo fiscal, ella desea utilizar el avalúo catastral. Los valores reportados son: 2024 ($200M), 2025 ($250M) y 2026 ($300M). Según el Art. 72 del ET, ¿cuál valor es legalmente aceptable?",
+    "options": [
+      "$200.000.000, por ser el valor histórico consolidado de los últimos dos años.",
+      "$250.000.000, por ser el avalúo que figura en la declaración del año anterior al de la enajenación.",
+      "$300.000.000, siempre que se realice una adición a la declaración de renta antes de la venta.",
+      "$300.000.000, por ser el valor vigente determinado por la autoridad catastral al momento de la venta."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 72 del Estatuto Tributario establece que el avalúo aceptable como costo fiscal será el que figure en la declaración del Impuesto Predial Unificado y/o declaración de renta del año anterior al de la enajenación."
+  },
+  {
+    "question": "Inversiones S.A.S. vende una bodega en 2026 usando el avalúo de 2025 ($1.000M) como costo fiscal. Si la empresa tomó deducciones por depreciación de $120M en años anteriores, ¿cómo debe proceder según la Ley 1819 de 2016 que adicionó el Art. 72?",
+    "options": [
+      "Puede usar los $1.000M íntegros, ya que el avalúo catastral no se ve afectado por la depreciación contable.",
+      "Debe sumar la depreciación al avalúo para obtener un costo fiscal de $1.120M.",
+      "Debe restar las depreciaciones deducidas fiscalmente del valor del avalúo, resultando en un costo de $880M.",
+      "Debe ignorar el avalúo y usar obligatoriamente el costo de adquisición histórico menos depreciación."
+    ],
+    "correct": 2,
+    "explanation": "El inciso final del Artículo 72 (adicionado por la Ley 1819 de 2016) dispone que, si se toma el avalúo como costo fiscal, se deben restar las depreciaciones que hayan sido deducidas para fines fiscales."
+  },
+  {
+    "question": "Un contribuyente nota en 2026 que el avalúo catastral de su lote en 2025 fue muy bajo. Antes de venderlo, presenta una corrección a la declaración del impuesto predial de 2025 para incrementar el valor y así bajar el impuesto de ganancia ocasional. ¿Qué validez tiene esta corrección según el Art. 72?",
+    "options": [
+      "Es válida, pues el contribuyente tiene derecho a corregir sus declaraciones tributarias en cualquier momento.",
+      "No es válida, ya que la norma prohíbe expresamente tener en cuenta las correcciones o adiciones a las declaraciones para estos fines.",
+      "Es válida solo si la autoridad catastral (IGAC) certifica que hubo un error en la formación del avalúo.",
+      "Es válida siempre que la corrección se realice con el pago de la respectiva sanción por inexactitud."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 72 del Estatuto Tributario prohíbe explícitamente el uso de correcciones o adiciones a las declaraciones tributarias para aumentar el costo fiscal mediante avalúos al momento de la enajenación."
+  },
+  {
+    "question": "Un contribuyente adquirió un terreno el 15 de marzo de 2024 y decide venderlo el 20 de febrero de 2026. Al aplicar el Art. 72 del ET, utiliza el avalúo de 2025 como costo fiscal. ¿Bajo qué concepto tributario debe declarar la utilidad de esta venta?",
+    "options": [
+      "Como Ganancia Ocasional, gravada a la tarifa del 15%.",
+      "Como Renta Líquida Ordinaria, ya que el tiempo de posesión es inferior a dos años.",
+      "Como un ingreso no constitutivo de renta ni ganancia ocasional.",
+      "Como Ganancia Ocasional, ya que superó un año fiscal completo (2025)."
+    ],
+    "correct": 1,
+    "explanation": "Según los Artículos 300 y 69 a 72 del Estatuto Tributario (Decreto 624 de 1989), para que la utilidad sea tratada como Ganancia Ocasional, el activo fijo debe haber estado en el patrimonio del contribuyente por dos años o más. Al haberlo poseído desde marzo de 2024 hasta febrero de 2026 (menos de 24 meses), la utilidad se integra a la Renta Líquida Ordinaria."
   }
 ]
