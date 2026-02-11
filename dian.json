@@ -454,7 +454,7 @@
     "explanation": "El Artículo 72 establece que el autoavalúo o avalúo aceptable como costo fiscal será el que figure en la declaración del Impuesto Predial Unificado y/o declaración de renta correspondiente al año anterior al de la enajenación."
   },
   {
-    "question": "Según el Art. 74, la plusvalía (goodwill) adquirida en una combinación de negocios:",
+    "question": "Según el Art. 74 Decreto 624 de 1989, la plusvalía (goodwill) adquirida en una combinación de negocios:",
     "options": [
       "Se amortiza en 10 años.",
       "Se amortiza en 5 años.",
@@ -2609,5 +2609,60 @@
     ],
     "correct": 1,
     "explanation": "Según los Artículos 300 y 69 a 72 del Estatuto Tributario (Decreto 624 de 1989), para que la utilidad sea tratada como Ganancia Ocasional, el activo fijo debe haber estado en el patrimonio del contribuyente por dos años o más. Al haberlo poseído desde marzo de 2024 hasta febrero de 2026 (menos de 24 meses), la utilidad se integra a la Renta Líquida Ordinaria."
+  },
+  {
+    "question": "La empresa 'Tecnología Andina S.A.', obligada a llevar contabilidad, ha invertido durante 5 años en posicionar su propia marca. En 2026, un peritaje técnico la valora en $500.000.000. La empresa desea registrar este valor como costo fiscal para amortizarlo. Según el numeral 5 del Art. 74 del E.T., ¿cuál es el tratamiento correcto?",
+    "options": [
+      "Puede registrar los $500 millones como costo fiscal basándose en el peritaje técnico.",
+      "El costo fiscal de la marca es de cero ($0), por ser un intangible formado internamente para un obligado a llevar contabilidad.",
+      "Puede amortizar el valor de la marca en un periodo de 5 años como un gasto necesario para la generación de renta.",
+      "El costo fiscal será la sumatoria de los gastos de publicidad de los últimos 2 años según el artículo 74-1."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 5 del Artículo 74 del Estatuto Tributario (Decreto 624 de 1989) establece explícitamente que el costo fiscal de los activos intangibles generados o formados internamente para los obligados a llevar contabilidad será cero ($0)."
+  },
+  {
+    "question": "Una compañía adquiere una licencia de software por $100.000.000 y paga adicionalmente $10.000.000 en consultoría para su instalación y puesta en marcha. De acuerdo con el numeral 1 del Art. 74 del Estatuto Tributario, ¿cuál es el costo fiscal del activo intangible?",
+    "options": [
+      "100.000.000 de pesos, correspondiente exclusivamente al precio de adquisición pactado.",
+      "115.000.000 de pesos, incluyendo gastos de capacitación posterior para los empleados.",
+      "110.000.000 de pesos, que comprende el precio de adquisición más los costos directamente atribuibles a la puesta en marcha.",
+      "0 pesos, debido a que el software se considera un gasto administrativo del periodo según las NIIF."
+    ],
+    "correct": 2,
+    "explanation": "Según el numeral 1 del Art. 74 del E.T., el costo de los intangibles adquiridos separadamente corresponde al precio de adquisición más cualquier costo directamente atribuible a la preparación o puesta en marcha del activo para su uso previsto."
+  },
+  {
+    "question": "En una fusión de sociedades, la empresa adquiriente paga un exceso de $300.000.000 sobre el valor patrimonial neto de los activos identificables, registrándolo como Plusvalía. Bajo el Art. 74 (numeral 2, literal b y parágrafo 1) del Decreto 624 de 1989, ¿qué restricción aplica a este valor?",
+    "options": [
+      "La plusvalía es un activo intangible que debe amortizarse en un plazo de 5 años.",
+      "La plusvalía puede enajenarse de forma individual para generar una pérdida fiscal deducible.",
+      "La plusvalía así determinada no es susceptible de ser amortizada ni de ser enajenada individualmente.",
+      "El costo fiscal de la plusvalía debe ser ajustado anualmente por el PAAG (Programa de Ajuste Integral por Inflación)."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2 del Art. 74 y su parágrafo 1 aclaran que la plusvalía (o goodwill) surgida en combinaciones de negocios no es susceptible de ser amortizada ni enajenada de forma independiente a la unidad de negocio."
+  },
+  {
+    "question": "Una empresa obtiene una concesión estatal de forma gratuita, pero incurre en $20.000.000 por concepto de honorarios legales y trámites técnicos para su formalización. Según el numeral 3 del Art. 74 del Estatuto Tributario, ¿cómo se compone su costo fiscal?",
+    "options": [
+      "Por el valor comercial estimado de la concesión en el mercado abierto.",
+      "El costo fiscal es $0 debido a que el activo se originó en una subvención gratuita del Estado.",
+      "Estará integrado por el valor pagado ($0) más los costos directamente atribuibles a la obtención del activo ($20.000.000).",
+      "Debe registrarse como una renta líquida por recuperación de deducciones."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 3 del Art. 74 del E.T. señala que el costo fiscal de intangibles originados en subvenciones del Estado está integrado por el valor pagado más los costos directamente atribuibles a la preparación o para la obtención del activo."
+  },
+  {
+    "question": "La empresa 'Retail S.A.S.' toma en arrendamiento operativo una bodega por 5 años. En el primer año (2026), realiza una inversión de $80.000.000 en instalaciones eléctricas especializadas y estanterías ancladas que no serán reembolsadas por el arrendador. ¿Cómo debe determinar el costo fiscal de este activo intangible según el numeral 4 del Art. 74 del E.T.?",
+    "options": [
+      "No existe costo fiscal, ya que las mejoras en bienes ajenos siempre se consideran un gasto deducible al 100% en el año en que se realizan.",
+      "El costo fiscal corresponde a los costos devengados en el año o período gravable, siempre que no sean objeto de compensación por parte del arrendador.",
+      "El costo fiscal es el valor de la mejora menos la depreciación lineal calculada a 20 años, según las reglas de propiedad, planta y equipo.",
+      "Se debe registrar como una plusvalía (goodwill) y, por tanto, no es susceptible de amortización bajo ninguna circunstancia."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 4 del Artículo 74 del Estatuto Tributario establece que el costo fiscal de los activos intangibles originados en las mejoras a bienes objeto de arrendamiento operativo corresponde a los costos devengados en el año o período gravable, con la condición de que estos no sean compensados (reembolsados) por el arrendador."
   }
 ]
