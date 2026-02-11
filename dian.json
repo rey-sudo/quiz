@@ -465,7 +465,7 @@
     "explanation": "El Artículo 74, numeral 2, establece que la plusvalía (goodwill) determinada en fusiones, escisiones o adquisición de establecimientos de comercio no es susceptible de ser amortizada."
   },
   {
-    "question": "De acuerdo con el Art. 82, cuando no sea posible determinar el costo de activos enajenados, el funcionario puede estimarlo en:",
+    "question": "De acuerdo con el Art. 82 Decreto 624 de 1989, cuando no sea posible determinar el costo de activos enajenados, el funcionario puede estimarlo en:",
     "options": [
       "50% del valor de enajenación.",
       "75% del valor de enajenación.",
@@ -2664,5 +2664,50 @@
     ],
     "correct": 1,
     "explanation": "El numeral 4 del Artículo 74 del Estatuto Tributario establece que el costo fiscal de los activos intangibles originados en las mejoras a bienes objeto de arrendamiento operativo corresponde a los costos devengados en el año o período gravable, con la condición de que estos no sean compensados (reembolsados) por el arrendador."
+  },
+
+  {
+    "question": "Un contribuyente vende un terreno en 2026 por $500.000.000. Durante una auditoría, la DIAN detecta que el costo de adquisición reportado no tiene soportes facturados ni figura en declaraciones de años anteriores. Según el Artículo 82 del E.T., ¿qué debe intentar el funcionario antes de aplicar el costo presunto del 75%?",
+    "options": [
+      "Debe rechazar el costo totalmente y establecer una base gravable de $500.000.000.",
+      "Debe fijar un costo acorde a los incurridos por otras personas en actividades o operaciones similares, usando datos estadísticos de entidades como el DANE o el Banco de la República.",
+      "Debe solicitar una valoración comercial a un perito privado y aceptar ese valor como costo único.",
+      "Debe aplicar una sanción del 160% sobre el valor del activo antes de proceder con cualquier cálculo de costo."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 82 del Estatuto Tributario establece una jerarquía: antes de recurrir al 75%, el funcionario debe intentar fijar un costo basado en operaciones similares y datos estadísticos de entidades oficiales (DANE, Banco de la República, Superintendencias, etc.)."
+  },
+  {
+    "question": "En un proceso de fiscalización donde no fue posible determinar el costo de un activo enajenado mediante pruebas directas (contabilidad o comprobantes) ni mediante datos estadísticos de sectores similares, la DIAN decide aplicar el inciso final del Art. 82. Si el valor de la venta fue de $200.000.000, ¿cuál es el costo fiscal estimado?",
+    "options": [
+      "El costo será de $100.000.000, equivalente al 50% del valor de enajenación.",
+      "El costo será de $180.000.000, aplicando el margen de utilidad promedio del sector servicios.",
+      "El costo se estimará en $150.000.000, correspondiente al 75% del valor de la respectiva enajenación.",
+      "No se reconoce costo alguno por la ausencia total de libros de contabilidad debidamente registrados."
+    ],
+    "correct": 2,
+    "explanation": "El inciso final del Artículo 82 prescribe que si no es posible la determinación por medios directos o estadísticos, se estimará el costo en el setenta y cinco por ciento (75%) del valor de la enajenación."
+  },
+  {
+    "question": "Un contribuyente acepta la determinación de un costo presunto del 75% sobre una venta de activos debido a que su contabilidad fue destruida y no tiene soportes. ¿Qué consecuencia adicional establece el Artículo 82 del Decreto 624 de 1989 en este escenario?",
+    "options": [
+      "El contribuyente queda exonerado de cualquier sanción ya que la ley permite el uso del costo presunto como beneficio.",
+      "La DIAN queda impedida para investigar otros periodos gravables del mismo contribuyente.",
+      "La aplicación del costo estimado se hace sin perjuicio de las sanciones por inexactitud de la declaración o por no llevar debidamente los libros de contabilidad.",
+      "El contribuyente pierde el derecho a presentar declaraciones de renta por los siguientes cinco años."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 82 es claro al señalar que la estimación del costo no impide la imposición de sanciones por inexactitud o por el incumplimiento de deberes formales contables."
+  },
+  {
+    "question": "De acuerdo con el Artículo 82 del Estatuto Tributario, ¿en qué momento y escenario debe el contribuyente discutir la aplicación y el valor de los costos estimados fijados por la administración tributaria?",
+    "options": [
+      "Únicamente mediante una demanda ante la jurisdicción contencioso-administrativa tras el pago del impuesto.",
+      "La discusión debe realizarse dentro del mismo proceso de fiscalización respectivo donde se está adelantando la determinación.",
+      "Debe esperar a que la DIAN emita una resolución independiente de sanciones para poder apelar el costo.",
+      "Los costos estimados por la DIAN bajo este artículo son actos de trámite no sujetos a discusión o recurso alguno."
+    ],
+    "correct": 1,
+    "explanation": "La norma indica explícitamente: 'Su aplicación y discusión se hará dentro del mismo proceso', garantizando el derecho a la defensa y contradicción durante la etapa de fiscalización."
   }
 ]
