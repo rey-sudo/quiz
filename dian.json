@@ -498,7 +498,7 @@
     "explanation": "El Artículo 90 establece que no se aceptará un precio inferior al costo, al avalúo catastral ni al autoavalúo, sin perjuicio de la posibilidad de un valor comercial superior."
   },
   {
-    "question": "Según el Art. 92, los activos biológicos productores (como animales o plantas reproductoras) se tratan para efectos fiscales como:",
+    "question": "Según el Art. 92 Decreto 624 de 1989, los activos biológicos productores (como animales o plantas reproductoras) se tratan para efectos fiscales como:",
     "options": [
       "Inventarios.",
       "Propiedad, planta y equipo (depreciables).",
@@ -2821,5 +2821,49 @@
     ],
     "correct": 1,
     "explanation": "El segundo inciso del Artículo 90 obliga a que la utilidad primero recupere las depreciaciones o amortizaciones solicitadas previamente como deducción, antes de calificar cualquier remanente como ganancia ocasional."
+  },
+  {
+    "question": "Una empresa ganadera posee vacas destinadas exclusivamente a la producción de leche. Según el Artículo 92 del E.T., ¿por qué se clasifican como activos biológicos productores?",
+    "options": [
+      "Porque su ciclo de vida es inferior a un año y se venden rápidamente.",
+      "Porque se utilizan en la producción de productos pecuarios, se espera que produzcan por más de un periodo y su venta es remota.",
+      "Porque son el resultado de un proceso de transformación posterior realizado por el contribuyente.",
+      "Porque la DIAN los asimila automáticamente a inventarios de fácil enajenación."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 del Art. 92 establece que los productores deben cumplir con el suministro de productos, permanencia superior a un año y baja probabilidad de venta (excepto ventas incidentales)."
+  },
+  {
+    "question": "De acuerdo con el Artículo 92 del Estatuto Tributario, ¿en qué escenario un activo biológico se considera 'Consumible'?",
+    "options": [
+      "Cuando se mantiene para la producción de frutos durante al menos tres periodos fiscales.",
+      "Cuando su venta es considerada una probabilidad remota o incidental por raleos.",
+      "Cuando proceden de activos productores o su ciclo es inferior a un año, con vocación de ser enajenados o consumidos.",
+      "Únicamente cuando son plantas tratadas como propiedad, planta y equipo en el balance."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2 define los consumibles por su procedencia, su ciclo de producción (inferior a un año) y su destino final: enajenación o consumo/transformación."
+  },
+  {
+    "question": "Bajo el marco del Decreto 624 de 1989 (Art. 92), si un contribuyente vende madera resultante de la poda de un bosque productor de caucho, ¿qué sucede con la clasificación del activo principal?",
+    "options": [
+      "El activo principal debe reclasificarse inmediatamente a consumible por existir una venta.",
+      "La clasificación como productor se mantiene, ya que se trata de una venta incidental por raleos y podas.",
+      "El activo se convierte en un activo biológico mixto sujeto a una tarifa de renta especial.",
+      "La norma prohíbe las podas, por lo que el costo del activo dejará de ser deducible."
+    ],
+    "correct": 1,
+    "explanation": "El literal c del numeral 1 del Art. 92 permite las ventas incidentales de raleos y podas sin que el activo pierda su naturaleza de 'productor'."
+  },
+  {
+    "question": "Si un viticultor cosecha uvas para transformarlas en vino dentro de su propia empresa, ¿cómo clasifica las uvas según el Artículo 92 del E.T.?",
+    "options": [
+      "Como activo biológico productor, ya que el vino es un producto agrícola.",
+      "Como un activo fijo no depreciable hasta que el vino sea embotellado.",
+      "Como activo biológico consumible, dado que su vocación es ser consumido en un proceso de transformación posterior.",
+      "Como un gasto de representación, ya que no hay una venta directa del activo biológico."
+    ],
+    "correct": 2,
+    "explanation": "El literal b del numeral 2 indica que los activos consumidos por el mismo contribuyente para transformación posterior se clasifican como consumibles."
   }
 ]
