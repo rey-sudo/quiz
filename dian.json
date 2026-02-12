@@ -2865,5 +2865,61 @@
     ],
     "correct": 2,
     "explanation": "El literal b del numeral 2 indica que los activos consumidos por el mismo contribuyente para transformación posterior se clasifican como consumibles."
+  },
+
+  {
+    "question": "Un contribuyente adquiere árboles de caucho para extraer látex por 15 años. Al final de su vida útil, venderá la madera. Según el Art. 92, ¿cómo afecta esta venta final a su clasificación?",
+    "options": [
+      "Debe clasificarse como activo consumible desde el inicio porque el destino final es la venta de la madera.",
+      "Se mantiene como activo biológico productor, pues la probabilidad de venta como producto agropecuario es remota durante su etapa productiva.",
+      "Debe clasificarse como un activo biológico mixto, una categoría especial para el sector forestal.",
+      "Se considera inventario desde el primer año para poder deducir todos los costos de mantenimiento."
+    ],
+    "correct": 1,
+    "explanation": "El literal c del numeral 1 permite que sea productor si la venta es remota o incidental. La venta de la madera al final de la vida útil de una planta productora no le quita su naturaleza de activo fijo (propiedad, planta y equipo)."
+  },
+  {
+    "question": "De acuerdo con la relación entre el Art. 92 y el Art. 95 del E.T., ¿cuál es el tratamiento fiscal para el costo de un activo biológico consumible?",
+    "options": [
+      "Se debe depreciar linealmente desde el momento en que el activo nace o se siembra.",
+      "Se trata como un activo fijo y se le aplica el método de reducción de saldos.",
+      "Se maneja bajo las reglas de inventarios y su costo se reconoce en la declaración de renta al momento de su enajenación.",
+      "No es deducible, ya que se considera un gasto personal del contribuyente hasta que se transforme."
+    ],
+    "correct": 2,
+    "explanation": "Los activos consumibles tienen vocación de enajenación (inventarios). El Art. 95 establece que su costo fiscal se rige por las normas de inventarios, reconociéndose como costo de ventas al momento de generar el ingreso."
+  },
+  {
+    "question": "Una empresa tiene gallinas ponedoras y pollos de engorde. ¿Cuál es la clasificación técnica correcta para aplicar depreciación según los Art. 92 y 93?",
+    "options": [
+      "Ambos grupos se deprecian porque son seres vivos que pierden valor con el tiempo.",
+      "Solo los pollos de engorde se deprecian por ser activos consumibles de ciclo rápido.",
+      "Solo las gallinas ponedoras se consideran activos biológicos productores (activos fijos) sujetos a depreciación.",
+      "Ninguno se deprecia, pues la DIAN prohíbe la depreciación de animales en el Decreto 624 de 1989."
+    ],
+    "correct": 2,
+    "explanation": "Las gallinas ponedoras son productoras (producen huevos por más de un año), por lo que se clasifican como activos fijos sujetos a depreciación. Los pollos de engorde son consumibles (inventario) y no se deprecian."
+  },
+  {
+    "question": "Si un activo biológico productor (Art. 92) aún no ha entrado en etapa productiva, ¿qué sucede con sus costos acumulados según la lógica del Art. 93?",
+    "options": [
+      "Se deben llevar directamente al gasto del ejercicio en que se realizan.",
+      "Se capitalizan como parte del valor del activo y solo empezarán a depreciarse cuando inicie su etapa de producción.",
+      "Se pierden, ya que la DIAN solo permite deducir costos de activos que ya estén generando renta.",
+      "Deben clasificarse como activos consumibles temporalmente hasta que den el primer fruto."
+    ],
+    "correct": 1,
+    "explanation": "Los costos de los activos biológicos productores se capitalizan (forman parte del costo del activo fijo) y su recuperación vía depreciación inicia solo cuando el activo comienza a producir frutos o beneficios económicos."
+  },
+  {
+    "question": "¿Qué criterio del Artículo 92 define que un activo biológico 'Consumible' sea tratado fiscalmente como inventario y no como propiedad, planta y equipo?",
+    "options": [
+      "El hecho de que su valor comercial sea inferior a 50 UVT.",
+      "Que su vocación sea ser enajenado en el giro ordinario de los negocios o consumido en transformación.",
+      "Que el activo sea propiedad de una persona jurídica y no de una persona natural.",
+      "Que el activo requiera más de un año para estar listo para la venta."
+    ],
+    "correct": 1,
+    "explanation": "La definición de inventario fiscal (activo movible) coincide con el numeral 2 del Art. 92: bienes destinados a ser enajenados en el giro ordinario de los negocios o transformados para la venta."
   }
 ]
