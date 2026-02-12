@@ -498,15 +498,37 @@
     "explanation": "El Artículo 90 establece que no se aceptará un precio inferior al costo, al avalúo catastral ni al autoavalúo, sin perjuicio de la posibilidad de un valor comercial superior."
   },
   {
-    "question": "Según el Art. 92 Decreto 624 de 1989, los activos biológicos productores (como animales o plantas reproductoras) se tratan para efectos fiscales como:",
+    "question": "Bajo la normativa del Decreto 624 de 1989 (Artículos 92 al 94), ¿cuál es la distinción técnica correcta en el tratamiento fiscal de los activos biológicos para un contribuyente obligado a llevar contabilidad?",
     "options": [
-      "Inventarios.",
-      "Propiedad, planta y equipo (depreciables).",
-      "Activos no corrientes mantenidos para la venta.",
-      "Gastos del período."
+      "Tanto los productores como los consumibles deben tratarse como inventarios, ya que ambos son activos movibles del sector agropecuario.",
+      "Los activos productores se tratan como propiedad, planta y equipo (sujetos a depreciación), mientras que los consumibles se tratan como inventarios según su costo fiscal.",
+      "Los activos productores son gastos del período capitalizables, mientras que los consumibles son activos no corrientes mantenidos para la venta.",
+      "Todos los activos biológicos deben medirse a valor razonable con efectos inmediatos en la determinación del impuesto sobre la renta."
     ],
     "correct": 1,
-    "explanation": "El Artículo 93 establece que los activos biológicos productores serán tratados como propiedad, planta y equipo susceptibles de depreciación."
+    "explanation": "El Artículo 93 define a los productores como propiedad, planta y equipo susceptibles de depreciación. Por su parte, el Artículo 94 ordena que los consumibles sean tratados como inventarios. En ambos casos, el valor razonable no tiene efectos fiscales hasta la enajenación."
+  },
+  {
+    "question": "De acuerdo con el Artículo 93 del Estatuto Tributario, ¿cómo se determina el costo fiscal depreciable de un activo biológico productor y bajo qué condiciones inicia su amortización?",
+    "options": [
+      "Se toma el valor de adquisición y se le restan los costos de mantenimiento del primer año; la depreciación inicia desde el día de la compra.",
+      "El costo incluye el valor de adquisición más todos los costos devengados hasta que el activo esté apto para producir o dar frutos por primera vez, depreciándose en línea recta según un estudio técnico.",
+      "Se debe utilizar el valor razonable del mercado al cierre del año y la depreciación se calcula según las tablas generales de la DIAN para maquinaria pesada.",
+      "El costo fiscal solo incluye el valor de factura del proveedor, ya que los costos posteriores de mano de obra e insumos deben llevarse directamente al gasto del período."
+    ],
+    "correct": 1,
+    "explanation": "El Art. 93 establece que los activos productores capitalizan costos hasta su etapa productiva (frutos o aptitud). Además, exige que la depreciación sea en línea recta y se base en un estudio técnico elaborado por un experto, no en tablas genéricas."
+  },
+  {
+    "question": "Según el Artículo 94 del Estatuto Tributario y su parágrafo, ¿cuál es el tratamiento fiscal de los activos biológicos consumibles respecto a su valoración al cierre del ejercicio?",
+    "options": [
+      "Deben tratarse como propiedad, planta y equipo y sus valorizaciones a valor razonable aumentan la base gravable del impuesto de renta anualmente.",
+      "Se tratan como inventarios bajo el sistema de costo fiscal, donde las mediciones a valor razonable no tienen efectos en el impuesto de renta sino hasta el momento de su enajenación.",
+      "Se consideran activos intangibles y las fluctuaciones de mercado deben registrarse como una renta líquida por recuperación de deducciones.",
+      "Se deben depreciar de acuerdo con su ciclo de crecimiento biológico, ajustando el costo fiscal mensualmente según el valor de mercado."
+    ],
+    "correct": 1,
+    "explanation": "El Art. 94 ordena tratar los consumibles como inventarios. Su parágrafo es clave al establecer que el valor razonable (NIIF) no afecta la determinación del impuesto de renta hasta que el activo se venda (enajenación), manteniendo el costo fiscal histórico como base."
   },
   {
     "question": "De acuerdo con el Art. 96, para compañías de seguros de vida, a los ingresos netos se les suma y resta el valor de:",
@@ -2921,5 +2943,117 @@
     ],
     "correct": 1,
     "explanation": "La definición de inventario fiscal (activo movible) coincide con el numeral 2 del Art. 92: bienes destinados a ser enajenados en el giro ordinario de los negocios o transformados para la venta."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 93 del Estatuto Tributario, ¿cuál es la clasificación fiscal que deben dar los contribuyentes obligados a llevar contabilidad a sus activos biológicos productores?",
+    "options": [
+      "Deben ser tratados como inventarios de fácil enajenación sujetos a valoración de mercado.",
+      "Se consideran activos intangibles amortizables durante la duración del ciclo biológico.",
+      "Serán tratados como propiedad, planta y equipo susceptibles de depreciación.",
+      "Deben registrarse como gastos diferidos hasta que se realice la primera venta de la producción."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 1 del Artículo 93 del Decreto 624 de 1989 establece taxativamente que estos activos se asimilan a propiedad, planta y equipo para efectos de su tratamiento en el impuesto sobre la renta."
+  },
+  {
+    "question": "Bajo las reglas del Decreto 624 de 1989, Art. 93, ¿qué conceptos integran el costo fiscal de un animal productor susceptible de ser depreciado?",
+    "options": [
+      "Únicamente el valor de adquisición facturado por el proveedor original.",
+      "El valor de adquisición más todos los costos devengados hasta el momento en que esté apto para producir.",
+      "El valor de mercado al finalizar el año gravable menos la depreciación acumulada.",
+      "El costo de adquisición más los gastos financieros generados durante toda la vida del animal."
+    ],
+    "correct": 1,
+    "explanation": "Según el literal b) del numeral 2 del Art. 93, el costo fiscal se compone del valor de adquisición más los costos devengados hasta que el animal alcance su aptitud productiva."
+  },
+  {
+    "question": "Para una planta productora, ¿hasta qué momento permite el Artículo 93 del Estatuto Tributario capitalizar costos como mayor valor del activo?",
+    "options": [
+      "Hasta que la planta sea sembrada en el terreno definitivo.",
+      "Hasta que la planta alcance su madurez vegetativa completa según el experto.",
+      "Hasta que la planta esté en disposición de dar frutos por primera vez.",
+      "Hasta que se realice el primer pago por la venta de la cosecha."
+    ],
+    "correct": 2,
+    "explanation": "El literal a) del numeral 2 del Art. 93 especifica que la capitalización de costos cesa cuando la planta está lista para dar frutos por primera vez."
+  },
+  {
+    "question": "En cuanto a la depreciación de activos biológicos productores, ¿qué requisitos exige el numeral 3 del Artículo 93 del Estatuto Tributario?",
+    "options": [
+      "Depreciación por el método de reducción de saldos según las tasas fijas de la DIAN.",
+      "Depreciación en línea recta por el término de vida útil determinada en un estudio técnico elaborado por un experto.",
+      "Depreciación libre de acuerdo con las políticas contables NIIF de la empresa.",
+      "No se permite la depreciación; solo se permite la deducción del agotamiento del activo."
+    ],
+    "correct": 1,
+    "explanation": "La norma exige el método de línea recta y vincula la determinación de la vida útil a un estudio técnico especializado elaborado por un experto."
+  },
+  {
+    "question": "¿Qué efecto tienen las mediciones a valor razonable de los activos biológicos productores en la determinación del impuesto sobre la renta según el numeral 4 del Art. 93 del Decreto 624 de 1989?",
+    "options": [
+      "Deben incluirse anualmente como un ingreso gravado o pérdida deducible.",
+      "Aumentan o disminuyen la base del impuesto al patrimonio de forma inmediata.",
+      "No tendrán efectos fiscales sino hasta el momento de la enajenación del activo biológico.",
+      "Solo tienen efecto si el valor razonable es inferior al costo histórico de adquisición."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 4 del Art. 93 garantiza que las valorizaciones contables no afecten el impuesto sobre la renta hasta que la utilidad se realice mediante la venta del activo."
+  },
+  {
+    "question": "Según el Parágrafo 1 del Artículo 93 del Estatuto Tributario, ¿qué sucede con los costos y gastos que ya fueron tratados como costo o deducción en periodos anteriores?",
+    "options": [
+      "Pueden capitalizarse nuevamente si el activo aún no ha producido frutos.",
+      "No podrán ser objeto de capitalización en el costo del activo biológico.",
+      "Deben reintegrarse como renta líquida para poder ser capitalizados.",
+      "Se pueden capitalizar siempre y cuando no superen el 50% del valor inicial del activo."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo prohíbe expresamente la doble utilización de un mismo valor (primero como gasto deducible y luego como costo capitalizable), protegiendo la integridad de la base gravable."
+  },
+
+  {
+    "question": "De acuerdo con el Artículo 94 del Estatuto Tributario (Decreto 624 de 1989), ¿qué tratamiento fiscal deben dar los contribuyentes obligados a llevar contabilidad a sus activos biológicos consumibles?",
+    "options": [
+      "Deben clasificarlos como propiedad, planta y equipo sujetos a depreciación anual.",
+      "Deben tratarlos como inventarios de conformidad con las reglas previstas en el Estatuto Tributario para dichos bienes.",
+      "Deben registrarlos como activos intangibles amortizables durante el ciclo de vida del organismo.",
+      "Se consideran gastos deducibles en su totalidad en el momento de la adquisición o siembra."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 94 establece taxativamente que los activos consumibles se rigen por las reglas de los inventarios, lo que implica que su costo se recupera al momento de la enajenación y no vía depreciación."
+  },
+  {
+    "question": "Según el parágrafo del Artículo 94 del Estatuto Tributario, ¿qué efecto tienen las mediciones a valor razonable de los activos biológicos consumibles en la determinación del impuesto sobre la renta?",
+    "options": [
+      "Deben incluirse como ingresos gravados o pérdidas deducibles al cierre de cada periodo fiscal.",
+      "Aumentan la base gravable de forma inmediata si el valor de mercado es superior al costo fiscal.",
+      "No tendrán efectos en la determinación del impuesto sino hasta el momento de la enajenación del activo biológico.",
+      "Solo tienen efectos fiscales si el contribuyente opta por el sistema de inventario permanente."
+    ],
+    "correct": 2,
+    "explanation": "La norma garantiza la neutralidad fiscal al diferir cualquier efecto de las valorizaciones o desvalorizaciones contables (NIIF) hasta que la utilidad se realice efectivamente mediante la venta del activo."
+  },
+  {
+    "question": "En el contexto de una explotación porcina de engorde, ¿qué constituye el costo fiscal del activo biológico consumible según el Artículo 94 del Decreto 624 de 1989?",
+    "options": [
+      "Exclusivamente el valor facturado por la compra del lechón inicial.",
+      "El valor de mercado que tengan los animales al finalizar el año gravable.",
+      "El costo de adquisición más todos los costos devengados necesarios para su transformación y puesta en punto de venta.",
+      "El costo estimado por la DIAN mediante estudios técnicos regionales de productividad."
+    ],
+    "correct": 2,
+    "explanation": "Al tratarse como inventarios, el costo fiscal incluye tanto la adquisición como los costos de producción y transformación acumulados, siguiendo las reglas generales de los artículos 62 a 66 del Estatuto."
+  },
+  {
+    "question": "Si un contribuyente del sector arrocero (activo consumible) aplica una cuota de depreciación sobre su cultivo en crecimiento, ¿por qué este tratamiento sería incorrecto bajo el Artículo 94?",
+    "options": [
+      "Porque la depreciación solo se permite para activos que superen los 10 años de vida útil.",
+      "Porque los activos tratados como inventarios no son susceptibles de depreciación fiscal.",
+      "Porque el arroz se considera un activo biológico productor y no consumible.",
+      "Porque la depreciación de activos biológicos fue eliminada por la Ley 1819 de 2016."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 94 asimila estos activos a inventarios. Fiscalmente, los inventarios no se deprecian; su valor se reconoce como costo de ventas únicamente cuando se enajenan."
   }
 ]
