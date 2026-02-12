@@ -3055,5 +3055,72 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 94 asimila estos activos a inventarios. Fiscalmente, los inventarios no se deprecian; su valor se reconoce como costo de ventas únicamente cuando se enajenan."
+  },
+
+  {
+    "question": "De acuerdo con el procedimiento general del Artículo 96 del Estatuto Tributario, ¿cuál es el paso inicial para determinar la renta bruta de una compañía de seguros de vida?",
+    "options": [
+      "Restar los siniestros pagados del total de las primas recaudadas en el año.",
+      "Sumar al total de los ingresos netos del año el importe de la reserva matemática del final del año anterior.",
+      "Sumar los ingresos brutos con la reserva matemática constituida al cierre del ejercicio actual.",
+      "Multiplicar el total de activos de la compañía por la tasa de rentabilidad mínima técnica."
+    ],
+    "correct": 1,
+    "explanation": "El encabezado del artículo 96 establece que a los ingresos netos del periodo se les suma el importe que al final del periodo gravable anterior haya tenido la reserva matemática."
+  },
+  {
+    "question": "En el caso de siniestros avisados pero no pagados, ¿qué requisito de control exige el numeral 2 del Artículo 96 Decreto 624 de 1989 para que el importe sea restado de la renta bruta?",
+    "options": [
+      "Que el siniestro haya sido pagado efectivamente antes de presentar la declaración.",
+      "Que el importe incluya la totalidad de la suma asegurada, independientemente de los reaseguros.",
+      "Que el importe corresponda a la parte no reasegurada y esté debidamente certificado por el revisor fiscal.",
+      "Que la compañía cuente con una sentencia judicial en firme que la obligue al pago."
+    ],
+    "correct": 2,
+    "explanation": "La norma permite restar siniestros avisados hasta la concurrencia de la parte no reasegurada, siempre que medie certificación del revisor fiscal."
+  },
+  {
+    "question": "Si una compañía de capitalización realiza pagos por el vencimiento de sus títulos, ¿puede aplicar las reglas del Artículo 96 del Decreto 624 de 1989?",
+    "options": [
+      "No, porque el artículo 96 es exclusivo para compañías de seguros de vida según su fuente original.",
+      "Sí, el parágrafo del artículo extiende estas disposiciones en lo pertinente a las compañías de capitalización.",
+      "Solo si la compañía de capitalización demuestra pérdidas operativas en el ejercicio.",
+      "Sí, pero únicamente respecto al numeral de primas de reaseguros cedidas."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo (original) del artículo 96 indica taxativamente: 'Las disposiciones de este artículo se aplican en lo pertinente a las compañías de capitalización'."
+  },
+  {
+    "question": "Bajo el escenario del Parágrafo 2 Artículo 96 Decreto 624 de 1989 (adicionado por Ley 1819 de 2016), ¿cómo deben proceder las aseguradoras que generen rentas exentas?",
+    "options": [
+      "Deben consolidar todos los ingresos y aplicar una tarifa reducida proporcional.",
+      "Deben tratar todos los ingresos como gravados y solicitar la devolución del excedente en el año siguiente.",
+      "Deben calcular separadamente dichas rentas exentas y las rentas gravables siguiendo los artículos 26 y 96 del E.T.",
+      "Están exoneradas de presentar la depuración de la reserva matemática en su declaración."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo 2 exige el cálculo separado de rentas exentas y gravables para garantizar la correcta determinación de la renta líquida, considerando las normas de seguridad social (Ley 100 de 1993)."
+  },
+  {
+    "question": "De las siguientes partidas, ¿cuál debe restarse al final del cálculo para consolidar la renta bruta del periodo según el numeral 6 del Artículo 96 Decreto 624 de 1989?",
+    "options": [
+      "El importe de la reserva matemática al final del año o período gravable actual.",
+      "El valor total de los dividendos repartidos a los socios durante el año.",
+      "Las comisiones pagadas a los agentes de seguros por captación de primas.",
+      "Los gastos de administración y papelería incurridos en la expedición de pólizas."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 6 señala que se resta el importe que al final del año o período gravable tenga la reserva matemática, cerrando así el ciclo de liberación y constitución de reservas técnicas."
+  },
+  {
+    "question": "Dentro de la depuración de la renta bruta para seguros de vida, ¿cómo deben tratarse los pagos por rescates y primas de reaseguros según el Artículo 96 Estatuto tributario?",
+    "options": [
+      "Se consideran gastos administrativos no deducibles de la renta bruta.",
+      "Son partidas que se restan del total obtenido entre ingresos netos y reserva anterior.",
+      "Se deben sumar como ingresos adicionales por concepto de recuperación de costos.",
+      "Solo se pueden restar si el reasegurador está domiciliado en paraísos fiscales."
+    ],
+    "correct": 1,
+    "explanation": "Los numerales 4 y 5 del artículo 96 incluyen explícitamente lo pagado por rescates y el importe de primas de reaseguros cedidas como partidas restables para determinar la renta bruta."
   }
 ]
