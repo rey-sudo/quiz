@@ -531,15 +531,15 @@
     "explanation": "El Art. 94 ordena tratar los consumibles como inventarios. Su parágrafo es clave al establecer que el valor razonable (NIIF) no afecta la determinación del impuesto de renta hasta que el activo se venda (enajenación), manteniendo el costo fiscal histórico como base."
   },
   {
-    "question": "De acuerdo con el Art. 96, para compañías de seguros de vida, a los ingresos netos se les suma y resta el valor de:",
+    "question": "Conforme a la estructura de determinación de la renta bruta definida en el Artículo 96 del Estatuto Tributario (Decreto 624 de 1989), ¿cuál es el concepto técnico que opera simétricamente sumándose (si es del año anterior) y restándose (si es del año actual) al total de ingresos netos?",
     "options": [
-      "La prima de reaseguros cedidas.",
-      "La reserva técnica.",
-      "La reserva matemática.",
-      "Los siniestros avisados."
+      "El importe de las primas de reaseguros cedidas en Colombia o en el exterior.",
+      "El valor de los siniestros avisados debidamente certificados por el revisor fiscal.",
+      "El importe correspondiente a la reserva matemática.",
+      "Los beneficios especiales sobre pólizas vencidas y rentas vitalicias."
     ],
     "correct": 2,
-    "explanation": "El Artículo 96 establece que a los ingresos netos se suma el importe de la reserva matemática del año anterior y se resta el importe de la reserva matemática del año actual, entre otros conceptos."
+    "explanation": "El Artículo 96 establece una dinámica de 'liberación y constitución' de reservas: se suma la reserva matemática del año anterior (ingreso) y se resta la reserva matemática constituida al final del año gravable (costo), permitiendo así gravar únicamente la utilidad real del ejercicio."
   },
   {
     "question": "Según el Art. 100, en rentas vitalicias, la pensión periódica constituye renta bruta para el beneficiario, estimada en un porcentaje anual del capital pagado equivalente a:",
