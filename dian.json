@@ -3189,5 +3189,84 @@
     ],
     "correct": 1,
     "explanation": "Las compañías de seguros están excluidas de este artículo por contar con un régimen técnico y fiscal especial diseñado para el sector asegurador."
+  },
+
+  {
+    "question": "Bajo el principio de transparencia del Artículo 102 del Decreto 624 de 1989, ¿cómo deben los beneficiarios reportar los costos devengados por el patrimonio autónomo?",
+    "options": [
+      "Deben incluirlos en el mismo periodo gravable de devengo, conservando la naturaleza, fuente y deducibilidad que tendrían si operaran directamente.",
+      "Se deben reportar únicamente como una pérdida neta en la declaración de renta, sin posibilidad de discriminar conceptos de costo o deducción.",
+      "Deben esperar a que la fiduciaria liquide el patrimonio para poder arrastrar los costos acumulados hacia sus declaraciones de renta personales.",
+      "Los costos son de uso exclusivo del patrimonio autónomo y los beneficiarios solo están obligados a reportar los ingresos netos distribuidos."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 2 del Artículo 102 del Decreto 624 de 1989 establece que los beneficiarios deben incluir ingresos, costos y gastos con las mismas condiciones tributarias que si realizaran la actividad directamente."
+  },
+  {
+    "question": "De acuerdo con el numeral 3 del Artículo 102 del Decreto 624 de 1989, ¿qué tratamiento recibe un fideicomiso cuyas condiciones impiden identificar a los beneficiarios?",
+    "options": [
+      "El patrimonio se asimila a una sociedad limitada y los impuestos son responsabilidad del fiduciario en calidad de deudor principal de la nación.",
+      "Las rentas quedan exentas de impuestos hasta que se cumpla la condición suspensiva y se logre identificar plenamente al beneficiario del contrato.",
+      "El patrimonio autónomo se asimila a una sociedad anónima para fines de renta y las rentas se gravan a la tarifa de las sociedades colombianas.",
+      "El constituyente debe declarar la totalidad de las rentas como propias hasta que la fiduciaria certifique la existencia de un beneficiario real."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 102 del Decreto 624 de 1989 dicta que, ante la imposibilidad de identificar beneficiarios, el patrimonio tributa como una sociedad anónima."
+  },
+  {
+    "question": "Si los recursos del fideicomiso son insuficientes para cubrir el IVA, ¿quién responde según el numeral 5 del Artículo 102 del Decreto 624 de 1989?",
+    "options": [
+      "La entidad fiduciaria debe cubrir el faltante con su propio patrimonio líquido por ser la responsable legal de la administración del negocio.",
+      "Los beneficiarios del contrato de fiducia mercantil responderán solidariamente por tales impuestos, retenciones y sanciones correspondientes.",
+      "La obligación tributaria se extingue por imposibilidad física de pago, siempre que la fiduciaria demuestre la debida diligencia en su gestión.",
+      "La DIAN debe perseguir únicamente los activos remanentes del constituyente, excluyendo cualquier acción de cobro contra los beneficiarios."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 5 del Artículo 102 del Decreto 624 de 1989 establece la responsabilidad solidaria de los beneficiarios ante la insuficiencia de recursos del patrimonio."
+  },
+  {
+    "question": "Según el Artículo 102 del Decreto 624 de 1989, ¿en qué situación se causa el impuesto sobre la renta en cabeza del beneficiario en lugar del constituyente?",
+    "options": [
+      "Cuando el patrimonio autónomo adquiere bienes inmuebles a través de subastas públicas para aumentar el valor de los derechos fiduciarios.",
+      "Únicamente cuando la sociedad fiduciaria decide liquidar anticipadamente el contrato y devuelve los aportes originales al constituyente inicial.",
+      "Si los bienes o derechos del patrimonio autónomo se transfieren a título gratuito a personas o entidades diferentes del constituyente original.",
+      "En el momento en que el fiduciario realiza pagos por conceptos de honorarios o servicios técnicos a proveedores extranjeros no domiciliados."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 4 del Artículo 102 del Decreto 624 de 1989 indica que si la transferencia es a título gratuito a terceros, el impuesto recae en el beneficiario."
+  },
+  {
+    "question": "Conforme al Parágrafo 3 del Artículo 102 del Decreto 624 de 1989, ¿cuáles son los requisitos de firma para la certificación de información financiera?",
+    "options": [
+      "Debe estar firmada por el representante legal de la fiduciaria y la información financiera por el contador público o revisor fiscal correspondiente.",
+      "Basta con la firma digital del representante legal de la sociedad fiduciaria para que el documento tenga plena validez ante la administración.",
+      "Se requiere la firma del constituyente y de todos los beneficiarios identificados para avalar la veracidad de los costos y gastos reportados.",
+      "La certificación debe ser firmada exclusivamente por el revisor fiscal de la fiduciaria, sin necesidad de intervención del representante legal."
+    ],
+    "correct": 0,
+    "explanation": "El Parágrafo 3 del Artículo 102 del Decreto 624 de 1989 exige firmas del representante legal y del contador/revisor fiscal para validar la información financiera."
+  },
+
+  {
+    "question": "¿Cómo se determina el costo fiscal de los derechos fiduciarios para el contribuyente según el numeral 1 del Artículo 102 del Decreto 624 de 1989?",
+    "options": [
+      "Los derechos tendrán el costo fiscal y condiciones de los bienes aportados, y al cierre del periodo se ajustan al patrimonio del fideicomiso.",
+      "El costo se fija exclusivamente sobre el valor comercial de mercado de los derechos al momento de la firma del contrato ante la fiduciaria.",
+      "Los derechos fiduciarios carecen de costo fiscal propio hasta que los bienes sean enajenados a un tercero ajeno a la estructura del contrato.",
+      "El costo fiscal será el valor nominal del contrato de fiducia mercantil más un ajuste anual fijo del 5% por concepto de inflación proyectada."
+    ],
+    "correct": 0,
+    "explanation": "El numeral 1 del Artículo 102 del Decreto 624 de 1989 establece que los derechos fiduciarios conservan el costo fiscal de los bienes o derechos aportados."
+  },
+  {
+    "question": "Bajo el numeral 8 del Artículo 102 del Decreto 624 de 1989, ¿qué ocurre con un beneficio tributario por inversiones realizado mediante un patrimonio autónomo?",
+    "options": [
+      "El beneficio se pierde automáticamente al utilizar un vehículo fiduciario, ya que la ley exige que la inversión sea realizada de forma directa.",
+      "El beneficio tributario queda suspendido hasta que la DIAN emita una resolución particular que autorice el traslado del mismo al beneficiario real.",
+      "El beneficiario, fideicomitente o adherente tendrá derecho a disfrutar del beneficio correspondiente como si la inversión fuera realizada directamente.",
+      "La sociedad fiduciaria podrá utilizar el beneficio para reducir su propio impuesto de renta, compensando así sus gastos de administración y gestión."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 8 del Artículo 102 del Decreto 624 de 1989 permite que los beneficios tributarios por inversiones o donaciones se trasladen a los beneficiarios."
   }
 ]
