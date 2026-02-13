@@ -3268,5 +3268,50 @@
     ],
     "correct": 2,
     "explanation": "El numeral 8 del Artículo 102 del Decreto 624 de 1989 permite que los beneficios tributarios por inversiones o donaciones se trasladen a los beneficiarios."
+  },
+
+  {
+    "question": "Un despacho de abogados en 2026 adquiere licencias de software de ciberseguridad para proteger los datos de sus clientes. ¿Cómo clasifica esta expensa según el criterio de necesidad del Artículo 107 del Decreto 624 de 1989?",
+    "options": [
+      "Es una expensa no deducible por no estar vinculada a la litigación directa de procesos judiciales.",
+      "Es deducible al ser una expensa necesaria para proteger la operatividad y la confianza del negocio.",
+      "Se considera un gasto suntuario que debe ser rechazado por la administración por no generar renta.",
+      "La deducibilidad depende exclusivamente de si el software fue desarrollado por una empresa nacional."
+    ],
+    "correct": 1,
+    "explanation": "El criterio de necesidad se evalúa con criterio comercial; proteger los activos de información es indispensable para la continuidad y protección de la fuente productora de renta en la era digital."
+  },
+  {
+    "question": "La DIAN detecta que una empresa de transporte incluyó como deducción el pago de una multa de tránsito impuesta por exceso de velocidad. Según el Artículo 107 del Estatuto Tributario, este gasto es:",
+    "options": [
+      "Deducible, siempre que el conductor demuestre que el exceso de velocidad era para entregar un pedido.",
+      "Deducible, porque las multas son gastos normales y acostumbrados en la actividad de transporte masivo.",
+      "No deducible, ya que las expensas provenientes de conductas tipificadas como infracciones no son legales.",
+      "No deducible, debido a que las sanciones y multas no tienen relación de causalidad con la generación de renta."
+    ],
+    "correct": 3,
+    "explanation": "Las multas y sanciones no son expensas necesarias ni tienen relación de causalidad con la actividad productora de renta; además, el inciso final prohíbe deducir pagos por conductas ilícitas o punibles."
+  },
+  {
+    "question": "Un contribuyente del sector agroindustrial realiza gastos de publicidad que representan el 80% de sus ingresos brutos. ¿Bajo qué principio del Artículo 107 del Decreto 624 de 1989 podría la DIAN cuestionar esta deducción?",
+    "options": [
+      "Bajo el principio de proporcionalidad, por no guardar una magnitud razonable frente a los ingresos.",
+      "Bajo el principio de causalidad, pues la publicidad nunca garantiza la obtención de ingresos reales.",
+      "Bajo el principio de legalidad, ya que la publicidad masiva está restringida para el sector del agro.",
+      "Bajo el principio de temporalidad, al ser un gasto que debería ser diferido a un periodo de diez años."
+    ],
+    "correct": 0,
+    "explanation": "La proporcionalidad exige que el volumen de la expensa sea coherente con la actividad económica y el nivel de ingresos del contribuyente para evitar el vaciamiento de la base gravable de forma artificial."
+  },
+  {
+    "question": "Si la DIAN desconoce una deducción por sospecha de un delito doloso, pero años después la autoridad competente declara que la conducta no es punible, ¿qué acción permite el Artículo 107 del Estatuto Tributario?",
+    "options": [
+      "El contribuyente pierde el derecho a la deducción por no haber interpuesto recursos en la vía gubernativa.",
+      "El contribuyente deberá solicitar una devolución de pago de lo no debido ante la DIAN de forma inmediata.",
+      "El contribuyente puede imputar la deducción en el periodo gravable en que se determine que la conducta no es punible.",
+      "El contribuyente tiene la obligación de corregir la declaración inicial del año en que se realizó la expensa."
+    ],
+    "correct": 2,
+    "explanation": "El artículo prevé un mecanismo de justicia tributaria donde la deducción puede imputarse en el año en que se emita la providencia correspondiente que declare que la conducta no fue un delito."
   }
 ]
