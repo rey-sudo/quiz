@@ -542,7 +542,7 @@
     "explanation": "El Artículo 96 establece una dinámica de 'liberación y constitución' de reservas: se suma la reserva matemática del año anterior (ingreso) y se resta la reserva matemática constituida al final del año gravable (costo), permitiendo así gravar únicamente la utilidad real del ejercicio."
   },
   {
-    "question": "Según el Art. 100, en rentas vitalicias, la pensión periódica constituye renta bruta para el beneficiario, estimada en un porcentaje anual del capital pagado equivalente a:",
+    "question": "Según el Art. 100 Decreto 624 de 1989, en rentas vitalicias, la pensión periódica constituye renta bruta para el beneficiario, estimada en un porcentaje anual del capital pagado equivalente a:",
     "options": [
       "La tasa de interés sobre depósitos bancarios a término.",
       "La DTF.",
@@ -553,7 +553,7 @@
     "explanation": "El Artículo 100, numeral 2, establece que la pensión periódica se estima en un porcentaje anual del precio o capital pagado, equivalente a la tasa de interés sobre depósitos bancarios a término."
   },
   {
-    "question": "De acuerdo con el Art. 102, en los contratos de fiducia mercantil, cuando no se pueden identificar los beneficiarios, las rentas se gravan en cabeza del patrimonio autónomo a la tarifa de:",
+    "question": "De acuerdo con el Art. 102 Decreto 624 de 1989, en los contratos de fiducia mercantil, cuando no se pueden identificar los beneficiarios, las rentas se gravan en cabeza del patrimonio autónomo a la tarifa de:",
     "options": [
       "Personas naturales.",
       "Sociedades colombianas.",
@@ -564,7 +564,7 @@
     "explanation": "El Artículo 102, numeral 3, establece que cuando no se permita identificar a los beneficiarios, las rentas serán gravadas en cabeza del patrimonio autónomo a la tarifa de las sociedades colombianas, asimilándose a una sociedad anónima."
   },
   {
-    "question": "Según el Art. 107, para que las expensas (gastos) sean deducibles de la renta bruta, ¿qué requisitos deben cumplir?",
+    "question": "Según el Art. 107 Decreto 624 de 1989, para que las expensas (gastos) sean deducibles de la renta bruta, ¿qué requisitos deben cumplir?",
     "options": [
       "Que sean pagadas exclusivamente en el último trimestre del año.",
       "Que tengan relación de causalidad, necesidad y proporcionalidad con las actividades productoras de renta.",
@@ -575,7 +575,7 @@
     "explanation": "El Artículo 107 del Estatuto Tributario establece que las expensas son deducibles siempre que tengan relación de causalidad con las actividades productoras de renta y que sean necesarias y proporcionadas de acuerdo con cada actividad. Estos tres criterios (causalidad, necesidad y proporcionalidad) son los pilares fundamentales para la validación de cualquier costo o gasto."
   },
   {
-    "question": "Según el Art. 107, NO son deducibles las expensas provenientes de:",
+    "question": "Según el Art. 107 Decreto 624 de 1989, NO son deducibles las expensas provenientes de:",
     "options": [
       "Actividades comerciales normales.",
       "Conductas típicas consagradas como delito sancionable a título de dolo.",
@@ -3122,5 +3122,72 @@
     ],
     "correct": 1,
     "explanation": "Los numerales 4 y 5 del artículo 96 incluyen explícitamente lo pagado por rescates y el importe de primas de reaseguros cedidas como partidas restables para determinar la renta bruta."
+  },
+
+  {
+    "question": "De acuerdo con el numeral 1 del Artículo 100 del Estatuto Tributario (Decreto 624 de 1989), ¿qué tratamiento fiscal recibe el capital inicial entregado en un contrato de renta vitalicia para quien lo recibe?",
+    "options": [
+      "No constituye ingreso gravable por tratarse de un capital en custodia.",
+      "El precio o capital recibido constituye renta bruta para el receptor.",
+      "Se considera ganancia ocasional sujeta a una tarifa del 15%.",
+      "Solo se reporta como renta bruta el 10% del valor total recibido."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 1 establece taxativamente que el precio o capital que se pague por la renta vitalicia constituye renta bruta para quien lo reciba en el momento de la transacción."
+  },
+  {
+    "question": "Según el numeral 2 del Artículo 100 del E.T., ¿cómo debe el beneficiario de una renta vitalicia estimar inicialmente la parte de su pensión que constituye renta bruta?",
+    "options": [
+      "Aplicando un porcentaje anual equivalente a la tasa de interés sobre depósitos bancarios a término (CDT) sobre el capital pagado.",
+      "Declarando el 100% de la pensión desde el primer pago recibido.",
+      "Restando el componente inflacionario certificado por el Banco de la República.",
+      "Tomando como base el valor del salario mínimo mensual legal vigente."
+    ],
+    "correct": 0,
+    "explanation": "La norma presume que la rentabilidad gravable inicial es equivalente a la tasa de interés sobre depósitos bancarios a término aplicada al capital invertido."
+  },
+  {
+    "question": "En un escenario donde la pensión periódica excede la tasa de interés bancario, ¿cuándo pasa a ser renta bruta la totalidad de lo pagado según el Decreto 624 de 1989?",
+    "options": [
+      "A partir del quinto año de ejecución del contrato de renta vitalicia.",
+      "Cuando el beneficiario cumpla la edad de jubilación legal en Colombia.",
+      "Cuando la suma de los excedentes anuales sobre el interés iguale al precio o capital pagado inicialmente.",
+      "Desde el momento en que el contrato sea elevado a escritura pública."
+    ],
+    "correct": 2,
+    "explanation": "El inciso segundo del numeral 2 indica que una vez recuperado el capital (vía excedentes), todo pago posterior se considera utilidad pura y, por ende, renta bruta total."
+  },
+  {
+    "question": "Bajo el Artículo 100 del E.T., ¿cómo se determina la renta bruta en caso de indemnizaciones por incumplimiento tras la resolución del contrato?",
+    "options": [
+      "Es el 50% del valor total de la indemnización pactada en el contrato.",
+      "Es el valor recibido menos el capital pagado, disminuido en la parte de las pensiones que no constituyó renta bruta previamente.",
+      "No genera renta bruta por tratarse de un daño emergente no constitutivo de ingreso.",
+      "Es el valor total recibido sin posibilidad de detraer el capital inicial aportado."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 3 establece una fórmula para gravar solo la ganancia neta, restando del valor recibido el capital que aún no ha sido recuperado fiscalmente por el beneficiario."
+  },
+  {
+    "question": "De acuerdo con el Parágrafo 1 del Artículo 100 del Estatuto Tributario, si se entregan bienes como capital, ¿qué valor debe asignarse en el contrato?",
+    "options": [
+      "El valor comercial promedio del mercado al momento de la firma.",
+      "El avalúo catastral multiplicado por el factor de ajuste anual.",
+      "El valor que figure en la declaración de renta y patrimonio del año inmediatamente anterior, o en su defecto, el de costo.",
+      "El valor que libremente acuerden las partes siempre que no sea inferior al 50% del costo comercial."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo 1 busca consistencia fiscal exigiendo que se use el valor patrimonial declarado previamente o el costo de adquisición si el bien es nuevo."
+  },
+  {
+    "question": "Considerando el Parágrafo 2 del Artículo 100 del E.T., ¿cuál es la excepción principal a las reglas de determinación de renta bruta aquí descritas?",
+    "options": [
+      "Los contratos celebrados entre parientes dentro del cuarto grado de consanguinidad.",
+      "Los contratos de renta vitalicia que se celebren con las compañías de seguros.",
+      "Los contratos cuyo capital inicial sea inferior a 1.000 UVT.",
+      "Las rentas vitalicias originadas en procesos de sucesión por causa de muerte."
+    ],
+    "correct": 1,
+    "explanation": "Las compañías de seguros están excluidas de este artículo por contar con un régimen técnico y fiscal especial diseñado para el sector asegurador."
   }
 ]
