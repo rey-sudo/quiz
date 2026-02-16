@@ -154,5 +154,50 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 3 define Archivo privado de interés público como aquel que por su valor para la historia, la ciencia o la cultura es declarado así por el legislador."
+  },
+
+  {
+    "question": "Un ciudadano solicita un contrato de hace 20 años para una investigación. La entidad lo niega porque el documento ya no tiene vigencia administrativa. Según el Artículo 4 literal b) de la Ley 594 de 2000, ¿es válida la negativa de la entidad?",
+    "options": [
+      "Sí, porque los documentos sin vigencia administrativa pierden su valor legal para la entidad pública.",
+      "No, porque al pasar su vigencia, son potencialmente parte del patrimonio cultural y la identidad nacional.",
+      "Sí, dado que la administración solo debe conservar documentos que tengan un uso técnico en la actualidad.",
+      "No, puesto que los archivos históricos solo pueden ser custodiados por el Archivo General de la Nación."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 4 literal b) de la Ley 594 de 2000 (Ley General de Archivos) establece que, pasada su vigencia, los documentos son parte del patrimonio cultural y la identidad nacional."
+  },
+  {
+    "question": "En una auditoría, un servidor público admite no haber organizado sus archivos por falta de presupuesto. Según el Artículo 4 literal d) de la Ley 594 de 2000, ¿sobre quién recae la responsabilidad legal del manejo documental?",
+    "options": [
+      "La responsabilidad recae en la oficina de presupuesto por no asignar los recursos para infraestructura.",
+      "La responsabilidad es de la ciudadanía por no ejercer el control social oportuno sobre los recursos.",
+      "Los servidores públicos son responsables de la organización, conservación, uso y manejo documental.",
+      "La responsabilidad es del Archivo General de la Nación por no supervisar la dotación física local."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 4 literal d) de la Ley 594 de 2000 (Ley General de Archivos) dicta que los servidores públicos son responsables de la organización, conservación, uso y manejo de sus documentos."
+  },
+  {
+    "question": "Una entidad pública elimina documentos originales tras digitalizarlos sin seguir lineamientos del AGN. ¿Qué principio del Artículo 4 literal e) de la Ley 594 de 2000 se está vulnerando con esta acción institucional?",
+    "options": [
+      "El principio de dirección y coordinación, pues el AGN debe orientar y salvaguardar el patrimonio nacional.",
+      "El principio de racionalidad, ya que eliminar documentos físicos es una práctica que dinamiza al Estado.",
+      "El principio de función probatoria, pues la norma prohíbe el uso de cualquier tecnología de escaneo.",
+      "El principio de interpretación, ya que los tratados internacionales prohíben la eliminación de papel."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 4 literal e) de la Ley 594 de 2000 (Ley General de Archivos) señala al AGN como el ente encargado de orientar la función archivística para salvaguardar el patrimonio documental."
+  },
+  {
+    "question": "Un juez requiere un expediente para un fallo y la entidad no lo entrega por falta de inventarios. Según el Artículo 4 literal i) de la Ley 594 de 2000, ¿qué función esencial del Estado de Derecho se está incumpliendo?",
+    "options": [
+      "Se incumple la función de modernización, pues la entidad carece de un sistema de búsqueda actualizado.",
+      "Los archivos en un Estado de Derecho deben cumplir una función probatoria, garantizadora y perpetuadora.",
+      "Se incumple la función de institucionalidad, ya que los archivos solo documentan a las instituciones.",
+      "La función de administración y acceso, la cual indica que el Estado decide qué información es útil."
+    ],
+    "correct": 1,
+    "explanation": "Bajo el Artículo 4 literal i) de la Ley 594 de 2000 (Ley General de Archivos), los archivos en un Estado de Derecho deben cumplir siempre una función probatoria, garantizadora y perpetuadora."
   }
 ]
