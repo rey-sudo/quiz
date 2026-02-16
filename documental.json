@@ -199,5 +199,83 @@
     ],
     "correct": 1,
     "explanation": "Bajo el Artículo 4 literal i) de la Ley 594 de 2000 (Ley General de Archivos), los archivos en un Estado de Derecho deben cumplir siempre una función probatoria, garantizadora y perpetuadora."
+  },
+
+  {
+    "question": "En una auditoría a una entidad departamental, se halla que sus procesos no están estandarizados con el nivel nacional. Según el Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué objetivo del Sistema Nacional de Archivos se está vulnerando?",
+    "options": [
+      "La privatización de los centros de información documental estatal.",
+      "La homogenización y normalización de los procesos archivísticos.",
+      "La eliminación de la autonomía operativa de las regiones del país.",
+      "La centralización física de todos los expedientes en la capital."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 5, inciso (a) de la Ley 594 de 2000, establece que el Sistema posibilita la homogenización y normalización de procesos para salvaguardar el patrimonio y facilitar el acceso ciudadano."
+  },
+  {
+    "question": "Un ciudadano consulta si una oficina de una entidad estatal 'por servicios' pertenece al Sistema Nacional de Archivos. Con base en el Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos), ¿quiénes integran obligatoriamente este sistema?",
+    "options": [
+      "El Archivo General de la Nación y archivos de entidades del Estado en todos sus niveles.",
+      "Exclusivamente el Archivo General de la Nación y las bibliotecas de carácter público.",
+      "Solo las entidades del nivel central que dependan directamente de la Presidencia.",
+      "Únicamente los archivos históricos que hayan sido declarados como patrimonio nacional."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 5, inciso (b) de la Ley 594 de 2000, estipula que el sistema lo integran el AGN y los archivos de las entidades del Estado en sus diferentes niveles territoriales y por servicios."
+  },
+  {
+    "question": "Una empresa privada de transporte desea integrar sus expedientes históricos al Sistema Nacional de Archivos. Según el Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos), ¿es esto legalmente posible bajo la normativa vigente?",
+    "options": [
+      "No, puesto que el Sistema Nacional de Archivos es de naturaleza estrictamente pública.",
+      "Sí, pero deben transferir la propiedad jurídica de sus documentos al Estado colombiano.",
+      "Sí, los archivos privados podrán hacer parte del Sistema bajo las políticas del Ministerio.",
+      "No, a menos que la empresa privada sea contratista del Estado en el área de cultura."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 5, inciso (b) de la Ley 594 de 2000, permite que archivos privados integren el Sistema, actuando bajo políticas y planes adoptados por el Ministerio de la Cultura."
+  },
+  {
+    "question": "Si una entidad municipal decide ignorar los lineamientos técnicos del Archivo General de la Nación, ¿qué principio del Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos) estaría incumpliendo primordialmente?",
+    "options": [
+      "El principio de descentralización administrativa y operativa del sistema nacional.",
+      "El principio de unidad normativa que rige el desarrollo de todo el Sistema Nacional.",
+      "El principio de autonomía absoluta que permite crear normas técnicas locales libres.",
+      "El principio de subsidiariedad enfocado en la inversión de recursos económicos fijos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 5, inciso (c) de la Ley 594 de 2000, señala que el Sistema se desarrollará bajo los principios de unidad normativa, coordinación, concurrencia y subsidiariedad."
+  },
+  {
+    "question": "Un jefe de archivo afirma que los documentos de gestión diaria no tienen importancia para el Sistema. Según el Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué debe promover el Sistema sobre estos archivos?",
+    "options": [
+      "Debe promover su eliminación inmediata para evitar la acumulación de papel oficial.",
+      "Debe promover su digitalización total y la posterior venta del soporte físico legal.",
+      "Debe promover su importancia como centros de información esenciales para la gestión.",
+      "Debe promover que sean custodiados únicamente por empresas privadas de mensajería."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 5, inciso (d) de la Ley 594 de 2000, indica que se promoverá la sensibilidad sobre la importancia de los archivos activos para la administración y de los históricos para la memoria."
+  },
+  {
+    "question": "Dos instituciones del Sistema deciden realizar un programa de restauración conjunta. Según el Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos), ¿bajo qué principios deben acordar y ejecutar este proyecto?",
+    "options": [
+      "Bajo los principios de lucro, competencia comercial, centralización y control jerárquico.",
+      "Bajo los principios de reserva documental, secretismo absoluto, exclusión y ahorro fiscal.",
+      "Bajo los principios de imposición normativa, vigilancia técnica, auditoría y sanción previa.",
+      "Bajo los principios de participación, cooperación, descentralización y autonomía técnica."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 5, inciso (e) de la Ley 594 de 2000, establece que los proyectos y programas se acordarán y regularán siguiendo los principios de participación, cooperación, descentralización y autonomía."
+  },
+  {
+    "question": "Ante una discrepancia técnica sobre la aplicación de tablas de retención, ¿cuál es el ente rector encargado de guiar al Sistema según el Artículo 5 de la Ley 594 de 2000 (Ley General de Archivos)?",
+    "options": [
+      "La Procuraduría General de la Nación en su rol de vigilancia.",
+      "El Archivo General de la Nación como entidad orientadora central.",
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones.",
+      "La Contraloría General de la República en su rol de fiscalización."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 5, inciso (f) de la Ley 594 de 2000, determina que el Archivo General de la Nación es la entidad que orientará y coordinará el Sistema Nacional de Archivos."
   }
 ]
