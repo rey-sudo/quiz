@@ -31,7 +31,39 @@
     ],
     "correct": 2,
     "explanation": "Aunque el Artículo 1 es breve, la 'función archivística' que regula implica todo el proceso documental como una función esencial del Estado colombiano."
-  }
+  },
 
-  
+  {
+    "question": "Una Notaría alega que, por ser una oficina de naturaleza privada, no está obligada a seguir los lineamientos del Archivo General de la Nación. Según el Artículo 2 Ley 594 de 2000, ¿es válida su posición?",
+    "options": [
+      "Es válida, pues el Artículo 2 aclara que la ley solo rige para entidades que reciben presupuesto directo del Tesoro Nacional.",
+      "No es válida, ya que la ley comprende a las entidades privadas que cumplen funciones públicas, como es el caso de las notarías.",
+      "Es válida, siempre que la Notaría demuestre que cuenta con un sistema de archivo propio que garantiza la seguridad de la información.",
+      "No es válida, porque todas las empresas privadas en Colombia, sin excepción, están bajo el ámbito de aplicación de la Ley 594."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 2 estipula que los privados con funciones públicas están sujetos a la ley, garantizando que la memoria pública sea protegida sin importar quién la gestione."
+  },
+  {
+    "question": "El gerente de una empresa industrial del Estado afirma que la Ley 594 de 2000 solo aplica a Ministerios y no a empresas comerciales. De acuerdo con el Artículo 2, ¿qué niveles comprende la ley?",
+    "options": [
+      "La ley comprende únicamente el nivel central de la administración, excluyendo a las empresas descentralizadas por servicios.",
+      "La ley comprende exclusivamente a los organismos de control como la Procuraduría y la Contraloría en sus sedes principales.",
+      "La ley comprende a la administración pública en sus diferentes niveles, lo que incluye a las empresas comerciales e industriales del Estado.",
+      "La ley comprende solamente a las entidades que operan en la capital del país, dejando autonomía total a los entes municipales."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 2 es amplio y menciona que la ley comprende a la administración pública en sus diferentes niveles, sin distinguir su naturaleza comercial o administrativa."
+  },
+  {
+    "question": "Una ONG firma un contrato para administrar un programa de salud del Gobierno y genera historias clínicas. Según el Artículo 2 Ley 594 de 2000, ¿debe esta ONG seguir la Ley General de Archivos?",
+    "options": [
+      "No debe seguirla, pues al ser una organización no gubernamental, prima su reglamento interno sobre cualquier norma de carácter nacional.",
+      "Debe seguirla solamente si el contrato incluye una cláusula específica que la obligue a entregar los documentos al final del proyecto.",
+      "No debe seguirla, ya que el Artículo 2 solo menciona a organismos del Estado y no a instituciones sin ánimo de lucro independientes.",
+      "Debe seguirla, puesto que al cumplir una función pública (salud) con recursos del Estado, entra en el ámbito de aplicación de la ley."
+    ],
+    "correct": 3,
+    "explanation": "Al cumplir una función pública, los documentos generados por la ONG se consideran archivos de interés público y están regulados por el Artículo 2 de la Ley 594 de 2000."
+  }
 ]
