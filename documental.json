@@ -65,5 +65,94 @@
     ],
     "correct": 3,
     "explanation": "Al cumplir una función pública, los documentos generados por la ONG se consideran archivos de interés público y están regulados por el Artículo 2 de la Ley 594 de 2000."
+  },
+
+  {
+    "question": "Bajo el Artículo 3 Ley 594 de 2000, si una empresa de energía (privada) genera facturas de cobro por la prestación del servicio, ¿cómo se clasifica legalmente este conjunto de documentos?",
+    "options": [
+      "Se definen como archivos públicos por derivarse de la prestación de un servicio público.",
+      "Se consideran archivos privados de interés público por su valor para la investigación.",
+      "Hacen parte del patrimonio documental por su importancia histórica para la comunidad.",
+      "Son documentos de archivo privados debido a la naturaleza societaria de la entidad."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 3 establece que los archivos públicos incluyen aquellos documentos que se deriven de la prestación de un servicio público por entidades privadas."
+  },
+  {
+    "question": "De acuerdo con el Artículo 3 Ley 594 de 2000, ¿qué instrumento técnico debe usar un secretario para saber cuánto tiempo dejar una serie documental en el archivo de gestión?",
+    "options": [
+      "Debe aplicar la función archivística para determinar el quehacer documental diario.",
+      "Debe consultar la tabla de retención documental para verificar el ciclo vital fijado.",
+      "Debe acudir al concepto de archivo total para gestionar la eliminación de soportes.",
+      "Debe validar el soporte documental para definir el material empleado en la guarda."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 3 define la Tabla de Retención Documental como el listado de series al cual se asigna el tiempo de permanencia en cada etapa del ciclo vital."
+  },
+  {
+    "question": "Si una entidad pública decide conservar un video institucional y un audio de una sesión de consejo, ¿qué concepto del Artículo 3 Ley 594 de 2000 permite validar estos medios?",
+    "options": [
+      "El concepto de documento original, que garantiza la fuente primaria de información.",
+      "El concepto de gestión documental, que planifica el manejo de la documentación.",
+      "El concepto de soporte documental, que incluye archivos audiovisuales y sonoros.",
+      "El concepto de archivo público, que agrupa los documentos de entidades oficiales."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 3 indica que el soporte documental comprende, además del papel, archivos audiovisuales, fotográficos, fílmicos, informáticos y sonoros."
+  },
+  {
+    "question": "Según el Artículo 3 Ley 594 de 2000, ¿cuál es el término que describe el proceso integral que atraviesa un documento desde su producción hasta su destino final o eliminación?",
+    "options": [
+      "Patrimonio documental, por ser el conjunto de registros de valor histórico real.",
+      "Función archivística, por ser la totalidad de actividades del quehacer de archivo.",
+      "Gestión documental, por ser el conjunto de actividades técnicas de organización.",
+      "Archivo total, por hacer referencia al proceso integral del documento en su ciclo."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 3 define Archivo Total como el concepto que hace referencia al proceso integral de los documentos en su ciclo vital."
+  },
+  {
+    "question": "Al recibir un reporte digital con firmas electrónicas que no ha sido alterado, ¿qué definición del Artículo 3 Ley 594 de 2000 se está cumpliendo prioritariamente?",
+    "options": [
+      "Se cumple la definición de documento original al garantizar integridad y autoría.",
+      "Se cumple la definición de documento de archivo al ser producido por la entidad.",
+      "Se cumple la definición de soporte documental al emplear materiales informáticos.",
+      "Se cumple la definición de archivo total al registrar el inicio del ciclo vital."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 3 define al Documento Original como la fuente primaria con rasgos y características que garantizan su autenticidad e integridad."
+  },
+  {
+    "question": "Una entidad coordina la planificación y el manejo de sus documentos para facilitar su uso. ¿Qué concepto del Artículo 3 Ley 594 de 2000 define este conjunto de actividades técnicas?",
+    "options": [
+      "Se trata de la función archivística que abarca todo el quehacer institucional.",
+      "Se trata de la gestión documental enfocada en la utilización y la conservación.",
+      "Se trata del patrimonio documental destinado a la preservación de la cultura.",
+      "Se trata del archivo total que vigila la integridad en el ciclo vital vigente."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 3 define Gestión Documental como el conjunto de actividades administrativas y técnicas tendientes a la planificación, manejo y organización."
+  },
+  {
+    "question": "Un ciudadano solicita acceso a documentos antiguos conservados por su alto valor histórico. Según el Artículo 3 Ley 594 de 2000, ¿a qué grupo documental se refiere específicamente?",
+    "options": [
+      "Se refiere al archivo público de interés social para la gestión administrativa.",
+      "Se refiere al soporte documental que garantiza la materialidad de la memoria.",
+      "Se refiere al patrimonio documental conservado por su valor histórico o cultural.",
+      "Se refiere al documento de archivo producido en razón de las funciones legales."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 3 define Patrimonio Documental como el conjunto de documentos conservados por su valor histórico o cultural."
+  },
+  {
+    "question": "El Estado declara que los diarios de un científico son vitales para la historia nacional. Bajo el Artículo 3 Ley 594 de 2000, ¿qué categoría legal se le asigna a este archivo?",
+    "options": [
+      "Archivo público estatal.",
+      "Archivo total histórico.",
+      "Archivo privado de interés público.",
+      "Archivo institucional administrativo."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 3 define Archivo privado de interés público como aquel que por su valor para la historia, la ciencia o la cultura es declarado así por el legislador."
   }
 ]
