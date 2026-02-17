@@ -389,5 +389,94 @@
     ],
     "correct": 0,
     "explanation": "El parágrafo del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) ratifica expresamente que las funciones del AGN provienen de la Ley 80 de 1989, el Decreto 1777 de 1990 y las nuevas facultades otorgadas por la Ley 594."
+  },
+
+  {
+    "question": "Un ciudadano solicita en 2026 un decreto presidencial emitido por el Ministerio de Justicia. Según el Artículo 8° de la Ley 594 de 2000, ¿en qué categoría se clasifica este archivo por su alcance?",
+    "options": [
+      "Archivos de entidades del orden distrital",
+      "Archivos de entidades del orden nacional",
+      "Archivos de entidades del orden local",
+      "Archivos de entidades del orden municipal"
+    ],
+    "correct": 1,
+    "explanation": "El inciso (a) del Artículo 8° de la Ley 594 de 2000 establece los 'Archivos de entidades del orden nacional' para organismos con jurisdicción en todo el país."
+  },
+  {
+    "question": "Una oficina de catastro en la Gobernación de Antioquia organiza sus expedientes de predios rurales. ¿A qué grupo del Artículo 8° de la Ley 594 de 2000 pertenecen legalmente estos documentos?",
+    "options": [
+      "Archivos de entidades del orden departamental",
+      "Archivos de entidades del orden metropolitano",
+      "Archivos de entidades del orden distrital",
+      "Archivos de entidades del orden municipal"
+    ],
+    "correct": 0,
+    "explanation": "Según el inciso (b) del Artículo 8° de la Ley 594 de 2000, las dependencias de las gobernaciones conforman los 'Archivos de entidades del orden departamental'."
+  },
+  {
+    "question": "Se requiere auditar la gestión documental de la Alcaldía Mayor de Cartagena de Indias. ¿Bajo qué literal del Artículo 8° de la Ley 594 de 2000 se clasifica institucionalmente este archivo?",
+    "options": [
+      "Archivos de entidades del orden municipal",
+      "Archivos de entidades del orden nacional",
+      "Archivos de entidades del orden distrital",
+      "Archivos de entidades del orden local"
+    ],
+    "correct": 2,
+    "explanation": "El inciso (c) del Artículo 8° de la Ley 594 de 2000 especifica los 'Archivos de entidades del orden distrital' para ciudades con este régimen constitucional especial."
+  },
+  {
+    "question": "El Área Metropolitana del Valle de Aburrá genera un informe sobre movilidad integrada. ¿Cómo se denomina este tipo de archivo territorial según el Artículo 8° de la Ley 594 de 2000?",
+    "options": [
+      "Archivos de entidades del orden departamental",
+      "Archivos de entidades del orden municipal",
+      "Archivos de entidades del orden nacional",
+      "Archivos de entidades del orden metropolitano"
+    ],
+    "correct": 3,
+    "explanation": "El inciso (d) del Artículo 8° de la Ley 594 de 2000 reconoce los 'Archivos de entidades del orden metropolitano' para entes que agrupan varios municipios cercanos."
+  },
+  {
+    "question": "Un pequeño municipio en el departamento del Huila debe organizar sus libros de actas del Concejo. ¿Qué clasificación del Artículo 8° de la Ley 594 de 2000 le corresponde aplicar?",
+    "options": [
+      "Archivos de entidades del orden municipal",
+      "Archivos de entidades del orden local",
+      "Archivos de entidades del orden distrital",
+      "Archivos de entidades del orden departamental"
+    ],
+    "correct": 0,
+    "explanation": "El inciso (e) del Artículo 8° de la Ley 594 de 2000 define los 'Archivos de entidades del orden municipal' para la administración básica de los municipios del país."
+  },
+  {
+    "question": "Una corregiduría o inspección de policía en una zona rural apartada genera registros de convivencia. ¿En qué nivel del Artículo 8° de la Ley 594 de 2000 se ubican estos archivos?",
+    "options": [
+      "Archivos de entidades del orden municipal",
+      "Archivos de entidades del orden local",
+      "Archivos de entidades del orden nacional",
+      "Archivos de entidades del orden distrital"
+    ],
+    "correct": 1,
+    "explanation": "El inciso (f) del Artículo 8° de la Ley 594 de 2000 contempla los 'Archivos de entidades del orden local' para las subdivisiones político-administrativas menores."
+  },
+  {
+    "question": "Si el Congreso crea una nueva figura administrativa llamada 'Provincia Región', ¿cuál inciso del Artículo 8° de la Ley 594 de 2000 permitiría integrar sus archivos al sistema?",
+    "options": [
+      "Archivos de las nuevas entidades territoriales que se creen por ley",
+      "Archivos de los territorios indígenas que se crearán cuando la ley desarrolle",
+      "Archivos de entidades del orden nacional por ser una creación del Congreso",
+      "Archivos de entidades del orden metropolitano por su carácter regional"
+    ],
+    "correct": 0,
+    "explanation": "El inciso (g) del Artículo 8° de la Ley 594 de 2000 es una cláusula para 'Archivos de las nuevas entidades territoriales que se creen por ley' en el futuro."
+  },
+  {
+    "question": "Un Resguardo Indígena solicita autonomía para gestionar sus documentos históricos. ¿Qué disposición del Artículo 8° de la Ley 594 de 2000 fundamenta jurídicamente esta creación?",
+    "options": [
+      "Archivos de entidades del orden nacional para la protección de minorías",
+      "Archivos de entidades del orden local por su ubicación geográfica específica",
+      "Archivos de los territorios indígenas que se crearán cuando la ley desarrolle",
+      "Archivos de las nuevas entidades territoriales que se creen mediante la ley"
+    ],
+    "correct": 2,
+    "explanation": "El inciso (h) del Artículo 8° de la Ley 594 de 2000 prevé los 'Archivos de los territorios indígenas', supeditados al desarrollo legislativo de su autonomía."
   }
 ]
