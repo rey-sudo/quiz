@@ -702,5 +702,50 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 12 de la Ley 594 de 2000 (Ley General de Archivos) vincula la responsabilidad de la gestión y administración a la entidad. La falta de entrega de archivos compromete la continuidad del Estado y la transparencia en la gestión de la información pública."
+  },
+
+  {
+    "question": "En una auditoría a la Alcaldía de un municipio, se observa que el archivo central fue trasladado a un sótano húmedo sin ventilación para dar espacio a nuevas oficinas. Según el Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué obligación incumplió la administración pública en este caso?",
+    "options": [
+      "La obligación de priorizar la comodidad del personal administrativo sobre la ubicación física de los documentos históricos.",
+      "La obligación de garantizar los espacios e instalaciones necesarias para el correcto funcionamiento de sus archivos oficiales.",
+      "La obligación de digitalizar todos los documentos antes de proceder con el traslado físico a instalaciones de carácter provisional.",
+      "La obligación de solicitar permiso al Archivo General de la Nación antes de mover cualquier estantería de las sedes públicas."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos) establece que la administración pública tiene el deber legal de garantizar espacios e instalaciones adecuadas que permitan el funcionamiento óptimo de los archivos, prohibiendo su ubicación en lugares que pongan en riesgo la integridad documental."
+  },
+  {
+    "question": "Una entidad nacional inicia la planeación de una nueva sede administrativa. De acuerdo con el Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué aspecto debe integrarse obligatoriamente desde la fase de diseño arquitectónico y construcción?",
+    "options": [
+      "Las especificaciones técnicas existentes sobre áreas de archivos para asegurar que la infraestructura soporte las cargas y condiciones.",
+      "Los manuales de identidad corporativa para que el color de los depósitos de archivo combine con la fachada externa del nuevo edificio.",
+      "La contratación de personal externo que se encargue exclusivamente de la vigilancia de las zonas de archivo durante la obra civil.",
+      "Las directrices de conectividad inalámbrica para eliminar la necesidad de espacios físicos destinados a la guarda de documentos."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos) ordena que en la construcción de edificios públicos se deben seguir estrictamente las especificaciones técnicas sobre áreas de archivos para garantizar la seguridad estructural y ambiental del patrimonio."
+  },
+  {
+    "question": "Debido a una reestructuración, un instituto descentralizado decide tomar en arriendo una bodega privada para sus expedientes. Bajo el Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es el requisito previo a la firma del contrato?",
+    "options": [
+      "Verificar que el canon de arrendamiento sea el más bajo del sector para no afectar el presupuesto de la oficina de planeación.",
+      "Asegurar que el propietario del inmueble cuente con una certificación profesional en archivística otorgada por una universidad.",
+      "Tener en cuenta las especificaciones técnicas existentes sobre áreas de archivos para validar si el inmueble es apto para el servicio.",
+      "Confirmar que la bodega tenga capacidad para almacenar tanto archivos como maquinaria pesada y otros elementos de inventario."
+    ],
+    "correct": 2,
+    "explanation": "Según el Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos), en casos de adquisición o arriendo de espacios, las entidades deben evaluar que el lugar cumpla con las especificaciones técnicas necesarias para la conservación y consulta documental."
+  },
+  {
+    "question": "Un secretario general decide adecuar un salón de conferencias para ampliar el archivo de gestión. Según el Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué debe guiar este proceso de adecuación de espacios?",
+    "options": [
+      "La disponibilidad inmediata de mobiliario de oficina estándar para organizar las cajas sin necesidad de realizar obras civiles.",
+      "La opinión del comité de bienestar laboral sobre la ubicación de las estanterías en relación con las ventanas y la luz solar.",
+      "La reducción de costos operativos mediante el uso de materiales reciclados para la adecuación de las paredes y el suelo del salón.",
+      "El cumplimiento de las especificaciones técnicas existentes sobre áreas de archivos para garantizar la preservación de la información."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos) es explícito al señalar que ante cualquier adecuación de espacios, la administración debe regirse por las normas técnicas que regulan las condiciones ambientales y físicas de los archivos."
   }
 ]
