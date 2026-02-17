@@ -277,5 +277,61 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 5, inciso (f) de la Ley 594 de 2000, determina que el Archivo General de la Nación es la entidad que orientará y coordinará el Sistema Nacional de Archivos."
+  },
+
+  {
+    "question": "En 2026, una Gobernación diseña su plan archivístico ignorando el Plan Nacional de Desarrollo. Según el literal a) del Artículo 6o de la Ley 594 de 2000, ¿qué referente es obligatorio?",
+    "options": [
+      "Los estándares internacionales de gestión documental ISO.",
+      "El Plan Nacional de Desarrollo y los planes sectoriales.",
+      "Las directrices presupuestales del Ministerio de Hacienda.",
+      "Los manuales internos de procesos de cada gobernación."
+    ],
+    "correct": 1,
+    "explanation": "El literal a) del Artículo 6o de la Ley 594 de 2000 establece que la planeación debe formularse de acuerdo con el Plan Nacional de Desarrollo y los planes sectoriales del respectivo ministerio y entidades territoriales."
+  },
+  {
+    "question": "Un municipio requiere capacitación técnica para sus funcionarios. Según el literal b) del Artículo 6o de la Ley 594 de 2000, ¿cuál de estos actores tiene dicha función?",
+    "options": [
+      "El Archivo General de la Nación y consejos territoriales.",
+      "La Superintendencia de Industria y Comercio del país.",
+      "El Departamento Administrativo de la Función Pública.",
+      "La Contraloría General de la República de Colombia."
+    ],
+    "correct": 0,
+    "explanation": "Según el literal b) del Artículo 6o de la Ley 594 de 2000, la asistencia técnica está a cargo del AGN, consejos territoriales, comités técnicos, entidades de formación y asociaciones públicas o privadas especializadas."
+  },
+  {
+    "question": "Si una entidad descentralizada omite el seguimiento de sus procesos, ¿quién es responsable según el literal c) del Artículo 6o de la Ley 594 de 2000 (Ley General de Archivos)?",
+    "options": [
+      "El Ministerio de Cultura como cabeza de sector nacional.",
+      "Los gremios de archivistas y las academias de historia.",
+      "Las firmas privadas que brindan la asistencia técnica.",
+      "Los archivos nacionales, territoriales y descentralizados."
+    ],
+    "correct": 3,
+    "explanation": "El literal c) del Artículo 6o de la Ley 594 de 2000 dicta que la ejecución, seguimiento y control de los planes son responsabilidad de los archivos nacional, territorial y de las entidades descentralizadas del Estado."
+  },
+  {
+    "question": "Ante una discrepancia técnica entre departamentos, ¿qué entidad debe armonizar el sistema según el literal d) del Artículo 6o de la Ley 594 de 2000 (Ley General de Archivos)?",
+    "options": [
+      "El Departamento Nacional de Planeación nacional.",
+      "El Archivo General de la Nación de Colombia.",
+      "La Procuraduría General de la Nación de Colombia.",
+      "El Ministerio de Tecnologías de la Información."
+    ],
+    "correct": 1,
+    "explanation": "El literal d) del Artículo 6o de la Ley 594 de 2000 otorga la función de coordinación al Archivo General de la Nación, conforme a lo dispuesto en la ley y sus normas reglamentarias para mantener la unidad del sistema."
+  },
+  {
+    "question": "Al integrar el Sistema Nacional de Archivos, ¿cómo deben actuar las entidades según el encabezado del Artículo 6o de la Ley 594 de 2000 (Ley General de Archivos)?",
+    "options": [
+      "Siguiendo exclusivamente las órdenes del AGN nacional.",
+      "Operando de forma independiente sin planes sectoriales.",
+      "De acuerdo con sus funciones, procesos y acciones.",
+      "Limitándose solo a la custodia física de documentos."
+    ],
+    "correct": 2,
+    "explanation": "El encabezado del Artículo 6o de la Ley 594 de 2000 señala que las entidades integrantes, de acuerdo con sus funciones, deben llevar a cabo procesos de planeación, programación, asistencia técnica, ejecución y control."
   }
 ]
