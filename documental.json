@@ -646,5 +646,61 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) señala explícitamente que el Estado está obligado al control de los archivos, lo que se traduce en actividades de supervisión y vigilancia sobre la gestión documental."
+  },
+
+  {
+    "question": "Bajo el Artículo 12 de la Ley 594 de 2000, una entidad territorial delega la custodia de sus expedientes a un tercero privado. Ante una pérdida de datos, ¿quién asume la responsabilidad legal de la administración de sus archivos según esta normativa?",
+    "options": [
+      "El proveedor externo por ser el custodio físico de los activos.",
+      "La administración pública titular de la función y de los datos.",
+      "El Archivo General de la Nación por su rol de ente regulador.",
+      "La oficina de sistemas por no garantizar los backups del sitio."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 12 de la Ley 594 de 2000 (Ley General de Archivos) establece taxativamente que la administración pública será responsable de la gestión de documentos y de la administración de sus archivos, responsabilidad que es intransferible a pesar de la contratación de terceros."
+  },
+  {
+    "question": "En 2026, un Ministerio implementa un software de gestión documental pero no define procesos para la recepción y trámite de PQRS digitales. ¿Qué obligación del Artículo 12 de la Ley 594 de 2000 está incumpliendo la entidad en este caso?",
+    "options": [
+      "La obligación de garantizar la infraestructura de servidores.",
+      "La responsabilidad sobre la administración de sus depósitos.",
+      "La responsabilidad sobre la gestión de documentos del Estado.",
+      "El principio de gratuidad en el acceso a la información pública."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 12 de la Ley 594 de 2000 (Ley General de Archivos) separa la administración de archivos de la 'gestión de documentos'. Esta última incluye la producción, recepción y trámite, procesos que la entidad debe garantizar para asegurar la trazabilidad administrativa."
+  },
+  {
+    "question": "Un funcionario de una Gobernación decide eliminar correos electrónicos oficiales de 2025 para liberar espacio en la nube sin seguir las tablas de retención. ¿Qué mandato del Artículo 12 de la Ley 594 de 2000 se está vulnerando directamente?",
+    "options": [
+      "El deber de administración de archivos y custodia de datos.",
+      "La autonomía funcional de cada despacho para depurar actas.",
+      "El derecho a la desconexión laboral de los servidores públicos.",
+      "La política de ahorro presupuestal en tecnologías de la nube."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 12 de la Ley 594 de 2000 (Ley General de Archivos) obliga a las entidades a la administración de sus archivos. Esto implica que cualquier eliminación debe estar sustentada en procesos técnicos de valoración, evitando la pérdida arbitraria de memoria institucional."
+  },
+  {
+    "question": "Una empresa privada que opera un servicio público de energía alega que no debe organizar sus expedientes bajo los criterios del Artículo 12 de la Ley 594 de 2000. Según el marco legal, ¿es correcta la posición de esta empresa?",
+    "options": [
+      "Es correcta, pues la norma solo rige para el sector oficial.",
+      "Es incorrecta, pues su función es de naturaleza privada total.",
+      "Es correcta, debido a que la ley de archivos ya fue derogada.",
+      "Es incorrecta, pues la norma obliga a la administración pública."
+    ],
+    "correct": 3,
+    "explanation": "De acuerdo con el Artículo 12 de la Ley 594 de 2000 (Ley General de Archivos), la administración pública (que incluye a particulares que ejercen funciones públicas) es responsable de la administración de sus archivos, integrándolos al Sistema Nacional de Archivos."
+  },
+  {
+    "question": "Al finalizar un periodo de gobierno en 2026, una entidad no entrega los inventarios documentales actualizados a la nueva administración. ¿Qué componente del Artículo 12 de la Ley 594 de 2000 se ve afectado?",
+    "options": [
+      "La gestión de documentos y la administración de sus archivos.",
+      "La compra de suministros para la conservación de los libros.",
+      "La libertad de expresión de los funcionarios que se retiran.",
+      "La infraestructura física de los edificios de archivo central."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 12 de la Ley 594 de 2000 (Ley General de Archivos) vincula la responsabilidad de la gestión y administración a la entidad. La falta de entrega de archivos compromete la continuidad del Estado y la transparencia en la gestión de la información pública."
   }
 ]
