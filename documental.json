@@ -534,5 +534,61 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 9° de la Ley 594 de 2000 (Ley General de Archivos) define en su inciso e) que entidades con autonomía constitucional como las universidades forman los Archivos de Organismos Autónomos."
+  },
+
+  {
+    "question": "Un nuevo municipio en Colombia inicia operaciones en 2026. Según el Artículo 10 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es el carácter legal para la creación de sus archivos administrativos?",
+    "options": [
+      "Es una acción facultativa supeditada a la disponibilidad de recursos físicos.",
+      "Es un mandato de carácter obligatorio para garantizar la función pública estatal.",
+      "Es una tarea opcional que depende de la voluntad del alcalde de turno vigente.",
+      "Es un proceso sugerido que requiere previa autorización del Archivo General."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10 de la Ley 594 de 2000 establece taxativamente que la creación de los archivos es de carácter obligatorio para las entidades públicas, sin permitir excepciones por presupuesto o voluntad administrativa."
+  },
+  {
+    "question": "Un organismo de control busca omitir la creación de archivos de gestión alegando su independencia administrativa. Bajo el Artículo 10 de la Ley 594 de 2000, ¿qué determina la normativa sobre estos entes?",
+    "options": [
+      "Que los organismos de control están obligados legalmente a crear sus archivos.",
+      "Que su autonomía constitucional les permite decidir si crean o no sus archivos.",
+      "Que solo deben crear archivos si la Procuraduría emite una orden administrativa.",
+      "Que la obligatoriedad de la ley solo aplica para las entidades del ejecutivo."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 10 de la Ley 594 de 2000 (Ley General de Archivos) menciona explícitamente que la obligatoriedad se extiende a los organismos de control, asegurando la transparencia en las labores de vigilancia y fiscalización."
+  },
+  {
+    "question": "Una universidad pública, en su calidad de organismo autónomo, decide no implementar el sistema de archivos de los artículos 8 y 9. Según el Artículo 10 de la Ley 594 de 2000, esta decisión es:",
+    "options": [
+      "Válida, pues la autonomía universitaria prima sobre las leyes de archivos.",
+      "Válida, siempre que la universidad cuente con un sistema propio de gestión.",
+      "Ilegal, ya que la ley obliga a los organismos autónomos a crear sus archivos.",
+      "Ilegal, a menos que el Ministerio de Educación les otorgue una exención total."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10 de la Ley 594 de 2000 señala que los organismos autónomos tienen la obligación ineludible de crear sus archivos, por lo que la autonomía no es una excusa para el incumplimiento de la gestión documental."
+  },
+  {
+    "question": "Al analizar la estructura de la Ley 594 de 2000 (Ley General de Archivos), el Artículo 10 vincula la obligatoriedad a los archivos de los artículos 8 y 9. ¿Qué efecto jurídico produce esto?",
+    "options": [
+      "Limita la creación de archivos únicamente a las oficinas de nivel nacional.",
+      "Excluye a las empresas privadas que prestan servicios públicos en la nación.",
+      "Permite que los archivos territoriales sean creados de forma discrecional.",
+      "Asegura que la obligación cubra todos los niveles y la estructura del Estado."
+    ],
+    "correct": 3,
+    "explanation": "Al remitir a los artículos 8 y 9, el Artículo 10 de la Ley 594 de 2000 garantiza que la obligatoriedad de crear archivos abarque desde el nivel nacional hasta el municipal, incluyendo todas las ramas del poder público."
+  },
+  {
+    "question": "Un jefe de oficina es consultado sobre la relevancia del Artículo 10 de la Ley 594 de 2000 ante una auditoría. ¿Cuál es la implicación directa de omitir la creación de archivos según este artículo?",
+    "options": [
+      "Se genera una sanción pecuniaria inmediata contra el presupuesto de la entidad.",
+      "Se incurre en una falta que genera responsabilidad por incumplimiento legal.",
+      "Se produce una amonestación verbal sin consecuencias en la hoja de vida laboral.",
+      "Se requiere únicamente una capacitación técnica sobre el manejo de documentos."
+    ],
+    "correct": 1,
+    "explanation": "Debido a que el Artículo 10 de la Ley 594 de 2000 (Ley General de Archivos) define la creación de archivos como obligatoria, cualquier omisión constituye un incumplimiento de los deberes legales del servidor público responsable."
   }
 ]
