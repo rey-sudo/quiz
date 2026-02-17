@@ -590,5 +590,61 @@
     ],
     "correct": 1,
     "explanation": "Debido a que el Artículo 10 de la Ley 594 de 2000 (Ley General de Archivos) define la creación de archivos como obligatoria, cualquier omisión constituye un incumplimiento de los deberes legales del servidor público responsable."
+  },
+
+  {
+    "question": "En una auditoría a la Gobernación, se detecta que los contratos de 2024 están mezclados con los de una entidad externa. Según el Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué principio técnico se está vulnerando en este caso?",
+    "options": [
+      "Se vulnera el principio de orden original al no respetar la secuencia del trámite.",
+      "Se vulnera el principio de procedencia al mezclar documentos de diversos orígenes.",
+      "Se vulnera el ciclo vital al no transferir los documentos al archivo central estatal.",
+      "Se vulnera la preservación documental al no digitalizar los expedientes del ente."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) exige respetar el principio de procedencia, el cual prohíbe mezclar documentos de diferentes instituciones para mantener la integridad del fondo documental de cada entidad pública."
+  },
+  {
+    "question": "Un funcionario judicial decide reordenar un expediente cronológicamente inverso para su comodidad, alterando el proceso original. ¿Qué mandato del Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) está incumpliendo el servidor?",
+    "options": [
+      "Incumple la obligación de control y vigilancia sobre la producción de los archivos.",
+      "Incumple la normatividad archivística sobre la eliminación de documentos públicos.",
+      "Incumple el principio de orden original que rige la disposición de los documentos.",
+      "Incumple la fase de creación al no generar nuevos registros durante la actuación."
+    ],
+    "correct": 2,
+    "explanation": "Según el Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos), el Estado debe organizar los archivos respetando el principio de orden original, que garantiza que los documentos mantengan la secuencia en que fueron producidos originalmente."
+  },
+  {
+    "question": "Debido a una inundación, una entidad pierde expedientes físicos que no tenían copias de seguridad ni procesos de protección. ¿Qué obligación del Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) falló en esta situación?",
+    "options": [
+      "Falló la obligación de preservación, que exige garantizar la integridad del archivo.",
+      "Falló la obligación de creación, al no prever desastres naturales en la producción.",
+      "Falló el principio de procedencia, al permitir que el agua dañara el origen físico.",
+      "Falló el control estatal, al no realizar visitas de inspección técnica cada semestre."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) establece que el Estado está obligado a la preservación de los archivos, lo que implica implementar medidas para evitar la pérdida o deterioro de la información institucional."
+  },
+  {
+    "question": "Una oficina decide eliminar documentos de hace dos años sin consultar las Tablas de Retención ni los tiempos legales. ¿Qué aspecto del Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) se está ignorando aquí?",
+    "options": [
+      "Se ignora el principio de orden original al eliminar documentos de forma aleatoria.",
+      "Se ignora el control de archivos, pues solo el Archivo General puede dar la orden.",
+      "Se ignora el principio de procedencia al no identificar el autor de los documentos.",
+      "Se ignora el ciclo vital de los documentos y la normatividad archivística vigente."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) obliga a tener en cuenta el ciclo vital de los documentos y la normatividad archivística, la cual define cuánto tiempo debe conservarse un documento antes de su disposición final."
+  },
+  {
+    "question": "El Archivo General de la Nación realiza una inspección técnica a un Ministerio para verificar el cumplimiento de las normas. ¿A qué función del Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) corresponde esta labor?",
+    "options": [
+      "Corresponde a la función de control que el Estado debe ejercer sobre los archivos.",
+      "Corresponde a la función de organización para clasificar los fondos del Ministerio.",
+      "Corresponde a la función de creación de nuevos sistemas de gestión para la entidad.",
+      "Corresponde a la función de preservación para restaurar los documentos deteriorados."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 11 de la Ley 594 de 2000 (Ley General de Archivos) señala explícitamente que el Estado está obligado al control de los archivos, lo que se traduce en actividades de supervisión y vigilancia sobre la gestión documental."
   }
 ]
