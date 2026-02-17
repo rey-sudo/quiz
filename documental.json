@@ -333,5 +333,61 @@
     ],
     "correct": 2,
     "explanation": "El encabezado del Artículo 6o de la Ley 594 de 2000 señala que las entidades integrantes, de acuerdo con sus funciones, deben llevar a cabo procesos de planeación, programación, asistencia técnica, ejecución y control."
+  },
+
+  {
+    "question": "Un funcionario del Archivo General de la Nación (AGN) debe proyectar una circular técnica dirigida a todas las entidades públicas del país. Según el Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos), ¿bajo qué categoría de clasificación se fundamenta la potestad del AGN para actuar como el ente rector sobre el territorio nacional?",
+    "options": [
+      "Se fundamenta en la clasificación de Archivo General del Distrito, dado que su sede principal está en Bogotá.",
+      "Se fundamenta en la clasificación de Archivo General del Departamento, por su relación con las gobernaciones.",
+      "Se fundamenta en la clasificación de Archivo General de la Nación, atendiendo a su jurisdicción y competencia.",
+      "Se fundamenta en la clasificación de Archivo General del Municipio, para gestionar los trámites de los ciudadanos."
+    ],
+    "correct": 2,
+    "explanation": "El literal a) del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) establece que el Archivo General de la Nación es la máxima instancia en la clasificación de archivos desde el punto de vista de su jurisdicción y competencia a nivel país."
+  },
+  {
+    "question": "En una mesa técnica de una Gobernación, se debate sobre quién debe coordinar la política archivística de las entidades territoriales bajo su mando. De acuerdo con el Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es la denominación correcta para el archivo que posee dicha competencia?",
+    "options": [
+      "La denominación técnica correcta es Archivo General del Departamento, según la jurisdicción que le corresponde.",
+      "La denominación técnica correcta es Archivo General del Municipio, por ser la base de la administración local.",
+      "La denominación técnica correcta es Archivo General de la Nación, ya que supervisa directamente a las regiones.",
+      "La denominación técnica correcta es Archivo General del Distrito, por tratarse de una entidad con autonomía propia."
+    ],
+    "correct": 0,
+    "explanation": "El literal b) del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) clasifica a los archivos generales del departamento como las entidades con jurisdicción y competencia sobre el nivel intermedio de la administración territorial colombiana."
+  },
+  {
+    "question": "El secretario de planeación de una alcaldía rural consulta el Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) para identificar el lugar de los archivos de su localidad en el Sistema Nacional de Archivos. ¿En qué categoría se clasifica el archivo que gestiona los documentos de este ente local?",
+    "options": [
+      "Se clasifica bajo la categoría de Archivo General de la Nación, por ser parte integral del Estado colombiano.",
+      "Se clasifica bajo la categoría de Archivo General del Municipio, según su ámbito de jurisdicción y competencia.",
+      "Se clasifica bajo la categoría de Archivo General del Distrito, debido a que posee un presupuesto independiente.",
+      "Se clasifica bajo la categoría de Archivo General del Departamento, por la supervisión que recibe del mismo."
+    ],
+    "correct": 1,
+    "explanation": "El literal c) del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) establece que los archivos municipales tienen una categoría propia basada en su jurisdicción local y su competencia administrativa específica."
+  },
+  {
+    "question": "La ciudad de Cartagena, al poseer un régimen especial de Distrito, requiere organizar su sistema institucional de archivos de forma autónoma. Según el Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es el tipo de archivo que corresponde a esta jurisdicción especial?",
+    "options": [
+      "Le corresponde la categoría de Archivo General del Municipio, pues un distrito es ante todo un ente municipal.",
+      "Le corresponde la categoría de Archivo General del Departamento, para alinearse con la política de la región.",
+      "Le corresponde la categoría de Archivo General de la Nación, por su carácter histórico y patrimonio cultural.",
+      "Le corresponde la categoría de Archivo General del Distrito, tal como lo define la norma por su competencia."
+    ],
+    "correct": 3,
+    "explanation": "El literal d) del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) distingue a los Archivos Generales del Distrito como una categoría específica para reconocer la autonomía y jurisdicción de los distritos en Colombia."
+  },
+  {
+    "question": "Un abogado analiza las facultades sancionatorias y normativas del Archivo General de la Nación en el año 2026. Al leer el Parágrafo del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué leyes y decretos se mencionan como base de las funciones de esta entidad?",
+    "options": [
+      "Se mencionan la Ley 80 de 1989 y el Decreto 1777 de 1990, además de las incorporadas en la Ley General de Archivos.",
+      "Se mencionan la Ley 594 de 2000 y el Decreto 1080 de 2015, por ser las normas que rigen actualmente el sector.",
+      "Se mencionan la Ley 80 de 1989 y el Decreto 1777 de 1990, excluyendo cualquier otra función de leyes posteriores.",
+      "Se mencionan la Constitución de 1991 y la Ley 80 de 1989, como únicos pilares de la competencia de la entidad."
+    ],
+    "correct": 0,
+    "explanation": "El parágrafo del Artículo 7 de la Ley 594 de 2000 (Ley General de Archivos) ratifica expresamente que las funciones del AGN provienen de la Ley 80 de 1989, el Decreto 1777 de 1990 y las nuevas facultades otorgadas por la Ley 594."
   }
 ]
