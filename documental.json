@@ -747,5 +747,61 @@
     ],
     "correct": 3,
     "explanation": "El Artículo 13 de la Ley 594 de 2000 (Ley General de Archivos) es explícito al señalar que ante cualquier adecuación de espacios, la administración debe regirse por las normas técnicas que regulan las condiciones ambientales y físicas de los archivos."
+  },
+
+  {
+    "question": "Un municipio intenta vender sus archivos históricos a una fundación extranjera para financiar obras. Según el Artículo 14 de la Ley 594 de 2000, ¿cuál es la naturaleza jurídica de estos documentos?",
+    "options": [
+      "Son bienes de propiedad privada del municipio y pueden ser enajenados libremente para fines sociales.",
+      "Son bienes de uso público, propiedad del Estado y bajo ninguna circunstancia son sujetos de enajenación.",
+      "Son recursos informativos que pueden ser cedidos a terceros siempre que se garantice su preservación.",
+      "Son activos estatales que pueden venderse si el Archivo General de la Nación emite un concepto previo."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 14 de la Ley 594 de 2000 dictamina que los archivos públicos son propiedad del Estado y, al ser bienes de uso público, prohíbe taxativamente su enajenación o venta a cualquier entidad privada."
+  },
+  {
+    "question": "Un exfuncionario afirma que los informes de gestión que él mismo redactó le pertenecen. Según el Artículo 14 de la Ley 594 de 2000, ¿quién ostenta la propiedad y el control de dichos recursos?",
+    "options": [
+      "El Estado es el único propietario de la documentación pública y ejerce el pleno control de su información.",
+      "El funcionario autor conserva la propiedad intelectual y el Estado solo la custodia física de los mismos.",
+      "La propiedad es compartida entre el Estado y el servidor público que generó el documento originalmente.",
+      "El control informativo corresponde a la entidad, pero la propiedad legal es del jefe de la oficina técnica."
+    ],
+    "correct": 0,
+    "explanation": "De acuerdo con el Artículo 14 de la Ley 594 de 2000, la documentación de la administración pública es producto y propiedad exclusiva del Estado, quien debe ejercer el control total sobre todos sus recursos informativos."
+  },
+  {
+    "question": "Una entidad requiere digitalizar masivamente sus expedientes mediante un tercero. Bajo el Parágrafo 1 del Artículo 14 de la Ley 594 de 2000, ¿qué servicios puede contratar legalmente?",
+    "options": [
+      "Únicamente el transporte físico de los documentos entre las sedes administrativas de la entidad pública.",
+      "La toma de decisiones sobre la eliminación documental y la valoración final de los archivos de gestión.",
+      "Solo la vigilancia privada de las bodegas donde se encuentran depositados los papeles de la institución.",
+      "Los servicios de custodia, organización, reprografía y conservación de los documentos que sean de archivo."
+    ],
+    "correct": 3,
+    "explanation": "El Parágrafo 1 del Artículo 14 de la Ley 594 de 2000 faculta a la administración para contratar con personas naturales o jurídicas procesos técnicos como la custodia, organización, reprografía y conservación documental."
+  },
+  {
+    "question": "La Gobernación planea entregar sus archivos históricos a una institución académica. Según el Parágrafo 2 del Artículo 14 de la Ley 594 de 2000, ¿qué requisito debe cumplir el contratista?",
+    "options": [
+      "Ser una empresa de seguridad privada con experiencia en manejo de valores y transporte de carga pesada.",
+      "Ser una institución que demuestre reconocida solvencia académica e idoneidad para manejar dicho patrimonio.",
+      "Ser una entidad pública del orden nacional que posea convenios vigentes con el Ministerio de Educación.",
+      "Ser una organización sin ánimo de lucro que certifique tener más de veinte años de existencia legal."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 del Artículo 14 de la Ley 594 de 2000 permite contratar la administración de archivos históricos específicamente con instituciones que cuenten con reconocida solvencia académica e idoneidad técnica."
+  },
+  {
+    "question": "Una empresa desea certificarse para prestar servicios de depósito documental al Estado. Según el Parágrafo 3 del Artículo 14 de la Ley 594 de 2000, ¿quién regula esto?",
+    "options": [
+      "El Archivo General de la Nación establece los requisitos para quienes presten servicios de archivo histórico.",
+      "La Superintendencia de Industria y Comercio define los estándares de calidad para las empresas de archivo.",
+      "El Ministerio de Tecnologías de la Información regula las condiciones de reprografía y custodia documental.",
+      "Cada entidad pública de forma autónoma fija los requisitos técnicos para los contratistas de conservación."
+    ],
+    "correct": 0,
+    "explanation": "Según el Parágrafo 3 del Artículo 14 de la Ley 594 de 2000, el Archivo General de la Nación es la autoridad competente para establecer los requisitos y condiciones de quienes presten servicios archivísticos a entidades públicas."
   }
 ]
