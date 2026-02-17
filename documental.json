@@ -478,5 +478,61 @@
     ],
     "correct": 2,
     "explanation": "El inciso (h) del Artículo 8° de la Ley 594 de 2000 prevé los 'Archivos de los territorios indígenas', supeditados al desarrollo legislativo de su autonomía."
+  },
+
+  {
+    "question": "En el marco de la Ley 594 de 2000, un Ministerio requiere organizar las actas de sus consejos directivos. Según el Artículo 9°, inciso a), ¿a qué categoría pertenecen?",
+    "options": [
+      "Archivos pertenecientes a los Organismos Autónomos del Estado.",
+      "Archivos producidos por las entidades de la Rama Ejecutiva.",
+      "Archivos derivados de las funciones de la Rama Legislativa.",
+      "Archivos que integran el fondo de los Órganos de Control."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 9° de la Ley 594 de 2000 (Ley General de Archivos) establece en su inciso a) que los archivos de ministerios y gobernaciones integran la Rama Ejecutiva."
+  },
+  {
+    "question": "El Senado de la República debe transferir expedientes de leyes aprobadas al archivo central. Bajo el Artículo 9° de la Ley 594 de 2000, ¿cuál es su clasificación?",
+    "options": [
+      "Se clasifican como Archivos de la Rama Legislativa estatal.",
+      "Se clasifican como Archivos de la Rama Judicial del poder.",
+      "Se clasifican como Archivos de la Rama Ejecutiva nacional.",
+      "Se clasifican como Archivos de los Órganos de Control hoy."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 9° de la Ley 594 de 2000 (Ley General de Archivos), el inciso b) agrupa la documentación del Congreso (Senado y Cámara) bajo la categoría de Archivos de la Rama Legislativa."
+  },
+  {
+    "question": "Un juzgado de circuito produce sentencias que deben ser custodiadas permanentemente. ¿Qué literal del Artículo 9° de la Ley 594 de 2000 rige esta organización?",
+    "options": [
+      "El literal e) que regula los archivos de entes autónomos.",
+      "El literal b) que regula los archivos de entes del Congreso.",
+      "El literal c) que regula los archivos de la Rama Judicial.",
+      "El literal a) que regula los archivos de entes ejecutivos."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 9° de la Ley 594 de 2000 (Ley General de Archivos), en su inciso c), determina que la documentación de cortes y juzgados constituye los Archivos de la Rama Judicial en Colombia."
+  },
+  {
+    "question": "La Contraloría General emite un informe de auditoría sobre el uso de recursos públicos. Según el Artículo 9° de la Ley 594 de 2000, ¿cómo se categorizan?",
+    "options": [
+      "Corresponden a los Archivos de los Organismos Autónomos.",
+      "Corresponden a los Archivos de la Rama Judicial del país.",
+      "Corresponden a los Archivos de la Rama Ejecutiva central.",
+      "Corresponden a los Archivos de los Órganos de Control."
+    ],
+    "correct": 3,
+    "explanation": "El inciso d) del Artículo 9° de la Ley 594 de 2000 (Ley General de Archivos) agrupa los documentos de la Contraloría y Procuraduría como Órganos de Control."
+  },
+  {
+    "question": "Una universidad pública con régimen especial gestiona sus expedientes académicos. Según el Artículo 9° de la Ley 594 de 2000, ¿en qué grupo se ubican?",
+    "options": [
+      "Bajo la categoría de Archivos de Organismos Autónomos.",
+      "Bajo la categoría de Archivos de la Rama Ejecutiva.",
+      "Bajo la categoría de Archivos de la Rama Judicial.",
+      "Bajo la categoría de Archivos de la Rama Legislativa."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 9° de la Ley 594 de 2000 (Ley General de Archivos) define en su inciso e) que entidades con autonomía constitucional como las universidades forman los Archivos de Organismos Autónomos."
   }
 ]
