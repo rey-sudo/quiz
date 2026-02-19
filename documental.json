@@ -1240,5 +1240,61 @@
     ],
     "correct": 3,
     "explanation": "La disposición final es el proceso del Artículo 22 de la Ley 594 de 2000 donde se define el destino último de los documentos tras cumplir su tiempo de retención administrativa."
+  },
+
+  {
+    "question": "En la Alcaldía, la oficina de Planeación tramita licencias de construcción que requieren consulta diaria por los arquitectos para dar respuesta a los ciudadanos. Según el Artículo 23 de la Ley 594 de 2000, ¿en qué fase están los documentos?",
+    "options": [
+      "Se encuentran en el Archivo Central por ser documentos que ya han sido agrupados por la entidad.",
+      "Se encuentran en el Archivo de Gestión por estar en continua utilización y consulta administrativa.",
+      "Se encuentran en el Archivo Histórico por ser documentos que requieren una conservación permanente.",
+      "Se encuentran en el Archivo Intermedio por ser expedientes que ya iniciaron un trámite de respuesta."
+    ],
+    "correct": 1,
+    "explanation": "Según el inciso 'a' del Artículo 23 de la Ley 594 de 2000, el archivo de gestión comprende toda la documentación sometida a continua utilización y consulta por las oficinas productoras para resolver asuntos iniciados."
+  },
+  {
+    "question": "Un funcionario debe trasladar expedientes de contratos finalizados hace 3 años que ya no se usan a diario pero que aún pueden ser consultados por particulares. Según el Artículo 23 de la Ley 594 de 2000, ¿a dónde van?",
+    "options": [
+      "Deben ser transferidos al Archivo Central, donde se agrupan documentos de consulta no tan frecuente.",
+      "Deben ser transferidos al Archivo Histórico, donde se conservan documentos con valor para la ciencia.",
+      "Deben permanecer en el Archivo de Gestión, donde se garantiza la solución de todos los trámites.",
+      "Deben ser enviados al Archivo General, donde se clasifican los documentos por su ciclo vital básico."
+    ],
+    "correct": 0,
+    "explanation": "El inciso 'b' del Artículo 23 de la Ley 594 de 2000 define el archivo central como aquel que agrupa documentos transferidos de gestión cuya consulta no es frecuente, pero que siguen teniendo vigencia y acceso público."
+  },
+  {
+    "question": "El acta de fundación de una entidad ha perdido su vigencia administrativa pero se ha determinado que posee un valor científico y cultural permanente. Según el Artículo 23 de la Ley 594 de 2000, ¿cuál es su destino final?",
+    "options": [
+      "El documento debe retornar al Archivo de Gestión para que la oficina productora lo custodie siempre.",
+      "El documento debe permanecer en el Archivo Central para ser consultado por particulares en general.",
+      "El documento debe ser eliminado tras cumplir su ciclo vital si ya no tiene vigencia administrativa.",
+      "El documento debe ser transferido al Archivo Histórico por ser considerado de conservación permanente."
+    ],
+    "correct": 3,
+    "explanation": "De acuerdo con el inciso 'c' del Artículo 23 de la Ley 594 de 2000, el archivo histórico es aquel al que se transfieren desde el archivo central los documentos que deben conservarse permanentemente por su valor."
+  },
+  {
+    "question": "Una entidad pública organiza sus fondos documentales basándose exclusivamente en las etapas de vida de cada expediente. ¿Cuál es el criterio técnico que cita el encabezado del Artículo 23 de la Ley 594 de 2000?",
+    "options": [
+      "La entidad aplica el criterio del Ciclo Vital de los Documentos para clasificar todos sus archivos.",
+      "La entidad aplica el criterio de la Antigüedad Cronológica para clasificar todos sus archivos.",
+      "La entidad aplica el criterio del Volumen Documental para clasificar todos sus archivos.",
+      "La entidad aplica el criterio de la Reserva Legal para clasificar todos sus archivos."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 23 de la Ley 594 de 2000 establece explícitamente que la clasificación de los archivos (gestión, central e histórico) se realiza 'teniendo en cuenta el ciclo vital de los documentos'."
+  },
+  {
+    "question": "Un ciudadano solicita ver un expediente en una oficina pública. El jefe de archivo niega el acceso alegando que el documento ya no está en trámite activo. Según el inciso 'b' del Artículo 23 de la Ley 594 de 2000, ¿es esto correcto?",
+    "options": [
+      "Es correcto, pues los documentos en el Archivo Central solo pueden ser vistos por jefes de oficina.",
+      "Es incorrecto, pues el Archivo Central es objeto de consulta por las propias oficinas y particulares.",
+      "Es correcto, pues una vez que el documento pierde su uso frecuente se convierte en información privada.",
+      "Es incorrecto, pues el Archivo Histórico es el único que permite la consulta por parte de ciudadanos."
+    ],
+    "correct": 1,
+    "explanation": "El inciso 'b' del Artículo 23 de la Ley 594 de 2000 estipula que los documentos en el archivo central, a pesar de no ser de consulta frecuente, son objeto de consulta tanto por las oficinas como por particulares en general."
   }
 ]
