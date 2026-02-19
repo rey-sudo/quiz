@@ -1095,5 +1095,61 @@
     ],
     "correct": 3,
     "explanation": "De acuerdo con el parágrafo del Artículo 20 de la Ley 594 de 2000, si una entidad territorial privatiza una de sus instituciones, los archivos históricos deben retornar a dicha entidad territorial de vinculación."
+  },
+
+  {
+    "question": "En una auditoría a una gobernación, se halla que no existe un plan formal para organizar documentos. Bajo el Artículo 21 de la Ley 594 de 2000, ¿qué obligación incumplió la entidad?",
+    "options": [
+      "La obligación de contratar expertos externos para la foliación manual de los expedientes.",
+      "La obligación de elaborar y aplicar programas de gestión de documentos en la entidad.",
+      "La facultad de decidir autónomamente si requiere o no de una oficina de archivo central.",
+      "La necesidad de digitalizar el cien por ciento de sus archivos históricos en un año."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 21 de la Ley 594 de 2000 (Ley General de Archivos) establece de forma imperativa que las entidades públicas deberán elaborar programas de gestión de documentos para garantizar la organización técnica."
+  },
+  {
+    "question": "Una entidad estatal implementa 'Big Data' para archivar actos administrativos. Según el Artículo 21 de la Ley 594 de 2000, ¿cuál es el requisito técnico esencial para usar estas tecnologías?",
+    "options": [
+      "Que el uso de estas nuevas tecnologías observe los principios y procesos archivísticos.",
+      "Que el sistema informático sea desarrollado exclusivamente por ingenieros colombianos.",
+      "Que la tecnología permita la eliminación automática de documentos cada cinco períodos.",
+      "Que se mantenga una copia física de seguridad de cada dato procesado digitalmente."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 21 de la Ley 594 de 2000 (Ley General de Archivos) condiciona el uso de nuevas tecnologías y soportes a que su aplicación respete los principios y procesos técnicos de la ciencia archivística."
+  },
+  {
+    "question": "Un juez rechaza un correo oficial por no ser de papel. Según el Parágrafo del Artículo 21 de la Ley 594 de 2000, ¿qué otorga validez de original a este documento electrónico?",
+    "options": [
+      "Que el documento haya sido impreso y radicado físicamente ante el despacho del juzgado.",
+      "Que el remitente del mensaje sea un funcionario con nivel directivo dentro de la entidad.",
+      "Que el archivo cuente con un sello de agua digital visible en todas las páginas del texto.",
+      "Que se garantice su autenticidad, integridad y el cumplimiento de los requisitos legales."
+    ],
+    "correct": 3,
+    "explanation": "El Parágrafo del Artículo 21 de la Ley 594 de 2000 (Ley General de Archivos) otorga validez y eficacia de original a medios tecnológicos que garanticen autenticidad, integridad y requisitos procesales."
+  },
+  {
+    "question": "Una entidad asegura que sus archivos digitales son válidos, pero no puede demostrar que no han sido alterados. ¿Qué requisito del Parágrafo del Artículo 21 de la Ley 594 de 2000 falta?",
+    "options": [
+      "El requisito de integridad, que asegura que el documento no fue cambiado tras su firma.",
+      "El requisito de celeridad, que obliga a que el documento se entregue en tiempo récord.",
+      "El requisito de economía, que exige que el soporte digital sea el más barato del mercado.",
+      "El requisito de duplicidad, que obliga a tener dos versiones idénticas en nubes distintas."
+    ],
+    "correct": 0,
+    "explanation": "Bajo el Parágrafo del Artículo 21 de la Ley 594 de 2000 (Ley General de Archivos), la integridad es la garantía técnica de que la información no ha sido modificada, siendo vital para su eficacia jurídica."
+  },
+  {
+    "question": "Para que un documento electrónico sea usado en un juicio, el Parágrafo del Artículo 21 de la Ley 594 de 2000 exige, además de la integridad y autenticidad, cumplir con:",
+    "options": [
+      "El pago de aranceles por el uso de firmas digitales ante el Ministerio de Tecnologías.",
+      "La validación presencial del contenido del documento ante un notario público de turno.",
+      "Los requisitos exigidos por las leyes procesales para la aducción de pruebas técnicas.",
+      "La publicación del documento en un diario de amplia circulación nacional por tres días."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo del Artículo 21 de la Ley 594 de 2000 (Ley General de Archivos) subordina la eficacia de los documentos electrónicos al cumplimiento de los requisitos exigidos por las leyes procesales vigentes."
   }
 ]
