@@ -1151,5 +1151,94 @@
     ],
     "correct": 2,
     "explanation": "El Parágrafo del Artículo 21 de la Ley 594 de 2000 (Ley General de Archivos) subordina la eficacia de los documentos electrónicos al cumplimiento de los requisitos exigidos por las leyes procesales vigentes."
+  },
+
+  {
+    "question": "Una entidad pública diseña un sistema que gestiona el documento desde su creación hasta su eliminación o conservación permanente. Según el Artículo 22 de la Ley 594 de 2000, ¿a qué concepto técnico corresponde esta visión integral de la gestión documental?",
+    "options": [
+      "Se trata del concepto de Gestión de Calidad aplicado a los procesos de la administración pública.",
+      "Se refiere al concepto de Archivo Total que comprende el ciclo vital completo de los documentos.",
+      "Es el principio de Procedencia que rige la clasificación de fondos documentales institucionales.",
+      "Corresponde al Sistema Nacional de Archivos encargado de la política archivística del territorio."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 22 de la Ley 594 de 2000 establece que la gestión de documentos se enmarca en el concepto de 'archivo total', el cual comprende todos los procesos desde la producción hasta la disposición final para garantizar la integridad de la información."
+  },
+  {
+    "question": "En el marco del Artículo 22 de la Ley 594 de 2000, una oficina de Planeación está definiendo los estándares de creación de sus informes técnicos mensuales. ¿En qué proceso archivístico específico se encuentran trabajando según la norma?",
+    "options": [
+      "Proceso de Producción: se enfoca en el estudio, diseño y creación de los documentos de la entidad.",
+      "Proceso de Recepción: se encarga de la admisión de comunicaciones enviadas por terceros externos.",
+      "Proceso de Distribución: garantiza que el documento llegue a su destinatario para el respectivo trámite.",
+      "Proceso de Organización: consiste en clasificar y describir los expedientes que ya han sido generados."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 22 de la Ley 594 de 2000 (Ley General de Archivos), la producción es el proceso inicial que comprende la generación de documentos en cumplimiento de las funciones asignadas a cada dependencia."
+  },
+  {
+    "question": "Un ciudadano radica una solicitud en la ventanilla única; el funcionario verifica los folios y asigna un número de radicado. Bajo el Artículo 22 de la Ley 594 de 2000, ¿cuál es el proceso que se está ejecutando en ese momento?",
+    "options": [
+      "Se ejecuta la Distribución para mover el documento hacia la oficina que debe proyectar la respuesta.",
+      "Se ejecuta la Consulta para permitir que el ciudadano acceda a la información que ya posee la entidad.",
+      "Se ejecuta la Recepción como conjunto de operaciones de verificación y control para admitir el envío.",
+      "Se ejecuta la Recuperación para localizar antecedentes en los inventarios de los archivos centrales."
+    ],
+    "correct": 2,
+    "explanation": "La recepción, citada en el Artículo 22 de la Ley 594 de 2000, es el proceso técnico mediante el cual las instituciones controlan el ingreso de comunicaciones para asegurar su trazabilidad oficial."
+  },
+  {
+    "question": "La oficina de archivo remite un expediente físico a la Dirección Jurídica para que un abogado emita un concepto técnico. ¿Qué proceso del Artículo 22 de la Ley 594 de 2000 describe este flujo de movimiento de información?",
+    "options": [
+      "El proceso de Recuperación de información mediante el uso de herramientas de búsqueda y descripción.",
+      "El proceso de Distribución que garantiza que los documentos lleguen a las oficinas para su gestión.",
+      "El proceso de Organización que permite clasificar los documentos según la estructura de la entidad.",
+      "El proceso de Producción que define los requisitos para que el abogado pueda crear un nuevo oficio."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 22 de la Ley 594 de 2000 define la distribución como un proceso esencial para que la documentación fluya hacia los responsables de los trámites administrativos dentro o fuera de la organización."
+  },
+  {
+    "question": "Un investigador solicita acceso a las actas del consejo directivo de 1995 para una tesis doctoral. Al permitirle ver los folios, ¿qué proceso del Artículo 22 de la Ley 594 de 2000 está facilitando la entidad?",
+    "options": [
+      "Está facilitando el proceso de Organización al mostrar cómo están clasificados los libros de actas.",
+      "Está facilitando el proceso de Disposición Final al comprobar que el documento no fue eliminado.",
+      "Está facilitando el proceso de Producción al validar que las actas fueron creadas por la secretaría.",
+      "Está facilitando el proceso de Consulta mediante el acceso a la información contenida en el archivo."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 22 de la Ley 594 de 2000 incluye la consulta como un proceso archivístico fundamental para garantizar el derecho de acceso a la información pública y la transparencia administrativa."
+  },
+  {
+    "question": "El archivista de una entidad está foliando y clasificando una serie documental siguiendo el cuadro de clasificación. ¿A qué proceso del Artículo 22 de la Ley 594 de 2000 corresponden estas actividades técnicas?",
+    "options": [
+      "Corresponden a la Distribución para asegurar que cada carpeta llegue al estante que le corresponde.",
+      "Corresponden a la Organización que abarca la clasificación, ordenación y descripción del archivo.",
+      "Corresponden a la Recuperación que permite encontrar rápidamente los expedientes en el sistema.",
+      "Corresponden a la Producción que garantiza que las carpetas tengan el formato institucional vigente."
+    ],
+    "correct": 1,
+    "explanation": "La organización es el proceso técnico mencionado en el Artículo 22 de la Ley 594 de 2000 que permite dar estructura lógica y física a los documentos para su posterior localización."
+  },
+  {
+    "question": "Para responder una auditoría, el jefe de archivo usa una base de datos y localiza un contrato en menos de un minuto. ¿Qué proceso del Artículo 22 de la Ley 594 de 2000 se evidencia en esta capacidad de búsqueda?",
+    "options": [
+      "Se evidencia el proceso de Recuperación de documentos para poner la información a disponibilidad.",
+      "Se evidencia el proceso de Recepción que permitió registrar el contrato cuando este fue firmado.",
+      "Se evidencia el proceso de Organización que definió el número de la caja donde reposa el papel.",
+      "Se evidencia el proceso de Disposición Final que impidió que el contrato fuera destruido antes."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 22 de la Ley 594 de 2000 (Ley General de Archivos) establece la recuperación como el proceso que garantiza el encuentro oportuno de la información archivada para los fines pertinentes."
+  },
+  {
+    "question": "Un comité de archivo decide que las historias laborales deben conservarse permanentemente por su valor histórico. ¿En qué proceso del Artículo 22 de la Ley 594 de 2000 se fundamenta esta decisión?",
+    "options": [
+      "Se fundamenta en la Consulta de los documentos para verificar que la información sigue siendo útil.",
+      "Se fundamenta en la Organización de los documentos para asegurar que la serie esté completa y foliada.",
+      "Se fundamenta en la Producción de los documentos para determinar si el soporte resistirá el tiempo.",
+      "Se fundamenta en la Disposición Final que define la conservación, eliminación o selección de datos."
+    ],
+    "correct": 3,
+    "explanation": "La disposición final es el proceso del Artículo 22 de la Ley 594 de 2000 donde se define el destino último de los documentos tras cumplir su tiempo de retención administrativa."
   }
 ]
