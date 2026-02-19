@@ -1050,5 +1050,50 @@
     ],
     "correct": 0,
     "explanation": "Según el Artículo 19 de la Ley 594 de 2000, al emplear medios telemáticos, la entidad debe asegurar el funcionamiento razonable y la capacidad de reproducción de la información contenida en dichos soportes."
+  },
+
+  {
+    "question": "Caso: La Agencia Nacional de Tierras es suprimida y sus funciones no son delegadas a otra entidad. Según el Artículo 20 de la Ley 594 de 2000, ¿cuál es el procedimiento obligatorio para sus archivos?",
+    "options": [
+      "Deben ser transferidos al ministerio o a la entidad a la cual la agencia haya estado adscrita o vinculada.",
+      "Deben ser resguardados en una bodega privada de seguridad hasta que una nueva ley determine su disposición.",
+      "Deben ser entregados directamente al Archivo General de la Nación para su inmediata digitalización pública.",
+      "Deben ser eliminados siguiendo un protocolo de seguridad física para evitar la fuga de datos sensibles."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 20 de la Ley 594 de 2000 establece que, ante la supresión de una entidad, los archivos deben entregarse a la entidad que asuma sus funciones o, en su defecto, al ministerio o entidad de adscripción."
+  },
+  {
+    "question": "Caso: Dos institutos de salud se fusionan para crear una nueva organización. Basándose en el Artículo 20 de la Ley 594 de 2000, ¿qué destino deben tener los documentos de las entidades fusionadas?",
+    "options": [
+      "Los archivos deben ser repartidos entre los ministerios de salud y protección social según su temática.",
+      "Los archivos deben ser entregados obligatoriamente a la entidad que asuma legalmente todas sus funciones.",
+      "Los archivos deben ser custodiados por el liquidador de la entidad fusionada durante un periodo de diez años.",
+      "Los archivos deben ser devueltos a los funcionarios que generaron la documentación para su archivo personal."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 20 de la Ley 594 de 2000, cuando ocurre una fusión, la entrega de archivos debe realizarse a la entidad que asuma las funciones de las organizaciones que desaparecen o se transforman."
+  },
+  {
+    "question": "Caso: Una empresa estatal de telecomunicaciones es privatizada. Según el parágrafo del Artículo 20 de la Ley 594 de 2000, ¿qué sucede con la documentación que posee un alto valor histórico?",
+    "options": [
+      "La documentación se mantiene en la nueva empresa privada bajo la supervisión de la junta de accionistas.",
+      "La documentación histórica puede ser vendida a coleccionistas privados para saldar las deudas de la entidad.",
+      "La documentación histórica debe ser transferida al ministerio o entidad territorial a la cual estuvo vinculada.",
+      "La documentación debe ser destruida tras ser escaneada para evitar que la competencia privada acceda a ella."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del Artículo 20 de la Ley 594 de 2000 es explícito al ordenar que las entidades privatizadas transfieran su documentación histórica al ministerio o entidad territorial de adscripción o vinculación."
+  },
+  {
+    "question": "Caso: Un municipio privatiza su empresa de aseo local. Según el parágrafo del Artículo 20 de la Ley 594 de 2000, ¿quién es el receptor legal de los archivos históricos de dicha empresa?",
+    "options": [
+      "El ministerio del ramo a nivel nacional, sin importar que la entidad privatizada fuera de carácter municipal.",
+      "La Superintendencia de Servicios Públicos Domiciliarios por ser el organismo de control y vigilancia técnica.",
+      "La empresa privada receptora, siempre que garantice la consulta pública de los documentos en sus oficinas.",
+      "La entidad territorial (el municipio) a la cual la empresa de aseo haya estado adscrita o vinculada antes."
+    ],
+    "correct": 3,
+    "explanation": "De acuerdo con el parágrafo del Artículo 20 de la Ley 594 de 2000, si una entidad territorial privatiza una de sus instituciones, los archivos históricos deben retornar a dicha entidad territorial de vinculación."
   }
 ]
