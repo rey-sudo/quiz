@@ -1352,5 +1352,61 @@
     ],
     "correct": 0,
     "explanation": "Según el Artículo 24 de la Ley 594 de 2000 (Ley General de Archivos), la entidad debe 'elaborar y adoptar'. Un borrador representa una intención de elaboración, pero no cumple con la adopción formal que exige la obligatoriedad de la normativa pública."
+  },
+
+  {
+    "question": "En el marco del Artículo 25 de la Ley 594 de 2000, si una clínica privada requiere definir el periodo de permanencia de sus expedientes médicos antes de su disposición final, ¿qué autoridad tiene la competencia legal para reglamentar dichos tiempos de retención documental?",
+    "options": [
+      "El Ministerio de Salud de forma autónoma según las leyes de ética médica vigentes.",
+      "El Ministerio de la Cultura, mediante el Archivo General de la Nación y el del sector.",
+      "La Superintendencia de Salud en coordinación con la Registraduría Nacional del Estado.",
+      "El Congreso de la República mediante la expedición de una nueva Ley Estatutaria de Salud."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 25 de la Ley 594 de 2000, el Ministerio de la Cultura, a través del Archivo General de la Nación y el del sector correspondiente, es el encargado de reglamentar los tiempos de retención y conservación de las historias clínicas."
+  },
+  {
+    "question": "Un contador público debe organizar el archivo financiero de una empresa siguiendo los estándares vigentes. Según el Artículo 25 de la Ley 594 de 2000, ¿cuáles son los tres ejes técnicos específicos que el Ministerio de la Cultura debe reglamentar para estos documentos?",
+    "options": [
+      "La foliación manual, la microfilmación obligatoria y la incineración de soportes físicos.",
+      "El pago de aranceles, la auditoría externa y la digitalización de libros de contabilidad.",
+      "Los tiempos de retención, la organización y la conservación de toda la documentación.",
+      "La validez probatoria, el secreto profesional y el acceso público a estados financieros."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 25 de la Ley 594 de 2000 establece que se reglamentará lo relacionado con los tiempos de retención documental, organización y conservación de documentos contables, entre otros tipos de archivos mencionados."
+  },
+  {
+    "question": "Bajo el Artículo 25 de la Ley 594 de 2000, una Notaría busca actualizar sus protocolos de seguridad para archivos históricos. ¿Cuál es el procedimiento normativo correcto para establecer las pautas de conservación de estos documentos notariales?",
+    "options": [
+      "Seguir la reglamentación que emita el Ministerio de la Cultura y el Archivo General.",
+      "Aplicar únicamente los lineamientos internos definidos por la Unión Colegiada Notarial.",
+      "Solicitar una autorización previa y expresa ante la Jurisdicción Especial para la Paz.",
+      "Regirse por los manuales técnicos de la Superintendencia de Notariado y Registro solo."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 25 de la Ley 594 de 2000 incluye explícitamente a los documentos notariales dentro de la competencia reglamentaria del Ministerio de la Cultura y el Archivo General de la Nación para su organización y conservación."
+  },
+  {
+    "question": "Una empresa privada prestadora de servicios de energía eléctrica alega que su archivo no debe seguir las directrices del Archivo General de la Nación. De acuerdo con el inciso final del Artículo 25 de la Ley 594 de 2000, ¿cuál es la realidad jurídica?",
+    "options": [
+      "La empresa tiene razón pues la norma solo aplica a entidades del sector público estatal.",
+      "La empresa está exenta si demuestra que cuenta con una certificación ISO de calidad 9001.",
+      "La empresa debe cumplir pues se reglamentará lo atinente a privados que presten servicios.",
+      "La empresa solo debe cumplir si el 50% de su capital social proviene de fondos públicos."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 25 de la Ley 594 de 2000 indica en su último inciso que se reglamentará lo atinente a los documentos producidos por las entidades privadas que presten servicios públicos, integrándolos al sistema nacional de archivos."
+  },
+  {
+    "question": "Un ciudadano solicita su historia laboral de 1995 y la entidad del Estado empleadora afirma haberla destruido por criterio propio. Según el Artículo 25 de la Ley 594 de 2000, ¿quién determina la legalidad de dicha eliminación documental?",
+    "options": [
+      "La oficina de Talento Humano basándose en la política de protección de datos personales.",
+      "El Ministerio de la Cultura y el Archivo General de la Nación según los tiempos fijados.",
+      "El Ministerio del Trabajo a través de una circular dirigida a todas las empresas del país.",
+      "Un juez de la república mediante sentencia en un proceso de nulidad y restablecimiento."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el Artículo 25 de la Ley 594 de 2000, las historias laborales están sujetas a los tiempos de retención y reglas de conservación que reglamente el Ministerio de la Cultura a través del Archivo General de la Nación."
   }
 ]
