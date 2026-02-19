@@ -1296,5 +1296,61 @@
     ],
     "correct": 1,
     "explanation": "El inciso 'b' del Artículo 23 de la Ley 594 de 2000 estipula que los documentos en el archivo central, a pesar de no ser de consulta frecuente, son objeto de consulta tanto por las oficinas como por particulares en general."
+  },
+
+  {
+    "question": "En una auditoría a una entidad descentralizada, se halla que diseñaron las series documentales pero no han emitido el acto administrativo formal de aprobación. Según el Artículo 24 de la Ley 594 de 2000, ¿qué parte de la obligación legal se está omitiendo?",
+    "options": [
+      "La obligación técnica de realizar la valoración de todas las series documentales del archivo.",
+      "El deber de adoptar formalmente las respectivas tablas de retención mediante el acto legal.",
+      "La responsabilidad de contratar personal externo para la validación de la gestión documental.",
+      "El requisito de publicar los inventarios de eliminación en el diario oficial de la nación."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 24 de la Ley 594 de 2000 (Ley General de Archivos) establece una doble obligación: elaborar y adoptar. Al no emitir el acto administrativo, la entidad incumple la fase de adopción formal necesaria para que la herramienta sea legalmente vinculante."
+  },
+  {
+    "question": "Una nueva agencia estatal argumenta que, por ser de reciente creación, no está sujeta a la aplicación inmediata del Artículo 24 de la Ley 594 de 2000. ¿Cuál es la interpretación correcta sobre la obligatoriedad de las Tablas de Retención?",
+    "options": [
+      "Es obligatorio para las entidades del Estado elaborar y adoptar sus tablas de retención.",
+      "Es opcional para las nuevas agencias durante sus primeros dos años de gestión operativa.",
+      "Es obligatorio solo tras recibir una orden directa del Archivo General de la Nación (AGN).",
+      "Es opcional si la entidad demuestra que maneja la totalidad de su información en digital."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 24 de la Ley 594 de 2000 dicta taxativamente que será obligatorio para las entidades del Estado elaborar y adoptar las respectivas tablas de retención documental, sin conceder periodos de gracia por antigüedad o tipo de soporte."
+  },
+  {
+    "question": "El director de un instituto nacional decide eliminar expedientes de hace 10 años sin contar con las tablas de retención, alegando falta de espacio físico. ¿Qué mandato del Artículo 24 de la Ley 594 de 2000 ignora esta decisión?",
+    "options": [
+      "El principio de libre disposición de los archivos que otorga autonomía a cada director.",
+      "El protocolo de transferencia documental hacia los archivos históricos de orden nacional.",
+      "El deber de custodiar los documentos en instalaciones propias con condiciones climáticas.",
+      "La obligatoriedad de poseer tablas de retención para definir los tiempos de permanencia."
+    ],
+    "correct": 3,
+    "explanation": "Bajo el Artículo 24 de la Ley 594 de 2000 (Ley General de Archivos), la obligatoriedad de las tablas de retención es el único mecanismo legal para regular el ciclo vital de los documentos y autorizar su eliminación técnica y legal."
+  },
+  {
+    "question": "Un ente autónomo regional manifiesta que sus normas internas de archivo prevalecen sobre el Artículo 24 de la Ley 594 de 2000. ¿Cómo se define el alcance de este artículo para los organismos autónomos del Estado?",
+    "options": [
+      "Aplica solo a la rama ejecutiva, excluyendo a los entes con autonomía constitucional pura.",
+      "Aplica a todas las entidades del Estado, obligándolas a adoptar las tablas de retención.",
+      "Aplica de forma parcial, permitiendo que cada ente decida si elabora o no sus manuales.",
+      "Aplica únicamente si el ente autónomo no cuenta con un presupuesto anual independiente."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 24 de la Ley 594 de 2000 no establece excepciones por autonomía; la norma indica que el cumplimiento de elaborar y adoptar las tablas de retención es un requisito para todas las entidades que componen la estructura del Estado."
+  },
+  {
+    "question": "Durante un proceso de empalme, se descubre que una secretaría solo tiene borradores de tablas de retención sin firmas ni validación. Según el Artículo 24 de la Ley 594 de 2000, ¿por qué este documento carece de validez?",
+    "options": [
+      "Porque no se ha cumplido con el requisito legal de la adopción de las tablas respectivas.",
+      "Porque el artículo exige que la elaboración sea realizada por una firma de consultoría.",
+      "Porque la norma prohíbe el uso de documentos electrónicos en la gestión de los archivos.",
+      "Porque el comité de archivo no ha sesionado de manera presencial durante el último año."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 24 de la Ley 594 de 2000 (Ley General de Archivos), la entidad debe 'elaborar y adoptar'. Un borrador representa una intención de elaboración, pero no cumple con la adopción formal que exige la obligatoriedad de la normativa pública."
   }
 ]
