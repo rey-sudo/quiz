@@ -848,5 +848,39 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 15 de la Ley 594 de 2000 (Ley General de Archivos) estipula que los servidores públicos, al desvincularse de sus funciones, deben entregar los documentos y archivos a su cargo, protegiendo así el patrimonio documental del Estado."
+  },
+
+  {
+    "question": "En una entidad departamental se evidencia que los expedientes de procesos disciplinarios carecen de foliación y orden cronológico. Según el Artículo 16 de la Ley 594 de 2000 (Ley General de Archivos), ¿quién debe responder prioritariamente por la falta de organización de estos documentos de archivo?",
+    "options": [
+      "El funcionario técnico encargado de la bodega de archivo por ser quien manipula las cajas.",
+      "El Secretario General o el funcionario administrativo de igual o de superior jerarquía.",
+      "El Jefe de la Oficina de Control Interno por no haber auditado los procesos a tiempo.",
+      "El último contratista que tuvo acceso a los expedientes antes de su almacenamiento final."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 16 de la Ley 594 de 2000 establece que los secretarios generales o funcionarios de igual o superior jerarquía son los responsables directos de la organización y conservación de los archivos públicos."
+  },
+  {
+    "question": "Durante una revisión en el año 2026, se descubre que un acta original fue sustituida por una copia con datos financieros alterados que no coinciden con la realidad. ¿Qué principios del Artículo 16 de la Ley 594 de 2000 (Ley General de Archivos) se han vulnerado?",
+    "options": [
+      "La obligación de velar por la integridad, la autenticidad, la veracidad y la fidelidad.",
+      "La responsabilidad exclusiva de la prestación de los servicios técnicos archivísticos.",
+      "El deber de organizar los documentos siguiendo las tablas de retención de la entidad.",
+      "La obligación de garantizar únicamente la custodia física contra desastres naturales."
+    ],
+    "correct": 0,
+    "explanation": "Bajo el Artículo 16 de la Ley 594 de 2000, es obligación del funcionario velar por la integridad, autenticidad, veracidad y fidelidad de la información contenida en los documentos de archivo."
+  },
+  {
+    "question": "Un ciudadano solicita copia de una resolución de hace diez años, pero la entidad informa que el documento se perdió debido a la humedad del depósito. ¿Qué responsabilidad del Artículo 16 de la Ley 594 de 2000 (Ley General de Archivos) se incumplió?",
+    "options": [
+      "La responsabilidad de la organización administrativa de la correspondencia externa.",
+      "La obligación de realizar procesos de eliminación documental sin previa autorización.",
+      "El deber de asegurar la conservación de los documentos y la prestación de servicios.",
+      "La facultad de delegar la custodia total en empresas privadas de gestión documental."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 16 de la Ley 594 de 2000 señala que los funcionarios competentes son responsables de la conservación de los archivos y de la prestación de los servicios archivísticos al público."
   }
 ]
