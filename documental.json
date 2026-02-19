@@ -994,5 +994,61 @@
     ],
     "correct": 1,
     "explanation": "El parágrafo del Artículo 18 de la Ley 594 de 2000 menciona explícitamente que el apoyo se extiende a programas de 'capacitación formal y no formal', permitiendo una oferta diversa de aprendizaje técnico."
+  },
+
+  {
+    "question": "La Alcaldía de Medellín decide digitalizar su archivo central para optimizar espacio, pero los expedientes carecen de un orden lógico o inventario. Según el literal a) del Artículo 19 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es la obligación previa indispensable?",
+    "options": [
+      "Adquirir un software de última generación que clasifique los documentos mediante el uso de redes neuronales.",
+      "Ejecutar la organización archivística de los documentos antes de aplicar cualquier medio técnico o digital.",
+      "Destruir los documentos físicos inmediatamente después de que el escáner genere una imagen en formato PDF.",
+      "Trasladar los documentos a un repositorio en la nube sin realizar procesos de foliación o de clasificación."
+    ],
+    "correct": 1,
+    "explanation": "El literal a) del Artículo 19 de la Ley 594 de 2000 establece que la organización archivística es un requisito obligatorio y previo a la incorporación de cualquier tecnología en la administración de archivos estatales."
+  },
+  {
+    "question": "Una entidad nacional evalúa cambiar su sistema de microfilmar por un almacenamiento en la nube. Según el literal b) del Artículo 19 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué debe sustentar el estudio técnico para garantizar la validez del sistema?",
+    "options": [
+      "El estudio debe priorizar la reducción de costos operativos y la facilidad de manejo para el personal administrativo.",
+      "El estudio debe enfocarse en la marca del proveedor tecnológico y la capacidad de almacenamiento de los servidores.",
+      "El estudio debe analizar la seguridad, perdurabilidad, reproducción y condiciones ambientales de los soportes.",
+      "El estudio debe validar que el sistema sea estéticamente moderno y compatible con redes sociales institucionales."
+    ],
+    "correct": 2,
+    "explanation": "El literal b) del Artículo 19 de la Ley 594 de 2000 exige estudios técnicos que aseguren la conservación, seguridad y el funcionamiento razonable del sistema para garantizar que la información perdure en el tiempo."
+  },
+  {
+    "question": "Un ciudadano demanda a una entidad estatal alegando que una resolución digital recibida no tiene valor legal. Basándose en el Parágrafo 1 del Artículo 19 de la Ley 594 de 2000 (Ley General de Archivos), ¿bajo qué condiciones el documento digital es válido?",
+    "options": [
+      "Siempre que se garantice la autenticidad, integridad e inalterabilidad de la información según las leyes procesales.",
+      "Solo si el documento es impreso y firmado con sello de tinta húmeda por el representante legal de la institución.",
+      "Si el documento fue enviado desde un correo electrónico institucional sin importar si el contenido fue modificado.",
+      "Únicamente si la entidad cuenta con un permiso especial emitido por el Ministerio de Tecnologías de Información."
+    ],
+    "correct": 0,
+    "explanation": "El Parágrafo 1 del Artículo 19 de la Ley 594 de 2000 otorga validez y eficacia de original a los documentos reproducidos digitalmente si se garantiza su autenticidad, integridad e inalterabilidad técnica."
+  },
+  {
+    "question": "La Gobernación de Antioquia digitaliza las actas de fundación de sus municipios. Un funcionario propone triturar los originales para liberar espacio. Según el Parágrafo 2 del Artículo 19 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es el proceder legal?",
+    "options": [
+      "Los originales pueden ser triturados si la copia digital cuenta con una resolución superior a los 600 puntos por pulgada.",
+      "Los documentos originales con valores históricos no pueden ser destruidos aun cuando hayan sido digitalizados.",
+      "La destrucción es permitida si la entidad publica una copia de los documentos en su página web oficial de consulta.",
+      "El comité de archivo puede autorizar la eliminación física si se han realizado tres copias de seguridad en la nube."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 del Artículo 19 de la Ley 594 de 2000 prohíbe taxativamente la destrucción de documentos con valores históricos, independientemente de que hayan sido almacenados o reproducidos en otros medios."
+  },
+  {
+    "question": "Tras suprimir la Dirección de Imprenta (Decreto 2017070002387), la Gobernación de Antioquia debe administrar su Gaceta Departamental en formato telemático. Para cumplir el Artículo 19 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué debe asegurar respecto a la información?",
+    "options": [
+      "Garantizar que los medios técnicos empleados permitan el funcionamiento razonable del sistema y su reproducción fiel.",
+      "Asegurar que el acceso a la gaceta digital sea restringido exclusivamente a los funcionarios de nivel directivo.",
+      "Eliminar mensualmente los archivos antiguos del servidor para evitar la saturación de memoria en el centro de datos.",
+      "Priorizar la publicación en redes sociales antes de realizar cualquier proceso de organización técnica archivística."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 19 de la Ley 594 de 2000, al emplear medios telemáticos, la entidad debe asegurar el funcionamiento razonable y la capacidad de reproducción de la información contenida en dichos soportes."
   }
 ]
