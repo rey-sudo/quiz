@@ -803,5 +803,50 @@
     ],
     "correct": 0,
     "explanation": "Según el Parágrafo 3 del Artículo 14 de la Ley 594 de 2000, el Archivo General de la Nación es la autoridad competente para establecer los requisitos y condiciones de quienes presten servicios archivísticos a entidades públicas."
+  },
+
+  {
+    "question": "Un directivo en 2026 renuncia a su cargo y entrega las llaves de su oficina con los expedientes en estantes, pero sin un listado técnico. Según el Artículo 15 de la Ley 594 de 2000, ¿cuál es su situación legal?",
+    "options": [
+      "El directivo ha cumplido su deber al dejar los documentos físicamente dentro de las instalaciones de la entidad.",
+      "El directivo incumple la norma pues debe entregar los archivos debidamente inventariados según el ente rector.",
+      "El directivo queda libre de responsabilidad civil siempre que los documentos estén completos en los estantes.",
+      "El directivo solo debe entregar inventario si la entidad cuenta con un sistema de gestión documental digital."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 15 de la Ley 594 de 2000 (Ley General de Archivos) obliga a los servidores públicos a entregar documentos y archivos debidamente inventariados al desvincularse, siguiendo los procedimientos del Archivo General de la Nación."
+  },
+  {
+    "question": "Tras su retiro en 2026, un funcionario firma el acta de entrega de inventario. Meses después se detectan folios eliminados en su gestión. Según el Artículo 15 de la Ley 594 de 2000, ¿qué ocurre con su responsabilidad?",
+    "options": [
+      "La firma del acta de entrega de inventarios no implica la exoneración de la responsabilidad por irregularidades.",
+      "La responsabilidad penal y disciplinaria cesa inmediatamente al momento de formalizar la entrega del inventario.",
+      "La entidad pública asume toda la responsabilidad legal una vez que el sucesor firma el recibido del inventario.",
+      "El funcionario queda exonerado de cualquier hallazgo si la irregularidad se detecta después de treinta días."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 15 de la Ley 594 de 2000 (Ley General de Archivos), la entrega de los archivos inventariados no implica la exoneración de la responsabilidad a que haya lugar en caso de presentarse irregularidades durante el ejercicio de las funciones."
+  },
+  {
+    "question": "Un servidor público de una entidad territorial es trasladado de dependencia en el año 2026. Bajo los términos del Artículo 15 de la Ley 594 de 2000, ¿cuál es el procedimiento técnico que debe seguir para sus archivos?",
+    "options": [
+      "Debe aplicar los protocolos internos de su oficina sin necesidad de consultar normativas nacionales externas.",
+      "Debe esperar a que la oficina de control interno realice una auditoría previa antes de entregar sus documentos.",
+      "Debe entregar los documentos bajo las normas y procedimientos que establezca el Archivo General de la Nación.",
+      "Debe conservar los documentos originales en su poder hasta que el nuevo funcionario titular tome la posesión."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 15 de la Ley 594 de 2000 (Ley General de Archivos) establece que la entrega de archivos debe realizarse conforme a las normas y procedimientos que establezca el Archivo General de la Nación para garantizar la uniformidad técnica."
+  },
+  {
+    "question": "Un servidor público finaliza su labor y decide llevarse copias de procesos que él mismo proyectó. ¿Cómo aplica el Artículo 15 de la Ley 594 de 2000 en este escenario de retiro?",
+    "options": [
+      "El servidor puede conservar copias de los archivos siempre que no los utilice para fines privados o comerciales.",
+      "El servidor tiene la obligación de entregar todos los archivos a su cargo al desvincularse de sus funciones.",
+      "El servidor solo está obligado a entregar los documentos físicos, pudiendo retener la información electrónica.",
+      "El servidor debe destruir la información digital para proteger la privacidad de los datos antes de su retiro."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 15 de la Ley 594 de 2000 (Ley General de Archivos) estipula que los servidores públicos, al desvincularse de sus funciones, deben entregar los documentos y archivos a su cargo, protegiendo así el patrimonio documental del Estado."
   }
 ]
