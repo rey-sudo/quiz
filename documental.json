@@ -1408,5 +1408,50 @@
     ],
     "correct": 1,
     "explanation": "De acuerdo con el Artículo 25 de la Ley 594 de 2000, las historias laborales están sujetas a los tiempos de retención y reglas de conservación que reglamente el Ministerio de la Cultura a través del Archivo General de la Nación."
+  },
+
+  {
+    "question": "En una auditoría a una entidad del Estado, se halla que los expedientes en fase de gestión no tienen registro alguno, alegando que solo se inventaría al transferir al Archivo Central. Según el Artículo 26 de la Ley 594 de 2000, ¿cuál es la implicación legal?",
+    "options": [
+      "Es una práctica válida ya que el inventario documental solo se exige para la fase de disposición final o histórica de los archivos.",
+      "Es un incumplimiento legal pues la norma exige obligatoriamente el control de los documentos en todas sus diferentes fases de vida.",
+      "Es una falta leve que se subsana con la creación de una base de datos digital que reemplace el inventario físico de las oficinas.",
+      "Es un procedimiento estándar en la administración pública que permite priorizar el control únicamente en los documentos cerrados."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 26 de la Ley 594 de 2000 (Ley General de Archivos) establece que es obligación de las entidades asegurar el control de los documentos en sus diferentes fases, lo que implica que el inventario debe existir desde la fase de gestión hasta la fase histórica sin excepciones."
+  },
+  {
+    "question": "Una Secretaría de Despacho decide omitir el inventario de sus correos electrónicos institucionales argumentando que el Artículo 26 de la Ley 594 de 2000 se refiere exclusivamente a documentos físicos. ¿Cómo debe interpretarse esta situación?",
+    "options": [
+      "La entidad tiene razón debido a que la normativa archivística de Colombia no ha sido actualizada para incluir soportes electrónicos.",
+      "La entidad debe inventariarlos porque la obligación recae sobre los documentos producidos en ejercicio de funciones, sin importar el soporte.",
+      "La entidad puede decidir autónomamente qué soportes inventariar basándose en su capacidad técnica y presupuesto anual asignado.",
+      "La entidad solo debe inventariar correos electrónicos si estos han sido impresos y foliados para formar parte de un expediente físico."
+    ],
+    "correct": 1,
+    "explanation": "Bajo el Artículo 26 de la Ley 594 de 2000 (Ley General de Archivos), la obligación de elaborar inventarios cubre todos los documentos producidos en ejercicio de funciones públicas, lo cual integra el documento electrónico de archivo como parte del patrimonio documental que debe ser controlado."
+  },
+  {
+    "question": "Un organismo público contrata a un tercero para ejecutar una función administrativa, pero no le exige la entrega de inventarios documentales al finalizar. ¿Qué principio del Artículo 26 de la Ley 594 de 2000 se está vulnerando?",
+    "options": [
+      "Se vulnera la obligación de asegurar el control de los documentos que se produzcan en ejercicio de las funciones públicas asignadas.",
+      "Se vulnera el principio de economía administrativa al no permitir que el tercero gestione sus propios archivos de forma independiente.",
+      "Se vulnera la norma de propiedad intelectual sobre los formatos de inventario utilizados por el contratista externo en su labor.",
+      "Se vulnera el derecho al olvido de los ciudadanos cuyos datos están en los documentos producidos por el tercero en cumplimiento del contrato."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 26 de la Ley 594 de 2000 (Ley General de Archivos) dicta que las entidades deben elaborar inventarios de los documentos producidos en ejercicio de sus funciones. Si un tercero ejerce dichas funciones, la entidad debe asegurar que dicho control documental se mantenga bajo los estándares legales."
+  },
+  {
+    "question": "Durante un proceso de empalme, un funcionario saliente entrega sus archivos sin el Formato Único de Inventario Documental. ¿Qué obligación del Artículo 26 de la Ley 594 de 2000 se ha omitido para garantizar la continuidad?",
+    "options": [
+      "Se omitió la capacitación del funcionario entrante en el manejo de las herramientas tecnológicas de búsqueda de información pública.",
+      "Se omitió el pago de las tasas de transferencia documental que exige el Archivo General de la Nación para recibir nuevos documentos.",
+      "Se omitió la depuración de copias y borradores que es el único paso previo exigido antes de entregar cualquier archivo institucional.",
+      "Se omitió la obligación de elaborar inventarios que aseguren el control y la entrega formal de los documentos en sus diferentes fases."
+    ],
+    "correct": 3,
+    "explanation": "Según el Artículo 26 de la Ley 594 de 2000 (Ley General de Archivos), la elaboración de inventarios es la herramienta obligatoria para asegurar el control documental. Sin este instrumento, no se puede garantizar la trazabilidad ni la integridad de la información en el paso de una fase a otra."
   }
 ]
