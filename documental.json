@@ -938,5 +938,61 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 17 de la Ley 594 de 2000 define como misión fundamental de los funcionarios el 'poner al servicio de la comunidad la documentación', lo cual se vulnera al restringir el acceso sin sustento legal."
+  },
+
+  {
+    "question": "En una auditoría a una entidad pública, el jefe de talento humano sostiene que la formación técnica es un beneficio discrecional. Según el Artículo 18 de la Ley 594 de 2000, ¿cuál es el carácter legal de la formación para el personal de archivo?",
+    "options": [
+      "Constituye una recomendación técnica que la entidad puede aplicar según su presupuesto anual.",
+      "Representa una obligación legal para las entidades de capacitar y actualizar a sus funcionarios.",
+      "Es un derecho opcional del trabajador que debe ser solicitado formalmente por el jefe de área.",
+      "Se trata de una actividad de bienestar social que no requiere obligatoriedad en el cronograma."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 18 de la Ley 594 de 2000 establece taxativamente que 'Las entidades tienen la obligación de capacitar y actualizar a los funcionarios de archivo', lo que le otorga un carácter de mandato legal imperativo para la administración."
+  },
+  {
+    "question": "Un funcionario de archivo recibió inducción hace cinco años, pero no conoce las nuevas tablas de retención electrónica. Según el Artículo 18 de la Ley 594 de 2000, ¿qué deber está omitiendo la entidad en este caso específico?",
+    "options": [
+      "El deber de actualización permanente en programas y áreas que estén relacionadas con su labor.",
+      "La obligación de otorgar ascensos automáticos tras completar un ciclo de cinco años de servicio.",
+      "El compromiso de contratar personal externo para suplir las carencias del funcionario antiguo.",
+      "La responsabilidad de certificar al funcionario únicamente mediante programas de nivel posgrado."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 18 de la Ley 594 de 2000 indica que la obligación no es solo capacitar inicialmente, sino 'actualizar' a los funcionarios en áreas relacionadas con su labor, garantizando la vigencia técnica del conocimiento."
+  },
+  {
+    "question": "Una oficina de archivo programa un curso de 'Cocina Internacional' para sus técnicos con el fin de mejorar el clima laboral. Bajo el Artículo 18 de la Ley 594 de 2000, ¿es esta capacitación válida para el cumplimiento normativo?",
+    "options": [
+      "Sí, porque toda capacitación recibida por el funcionario cuenta como parte del plan de formación.",
+      "No, pues la ley exige que los programas de capacitación estén relacionados con su labor técnica.",
+      "Sí, siempre que el curso sea dictado por una institución educativa que esté avalada por el AGN.",
+      "No, dado que el Artículo 18 prohíbe explícitamente cualquier formación que no sea administrativa."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 18 de la Ley 594 de 2000 especifica que la capacitación debe ser en 'programas y áreas relacionadas con su labor'. Por ende, temas no relacionados con la gestión documental no cumplen con este requisito legal."
+  },
+  {
+    "question": "Una universidad privada planea lanzar una Especialización en Archivística. Según el parágrafo del Artículo 18 de la Ley 594 de 2000, ¿qué rol debe desempeñar el Archivo General de la Nación ante esta oferta?",
+    "options": [
+      "Debe ejercer la vigilancia y control sancionatorio sobre el contenido del currículo universitario.",
+      "Debe certificar individualmente a cada egresado para que su título tenga validez en el país.",
+      "Debe propiciar y apoyar estos programas de formación profesional y especialización archivística.",
+      "Debe asumir el costo total de las matrículas de los funcionarios públicos que deseen inscribirse."
+    ],
+    "correct": 2,
+    "explanation": "Según el parágrafo del Artículo 18 de la Ley 594 de 2000, el AGN tiene el mandato de propiciar y apoyar programas de formación profesional y de especialización desarrollados por instituciones educativas."
+  },
+  {
+    "question": "Para cumplir con el parágrafo del Artículo 18 de la Ley 594 de 2000, una entidad decide implementar talleres prácticos de corta duración. ¿Cómo clasifica la norma este tipo de formación específica?",
+    "options": [
+      "Como educación básica primaria necesaria para el desempeño de funciones operativas de archivo.",
+      "Como programas de capacitación formal y no formal desarrollados por las instituciones educativas.",
+      "Como una modalidad de autoaprendizaje que no requiere la intervención del Archivo General de la Nación.",
+      "Como formación estrictamente profesional que requiere la obtención de un título de grado académico."
+    ],
+    "correct": 1,
+    "explanation": "El parágrafo del Artículo 18 de la Ley 594 de 2000 menciona explícitamente que el apoyo se extiende a programas de 'capacitación formal y no formal', permitiendo una oferta diversa de aprendizaje técnico."
   }
 ]
