@@ -882,5 +882,61 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 16 de la Ley 594 de 2000 señala que los funcionarios competentes son responsables de la conservación de los archivos y de la prestación de los servicios archivísticos al público."
+  },
+
+  {
+    "question": "Un jefe de archivo es presionado para eliminar registros de contratos antiguos con el fin de favorecer a un contratista. Según el Artículo 17 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál debe ser su proceder profesional?",
+    "options": [
+      "Eliminar los registros siguiendo las instrucciones de la alta gerencia institucional.",
+      "Actuar sujeto a los más rigurosos principios de la ética profesional y la legalidad.",
+      "Delegar la eliminación a un tercero para evitar responsabilidad directa en el proceso.",
+      "Modificar únicamente las fechas de los contratos para evitar la eliminación total."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 17 de la Ley 594 de 2000 establece que los funcionarios de archivo trabajarán sujetos a los más rigurosos principios de la ética profesional y a las disposiciones que regulen su labor, impidiendo acciones fraudulentas o ilegales."
+  },
+  {
+    "question": "Un ciudadano solicita datos biométricos de un exfuncionario que reposan en un expediente laboral. Atendiendo al Artículo 17 de la Ley 594 de 2000, ¿qué mandato constitucional debe priorizar el archivista para dar respuesta?",
+    "options": [
+      "La obligación de poner al servicio de toda la comunidad la documentación del Estado.",
+      "La misión de organizar y clasificar los documentos bajo criterios de libre acceso.",
+      "Lo previsto en el artículo 15 de la Constitución Política sobre el derecho a la intimidad.",
+      "Las leyes y disposiciones que regulan la labor técnica del archivo de gestión pública."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 17 de la Ley 594 de 2000 ordena que los funcionarios actúen sujetos a la Constitución Política de Colombia, especialmente en lo previsto en su artículo 15, que protege el derecho a la intimidad y el hábeas data."
+  },
+  {
+    "question": "Durante una auditoría, se halla que un archivista no aplica las tablas de retención, alegando autonomía técnica. ¿Qué disposición del Artículo 17 de la Ley 594 de 2000 está incumpliendo el funcionario?",
+    "options": [
+      "La sujeción a las leyes y disposiciones normativas que regulan su labor profesional.",
+      "El actuar guiado por los valores de una sociedad democrática que confía en su misión.",
+      "La responsabilidad de organizar exclusivamente la documentación de la administración.",
+      "La protección del patrimonio documental de la Nación mediante criterios personales."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 17 de la Ley 594 de 2000, los funcionarios deben trabajar sujetos a las leyes y disposiciones que regulen su labor, lo cual incluye el cumplimiento estricto de los procesos técnicos de gestión documental vigentes."
+  },
+  {
+    "question": "Una entidad pública mantiene sus archivos históricos en un sótano húmedo sin procesos de limpieza. ¿Qué misión fundamental descrita en el Artículo 17 de la Ley 594 de 2000 se está vulnerando con esta negligencia?",
+    "options": [
+      "La misión de organizar la documentación administrativa siguiendo los principios éticos.",
+      "La puesta al servicio de la comunidad de toda la información producida por el Estado.",
+      "El cumplimiento de las normas de transparencia que rigen en una sociedad democrática.",
+      "La misión de conservar la documentación que forma parte del patrimonio de la Nación."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 17 de la Ley 594 de 2000 asigna a los funcionarios la misión de conservar la documentación de la administración y aquella que forme parte del patrimonio documental de la Nación, garantizando su supervivencia física."
+  },
+  {
+    "question": "Un archivista restringe el acceso a documentos públicos de libre consulta sin una reserva legal. ¿Qué misión social específica del Artículo 17 de la Ley 594 de 2000 se está dejando de cumplir?",
+    "options": [
+      "La misión de poner al servicio de la comunidad la documentación de la administración.",
+      "El mandato de organizar los archivos bajo los más rigurosos principios de la ética.",
+      "La aplicación de los valores democráticos en la conservación del patrimonio nacional.",
+      "El deber de trabajar sujeto a las disposiciones constitucionales de transparencia."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 17 de la Ley 594 de 2000 define como misión fundamental de los funcionarios el 'poner al servicio de la comunidad la documentación', lo cual se vulnera al restringir el acceso sin sustento legal."
   }
 ]
