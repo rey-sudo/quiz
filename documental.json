@@ -1588,5 +1588,50 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 29 de la Ley 594 de 2000 (Ley General de Archivos) es taxativo: la restricción de acceso directo solo procede cuando el estado de conservación (deterioro manifiesto) lo impida, no basándose en la simple antigüedad del objeto."
+  },
+
+  {
+    "question": "Un juez solicita el envío del original de un contrato estatal para una prueba pericial. Según el Artículo 30 de la Ley 594 de 2000 sobre Documentos Administrativos, ¿cuál es el requisito principal para permitir este traslado?",
+    "options": [
+      "Que la entidad estatal verifique la existencia de motivos legales expresos.",
+      "Que el funcionario encargado firme una póliza de cumplimiento institucional.",
+      "Que el documento sea digitalizado previamente por una empresa certificada.",
+      "Que el Consejo Superior de la Judicatura emita una resolución de préstamo."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 30 de la Ley 594 de 2000 establece taxativamente que las entidades del Estado solo podrán autorizar la salida de documentos de archivo cuando existan motivos legales que justifiquen dicho movimiento fuera de la institución."
+  },
+  {
+    "question": "En una auditoría a la entidad 'X', se encuentra que un técnico sacó carpetas originales para trabajar desde casa. Según el Artículo 30 de la Ley 594 de 2000, ¿por qué esta acción se considera una falta a la gestión documental?",
+    "options": [
+      "Porque el funcionario no contaba con una autorización de la Procuraduría.",
+      "Porque la salida del documento no está sustentada bajo un motivo legal.",
+      "Porque los documentos administrativos deben ser consultados solo en línea.",
+      "Porque el traslado físico requiere obligatoriamente el uso de escoltas."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el Artículo 30 de la Ley 594 de 2000 (Documentos Administrativos), la salida de archivos es una excepción restringida a causas legales, por lo que el trabajo doméstico no constituye una base legal para romper la custodia física."
+  },
+  {
+    "question": "Una entidad estatal debe enviar sus actas de consejo directivo a un laboratorio para restauración técnica. Bajo el Artículo 30 de la Ley 594 de 2000, ¿qué condición define la permanencia de estos documentos en el exterior?",
+    "options": [
+      "La salida debe ser definitiva para asegurar la integridad de los folios.",
+      "La salida debe ser discrecional según el tiempo que determine el técnico.",
+      "La salida debe ser temporal y estar debidamente autorizada por la entidad.",
+      "La salida debe ser gratuita siempre que el laboratorio sea de origen estatal."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 30 de la Ley 594 de 2000 sobre Documentos Administrativos especifica que la salida de los documentos de archivo autorizada por las entidades debe tener un carácter temporal, garantizando así su retorno al archivo oficial."
+  },
+  {
+    "question": "Al aplicar el Artículo 30 de la Ley 594 de 2000, ¿qué facultad tienen las entidades del Estado respecto a los documentos administrativos que se encuentran bajo su custodia y responsabilidad institucional?",
+    "options": [
+      "Vender los documentos que hayan cumplido más de treinta años de vigencia.",
+      "Negar el acceso a los entes de control para proteger la reserva del dato.",
+      "Destruir los originales físicos una vez que se complete la digitalización.",
+      "Autorizar la salida temporal de los archivos solo si hay un motivo legal."
+    ],
+    "correct": 3,
+    "explanation": "Según el Artículo 30 de la Ley 594 de 2000, la potestad de las entidades estatales se limita a autorizar la salida temporal de sus documentos de archivo, siempre y cuando medie una justificación legal para realizar dicho trámite."
   }
 ]
