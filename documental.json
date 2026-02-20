@@ -1633,5 +1633,50 @@
     ],
     "correct": 3,
     "explanation": "Según el Artículo 30 de la Ley 594 de 2000, la potestad de las entidades estatales se limita a autorizar la salida temporal de sus documentos de archivo, siempre y cuando medie una justificación legal para realizar dicho trámite."
+  },
+
+  {
+    "question": "Un juez penal solicita el envío de un acta original del siglo XIX para un peritaje técnico indispensable en un juicio. Según el Artículo 31 de la Ley 594 de 2000, ¿es legalmente viable autorizar dicha salida?",
+    "options": [
+      "No es viable, pues los documentos de archivos públicos de carácter histórico son inalienables y su salida está prohibida por ley.",
+      "Es viable únicamente si el juez se compromete formalmente a digitalizar el documento antes de su traslado a la sede judicial.",
+      "Sí es viable, ya que se trata de una salida temporal amparada de manera excepcional por motivos legales según la normativa citada.",
+      "Solo es viable si el Archivo General de la Nación emite un concepto previo favorable para que el documento salga de su depósito."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 31 de la Ley 594 de 2000 establece que en archivos históricos se podrá autorizar de manera excepcional la salida temporal de documentos por motivos legales, procesos técnicos, exposiciones culturales, el jefe del archivo debe tomar medidas garantice su integridad, seguridad, conservación y reintegro."
+  },
+  {
+    "question": "El jefe de un archivo histórico detecta un brote de biodeterioro en un mapa antiguo y requiere trasladarlo a un laboratorio externo especializado. ¿Qué dispone el Artículo 31 de la Ley 594 de 2000 para este caso?",
+    "options": [
+      "El traslado es improcedente puesto que cualquier intervención técnica de restauración debe realizarse obligatoriamente en el sitio original.",
+      "Se puede autorizar la salida temporal del documento bajo la causal de procesos técnicos, asegurando siempre el reintegro del material.",
+      "La salida solo puede darse si el laboratorio externo pertenece a una entidad pública y cuenta con vigilancia de la fuerza pública.",
+      "Se requiere una ley de la República que autorice específicamente el movimiento de piezas del patrimonio histórico para fines técnicos."
+    ],
+    "correct": 1,
+    "explanation": "Según el literal 'b' del Artículo 31 de la Ley 594 de 2000, la salida temporal de documentos históricos está permitida para procesos técnicos, bajo la responsabilidad del jefe del archivo de asegurar la conservación y el reintegro."
+  },
+  {
+    "question": "Una entidad cultural solicita en préstamo tres manuscritos originales para una muestra conmemorativa de un mes. Según el Artículo 31 de la Ley 594 de 2000, ¿cuál es el procedimiento correcto respecto a la autorización?",
+    "options": [
+      "El jefe del archivo puede autorizar la salida temporal por exposiciones culturales, tomando medidas de seguridad, integridad y conservación.",
+      "La entidad solicitante debe comprar una póliza de cumplimiento que reemplace el valor comercial del documento en caso de pérdida total.",
+      "Se debe solicitar permiso al Ministerio de Cultura únicamente, pues el jefe del archivo carece de competencia para autorizar exhibiciones.",
+      "La salida es inviable, ya que las exposiciones culturales solo permiten el uso de reproducciones o copias auténticas de documentos históricos."
+    ],
+    "correct": 0,
+    "explanation": "El literal 'c' del Artículo 31 de la Ley 594 de 2000 faculta la salida temporal de documentos para exposiciones culturales, condicionada a que el jefe del archivo garantice la seguridad y el retorno de los mismos a su archivo de origen."
+  },
+  {
+    "question": "Una universidad extranjera solicita un tomo original de archivo historico para una investigación en el exterior. Según el parágrafo del Artículo 31 de la Ley 594 de 2000, ¿qué entidad tiene la potestad exclusiva de autorizar este trámite?",
+    "options": [
+      "Cualquier jefe de archivo público siempre que se cumplan las causales de motivos legales, procesos técnicos o de carácter cultural.",
+      "El Ministerio de Relaciones Exteriores en conjunto con la Registraduría Nacional, por tratarse de un asunto de soberanía y patrimonio.",
+      "El Congreso de la República mediante una resolución especial que declare el interés científico de la salida del material histórico.",
+      "Solo el Archivo General de la Nación podrá autorizar la salida temporal de documentos de un archivo fuera del territorio nacional."
+    ],
+    "correct": 3,
+    "explanation": "El parágrafo del Artículo 31 de la Ley 594 de 2000 es explícito al señalar que solo el Archivo General de la Nación puede autorizar la salida de documentos históricos fuera del país por los motivos técnicos, legales o culturales señalados."
   }
 ]
