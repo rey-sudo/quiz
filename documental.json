@@ -1453,5 +1453,50 @@
     ],
     "correct": 3,
     "explanation": "Según el Artículo 26 de la Ley 594 de 2000 (Ley General de Archivos), la elaboración de inventarios es la herramienta obligatoria para asegurar el control documental. Sin este instrumento, no se puede garantizar la trazabilidad ni la integridad de la información en el paso de una fase a otra."
+  },
+
+  {
+    "question": "Un investigador extranjero solicita acceder a planos urbanísticos históricos en una alcaldía. El encargado niega el acceso aduciendo que el solicitante no tiene nacionalidad colombiana. Según el Artículo 27 de la Ley 594 de 2000 (Ley General de Archivos), ¿es legal esta negativa administrativa?",
+    "options": [
+      "Es legal, pues el derecho de consulta en archivos territoriales está limitado por ley exclusivamente a los ciudadanos colombianos en ejercicio.",
+      "Es ilegal, ya que el artículo dispone que todas las personas tienen derecho a consultar los documentos de archivos públicos sin distinción alguna.",
+      "Es legal, siempre que el funcionario demuestre que el extranjero no posee un interés legítimo debidamente autenticado ante un notario público.",
+      "Es ilegal, pero solo si el investigador presenta una autorización previa del Archivo General de la Nación para consultar documentos históricos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 27 de la Ley 594 de 2000 establece de manera taxativa que 'todas las personas' son titulares del derecho de acceso y consulta, eliminando barreras de nacionalidad o procedencia para el ejercicio de este derecho fundamental en archivos públicos."
+  },
+  {
+    "question": "Un ciudadano solicita copias de un contrato estatal liquidado. La entidad permite la lectura del documento físico en sus instalaciones, pero se niega rotundamente a entregar fotocopias o archivos digitales. De acuerdo con el Artículo 27 de la Ley 594 de 2000, ¿qué derecho se vulnera?",
+    "options": [
+      "Se vulnera el derecho a que se les expida copia de los documentos de archivos públicos, el cual es complementario al derecho de consulta física.",
+      "Se vulnera el principio de eficiencia administrativa, ya que la entidad está obligada a digitalizar todo su archivo para el acceso remoto total.",
+      "No se vulnera ningún derecho, pues el acceso se garantiza plenamente con la exhibición del documento original en las mesas de lectura técnica.",
+      "Se vulnera el derecho a la intimidad del contratista, puesto que la ley prohíbe taxativamente la reproducción de datos económicos de particulares."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 27 de la Ley 594 de 2000 estipula claramente que el derecho no se agota en la simple consulta, sino que incluye la obligación de las autoridades de expedir copias de los mismos, siempre que la información no sea legalmente reservada."
+  },
+  {
+    "question": "Un periodista solicita acceso a la hoja de vida de un alto funcionario para verificar sus títulos académicos. La entidad niega la información alegando que es un documento privado. Basándose en el Artículo 27 de la Ley 594 de 2000, ¿cuál es el criterio de reserva?",
+    "options": [
+      "La reserva es discrecional y depende exclusivamente del criterio del jefe de archivo para proteger la imagen institucional y el buen nombre oficial.",
+      "La reserva es automática para cualquier documento que mencione nombres de familiares o direcciones de domicilio por motivos de seguridad nacional.",
+      "La reserva solo es válida si el documento tiene tal carácter conforme a la Constitución o a la ley, debiendo la entidad motivar dicha restricción legal.",
+      "La reserva es absoluta para documentos de archivos privados, independientemente de si el funcionario ejerce o no un cargo de alta jerarquía estatal."
+    ],
+    "correct": 2,
+    "explanation": "Según el Artículo 27 de la Ley 594 de 2000, la regla general es la publicidad. Cualquier excepción al acceso debe estar expresamente consagrada en la Constitución o en la ley, y no puede ser una decisión arbitraria o subjetiva del funcionario."
+  },
+  {
+    "question": "Una empresa privada que administra fondos de pensiones recibe una solicitud de un familiar para consultar datos de salud de un afiliado fallecido. Según el inciso segundo del Artículo 27 de la Ley 594 de 2000, ¿cuál es el deber primordial de esta entidad?",
+    "options": [
+      "Entregar toda la información de inmediato, pues los archivos privados de interés social pierden toda protección de reserva ante cualquier solicitante.",
+      "Denegar el acceso total, ya que la Ley General de Archivos solo regula las obligaciones de las entidades públicas y no tiene alcance sobre privados.",
+      "Publicar la información en la cartelera principal para garantizar la transparencia activa exigida por las normativas de archivo y acceso a la información.",
+      "Garantizar el derecho a la intimidad personal y familiar, honra y buen nombre de las personas y demás derechos consagrados en la Constitución y leyes."
+    ],
+    "correct": 3,
+    "explanation": "El inciso segundo del Artículo 27 de la Ley 594 de 2000 vincula tanto a responsables de archivos públicos como privados en la obligación de proteger la intimidad, la honra y el buen nombre de las personas al momento de gestionar el acceso documental."
   }
 ]
