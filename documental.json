@@ -1498,5 +1498,50 @@
     ],
     "correct": 3,
     "explanation": "El inciso segundo del Artículo 27 de la Ley 594 de 2000 vincula tanto a responsables de archivos públicos como privados en la obligación de proteger la intimidad, la honra y el buen nombre de las personas al momento de gestionar el acceso documental."
+  },
+
+  {
+    "question": "En el año 2026, un historiador solicita un informe de seguridad nacional expedido en 1990. La entidad deniega el acceso afirmando que la reserva es indefinida por seguridad. Bajo el Artículo 28 de la modificación de la Ley 57 de 1985, ¿qué sucede con la reserva?",
+    "options": [
+      "La reserva legal del documento ha cesado de pleno derecho al cumplirse treinta años desde su expedición original.",
+      "La entidad debe mantener la reserva si el documento no ha sido catalogado aún como una pieza de valor histórico.",
+      "El ciudadano debe solicitar una autorización judicial previa para levantar la reserva de seguridad del documento.",
+      "La reserva se mantiene vigente hasta que el Archivo General de la Nación autorice su consulta por el ciudadano."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 28 de la modificación de la Ley 57 de 1985, la reserva legal sobre cualquier documento cesa a los treinta años de su expedición sin excepciones por el tipo de contenido, permitiendo la consulta pública."
+  },
+  {
+    "question": "Una oficina pública posee un expediente de 1992 cuya reserva ya venció. El funcionario se niega a entregar copias físicas alegando que solo está obligado a permitir la lectura en el sitio. Según el Artículo 28 de la modificación de la Ley 57 de 1985, ¿es esto correcto?",
+    "options": [
+      "Es correcto, ya que la norma solo garantiza el derecho de consulta presencial y no la reproducción física.",
+      "Es incorrecto, pues la autoridad en posesión tiene la obligación legal de expedir las copias o las fotocopias.",
+      "Es correcto, debido a que la expedición de copias de documentos antiguos es una facultad discrecional del jefe.",
+      "Es incorrecto, porque la autoridad debe trasladar el documento a una notaría para que allí se realice el trámite."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 28 de la modificación de la Ley 57 de 1985 establece taxativamente que la autoridad en posesión del documento adquiere la obligación de expedir a quien lo demande copias o fotocopias del mismo una vez vencida la reserva."
+  },
+  {
+    "question": "Un documento administrativo cumple 30 años de expedición y un ciudadano exige su acceso inmediato. La entidad responde que no puede entregarlo porque el documento no ha adquirido carácter histórico. De acuerdo con el Artículo 28 de la modificación de la Ley 57 de 1985, ¿qué procede?",
+    "options": [
+      "La entidad debe esperar a que el documento sea evaluado por un comité técnico para darle tratamiento de histórico.",
+      "El ciudadano pierde el derecho de acceso si el documento no cumple con los requisitos para ser patrimonio de la nación.",
+      "El documento puede ser consultado por cualquier ciudadano aunque por este solo hecho no adquiera carácter histórico.",
+      "La consulta queda suspendida hasta que la autoridad emita un acto administrativo otorgando la calidad de documento hito."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 28 de la modificación de la Ley 57 de 1985 aclara que, aunque la reserva cese a los 30 años permitiendo su consulta, el documento no adquiere automáticamente el carácter histórico por ese solo hecho cronológico."
+  },
+  {
+    "question": "Un ciudadano solicita documentos de una entidad liquidada que están en manos de otra autoridad. Se le niega el acceso por no ser la entidad de origen. Según el Artículo 28 de la modificación de la Ley 57 de 1985, ¿quién debe responder?",
+    "options": [
+      "La entidad que fue liquidada originalmente, pues es la única que tiene la competencia legal para levantar la reserva.",
+      "El Ministerio de Cultura, por ser el encargado de custodiar toda la información que supera los treinta años de vida.",
+      "La autoridad que esté en posesión del documento, pues sobre ella recae la obligación de permitir consulta y copias.",
+      "Ninguna autoridad, ya que al desaparecer la entidad de origen el documento pierde su validez para consulta ciudadana."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 28 de la modificación de la Ley 57 de 1985 señala que 'la autoridad que esté en su posesión adquiere la obligación' de responder a la demanda de copias, independientemente de si fue la creadora del documento."
   }
 ]
