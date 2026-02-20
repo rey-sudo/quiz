@@ -1543,5 +1543,50 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 28 de la modificación de la Ley 57 de 1985 señala que 'la autoridad que esté en su posesión adquiere la obligación' de responder a la demanda de copias, independientemente de si fue la creadora del documento."
+  },
+
+  {
+    "question": "En un archivo regional, un historiador solicita un censo de 1810 cuyo papel se deshace al tacto por acidez extrema. Según el Artículo 29 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué debe hacer la entidad?",
+    "options": [
+      "Permitir el acceso físico únicamente si el investigador firma un acta de responsabilidad civil por daños.",
+      "Suministrar la información mediante un sistema de reproducción que no afecte la conservación del original.",
+      "Negar el acceso a la información de manera definitiva basándose en el estado crítico de los folios del censo.",
+      "Trasladar el documento a un laboratorio de restauración y suspender el servicio de consulta por seis meses."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 29 de la Ley 594 de 2000 establece que ante un deterioro físico manifiesto, las instituciones deben suministrar la información mediante sistemas de reproducción que protejan el soporte original sin vulnerar el derecho de acceso."
+  },
+  {
+    "question": "Una entidad utiliza un escáner de calor intenso para copiar un libro de notarías deteriorado. Bajo los criterios de conservación del Artículo 29 de la Ley 594 de 2000, ¿es esta una actuación legalmente correcta?",
+    "options": [
+      "Es correcta, pues el Artículo 29 prioriza la rapidez del suministro de la información sobre el método técnico usado.",
+      "Es incorrecta, ya que el sistema de reproducción utilizado debe garantizar que no se afecte la conservación física.",
+      "Es correcta, siempre que el ciudadano reciba la información solicitada en un formato digital de alta resolución.",
+      "Es incorrecta, debido a que la norma prohíbe taxativamente el uso de cualquier medio electrónico en documentos."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 29 de la Ley 594 de 2000 (Ley General de Archivos), el sistema de reproducción elegido es válido solo si no afecta la conservación del documento; el uso de calor lesivo contravendría la finalidad de protección de la norma."
+  },
+  {
+    "question": "Un ciudadano solicita una copia de un plano antiguo deteriorado para un litigio de tierras. Según el Artículo 29 de la Ley 594 de 2000, ¿qué deber adicional tiene la entidad al entregar la reproducción?",
+    "options": [
+      "Certificar la autenticidad de la información contenida en la reproducción suministrada cuando fuere del caso.",
+      "Exigir que el ciudadano realice un curso previo de manipulación de documentos históricos en la sede del archivo.",
+      "Cobrar una póliza de seguro proporcional al valor histórico del plano original antes de entregar cualquier copia.",
+      "Entregar la reproducción junto con un informe técnico detallado sobre las causas biológicas del daño físico."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 29 de la Ley 594 de 2000 indica que, además de suministrar la información por medios alternos, la institución debe certificar su autenticidad cuando sea necesario para que la copia tenga validez ante terceros o autoridades."
+  },
+  {
+    "question": "Al aplicar el Artículo 29 de la Ley 594 de 2000, un jefe de archivo decide restringir un documento que no tiene daños visibles solo por ser 'muy antiguo'. ¿Es válida esta restricción según la norma?",
+    "options": [
+      "Sí, porque la antigüedad superior a un siglo se considera automáticamente como un riesgo de deterioro físico.",
+      "No, pues la norma exige que el documento presente un deterioro físico manifiesto que impida su acceso directo.",
+      "Sí, ya que el Artículo 29 otorga autonomía plena al jefe de archivo para restringir documentos discrecionalmente.",
+      "No, porque la ley solo permite restricciones por razones de seguridad nacional y no por criterios de conservación."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 29 de la Ley 594 de 2000 (Ley General de Archivos) es taxativo: la restricción de acceso directo solo procede cuando el estado de conservación (deterioro manifiesto) lo impida, no basándose en la simple antigüedad del objeto."
   }
 ]
