@@ -1678,5 +1678,61 @@
     ],
     "correct": 3,
     "explanation": "El parágrafo del Artículo 31 de la Ley 594 de 2000 es explícito al señalar que solo el Archivo General de la Nación puede autorizar la salida de documentos históricos fuera del país por los motivos técnicos, legales o culturales señalados."
+  },
+
+  {
+    "question": "El Archivo General de la Nación decide realizar una inspección sorpresiva a una entidad ministerial sin previo aviso. Según el Artículo 32 de la Ley 594 de 2000, ¿cuál es el fundamento legal de esta actuación?",
+    "options": [
+      "La entidad debe autorizar previamente el ingreso de los inspectores externos.",
+      "El AGN puede adelantar visitas de oficio en cualquier momento por ley vigente.",
+      "La inspección solo procede si existe una denuncia penal contra el secretario.",
+      "El Ministerio puede reprogramar la visita basándose en su autonomía interna."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 32 de la Ley 594 de 2000 establece que el Archivo General de la Nación podrá, de oficio, adelantar en cualquier momento visitas de inspección a los archivos de las entidades del Estado para verificar el cumplimiento normativo."
+  },
+  {
+    "question": "Un ciudadano denuncia que una entidad departamental no permite el acceso a documentos públicos. Bajo el Artículo 32 de la Ley 594 de 2000, ¿qué acción debe emprender legalmente el Archivo General de la Nación?",
+    "options": [
+      "Debe realizar una visita de inspección a solicitud de parte para verificarlo.",
+      "Debe sancionar económicamente a la entidad de forma automática y directa.",
+      "Debe ignorar la solicitud por tratarse de un ciudadano y no de un ente estatal.",
+      "Debe delegar la función de inspección a la policía judicial del departamento."
+    ],
+    "correct": 0,
+    "explanation": "De acuerdo con el Artículo 32 de la Ley 594 de 2000, el AGN está facultado para realizar visitas de inspección a solicitud de parte con el fin de verificar situaciones irregulares en los archivos públicos del territorio nacional."
+  },
+  {
+    "question": "Durante una visita técnica, el inspector del AGN halla que los expedientes electrónicos carecen de firmas digitales válidas. Según el Artículo 32 de la Ley 594 de 2000, ¿qué procedimiento sigue tras este hallazgo?",
+    "options": [
+      "El inspector debe proceder a la eliminación inmediata de los archivos nulos.",
+      "El AGN debe archivar el caso por falta de pruebas sobre daños en el papel.",
+      "El AGN requerirá a la respectiva entidad para que adelante los correctivos.",
+      "La entidad debe suspender todos sus procesos administrativos de forma total."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 32 de la Ley 594 de 2000 indica que, advertida alguna situación irregular, el AGN requerirá a la entidad para que adelante los correctivos necesarios para normalizar la gestión documental y cumplir los estándares."
+  },
+  {
+    "question": "Si tras un requerimiento de mejora una entidad estatal persiste en el manejo inadecuado de sus fondos documentales, ¿qué dispone el Artículo 32 de la Ley 594 de 2000 respecto a las consecuencias?",
+    "options": [
+      "El AGN asumirá los costos de la organización documental de la entidad estatal.",
+      "El AGN podrá intervenir físicamente las instalaciones para secuestrar archivos.",
+      "El AGN dará traslado a los órganos competentes para fijar responsabilidades.",
+      "El AGN podrá inhabilitar al representante legal de la entidad por diez años."
+    ],
+    "correct": 2,
+    "explanation": "Según el Artículo 32 de la Ley 594 de 2000, si persisten irregularidades, se dará traslado a los órganos competentes para establecer responsabilidades administrativas y ordenar las medidas pertinentes contra los implicados."
+  },
+  {
+    "question": "Una entidad alega que el AGN no puede inspeccionar sus servidores digitales porque la norma habla de archivos físicos. Bajo el Artículo 32 de la Ley 594 de 2000, ¿cuál es la interpretación correcta?",
+    "options": [
+      "La inspección abarca verificar el cumplimiento de la ley y sus reglamentos.",
+      "La ley solo permite revisar cajas de archivo que estén en bodegas oficiales.",
+      "Los servidores electrónicos están protegidos por reserva total ante el AGN.",
+      "La inspección digital requiere una orden judicial previa de un juez civil."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 32 de la Ley 594 de 2000 otorga la facultad de verificar el cumplimiento de lo dispuesto en dicha ley y sus normas reglamentarias, las cuales en 2026 integran plenamente la gestión de documentos electrónicos y digitales."
   }
 ]
