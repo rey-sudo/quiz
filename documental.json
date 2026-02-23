@@ -280,7 +280,7 @@
   },
 
   {
-    "question": "En 2026, una Gobernación diseña su plan archivístico ignorando el Plan Nacional de Desarrollo. Según el literal a) del Artículo 6o de la Ley 594 de 2000, ¿qué referente es obligatorio?",
+    "question": "Una Gobernación diseña su plan archivístico ignorando el Plan Nacional de Desarrollo. Según el literal a) del Artículo 6o de la Ley 594 de 2000, ¿qué referente es obligatorio?",
     "options": [
       "Los estándares internacionales de gestión documental ISO.",
       "El Plan Nacional de Desarrollo y los planes sectoriales.",
@@ -302,15 +302,15 @@
     "explanation": "Según el literal b) del Artículo 6o de la Ley 594 de 2000, la asistencia técnica está a cargo del AGN, consejos territoriales, comités técnicos, entidades de formación y asociaciones públicas o privadas especializadas."
   },
   {
-    "question": "Si una entidad descentralizada omite el seguimiento de sus procesos, ¿quién es responsable según el literal c) del Artículo 6o de la Ley 594 de 2000 (Ley General de Archivos)?",
+    "question": "¿A quiénes corresponde la responsabilidad de la ejecución, seguimiento y control de los planes y programas de desarrollo archivístico, según el literal c) del Artículo 6o de la Ley 594 de 2000?",
     "options": [
-      "El Ministerio de Cultura como cabeza de sector nacional.",
-      "Los gremios de archivistas y las academias de historia.",
-      "Las firmas privadas que brindan la asistencia técnica.",
-      "Los archivos nacionales, territoriales y descentralizados."
+      "Al Archivo General de la Nación y al Ministerio de Cultura exclusivamente.",
+      "A las asociaciones profesionales y entidades privadas que brindan asistencia técnica.",
+      "A los consejos territoriales de archivos y a los comités técnicos del sistema.",
+      "A los archivos del orden nacional, territorial y de las entidades descentralizadas."
     ],
     "correct": 3,
-    "explanation": "El literal c) del Artículo 6o de la Ley 594 de 2000 dicta que la ejecución, seguimiento y control de los planes son responsabilidad de los archivos nacional, territorial y de las entidades descentralizadas del Estado."
+    "explanation": "El literal c) del Artículo 6o de la Ley 594 de 2000 establece taxativamente que la ejecución, seguimiento y control de dichos planes son responsabilidad de los archivos de los órdenes nacional y territorial, así como de las entidades descentralizadas directas e indirectas del Estado."
   },
   {
     "question": "Ante una discrepancia técnica entre departamentos, ¿qué entidad debe armonizar el sistema según el literal d) del Artículo 6o de la Ley 594 de 2000 (Ley General de Archivos)?",
