@@ -392,7 +392,7 @@
   },
 
   {
-    "question": "Un ciudadano solicita en 2026 un decreto presidencial emitido por el Ministerio de Justicia. Según el Artículo 8° de la Ley 594 de 2000, ¿en qué categoría se clasifica este archivo por su alcance?",
+    "question": "Un ciudadano solicita un decreto presidencial emitido por el Ministerio de Justicia. Según el Artículo 8° de la Ley 594 de 2000, ¿en qué categoría se clasifica este archivo por su alcance?",
     "options": [
       "Archivos de entidades del orden distrital",
       "Archivos de entidades del orden nacional",
@@ -1867,5 +1867,72 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 34 de la Ley 594 de 2000 es imperativo al señalar que el AGN normaliza los archivos públicos en general, sin excepciones por nivel territorial o autonomía."
+  },
+
+  {
+    "question": "Un Consejo Departamental de Archivos halla documentos públicos en condiciones de humedad crítica. Según el Artículo 35 de la Ley 594 de 2000, ¿qué facultad inmediata posee este organismo territorial?",
+    "options": [
+      "Emitir órdenes de suspensión de prácticas que vulneren la integridad de los archivos y adoptar medidas correctivas.",
+      "Solicitar permiso al Ministerio de Cultura para poder intervenir administrativamente en la entidad que tiene el fallo.",
+      "Trasladar de forma permanente todos los fondos documentales a una sede privada sin previa autorización del gobierno.",
+      "Imponer sanciones penales de privación de la libertad a los encargados del archivo de manera autónoma e inmediata."
+    ],
+    "correct": 0,
+    "explanation": "El encabezado y el literal (a) del Artículo 35 de la Ley 594 de 2000 otorgan facultades a prevención a los Consejos de Archivos para emitir órdenes de suspensión y medidas preventivas ante amenazas a los archivos."
+  },
+  {
+    "question": "Una entidad pública ignora una orden técnica del Archivo General de la Nación. Bajo el Artículo 35 de la Ley 594 de 2000, ¿cuál es la sanción económica aplicable si no existe una norma especial previa?",
+    "options": [
+      "Una multa única y definitiva de cincuenta salarios mínimos legales mensuales vigentes a favor del tesoro nacional.",
+      "Multas semanales sucesivas a favor del tesoro respectivo de hasta veinte salarios mínimos legales mensuales vigentes.",
+      "Sanciones económicas diarias de diez salarios mínimos mensuales hasta que se logre el cumplimiento de la orden.",
+      "Descuento automático del cinco por ciento del presupuesto de inversión de la entidad durante el año fiscal vigente."
+    ],
+    "correct": 1,
+    "explanation": "El literal (a) del Artículo 35 de la Ley 594 de 2000 establece multas semanales sucesivas de hasta 20 SMLMV mientras persista el incumplimiento de las órdenes impartidas por la autoridad archivística competente."
+  },
+  {
+    "question": "Un funcionario de una entidad estatal elimina folios originales de un expediente histórico. Según el Artículo 35 de la Ley 594 de 2000, ¿cómo debe ser calificada esta conducta disciplinaria?",
+    "options": [
+      "Como una falta leve que requiere únicamente de una amonestación escrita en la hoja de vida del servidor público.",
+      "Como una falta grave que conlleva a la suspensión del cargo por un periodo no mayor a noventa días calendario.",
+      "Como una falta administrativa menor que no genera antecedentes en la Procuraduría General de la Nación vigente.",
+      "Como una falta gravísima para servidores públicos de conformidad con lo establecido en la normativa disciplinaria."
+    ],
+    "correct": 3,
+    "explanation": "El literal (b) del Artículo 35 de la Ley 594 de 2000 señala que las faltas contra el patrimonio documental serán tenidas como gravísimas para servidores públicos, remitiendo a la Ley 200 de 1995 (Código Disciplinario)."
+  },
+  {
+    "question": "Se sorprende a un individuo en flagrancia destruyendo un archivo público protegido. De acuerdo con el Artículo 35 de la Ley 594 de 2000, ¿qué acción es obligatoria para la autoridad presente?",
+    "options": [
+      "Iniciar un proceso de mediación con el ciudadano para que repare el daño causado mediante trabajo comunitario.",
+      "Poner al retenido a órdenes de la autoridad de policía más cercana e instaurar la respectiva denuncia penal.",
+      "Notificar al Archivo General de la Nación para que ellos decidan si se debe capturar o no a la persona implicada.",
+      "Proceder únicamente con la imposición de una multa pecuniaria sin necesidad de recurrir a instancias policiales."
+    ],
+    "correct": 1,
+    "explanation": "El literal (c) del Artículo 35 de la Ley 594 de 2000 estipula que si la falta constituye hecho punible y hay flagrancia, se debe poner al retenido ante la policía e instaurar la denuncia penal correspondiente."
+  },
+  {
+    "question": "Un ciudadano intenta sacar del país documentos coloniales sin autorización. Según el Artículo 35 de la Ley 594 de 2000, ¿cuál es el destino legal de dichos documentos sustraídos?",
+    "options": [
+      "Serán destruidos por la autoridad aduanera para evitar que el mercado negro de documentos históricos continúe.",
+      "Serán subastados públicamente para que el Estado recupere los costos operativos del proceso de incautación ilegal.",
+      "Serán decomisados y puestos a órdenes del Ministerio de la Cultura para asegurar su protección y preservación.",
+      "Serán entregados a la biblioteca municipal más cercana al punto de salida para su consulta pública inmediata."
+    ],
+    "correct": 2,
+    "explanation": "El literal (d) del Artículo 35 de la Ley 594 de 2000 determina que los documentos exportados o sustraídos ilegalmente serán decomisados y puestos a órdenes del Ministerio de la Cultura."
+  },
+  {
+    "question": "Se confirma que archivos históricos colombianos están en el exterior tras un robo. Bajo el Artículo 35 de la Ley 594 de 2000, ¿cuál es el deber del Estado en esta situación?",
+    "options": [
+      "El Estado realizará todos los esfuerzos tendientes a repatriar los documentos y archivos extraídos ilegalmente.",
+      "El Estado solicitará una compensación económica al país donde se encuentren los archivos para sanear el daño.",
+      "El Estado declarará los documentos como perdidos y procederá a eliminar las copias digitales que existan aún.",
+      "El Estado esperará a que el actual poseedor decida donar voluntariamente los archivos a través de un convenio."
+    ],
+    "correct": 0,
+    "explanation": "El literal (d) del Artículo 35 de la Ley 594 de 2000 establece que es obligación del Estado realizar todos los esfuerzos necesarios para repatriar archivos que hayan sido extraídos ilegalmente del territorio."
   }
 ]
