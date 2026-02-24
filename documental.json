@@ -2035,5 +2035,61 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 37 de la Ley 594 de 2000 ordena al AGN brindar asistencia a archivos de partidos políticos por su relevancia en la vida social del país."
+  },
+
+  {
+    "question": "Un ciudadano hereda una colección de cartas de la época de la Regeneración con alto valor histórico. Según el Artículo 38 de la Ley 594 de 2000, ¿cuál es su obligación principal como propietario?",
+    "options": [
+      "Vender el archivo al Estado para que este garantice su conservación técnica y física.",
+      "Inscribir los documentos en el registro que el Archivo General de la Nación debe abrir.",
+      "Donar los originales a una biblioteca pública para evitar el deterioro del patrimonio.",
+      "Mantener los documentos en reserva absoluta para proteger la intimidad de sus ancestros."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 38 de la Ley 594 de 2000 establece que los propietarios de archivos con significación histórica deben inscribirlos en el registro abierto por el Archivo General de la Nación."
+  },
+  {
+    "question": "Una universidad privada posee libros de contabilidad del siglo XIX que son clave para la historia económica. Bajo el Artículo 38 de la Ley 594 de 2000, ¿qué calidad ostenta esta entidad jurídica?",
+    "options": [
+      "Es un sujeto obligado a registrar sus archivos por poseer documentos de valor histórico.",
+      "Es una entidad exenta de registro por ser una persona jurídica de carácter educativo.",
+      "Es una institución que solo debe reportar si el Archivo General realiza una auditoría.",
+      "Es un custodio temporal que debe entregar los libros a la nación de forma obligatoria."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 38 de la Ley 594 de 2000 vincula tanto a personas naturales como jurídicas que sean propietarias, poseedoras o tenedoras de archivos con significación histórica."
+  },
+  {
+    "question": "Un bibliotecario custodia mapas antiguos de una fundación sin ser el dueño legal. Ante el Artículo 38 de la Ley 594 de 2000, ¿está obligado a realizar el registro de estos documentos?",
+    "options": [
+      "No, la ley indica que la responsabilidad de registro es exclusiva del dueño del título.",
+      "No, puesto que su función es de custodia técnica y no de representación legal del bien.",
+      "Sí, ya que la norma incluye explícitamente a los poseedores o tenedores de los archivos.",
+      "Sí, pero solo si la fundación propietaria ha desaparecido o ha sido liquidada legalmente."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 38 de la Ley 594 de 2000 menciona que los poseedores o tenedores, además de los propietarios, tienen la responsabilidad de inscribir los archivos históricos en el registro."
+  },
+  {
+    "question": "El archivo de una familia es declarado de interés cultural por el Estado. Según el Artículo 38 de la Ley 594 de 2000, ¿qué ocurre con la propiedad física de dichos documentos?",
+    "options": [
+      "La propiedad se transfiere al Estado, pero la familia mantiene la custodia de los mismos.",
+      "La propiedad se divide en partes iguales entre el Archivo General y el dueño original.",
+      "La propiedad debe ser cedida a un museo nacional para su exhibición pública permanente.",
+      "La propiedad, posesión o tenencia de los archivos continúa en manos de sus propietarios."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 38 de la Ley 594 de 2000 garantiza que, tras la declaratoria de interés cultural, los propietarios privados conserven la propiedad, posesión o tenencia de sus archivos."
+  },
+  {
+    "question": "El Archivo General de la Nación solicita copias de un archivo privado declarado de interés cultural. Según el Artículo 38 de la Ley 594 de 2000, ¿cómo debe actuar el poseedor?",
+    "options": [
+      "Debe negar el acceso a las copias para proteger el valor comercial de los originales.",
+      "Debe facilitar las copias solicitadas por el Archivo General para asegurar su difusión.",
+      "Debe entregar los originales al Archivo General y conservar únicamente las fotocopias.",
+      "Debe cobrar una tasa administrativa al Estado por cada copia que sea reproducida y dada."
+    ],
+    "correct": 1,
+    "explanation": "El inciso final del Artículo 38 de la Ley 594 de 2000 obliga a los dueños de archivos privados de interés cultural a facilitar las copias que el Archivo General de la Nación solicite."
   }
 ]
