@@ -1934,5 +1934,50 @@
     ],
     "correct": 0,
     "explanation": "El literal (d) del Artículo 35 de la Ley 594 de 2000 establece que es obligación del Estado realizar todos los esfuerzos necesarios para repatriar archivos que hayan sido extraídos ilegalmente del territorio."
+  },
+
+  {
+    "question": "Un ciudadano independiente conserva en su oficina personal los contratos de arrendamiento de sus locales y facturas de servicios. Según el Artículo 36 de la Ley 594 de 2000, ¿cómo se clasifica legalmente este conjunto de documentos?",
+    "options": [
+      "Archivo institucional de carácter ciudadano",
+      "Archivo privado perteneciente a persona natural",
+      "Archivo público por su impacto en el comercio",
+      "Archivo de gestión para entidades del estado"
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 36 de la Ley 594 de 2000 define que el archivo privado es aquel conjunto de documentos que pertenecen a personas naturales, como en este caso el ciudadano independiente."
+  },
+  {
+    "question": "Una sociedad anónima dedicada a la manufactura organiza los registros de su nómina y balances contables anuales. Bajo el marco del Artículo 36 de la Ley 594 de 2000, ¿qué criterio define la naturaleza de este archivo?",
+    "options": [
+      "Su pertenencia a una persona jurídica de derecho privado",
+      "Su obligación de ser reportado ante la red de archivos",
+      "Su contenido estrictamente contable y de valor comercial",
+      "Su custodia por parte de un representante legal titulado"
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 36 de la Ley 594 de 2000, los documentos pertenecientes a personas jurídicas de derecho privado se categorizan legalmente como archivos privados sin importar su volumen."
+  },
+  {
+    "question": "Un laboratorio clínico privado genera miles de resultados de exámenes diagnósticos tras atender a sus pacientes. Según el Artículo 36 de la Ley 594 de 2000, ¿por qué estos registros técnicos forman parte de su archivo privado?",
+    "options": [
+      "Por ser documentos que gozan de reserva de sumario",
+      "Por ser registros custodiados en una zona de archivo",
+      "Por derivarse directamente de la prestación de servicios",
+      "Por tratarse de información sensible de alta seguridad"
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 36 de la Ley 594 de 2000 estipula que los documentos que se deriven de la prestación de servicios de los particulares son parte integrante y fundamental del archivo privado."
+  },
+  {
+    "question": "Si una fundación sin ánimo de lucro (derecho privado) custodia las actas de su asamblea general, ¿qué denominación otorga el Artículo 36 de la Ley 594 de 2000 a este acervo documental específico?",
+    "options": [
+      "Archivo de interés social y carácter obligatorio",
+      "Archivo histórico de una entidad de beneficencia",
+      "Archivo administrativo de consulta externa privada",
+      "Archivo privado de una persona jurídica de derecho"
+    ],
+    "correct": 3,
+    "explanation": "Conforme al Artículo 36 de la Ley 594 de 2000, las organizaciones privadas (como las fundaciones) poseen archivos privados por su naturaleza jurídica de derecho privado ante la legislación."
   }
 ]
