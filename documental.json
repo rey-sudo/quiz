@@ -1734,5 +1734,49 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 32 de la Ley 594 de 2000 otorga la facultad de verificar el cumplimiento de lo dispuesto en dicha ley y sus normas reglamentarias, las cuales en 2026 integran plenamente la gestión de documentos electrónicos y digitales."
+  },
+  {
+    "question": "Un banco privado posee actas de fundación del siglo XIX declaradas de interés cultural. Según el Artículo 33 de la Ley 594 de 2000 sobre el Órgano Competente, ¿quién debe vigilar estos documentos?",
+    "options": [
+      "La Superintendencia Financiera por ser una entidad bancaria privada.",
+      "El Estado, mediante el control del Archivo General de la Nación.",
+      "El Ministerio de Cultura por tratarse de un patrimonio histórico.",
+      "La junta directiva del banco bajo sus propios estándares internos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 33 de la Ley 594 de 2000 establece que el Estado, a través del Archivo General de la Nación, es el único órgano con la competencia legal para ejercer control y vigilancia sobre documentos de interés cultural en manos de privados."
+  },
+  {
+    "question": "Un historiador (persona natural) tiene bajo su posesión manuscritos declarados de interés cultural. De acuerdo con el Artículo 33 de la Ley 594 de 2000, ¿cuál es su situación frente a la ley?",
+    "options": [
+      "Está sujeto a la vigilancia técnica del Archivo General de la Nación.",
+      "Goza de autonomía total por ser un ciudadano y no una institución.",
+      "Debe entregar la propiedad de sus documentos al Estado colombiano.",
+      "Queda exento de controles estatales por tratarse de bienes privados."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 33 de la Ley 594 de 2000, la vigilancia del Archivo General de la Nación se extiende a personas naturales y jurídicas de carácter privado que posean documentos declarados de interés cultural."
+  },
+  {
+    "question": "Una ONG posee archivos de derechos humanos que aún NO han sido declarados de interés cultural. ¿Se aplica el control del Archivo General de la Nación basado en el Artículo 33 de la Ley 594 de 2000?",
+    "options": [
+      "Sí, porque el Archivo General de la Nación vigila toda la información.",
+      "Sí, dado que los archivos de las ONG son públicos por naturaleza legal.",
+      "No, pues la norma exige la declaración previa como interés cultural.",
+      "No, debido a que el Estado no puede intervenir en archivos de ONGs."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 33 de la Ley 594 de 2000 especifica que la competencia de control y vigilancia se activa sobre los documentos que hayan sido efectivamente 'declarados de interés cultural' por la autoridad correspondiente."
+  },
+  {
+    "question": "Si una empresa tecnológica privada posee archivos digitales históricos de la nación, ¿qué rol cumple el Archivo General de la Nación bajo el Artículo 33 de la Ley 594 de 2000?",
+    "options": [
+      "Comprar la infraestructura digital para nacionalizar los datos privados.",
+      "Actuar como propietario de los servidores donde reside la información.",
+      "Eliminar el acceso privado para convertir los datos en código abierto.",
+      "Ejercer control y vigilancia sobre dichos documentos de interés cultural."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 33 de la Ley 594 de 2000 define que el rol del Estado, vía el Archivo General de la Nación, es de supervisión y control, asegurando la integridad del patrimonio documental sin importar el soporte o el dueño."
   }
 ]
