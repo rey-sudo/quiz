@@ -1778,5 +1778,94 @@
     ],
     "correct": 3,
     "explanation": "El Artículo 33 de la Ley 594 de 2000 define que el rol del Estado, vía el Archivo General de la Nación, es de supervisión y control, asegurando la integridad del patrimonio documental sin importar el soporte o el dueño."
+  },
+
+  {
+    "question": "En una alcaldía, el jefe de planeación diseña sus propios formatos sin seguir pautas nacionales. Según el Artículo 34 de la Ley 594 de 2000, ¿quién debe fijar estas normas técnicas?",
+    "options": [
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones.",
+      "El Archivo General de la Nación como ente rector de la normalización.",
+      "La oficina de control interno de cada una de las entidades públicas.",
+      "El Congreso de la República mediante leyes orgánicas de archivos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 34 de la Ley 594 de 2000 establece que el Archivo General de la Nación fijará los criterios y normas técnicas para la creación y organización de archivos."
+  },
+  {
+    "question": "Un archivo municipal se inunda y los documentos quedan cubiertos de moho. ¿A qué criterio de normalización del Artículo 34 de la Ley 594 de 2000 se refiere la falta de prevención?",
+    "options": [
+      "Al criterio técnico de conservación de los archivos públicos nacionales.",
+      "A la norma jurídica de transparencia y acceso a la información pública.",
+      "Al proceso de transferencia documental entre las distintas fases de vida.",
+      "A la fase de creación de documentos en soportes físicos de alta calidad."
+    ],
+    "correct": 0,
+    "explanation": "La Ley 594 de 2000 en su Artículo 34 menciona explícitamente la conservación como uno de los procesos que el AGN debe normalizar para proteger el patrimonio documental."
+  },
+  {
+    "question": "Un ciudadano no puede acceder a un expediente histórico porque no ha sido inventariado adecuadamente. ¿Qué servicio del Artículo 34 de la Ley 594 de 2000 está siendo afectado?",
+    "options": [
+      "La norma técnica de creación de nuevos expedientes en formato digital.",
+      "El proceso de transferencia de documentos del archivo central al histórico.",
+      "Los criterios de organización y servicios de los archivos públicos del Estado.",
+      "La disposición legal de eliminar documentos sin valor administrativo vigente."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 34 de la Ley 594 de 2000 incluye la organización y los servicios de los archivos como elementos fundamentales de la normalización para garantizar el acceso ciudadano."
+  },
+  {
+    "question": "Una entidad estatal decide no enviar sus cajas al archivo central para ahorrar costos de transporte. ¿Qué inciso del Artículo 34 de la Ley 594 de 2000 están omitiendo cumplir?",
+    "options": [
+      "El proceso de creación de archivos bajo los estándares de la normativa.",
+      "La normalización de la transferencia documental fijada por el AGN central.",
+      "El criterio de conservación preventiva de los documentos en soporte papel.",
+      "La aplicación de normas técnicas de servicios para el usuario externo."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 34 de la Ley 594 de 2000, la transferencia es uno de los procesos técnicos normalizados por el AGN para asegurar el flujo correcto de la información estatal."
+  },
+  {
+    "question": "Bajo qué fundamento superior el Artículo 34 de la Ley 594 de 2000 justifica que el AGN emita normas técnicas de obligatorio cumplimiento para todas las entidades del país?",
+    "options": [
+      "El cumplimiento del derecho fundamental de petición de todos los ciudadanos.",
+      "La protección de la soberanía nacional frente a potencias extranjeras.",
+      "Lo dispuesto en el artículo 8o. de la Constitución Política de Colombia. (Es obligación del Estado y de las personas proteger las riquezas culturales y naturales de la Nación).",
+      "La autonomía administrativa de las regiones y departamentos colombianos."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 34 de la Ley 594 de 2000 inicia citando el Artículo 8o. de la Constitución, el cual obliga al Estado a proteger las riquezas culturales (archivos) de la Nación."
+  },
+  {
+    "question": "Al implementar un software de gestión documental, una entidad ignora los requisitos de seguridad jurídica del AGN. ¿Qué tipo de criterios del Artículo 34 de la Ley 594 de 2000 ignora?",
+    "options": [
+      "Los criterios y normas técnicas y jurídicas fijadas por la autoridad nacional.",
+      "Las directrices de presupuesto emitidas por el Ministerio de Hacienda nacional.",
+      "Las recomendaciones de los proveedores de tecnología y seguridad digital.",
+      "Las normas de creación de empleos en las oficinas de gestión documental."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 34 de la Ley 594 de 2000 faculta al AGN para fijar criterios tanto técnicos como jurídicos para hacer efectiva la gestión de los archivos públicos colombianos."
+  },
+  {
+    "question": "Si una oficina pública genera documentos sin foliar y sin clasificación, ¿qué aspecto de la normalización del Artículo 34 de la Ley 594 de 2000 está incumpliendo directamente?",
+    "options": [
+      "La fase de creación de documentos bajo los estándares internacionales actuales.",
+      "La etapa de servicios de consulta para investigadores y para la ciudadanía.",
+      "El requisito de conservación a largo plazo en los depósitos de archivos.",
+      "La organización de los archivos públicos bajo normas técnicas del AGN."
+    ],
+    "correct": 3,
+    "explanation": "La organización es uno de los pilares de la normalización establecidos en el Artículo 34 de la Ley 594 de 2000 para que los archivos sean recuperables y estructurados."
+  },
+  {
+    "question": "Una gobernación alega que sus archivos no deben seguir las pautas del AGN por ser autónoma. ¿Cómo rebate el Artículo 34 de la Ley 594 de 2000 este argumento de exclusión?",
+    "options": [
+      "Dictaminando que la autonomía regional no aplica para temas de patrimonio.",
+      "Indicando que el AGN fijará las normas para los archivos públicos del país.",
+      "Obligando a las gobernaciones a pedir permiso para crear archivos locales.",
+      "Asignando presupuesto nacional solo a quienes cumplan con la normalización."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 34 de la Ley 594 de 2000 es imperativo al señalar que el AGN normaliza los archivos públicos en general, sin excepciones por nivel territorial o autonomía."
   }
 ]
