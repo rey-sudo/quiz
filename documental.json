@@ -1979,5 +1979,61 @@
     ],
     "correct": 3,
     "explanation": "Conforme al Artículo 36 de la Ley 594 de 2000, las organizaciones privadas (como las fundaciones) poseen archivos privados por su naturaleza jurídica de derecho privado ante la legislación."
+  },
+
+  {
+    "question": "Un centro de investigación técnica en Medellín posee registros de experimentos de 1950. Según el Artículo 37 de la Ley 594 de 2000, ¿qué acción debe realizar el Estado frente a estos documentos?",
+    "options": [
+      "El Estado debe proceder a la expropiación inmediata de los registros para asegurar su custodia en el archivo público.",
+      "El Estado debe estimular la organización, conservación y consulta de estos archivos por su interés técnico y científico.",
+      "El Estado debe ignorar estos fondos documentales por tratarse de archivos privados sin relevancia para la nación.",
+      "El Estado debe exigir el pago de una póliza de seguros obligatoria para permitir que los archivos sigan en el centro."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 37 de la Ley 594 de 2000 establece que el Estado estimulará la organización y conservación de archivos privados de interés técnico y científico."
+  },
+  {
+    "question": "El Archivo General de la Nación recibe una solicitud de apoyo de un sindicato histórico. Bajo el Artículo 37 de la Ley 594 de 2000, ¿qué mandato rige para esta situación?",
+    "options": [
+      "Brindar especial protección y asistencia a los archivos de las instituciones del mundo del trabajo como este sindicato.",
+      "Negar la solicitud debido a que los sindicatos son asociaciones privadas que deben costear su propia gestión técnica.",
+      "Trasladar la responsabilidad de asistencia al Ministerio del Trabajo por ser la entidad competente en asuntos laborales.",
+      "Condicionar la asistencia técnica a que el sindicato entregue la propiedad de sus libros de actas al Gobierno Nacional."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 37 de la Ley 594 de 2000, el AGN debe brindar especial protección a los archivos del mundo del trabajo y las asociaciones."
+  },
+  {
+    "question": "Una congregación religiosa en Popayán custodia archivos coloniales de gran valor. ¿Qué estipula el Artículo 37 de la Ley 594 de 2000 respecto a este tipo de instituciones?",
+    "options": [
+      "Las iglesias están excluidas de la protección estatal para garantizar la separación constitucional entre Iglesia y Estado.",
+      "El Estado solo asistirá a las iglesias si estas aceptan convertir sus archivos privados en archivos de acceso público total.",
+      "Los archivos de las iglesias deben ser destruidos si contienen información que no sea estrictamente de carácter religioso.",
+      "El Archivo General de la Nación brindará especial protección y asistencia a los archivos pertenecientes a las iglesias."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 37 de la Ley 594 de 2000 incluye explícitamente a las iglesias como sujetos de especial protección y asistencia por parte del AGN."
+  },
+  {
+    "question": "La familia de un expresidente y literato colombiano posee su correspondencia privada. ¿Cómo define su situación el Artículo 37 de la Ley 594 de 2000?",
+    "options": [
+      "Se consideran archivos de personalidades destacadas en la política y literatura, sujetos a protección especial del AGN.",
+      "Se definen como documentos de carácter reservado que no pueden recibir asistencia estatal por su origen puramente familiar.",
+      "Son archivos que deben ser digitalizados obligatoriamente por la familia bajo pena de sanción económica por parte del Estado.",
+      "Constituyen documentos que pierden su valor histórico una vez que la personalidad destacada fallece y queda su familia."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 37 de la Ley 594 de 2000 protege los archivos familiares y de personalidades destacadas en artes, ciencia, literatura y política."
+  },
+  {
+    "question": "Un partido político solicita guía para organizar sus actas de fundación. ¿Cuál es el fundamento en el Artículo 37 de la Ley 594 de 2000 para atender esta petición?",
+    "options": [
+      "La ley prohíbe que el Estado intervenga en archivos de partidos políticos para evitar sesgos en la preservación histórica.",
+      "Los partidos políticos deben entregar sus archivos al Archivo General de la Nación como requisito para su personería jurídica.",
+      "El Archivo General de la Nación brindará asistencia a los archivos de los partidos políticos por su interés social y cultural.",
+      "El Estado solo estimulará la consulta de estos archivos si el partido político se encuentra actualmente representado en el Congreso."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 37 de la Ley 594 de 2000 ordena al AGN brindar asistencia a archivos de partidos políticos por su relevancia en la vida social del país."
   }
 ]
