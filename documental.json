@@ -2091,5 +2091,72 @@
     ],
     "correct": 1,
     "explanation": "El inciso final del Artículo 38 de la Ley 594 de 2000 obliga a los dueños de archivos privados de interés cultural a facilitar las copias que el Archivo General de la Nación solicite."
+  },
+
+  {
+    "question": "Un Gobernador declara de interés cultural los archivos de una hacienda colonial mediante decreto regional. Según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), ¿es este acto administrativo legalmente válido?",
+    "options": [
+      "No, pues la competencia es exclusiva de la Junta Directiva del Archivo General de la Nación.",
+      "Sí, dado que los gobernadores tienen autonomía sobre el patrimonio documental de su región.",
+      "No, porque los documentos de haciendas privadas no pueden ser parte del patrimonio nacional.",
+      "Sí, siempre que el decreto regional sea posteriormente ratificado por el Ministerio de Cultura."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos) establece que la única autoridad facultada para esta declaratoria sobre documentos privados es la Junta Directiva del Archivo General de la Nación."
+  },
+  {
+    "question": "Una familia posee manuscritos del siglo XIX que el Estado desea proteger. Bajo el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué sucede con la titularidad física de dichos documentos tras la declaratoria?",
+    "options": [
+      "La propiedad física se transfiere al Estado para garantizar su debida custodia en el Archivo Nacional.",
+      "La declaratoria se emite sin perjuicio del derecho de propiedad que los particulares tienen sobre ellos.",
+      "El Estado asume el 50% de la propiedad compartida, permitiendo al privado mantener la tenencia física.",
+      "La propiedad privada se extingue automáticamente al ser integrados al patrimonio documental del país."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), el Estado puede declarar el interés cultural pero debe respetar el derecho de propiedad privada del titular original sobre el soporte físico."
+  },
+  {
+    "question": "El Archivo General de la Nación identifica correspondencia privada de alto valor histórico y decide declararla patrimonio mediante un oficio simple. ¿Qué requisito del Artículo 39 de la Ley 594 de 2000 se omitió?",
+    "options": [
+      "La obtención obligatoria del consentimiento notarial de todos los herederos legítimos del documento.",
+      "La verificación de que el documento tenga una antigüedad mínima certificada de más de cien años.",
+      "El cumplimiento estricto del procedimiento que se establezca para el efecto por la autoridad técnica.",
+      "La realización de una subasta pública previa para determinar el valor comercial real del documento."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos) exige que la declaratoria de interés cultural siga un procedimiento formal establecido para garantizar el debido proceso administrativo."
+  },
+  {
+    "question": "Una empresa de energía conserva planos de infraestructura de 2025. Un colectivo ciudadano exige su declaratoria de interés cultural. Según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), ¿por qué podría negarse esta solicitud?",
+    "options": [
+      "Porque las empresas privadas están exentas de cumplir cualquier normativa de carácter archivístico.",
+      "Porque los planos de infraestructura técnica no se consideran documentos bajo la Ley General de Archivos.",
+      "Porque el libre acceso a documentos privados solo es posible si la empresa acepta donarlos al Estado.",
+      "Porque la norma exige que los documentos privados posean estrictamente un carácter de tipo histórico."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos) limita esta potestad de declaratoria a documentos privados que tengan carácter histórico, no a documentos operativos o administrativos recientes."
+  },
+  {
+    "question": "Un ciudadano desea consultar un archivo familiar que ya fue declarado de interés cultural, pero el dueño le prohíbe el ingreso. Según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es el estatus de acceso?",
+    "options": [
+      "El propietario privado mantiene la potestad de decidir quién puede o no consultar sus archivos históricos.",
+      "Al formar parte del patrimonio documental colombiano, dichos documentos serán de libre acceso público.",
+      "El acceso es restringido y requiere una orden judicial previa que justifique la necesidad de consulta.",
+      "La consulta solo es permitida para investigadores que cuenten con un aval del Ministerio de Educación."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos) determina que una vez declarados de interés cultural, los documentos forman parte del patrimonio nacional y, en consecuencia, son de libre acceso."
+  },
+  {
+    "question": "Un coleccionista intenta exportar un diario de la época de la Regeneración ya declarado de interés cultural. Según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), ¿cuál es la consecuencia de la declaratoria?",
+    "options": [
+      "La declaratoria es solo un reconocimiento honorífico que no impone restricciones a la venta internacional.",
+      "El dueño debe pagar una tasa de preservación anual al Archivo General de la Nación para poder exportarlo.",
+      "El documento queda bajo la protección del Estado como parte integrante del patrimonio documental nacional.",
+      "Los documentos declarados pierden su valor comercial y solo pueden ser intercambiados entre museos."
+    ],
+    "correct": 2,
+    "explanation": "Al ser integrados al patrimonio documental colombiano según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), estos documentos quedan sujetos a la normativa de protección del patrimonio nacional."
   }
 ]
