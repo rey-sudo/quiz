@@ -2214,5 +2214,72 @@
     ],
     "correct": 3,
     "explanation": "El Artículo 40 de la Ley General de Archivos señala explícitamente que es el Gobierno Nacional quien debe establecer y reglamentar el régimen de estímulos para los archivos privados declarados de interés cultural."
+  },
+
+  {
+    "question": "Un museo privado en Cartagena posee cartas de la época colonial declaradas de interés cultural y planea enviarlas a una exposición en México. Según el Artículo 41 de la Ley 594 de 2000, ¿qué requisito debe cumplir antes del traslado?",
+    "options": [
+      "Debe tramitar la previa autorización del Archivo General de la Nación para poder mover los folios.",
+      "Debe informar al Ministerio de Relaciones Exteriores para asegurar la inmunidad del patrimonio.",
+      "Debe registrar el movimiento en la notaría más cercana al domicilio donde se custodia el bien.",
+      "Debe solicitar un permiso especial de exportación temporal ante la DIAN y el Ministerio de Cultura."
+    ],
+    "correct": 0,
+    "explanation": "El literal 'a' del Artículo 41 de la Ley 594 de 2000 prohíbe trasladar documentos de interés cultural fuera del país sin previa autorización del Archivo General de la Nación."
+  },
+  {
+    "question": "Una empresa es sancionada por sacar del país archivos históricos de interés cultural sin permiso. Según el Artículo 41 de la Ley 594 de 2000, ¿cuál es la multa y la consecuencia física sobre los documentos?",
+    "options": [
+      "Multa de ochenta salarios mínimos legales y la custodia compartida con una universidad pública.",
+      "Multa de cien salarios mínimos legales mensuales vigentes y el decomiso de todos los documentos.",
+      "Multa de cincuenta salarios mínimos legales y el retorno obligatorio bajo fianza del propietario.",
+      "Multa de sesenta salarios mínimos legales mensuales y la pérdida definitiva de la personería."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 41 de la Ley 594 de 2000 establece en su literal 'a' una multa de 100 SMMLV y el decomiso de los bienes que sean objeto de exportación o sustracción ilegal."
+  },
+  {
+    "question": "Se descubre que un archivo histórico colombiano de interés cultural fue vendido ilegalmente a un coleccionista en Suiza. Bajo el Artículo 41 de la Ley 594 de 2000, ¿cuál es el proceder obligatorio del Estado?",
+    "options": [
+      "El Estado debe iniciar un proceso de expropiación administrativa sobre otros bienes del infractor.",
+      "El Estado debe cancelar la declaratoria de interés cultural para evitar futuros conflictos legales.",
+      "El Estado realizará todos los esfuerzos tendientes a repatriar los documentos extraídos ilegalmente.",
+      "El Estado debe solicitar una indemnización económica al país receptor por daños al patrimonio nacional."
+    ],
+    "correct": 2,
+    "explanation": "El literal 'a' del Artículo 41 de la Ley 594 de 2000 ordena que el Estado realice los esfuerzos necesarios para repatriar archivos que hayan sido extraídos ilegalmente del territorio."
+  },
+  {
+    "question": "Un ciudadano vende su colección de mapas antiguos (declarados de interés cultural) a una entidad privada sin avisar a las autoridades. ¿Qué sanción impone el Artículo 41 de la Ley 594 de 2000 por esta omisión?",
+    "options": [
+      "Se le impondrá una investigación administrativa y una multa de veinte salarios mínimos mensuales.",
+      "Se le impondrá una investigación administrativa y una multa de cuarenta salarios mínimos mensuales.",
+      "Se le impondrá una investigación administrativa y una multa de treinta salarios mínimos mensuales.",
+      "Se le impondrá una investigación administrativa y una multa de cincuenta salarios mínimos mensuales."
+    ],
+    "correct": 3,
+    "explanation": "El literal 'b' del Artículo 41 de la Ley 594 de 2000 estipula una multa de 50 SMMLV por transferir la propiedad o tenencia de estos documentos sin informar al Archivo General de la Nación."
+  },
+  {
+    "question": "Un historiador desea donar gratuitamente sus archivos declarados de interés cultural a una fundación. Según el inciso 'b' del Artículo 41 de la Ley 594 de 2000, ¿cuál es su obligación legal primaria?",
+    "options": [
+      "Debe solicitar un avalúo comercial actualizado para determinar el costo de los derechos de autor.",
+      "Debe informar previamente al Archivo General de la Nación sobre la transferencia de la tenencia.",
+      "Debe publicar un edicto en un diario de amplia circulación nacional informando sobre la donación.",
+      "Debe pedir permiso a los herederos legales hasta el cuarto grado de consanguinidad por seguridad."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 41 de la Ley 594 de 2000 exige informar al Archivo General de la Nación sobre cualquier transferencia de propiedad o tenencia, ya sea a título oneroso o gratuito (como una donación)."
+  },
+  {
+    "question": "Ante el incumplimiento de las prohibiciones de traslado y transferencia del patrimonio documental, ¿qué dictamina el Parágrafo del Artículo 41 de la Ley 594 de 2000 sobre el procedimiento a seguir?",
+    "options": [
+      "Dará lugar a la investigación correspondiente y a la imposición de las sanciones establecidas.",
+      "Dará lugar a la amonestación privada y al registro del infractor en una lista de control interna.",
+      "Dará lugar a la mediación obligatoria entre el propietario y el Archivo General de la Nación.",
+      "Dará lugar a la suspensión inmediata de todos los derechos civiles del poseedor del documento."
+    ],
+    "correct": 0,
+    "explanation": "El Parágrafo del Artículo 41 de la Ley 594 de 2000 establece que el desconocimiento de las prohibiciones activará las investigaciones y sanciones legales pertinentes."
   }
 ]
