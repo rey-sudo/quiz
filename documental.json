@@ -2393,5 +2393,61 @@
     ],
     "correct": 3,
     "explanation": "El Artículo 43 de la Ley 594 de 2000 ordena que los protocolos con más de treinta años se transfieran al Archivo General Notarial del respectivo círculo, garantizando la centralización documental por jurisdicción territorial."
+  },
+
+  {
+    "question": "Un coleccionista privado decide entregar de forma definitiva y gratuita sus manuscritos del siglo XIX al Archivo General de la Nación. Según el Artículo 44 de la Ley 594 de 2000, ¿bajo qué figura jurídica se clasifica esta entrega permanente de propiedad?",
+    "options": [
+      "Se clasifica como un depósito documental temporal.",
+      "Se clasifica como una donación de tipo histórico.",
+      "Se clasifica como un legado por causa de muerte.",
+      "Se clasifica como una transferencia administrativa."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 44 de la Ley 594 de 2000 define la donación como el acto mediante el cual se reciben documentos históricos de forma gratuita y definitiva, transfiriendo la titularidad del bien al patrimonio público documental."
+  },
+  {
+    "question": "Una investigadora desea que un archivo histórico público custodie sus diarios de campo para asegurar su conservación, pero exige mantener la propiedad legal sobre ellos. Según el Artículo 44 de la Ley 594 de 2000, ¿qué modalidad debe aplicar?",
+    "options": [
+      "Debe aplicar la modalidad de depósito documental.",
+      "Debe aplicar la modalidad de legado testamentario.",
+      "Debe aplicar la modalidad de donación condicionada.",
+      "Debe aplicar la modalidad de comodato obligatorio."
+    ],
+    "correct": 0,
+    "explanation": "Bajo el Artículo 44 de la Ley 594 de 2000, el depósito permite que los archivos históricos públicos reciban documentos para su cuidado y protección sin que el depositante transfiera la propiedad legal de los mismos a la nación."
+  },
+  {
+    "question": "En su testamento, un expresidente estipula que sus archivos digitales y fotos de estado sean entregados a un archivo histórico público tras su muerte. Según el Artículo 44 de la Ley 594 de 2000, ¿cómo se denomina formalmente este proceso?",
+    "options": [
+      "Se denomina una donación post-mortem de archivos.",
+      "Se denomina una dación en pago de valor histórico.",
+      "Se denomina una asignación de depósito voluntario.",
+      "Se denomina un legado de documentos históricos."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 44 de la Ley 594 de 2000 establece que los archivos históricos públicos pueden recibir legados, que son disposiciones testamentarias para transferir documentos de valor histórico una vez fallezca el titular original."
+  },
+  {
+    "question": "Una empresa privada intenta entregar facturas comerciales de hace seis meses a un archivo histórico público invocando el Artículo 44 de la Ley 594 de 2000. ¿Es procedente esta solicitud considerando el tipo de material documental?",
+    "options": [
+      "No, pues el artículo solo admite documentos históricos.",
+      "Sí, pues el artículo permite recibir cualquier archivo.",
+      "No, pues el artículo solo rige para documentos físicos.",
+      "Sí, siempre que el archivo público tenga espacio físico."
+    ],
+    "correct": 0,
+    "explanation": "De acuerdo con el Artículo 44 de la Ley 594 de 2000, la facultad de recibir donaciones, depósitos y legados está restringida exclusivamente a documentos de carácter histórico, excluyendo archivos de gestión o administrativos vigentes."
+  },
+  {
+    "question": "Un ciudadano desea donar documentos coloniales a la oficina de correspondencia de una alcaldía. Según el Artículo 44 de la Ley 594 de 2000, ¿cuáles son los únicos sujetos receptores autorizados para estos fines?",
+    "options": [
+      "Cualquier oficina estatal con funciones de ventanilla.",
+      "El Archivo General y los archivos históricos públicos.",
+      "Las bibliotecas públicas y las casas de cultura local.",
+      "Los museos nacionales y las notarías de cada círculo."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 44 de la Ley 594 de 2000 limita taxativamente la capacidad de recibir donaciones, depósitos y legados de este tipo al Archivo General de la Nación y a los archivos históricos que tengan carácter público."
   }
 ]
