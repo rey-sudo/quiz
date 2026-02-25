@@ -2505,5 +2505,50 @@
     ],
     "correct": 0,
     "explanation": "El Artículo 45 de la Ley 594 de 2000 cita textualmente que la expropiación se realizará por la vía administrativa a la que se refiere la Constitución Política de Colombia, lo que implica un proceso reglado y con pago previo."
+  },
+
+  {
+    "question": "En una entidad del orden nacional, el jefe de oficina sostiene que el Artículo 46 de la Ley 594 de 2000 solo obliga a cuidar el archivo histórico. ¿Cuál es la aplicación correcta del sistema de conservación según esta norma?",
+    "options": [
+      "Debe implementarse obligatoriamente un sistema de conservación que proteja el documento exclusivamente en su etapa de archivo histórico.",
+      "Debe implementarse un sistema integrado de conservación que abarque todas y cada una de las fases del ciclo vital de los documentos.",
+      "Debe implementarse un sistema de seguridad digital que priorice los archivos de gestión sobre los archivos centrales de la entidad.",
+      "Debe implementarse una estrategia de digitalización masiva que elimine la necesidad de conservación física en las sedes administrativas."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 46 de la Ley 594 de 2000 establece que los archivos de la Administración Pública deben implementar un sistema integrado de conservación en cada una de las fases del ciclo vital de los documentos (gestión, central e histórico)."
+  },
+  {
+    "question": "Un funcionario de un archivo central omite los protocolos de limpieza y control ambiental argumentando falta de presupuesto. Según el Artículo 46 de la Ley 594 de 2000, ¿qué elemento del sistema de conservación está vulnerando?",
+    "options": [
+      "La obligación de la Administración Pública de garantizar la integridad física de los documentos mediante un sistema de conservación integral.",
+      "La facultad de la Administración Pública para decidir qué fases del ciclo vital documental requieren inversión técnica y financiera.",
+      "El derecho de la Administración Pública de destruir documentos que no tengan consulta frecuente para optimizar los recursos del Estado.",
+      "La norma que permite a la Administración Pública delegar la conservación a empresas privadas sin supervisión del Archivo General."
+    ],
+    "correct": 0,
+    "explanation": "De acuerdo con el Artículo 46 de la Ley 594 de 2000, la conservación no es opcional; es una responsabilidad de la Administración Pública implementar sistemas que aseguren la preservación documental en cualquier fase del ciclo vital."
+  },
+  {
+    "question": "Durante una auditoría se descubre que una entidad pública no tiene protocolos de conservación para sus archivos digitales en la fase de gestión. ¿Qué mandato del Artículo 46 de la Ley 594 de 2000 se está incumpliendo?",
+    "options": [
+      "El mandato de crear copias de seguridad físicas de todos los correos electrónicos enviados por los directivos de la entidad estatal.",
+      "El mandato de contratar personal externo para la restauración de documentos dañados por la obsolescencia de los sistemas informáticos.",
+      "El mandato de implementar un sistema integrado de conservación que garantice la preservación documental desde la primera fase de gestión.",
+      "El mandato de transferir inmediatamente todos los archivos digitales al Archivo General de la Nación para su custodia y conservación."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 46 de la Ley 594 de 2000 exige que el sistema integrado de conservación se aplique 'en cada una de las fases', lo cual incluye la fase de gestión, donde nacen los documentos electrónicos o físicos de la administración."
+  },
+  {
+    "question": "Una entidad territorial decide que solo los documentos en papel requieren medidas de conservación, ignorando sus bases de datos. Según el Artículo 46 de la Ley 594 de 2000, ¿por qué esta interpretación es jurídicamente incompleta?",
+    "options": [
+      "Porque la ley obliga a conservar únicamente los documentos originales que hayan sido firmados de forma manuscrita por los secretarios.",
+      "Porque la ley exige que el sistema de conservación sea integrado, lo que implica proteger la información independientemente de su soporte.",
+      "Porque la ley determina que las bases de datos deben ser impresas mensualmente para garantizar su validez jurídica ante los jueces.",
+      "Porque la ley faculta a los directores de archivo para ignorar la conservación digital si la entidad no posee los servidores adecuados."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 46 de la Ley 594 de 2000 habla de los 'archivos de la Administración Pública' en general, lo que bajo un sistema integrado de conservación incluye tanto los soportes físicos como los electrónicos en todo su ciclo vital."
   }
 ]
