@@ -563,14 +563,14 @@
     "options": [
       "Válida, pues la autonomía universitaria prima sobre las leyes de archivos.",
       "Válida, siempre que la universidad cuente con un sistema propio de gestión.",
-      "Ilegal, ya que la ley obliga a los organismos autónomos a crear sus archivos.",
+      "Ilegal, ya que la ley obliga a los organismos autónomos a crear sus archivos para la gestión documental.",
       "Ilegal, a menos que el Ministerio de Educación les otorgue una exención total."
     ],
     "correct": 2,
     "explanation": "El Artículo 10 de la Ley 594 de 2000 señala que los organismos autónomos tienen la obligación ineludible de crear sus archivos, por lo que la autonomía no es una excusa para el incumplimiento de la gestión documental."
   },
   {
-    "question": "Al analizar la estructura de la Ley 594 de 2000 (Ley General de Archivos), el Artículo 10 vincula la obligatoriedad a los archivos de los artículos 8 y 9. ¿Qué efecto jurídico produce esto?",
+    "question": "El Artículo 10 de la Ley 594 de 2000 (Ley General de Archivos) vincula la obligatoriedad de creación de archivos a los artículos 8 (Archivos Territoriales) y 9 (Archivos según organización del Estado). ¿Qué efecto jurídico produce esto?",
     "options": [
       "Limita la creación de archivos únicamente a las oficinas de nivel nacional.",
       "Excluye a las empresas privadas que prestan servicios públicos en la nación.",
