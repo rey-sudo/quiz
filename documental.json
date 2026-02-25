@@ -2281,5 +2281,72 @@
     ],
     "correct": 0,
     "explanation": "El Parágrafo del Artículo 41 de la Ley 594 de 2000 establece que el desconocimiento de las prohibiciones activará las investigaciones y sanciones legales pertinentes."
+  },
+
+  {
+    "question": "Un instituto de biotecnología estatal firma un contrato con un científico para un proyecto de investigación técnica. Según el Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos), ¿qué elemento es de inclusión obligatoria en el documento contractual?",
+    "options": [
+      "Una disposición que obligue al contratista a ceder el uso de sus equipos de laboratorio personales al Estado.",
+      "Una cláusula que establezca la obligación del contratista de entregar copias de los archivos de la investigación.",
+      "Una sección que prohíba al investigador divulgar cualquier resultado en revistas científicas de origen privado.",
+      "Un apartado que exija al contratista la entrega de los originales físicos de toda su correspondencia personal."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) dicta que las entidades públicas deben incluir obligatoriamente una cláusula de entrega de copias de los archivos producidos en proyectos de investigación técnica, científica o cultural."
+  },
+  {
+    "question": "Una firma de ingeniería extranjera es contratada para un estudio industrial en Colombia. Al finalizar, la entidad pública exige los archivos bajo el Artículo 42 de la Ley 594 de 2000. ¿Es legal esta exigencia para una entidad no nacional?",
+    "options": [
+      "Sí, pues la norma aplica explícitamente a personas naturales o jurídicas, sin importar si son nacionales o extranjeras.",
+      "No, ya que las empresas extranjeras solo deben entregar informes finales y no los archivos producidos en el desarrollo.",
+      "Sí, pero únicamente si la empresa extranjera ha recibido el pago total del contrato y no tiene litigios pendientes.",
+      "No, debido a que la Ley General de Archivos solo regula a las entidades de orden nacional y a ciudadanos colombianos."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) especifica que la obligación de incluir la cláusula de entrega de archivos cobija tanto a personas naturales como jurídicas, ya sean de origen nacional o extranjero."
+  },
+  {
+    "question": "En un proyecto de investigación cultural bajo la Ley 594 de 2000, un contratista se niega a entregar ciertos archivos alegando que revelan su metodología creativa protegida. ¿Qué salvaguarda del Artículo 42 apoya su posición?",
+    "options": [
+      "La que indica que la entrega de archivos depende exclusivamente de la voluntad del contratista según el presupuesto.",
+      "La que permite al contratista destruir archivos si considera que el almacenamiento físico en el Estado es insuficiente.",
+      "La que condiciona la entrega de archivos a que no se contraríen las normas vigentes sobre la propiedad intelectual.",
+      "La que establece que los archivos de investigación cultural son siempre privados y nunca pueden ser objeto de entrega."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) establece que la entrega de copias de archivos es obligatoria 'siempre y cuando no contraríen las normas sobre propiedad intelectual' del autor o investigador."
+  },
+  {
+    "question": "Una entidad pública solicita archivos de un proyecto científico que contienen datos sensibles de la vida privada del investigador. ¿Bajo qué límite del Artículo 42 de la Ley 594 de 2000 puede el investigador proteger estos datos?",
+    "options": [
+      "Bajo la normativa de secreto profesional que impide la entrega de cualquier documento a entidades de tipo público.",
+      "Bajo la prohibición de vulnerar los derechos otorgados a las personas por el artículo 15 de la Constitución Política (intimidad personal y familiar, al buen nombre y al hábeas data).",
+      "Bajo el derecho de retención documental que permite al investigador guardar los archivos hasta su jubilación legal.",
+      "Bajo la ley de derecho de autor que asume que todo archivo de investigación es automáticamente un secreto de Estado."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) protege la integridad del investigador al prohibir que la entrega de archivos vulnere los derechos de intimidad consagrados en el artículo 15 de la Constitución."
+  },
+  {
+    "question": "Una multinacional con sede en Bogotá finaliza un convenio de investigación con el Estado. Según el Parágrafo del Artículo 42 de la Ley 594 de 2000, ¿cuál es el marco jurídico principal para la regulación de sus documentos de archivo?",
+    "options": [
+      "Se regularán por las leyes del país donde se encuentre la casa matriz de la multinacional de manera preferente.",
+      "Se regularán por el código de ética interno de la empresa y los manuales de funciones de sus empleados locales.",
+      "Se regularán por las directrices del Ministerio de Comercio y las cámaras de comercio del lugar de la ejecución.",
+      "Se regularán por las convenciones internacionales y los términos específicos de los contratos que hayan suscrito."
+    ],
+    "correct": 3,
+    "explanation": "El Parágrafo del Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) dispone que las personas jurídicas internacionales con sede en Colombia se rigen por convenciones internacionales y los contratos suscritos."
+  },
+  {
+    "question": "Una organización científica internacional decide donar voluntariamente su acervo documental a Colombia. Según el Parágrafo del Artículo 42 de la Ley 594 de 2000, ¿qué organismo está facultado para recibirlo?",
+    "options": [
+      "El Ministerio de Cultura para su posterior distribución en las bibliotecas municipales de los sectores rurales.",
+      "La Biblioteca Nacional de Colombia en coordinación con el Ministerio de Ciencia y Tecnología para su publicación.",
+      "El Archivo General de la Nación, el cual podrá recibir los documentos y archivos que dichas entidades deseen transferir.",
+      "El Consejo Nacional de Archivos mediante un acta de entrega que debe ser protocolizada ante una notaría pública local."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo del Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) faculta explícitamente al Archivo General de la Nación para recibir los archivos que las personas jurídicas internacionales decidan transferir."
   }
 ]
