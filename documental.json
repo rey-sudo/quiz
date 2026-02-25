@@ -2158,5 +2158,61 @@
     ],
     "correct": 2,
     "explanation": "Al ser integrados al patrimonio documental colombiano según el Artículo 39 de la Ley 594 de 2000 (Ley General de Archivos), estos documentos quedan sujetos a la normativa de protección del patrimonio nacional."
+  },
+
+  {
+    "question": "Bajo el Artículo 40 de la Ley General de Archivos, una fundación posee documentos del siglo XIX declarados de interés cultural. ¿Qué tipo de beneficio puede solicitar formalmente al Estado?",
+    "options": [
+      "Una exención total en el pago del impuesto predial por el inmueble donde reposa el archivo.",
+      "Un régimen de estímulos no tributarios como asistencia técnica, premios anuales y pasantías.",
+      "La financiación estatal obligatoria para la compra de un edificio nuevo para dicha fundación.",
+      "Un subsidio mensual permanente para el pago de la nómina de todos sus empleados operativos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 40 de la Ley General de Archivos establece que el Gobierno Nacional reglamentará un régimen de estímulos de carácter no tributario, citando ejemplos específicos como premios, asistencia y pasantías."
+  },
+  {
+    "question": "El propietario de un archivo privado de interés cultural desea que sus empleados se capaciten en otros centros. ¿Qué mecanismo del Artículo 40 de la Ley General de Archivos aplica?",
+    "options": [
+      "El mecanismo de las pasantías, diseñado para el intercambio de experiencias y formación técnica.",
+      "El mecanismo de premios anuales, que otorga dinero en efectivo para viajes de turismo nacional.",
+      "El mecanismo de divulgación, que permite publicar las vacantes de la empresa en medios oficiales.",
+      "El mecanismo de asistencia técnica, que obliga al Estado a contratar personal para el privado."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 40 de la Ley General de Archivos, las pasantías son uno de los estímulos previstos para fomentar el fortalecimiento de los archivos privados que tengan la declaratoria de interés cultural."
+  },
+  {
+    "question": "Un archivo privado ha sido declarado de interés cultural, pero sus estantes están en mal estado. ¿Qué puede ofrecer el Gobierno según el Artículo 40 de la Ley General de Archivos?",
+    "options": [
+      "El pago de una póliza de seguro contra todo riesgo financiada por el Ministerio de Hacienda.",
+      "La condonación de deudas bancarias que el propietario haya contraído para comprar estantería.",
+      "La prestación de asistencia técnica para orientar la correcta conservación del material físico.",
+      "La entrega de materiales de construcción gratuitos para la remodelación total de la bodega."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 40 de la Ley General de Archivos incluye la asistencia técnica como un estímulo para asegurar que los archivos privados de interés cultural reciban guía profesional en sus procesos de conservación."
+  },
+  {
+    "question": "Una empresa busca que su archivo histórico sea reconocido por la sociedad. ¿Qué estímulo del Artículo 40 de la Ley General de Archivos de Colombia permite cumplir este objetivo de visibilidad?",
+    "options": [
+      "El estímulo de divulgación, que busca promover el conocimiento de estos archivos ante el público.",
+      "El estímulo de premios anuales, que consiste exclusivamente en pauta publicitaria en televisión.",
+      "El estímulo de pasantías, que obliga a estudiantes a trabajar de forma gratuita en dicha empresa.",
+      "El estímulo de asistencia técnica, que garantiza la creación de una página web para la compañía."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 40 de la Ley General de Archivos menciona la divulgación como una herramienta para que el patrimonio documental privado de interés cultural sea conocido y valorado por la comunidad general."
+  },
+  {
+    "question": "Respecto a la implementación del Artículo 40 de la Ley General de Archivos, ¿quién tiene la facultad legal de definir las reglas para otorgar estos beneficios?",
+    "options": [
+      "Cada alcalde municipal de forma independiente según el presupuesto disponible en su propia región.",
+      "Los propietarios de los archivos privados mediante un consenso realizado en asambleas generales.",
+      "El Congreso de la República a través de una ley orgánica diferente para cada tipo de incentivo.",
+      "El Gobierno Nacional a través del establecimiento y la reglamentación del régimen de estímulos."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 40 de la Ley General de Archivos señala explícitamente que es el Gobierno Nacional quien debe establecer y reglamentar el régimen de estímulos para los archivos privados declarados de interés cultural."
   }
 ]
