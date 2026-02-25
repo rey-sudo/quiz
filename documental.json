@@ -2449,5 +2449,61 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 44 de la Ley 594 de 2000 limita taxativamente la capacidad de recibir donaciones, depósitos y legados de este tipo al Archivo General de la Nación y a los archivos históricos que tengan carácter público."
+  },
+
+  {
+    "question": "Un coleccionista privado posee manuscritos coloniales declarados de interés público y decide ofrecerlos formalmente al Archivo General para su compra. Según el primer inciso del Artículo 45 de la Ley 594 de 2000, ¿cuál es el procedimiento legal que permite esta transferencia de propiedad?",
+    "options": [
+      "La Nación adquiere los documentos mediante una expropiación administrativa por utilidad pública.",
+      "La Nación realiza la adquisición de los archivos porque el propietario los ofreciere en venta.",
+      "La Nación toma posesión de los documentos mediante una donación obligatoria de interés social.",
+      "La Nación ejerce un derecho de confiscación preventiva sobre bienes de carácter histórico-cultural."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 45 de la Ley 594 de 2000 establece expresamente que los archivos privados de carácter histórico declarados de interés público podrán ser adquiridos por la Nación cuando el propietario decida ofrecerlos voluntariamente en venta."
+  },
+  {
+    "question": "Un inspector detecta que un archivo histórico privado, vital para la memoria nacional, se encuentra en un depósito con altos niveles de humedad y plagas. De acuerdo con el Artículo 45 de la Ley 594 de 2000, ¿bajo qué argumento legal puede el Estado intervenir?",
+    "options": [
+      "Se declara de interés público para efectos de expropiación por el peligro de destrucción o deterioro.",
+      "Se procede a la incautación inmediata de los bienes por incumplir normas de sanidad y bioseguridad.",
+      "Se ordena la transferencia gratuita al Estado por la incapacidad técnica de conservación del privado.",
+      "Se impone una sanción económica que obliga al propietario a entregar el archivo como parte de pago."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 45 de la Ley 594 de 2000 permite la expropiación administrativa cuando archivos históricos de interés social se encuentren en peligro de destrucción o deterioro, garantizando así su preservación física."
+  },
+  {
+    "question": "Si un propietario intenta fragmentar y vender de forma clandestina un archivo privado de carácter histórico-cultural en el exterior, ¿qué medida puede aplicar el Estado colombiano fundamentándose en el Artículo 45 de la Ley 594 de 2000?",
+    "options": [
+      "Iniciar un juicio de sucesión para determinar la propiedad real de los folios antes de su salida.",
+      "Emitir una orden de comparecencia judicial para que el propietario explique el origen del archivo.",
+      "Realizar una expropiación por vía administrativa ante el riesgo inminente de desaparición o pérdida.",
+      "Aplicar una multa equivalente al triple del valor comercial del archivo sin retirar el bien del dueño."
+    ],
+    "correct": 2,
+    "explanation": "Según el Artículo 45 de la Ley 594 de 2000, la adquisición de archivos privados históricos que estén en peligro de desaparición o pérdida se declara de interés público para fines de expropiación administrativa."
+  },
+  {
+    "question": "Para que la Nación pueda aplicar la expropiación administrativa sobre un archivo documental privado según el Artículo 45 de la Ley 594 de 2000, ¿qué requisito de categorización debe cumplir obligatoriamente el material en cuestión?",
+    "options": [
+      "El archivo debe poseer únicamente información contable o mercantil de empresas nacionales activas.",
+      "El archivo debe ser de carácter histórico-cultural y estar declarado de interés público o social.",
+      "El archivo debe tener una antigüedad mínima de cien años y pertenecer a una entidad del Gobierno.",
+      "El archivo debe contener secretos de estado que pongan en riesgo la seguridad fronteriza del país."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 45 de la Ley 594 de 2000 limita estas facultades de adquisición y expropiación a los archivos privados que tengan carácter histórico-cultural y que sean de interés público o social para la Nación colombiana."
+  },
+  {
+    "question": "Al ejecutarse la adquisición de un archivo privado en peligro de deterioro bajo el Artículo 45 de la Ley 594 de 2000, ¿a qué mecanismo constitucional se remite la norma para garantizar la legalidad del proceso coactivo?",
+    "options": [
+      "Se remite a la expropiación por vía administrativa a la que hace referencia la Constitución Política.",
+      "Se fundamenta en el derecho de policía para la recuperación de espacio público de carácter documental.",
+      "Se apoya en la figura de extinción de dominio por uso indebido de bienes que son de interés cultural.",
+      "Se basa en el principio de solidaridad ciudadana que obliga a la entrega de bienes sin indemnización."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 45 de la Ley 594 de 2000 cita textualmente que la expropiación se realizará por la vía administrativa a la que se refiere la Constitución Política de Colombia, lo que implica un proceso reglado y con pago previo."
   }
 ]
