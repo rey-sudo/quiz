@@ -2348,5 +2348,50 @@
     ],
     "correct": 2,
     "explanation": "El Parágrafo del Artículo 42 de la Ley 594 de 2000 (Ley General de Archivos) faculta explícitamente al Archivo General de la Nación para recibir los archivos que las personas jurídicas internacionales decidan transferir."
+  },
+
+  {
+    "question": "Un notario en Cali afirma que los libros de escrituras de su despacho son de su propiedad privada por haberlos custodiado. Según el Artículo 43 de la Ley 594 de 2000, ¿cuál es la naturaleza jurídica de estos protocolos?",
+    "options": [
+      "Los protocolos notariales son propiedad del notario titular del círculo.",
+      "Los protocolos notariales pertenecen legalmente a la Nación colombiana.",
+      "Los protocolos notariales son bienes de uso público de la alcaldía local.",
+      "Los protocolos notariales pertenecen al Colegio Nacional de Notariado."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 43 de la Ley 594 de 2000 inicia declarando de forma taxativa que 'Los protocolos notariales pertenecen a la Nación', lo que desvirtúa cualquier pretensión de propiedad privada por parte del notario o terceros."
+  },
+  {
+    "question": "Una notaría en Medellín conserva tomos de escrituras públicas que fueron cerrados hace exactamente 32 años. Según el Artículo 43 de la Ley 594 de 2000, ¿cuál es el procedimiento obligatorio para este acervo documental?",
+    "options": [
+      "Deben ser transferidos al Archivo General Notarial del respectivo círculo.",
+      "Deben permanecer en la notaría de origen hasta que se digitalicen todos.",
+      "Deben ser remitidos al archivo histórico de la gobernación del departamento.",
+      "Deben ser destruidos previa acta ante la superintendencia correspondiente."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 43 de la Ley 594 de 2000, los protocolos que tengan más de treinta años deberán ser transferidos por la correspondiente notaría al Archivo General Notarial del respectivo círculo para su custodia final."
+  },
+  {
+    "question": "Para organizar el traslado de archivos de 1990, el Gobierno Nacional debe emitir directrices técnicas. Según el Artículo 43 de la Ley 594 de 2000, ¿qué entidad debe brindar asesoría técnica obligatoria?",
+    "options": [
+      "La asesoría técnica debe ser brindada por la Registraduría del Estado Civil.",
+      "La asesoría técnica debe ser brindada por el Ministerio de las Tecnologías.",
+      "La asesoría técnica debe ser brindada por el Archivo General de la Nación.",
+      "La asesoría técnica debe ser brindada por el Consejo Superior de Judicatura."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 43 de la Ley 594 de 2000 estipula que el Gobierno Nacional tomará las medidas pertinentes para la transferencia de archivos contando específicamente con la asesoría del Archivo General de la Nación."
+  },
+  {
+    "question": "Un ciudadano solicita una escritura de 1985 en una notaría de Barranquilla, pero le informan que el libro ya no está allí. Según el Artículo 43 de la Ley 594 de 2000, ¿dónde debería estar ubicado dicho tomo?",
+    "options": [
+      "En el archivo centralizado de la Superintendencia de Notariado y Registro.",
+      "En un depósito privado que el notario haya contratado fuera de su oficina.",
+      "En la oficina de instrumentos públicos donde se registró el título inicial.",
+      "En el Archivo General Notarial correspondiente al círculo de Barranquilla."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 43 de la Ley 594 de 2000 ordena que los protocolos con más de treinta años se transfieran al Archivo General Notarial del respectivo círculo, garantizando la centralización documental por jurisdicción territorial."
   }
 ]
