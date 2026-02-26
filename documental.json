@@ -2595,5 +2595,50 @@
     ],
     "correct": 3,
     "explanation": "La afirmación es falsa puesto que el parágrafo del Artículo 47 de la Ley 594 de 2000 vincula obligatoriamente la copia en nuevos soportes de documentos permanentes a la existencia de un programa de transferencia de información."
+  },
+
+  {
+    "question": "Una entidad estatal colombiana implementa servidores de almacenamiento de datos de alta densidad. Según el Artículo 48 de la Ley 594 de 2000, ¿qué organismo tiene la competencia legal para emitir las pautas y normas técnicas que garanticen la integridad de estos nuevos soportes?",
+    "options": [
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC), como líder de la transformación digital.",
+      "El Archivo General de la Nación (AGN), mediante la expedición de normas técnicas de conservación y nuevos soportes.",
+      "La Superintendencia de Industria y Comercio, encargada de vigilar el tratamiento de datos y la seguridad digital.",
+      "El Departamento Administrativo de la Función Pública, responsable de la eficiencia en la gestión de las entidades."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 48 de la Ley 594 de 2000 establece explícitamente que es el Archivo General de la Nación quien dará las pautas y normas técnicas generales sobre conservación de archivos, incluyendo los documentos en nuevos soportes tecnológicos."
+  },
+  {
+    "question": "Un secretario de despacho consulta cómo proceder con la migración de archivos históricos a tecnología Blockchain. Bajo el marco del Artículo 48 de la Ley 594 de 2000, ¿cuál es el requisito normativo para asegurar la validez de este proceso de conservación?",
+    "options": [
+      "Seguir las pautas y normas técnicas generales del Archivo General de la Nación sobre la conservación en nuevos soportes.",
+      "Obtener una certificación de seguridad informática emitida por un proveedor internacional de servicios de criptografía.",
+      "Realizar una copia de seguridad física en papel de todos los documentos para evitar riesgos de pérdida de información.",
+      "Contratar una auditoría externa que valide la interoperabilidad de los sistemas de información de la entidad pública."
+    ],
+    "correct": 0,
+    "explanation": "De acuerdo con el Artículo 48 de la Ley 594 de 2000, cualquier proceso de conservación en nuevos soportes debe ajustarse a las normas técnicas generales que el Archivo General de la Nación dicte para asegurar la preservación documental."
+  },
+  {
+    "question": "Una oficina de archivo reporta que sus soportes digitales antiguos son ilegibles. Al aplicar el Artículo 48 de la Ley 594 de 2000, ¿qué aspecto de la normativa se omitió para que la entidad fallara en la preservación de su memoria institucional?",
+    "options": [
+      "La falta de presupuesto para la adquisición de hardware de última generación para el almacenamiento masivo de datos.",
+      "La ausencia de un protocolo de ciberseguridad que protegiera los archivos ante posibles ataques de agentes externos.",
+      "El desconocimiento de las pautas técnicas del Archivo General de la Nación sobre conservación en nuevos soportes.",
+      "La inexistencia de un comité de ética que supervisara el acceso de los funcionarios a las bases de datos digitales."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 48 de la Ley 594 de 2000 busca prevenir la pérdida de información obligando a las entidades a seguir las normas técnicas de conservación del Archivo General de la Nación, las cuales abordan la obsolescencia de los soportes."
+  },
+  {
+    "question": "Durante una auditoría se cuestiona la legalidad de los microfilmes y discos ópticos de una entidad. ¿Cómo justifica el Artículo 48 de la Ley 594 de 2000 el uso y la regulación técnica de estos medios de almacenamiento?",
+    "options": [
+      "Indicando que el uso de cualquier tecnología es libre siempre que la entidad asuma el costo de la futura migración.",
+      "Estableciendo que el Ministerio de Cultura debe autorizar cada soporte de forma individual para garantizar su uso.",
+      "Mencionando que el Archivo General de la Nación regulará lo relativo a los documentos almacenados en nuevos soportes.",
+      "Definiendo que solo el papel tiene validez probatoria absoluta mientras el Archivo General no emita un nuevo concepto."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 48 de la Ley 594 de 2000 otorga al Archivo General de la Nación la facultad de normar sobre 'nuevos soportes', permitiendo que la ley se adapte a tecnologías como el microfilm o soportes digitales modernos."
   }
 ]
