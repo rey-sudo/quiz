@@ -2640,5 +2640,54 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 48 de la Ley 594 de 2000 otorga al Archivo General de la Nación la facultad de normar sobre 'nuevos soportes', permitiendo que la ley se adapte a tecnologías como el microfilm o soportes digitales modernos."
+  },
+
+  {
+    "question": "El Archivo de una Alcaldía decide digitalizar planos urbanísticos coloniales para ahorrar espacio físico. Según el Artículo 49 de la Ley 594 de 2000 (que modifica la Ley 80 de 1989), ¿es legal destruir los planos originales tras asegurar su reproducción digital?",
+    "options": [
+      "Es legal siempre que la reproducción digital cuente con una certificación de integridad pericial.",
+      "Es ilegal debido a que los documentos históricos no pueden ser destruidos bajo ningún concepto.",
+      "Es legal si la entidad demuestra que el costo de mantenimiento físico supera el valor del bien.",
+      "Es ilegal únicamente si el Archivo General de la Nación no ha emitido una resolución de descarte."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 49 de la Ley 594 de 2000, que modifica la Ley 80 de 1989, es taxativo al ordenar que en ningún caso los documentos de carácter histórico podrán ser destruidos, incluso si han sido reproducidos por cualquier medio técnico disponible.",
+    "id": 1
+  },
+  {
+    "question": "Un historiador descubre que una entidad estatal eliminó registros de tratados del siglo XIX argumentando que ya existían copias en microfilm. ¿Qué disposición del Artículo 49 de la Ley 594 de 2000 (Ley 80 de 1989) se ha vulnerado en este caso específico?",
+    "options": [
+      "La disposición que obliga a la actualización tecnológica constante de los archivos públicos nacionales.",
+      "La disposición que permite la eliminación de soportes físicos cuando la reproducción sea de alta calidad.",
+      "La disposición que prohíbe la destrucción de documentos históricos sin importar su medio de reproducción.",
+      "La disposición que exige la entrega de copias de seguridad a organismos internacionales de patrimonio."
+    ],
+    "correct": 2,
+    "explanation": "Bajo el Artículo 49 de la Ley 594 de 2000 (modificatorio de la Ley 80 de 1989), la reproducción por 'cualquier medio' (como el microfilm) no es una causal válida para la destrucción de los soportes originales que posean un carácter histórico.",
+    "id": 2
+  },
+  {
+    "question": "Durante una auditoría se halla que una gobernación destruyó telegramas de guerra originales tras escanearlos. Al citar el Artículo 49 de la Ley 594 de 2000 (Ley 80 de 1989), ¿cuál es el argumento jurídico para sancionar dicha acción administrativa?",
+    "options": [
+      "La prohibición absoluta de destruir documentos históricos independientemente de que hayan sido reproducidos.",
+      "La obligación de solicitar permiso al Ministerio de Cultura antes de iniciar cualquier proceso de escaneo.",
+      "El deber de conservar los documentos en el mismo edificio donde fueron creados por razones de origen.",
+      "La necesidad de mantener los originales únicamente hasta que se cumplan diez años de su digitalización."
+    ],
+    "correct": 0,
+    "explanation": "La Ley 594 de 2000, mediante el Artículo 49 que reforma la Ley 80 de 1989, establece que la existencia de una copia fiel no anula la obligación de preservar el documento físico original debido a su naturaleza y valor histórico.",
+    "id": 3
+  },
+  {
+    "question": "Una entidad privada con funciones públicas decide aplicar una política de 'cero papel' a su archivo histórico de 1950, alegando que el Artículo 49 de la Ley 594 de 2000 (Ley 80 de 1989) permite la sustitución. ¿Es correcta esta interpretación de la norma vigente?",
+    "options": [
+      "Es correcta porque la ley busca incentivar la transformación digital y la eliminación de archivos físicos.",
+      "Es incorrecta ya que la norma prohíbe la destrucción del original histórico incluso si existe reproducción.",
+      "Es correcta siempre que se garantice que el formato digital de los documentos sea de acceso ciudadano.",
+      "Es incorrecta porque solo se aplica a documentos generados después de la expedición de la Ley 80 de 1989."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el Artículo 49 de la Ley 594 de 2000 (modificatorio de la Ley 80 de 1989), la reproducción técnica es un complemento y no un sustituto eliminatorio, prohibiendo la destrucción del patrimonio documental bajo cualquier pretexto.",
+    "id": 4
   }
 ]
