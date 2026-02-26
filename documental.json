@@ -2550,5 +2550,50 @@
     ],
     "correct": 1,
     "explanation": "El Artículo 46 de la Ley 594 de 2000 habla de los 'archivos de la Administración Pública' en general, lo que bajo un sistema integrado de conservación incluye tanto los soportes físicos como los electrónicos en todo su ciclo vital."
+  },
+
+  {
+    "question": "En una auditoría a la Alcaldía de Malambo, se halla que los contratos originales tienen soportes resistentes, pero sus copias están en papel térmico que se borra. Según el Artículo 47 de la Ley 594 de 2000, ¿cuál es el error técnico cometido por la entidad?",
+    "options": [
+      "No existe error, pues el Artículo 47 de la Ley 594 de 2000 solo exige calidad superior para los documentos originales.",
+      "La entidad falló al no aplicar la exigencia de durabilidad y calidad del soporte tanto a los originales como a las copias.",
+      "El error radica en no haber solicitado permiso al Archivo General de la Nación para usar papel térmico en las copias.",
+      "La normativa indica que las copias deben ser digitales obligatoriamente para cumplir con los estándares internacionales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 47 de la Ley 594 de 2000 establece taxativamente que los documentos de archivo, sean originales o copias, deberán elaborarse en soportes de comprobada durabilidad y calidad, sin hacer distinciones de importancia entre ambos."
+  },
+  {
+    "question": "Una oficina de catastro decide usar un nuevo tipo de disco óptico para almacenar planos. Para cumplir con el Artículo 47 de la Ley 594 de 2000, ¿en qué deben basarse para certificar que dicho soporte es el adecuado para el archivo?",
+    "options": [
+      "Deben seguir las normas nacionales o internacionales que para el efecto sean acogidas por el Archivo General de la Nación.",
+      "Deben basarse en las especificaciones técnicas del fabricante del soporte y en el presupuesto disponible de la entidad.",
+      "Deben realizar una prueba de resistencia interna y documentar los resultados en el manual de procesos de la oficina.",
+      "Deben aplicar únicamente las normas ISO de gestión de calidad vigentes para el sector de la construcción y topografía."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 47 de la Ley 594 de 2000, la calidad de los soportes debe estar alineada con las normas nacionales o internacionales que el Archivo General de la Nación (AGN) haya acogido oficialmente para tal fin."
+  },
+  {
+    "question": "El Archivo Histórico de una gobernación decide copiar sus actas del siglo XIX a un formato digital avanzado. Según el parágrafo del Artículo 47 de la Ley 594 de 2000, ¿cuál es el requisito procedimental obligatorio?",
+    "options": [
+      "Se debe destruir el soporte original inmediatamente después de la copia para evitar la duplicidad de la información.",
+      "Se requiere una autorización notarial que certifique que el nuevo soporte es idéntico en apariencia al soporte físico.",
+      "Se debe prever un programa de transferencia de información para garantizar la preservación y conservación de la misma.",
+      "Se requiere que el proceso sea ejecutado por una empresa internacional certificada en restauración de papel antiguo."
+    ],
+    "correct": 2,
+    "explanation": "El parágrafo del Artículo 47 de la Ley 594 de 2000 permite que los documentos de conservación permanente sean copiados en nuevos soportes, siempre que se garantice un programa de transferencia de información para su preservación."
+  },
+  {
+    "question": "Un secretario general de una entidad pública afirma que el programa de transferencia de información es opcional si el soporte nuevo es de alta calidad. Bajo el Artículo 47 de la Ley 594 de 2000, esta afirmación es:",
+    "options": [
+      "Verdadera, ya que el soporte de alta calidad garantiza por sí solo que la información no sufrirá daños en el tiempo.",
+      "Falsa, porque el programa es requisito del Archivo General de la Nación solo para los documentos que no son permanentes.",
+      "Verdadera, siempre y cuando la transferencia sea aprobada por el comité de archivo interno de la respectiva entidad.",
+      "Falsa, porque el parágrafo del artículo exige dicho programa para garantizar la preservación de documentos permanentes."
+    ],
+    "correct": 3,
+    "explanation": "La afirmación es falsa puesto que el parágrafo del Artículo 47 de la Ley 594 de 2000 vincula obligatoriamente la copia en nuevos soportes de documentos permanentes a la existencia de un programa de transferencia de información."
   }
 ]
