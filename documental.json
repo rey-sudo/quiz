@@ -2689,5 +2689,106 @@
     "correct": 1,
     "explanation": "De acuerdo con el Artículo 49 de la Ley 594 de 2000 (modificatorio de la Ley 80 de 1989), la reproducción técnica es un complemento y no un sustituto eliminatorio, prohibiendo la destrucción del patrimonio documental bajo cualquier pretexto.",
     "id": 4
+  },
+
+  {
+    "question": "Un historiador solicita un beneficio tributario tras publicar una investigación basada en archivos coloniales. Según el Artículo 50 (Estímulos) de la Ley 594 de 2000, ¿es procedente esta solicitud específica?",
+    "options": [
+      "Sí, porque la normativa busca premiar económicamente a quienes realicen estudios significativos para la nación.",
+      "No, pues el artículo establece que los estímulos otorgados por el Gobierno Nacional deben ser de tipo no tributario.",
+      "Sí, siempre que el autor demuestre que utilizó fuentes primarias y técnicas científicas en su trabajo de campo.",
+      "No, debido a que los premios solo se otorgan a instituciones y no a personas naturales según lo dicta la ley."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 50 de la Ley 594 de 2000 de Patrimonio Documental indica explícitamente que el Gobierno establecerá premios y estímulos 'no tributarios', excluyendo así exenciones de impuestos."
+  },
+  {
+    "question": "Una institución cultural privada recupera un archivo histórico regional. Según el Artículo 50 de la Ley 594 de 2000, ¿qué tipo de reconocimiento podría recibir legalmente del Gobierno?",
+    "options": [
+      "Una distinción honorífica por su contribución técnica a la salvaguarda y el incremento del patrimonio del país.",
+      "El derecho exclusivo de cobrar por la consulta de los documentos recuperados bajo un esquema de derecho privado.",
+      "Un subsidio mensual vitalicio para el director de la entidad por su trabajo técnico en la difusión documental.",
+      "La propiedad legal definitiva de los archivos públicos que hayan sido restaurados con recursos de la entidad."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 50 de la Ley 594 de 2000 de Patrimonio Documental contempla las 'distinciones honoríficas' como uno de los tipos de estímulos para quienes contribuyan a la salvaguarda e incremento del patrimonio."
+  },
+  {
+    "question": "Un archivista desea realizar un intercambio internacional para mejorar sus competencias. Bajo el Artículo 50 de la Ley 594 de 2000, ¿cómo se clasifica este beneficio?",
+    "options": [
+      "Se define como una publicación técnica obligatoria financiada por el Estado para difundir el patrimonio nacional.",
+      "Se trata de un concurso de méritos donde el ganador obtiene una plaza fija en el Archivo General de la Nación.",
+      "Corresponde a las modalidades de pasantías y capacitación establecidas como estímulos para el trabajo técnico.",
+      "Representa una beca de honor otorgada únicamente a los autores que escriben estudios sobre la historiografía."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 50 de la Ley 594 de 2000 de Patrimonio Documental lista las 'pasantías' y la 'capacitación' como medios para estimular a quienes trabajan en pro del patrimonio documental del país."
+  },
+  {
+    "question": "Un autor publica un libro de historia nacional basado únicamente en fuentes secundarias (otros libros). Según el Artículo 50 de la Normativa 2026, ¿puede acceder a los estímulos?",
+    "options": [
+      "Sí, el Gobierno Nacional debe premiar toda obra que incremente el conocimiento de la cultura e historia patria.",
+      "No, los estudios históricos deben estar basados obligatoriamente en fuentes primarias para recibir los premios.",
+      "Sí, siempre y cuando el autor done ejemplares de su obra a las bibliotecas públicas para su difusión masiva.",
+      "No, pues la norma solo permite premiar a instituciones públicas y no a autores de trabajos científicos o culturales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 50 de la Ley 594 de 2000 de Patrimonio Documental exige que los estudios históricos significativos sean 'elaborados con base en fuentes primarias' para ser sujetos de los estímulos previstos."
+  },
+  {
+    "question": "El Gobierno Nacional planea fomentar la difusión del patrimonio documental mediante un certamen público. ¿Es esto posible bajo el Artículo 50 de la Ley 594 de 2000?",
+    "options": [
+      "No, la norma prohíbe los concursos públicos para evitar la competencia entre las instituciones de cultura nacional.",
+      "Sí, la ley permite que los estímulos consistan en concursos para premiar trabajos técnicos y científicos destacados.",
+      "No, el artículo limita los estímulos exclusivamente a la entrega de becas de estudio y no menciona los concursos.",
+      "Sí, siempre que el concurso incluya un premio en efectivo que supere los cien salarios mínimos legales mensuales."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 50 de la Ley 594 de 2000 de Patrimonio Documental menciona que los premios y estímulos podrán consistir en 'becas, concursos, publicaciones, pasantías, capacitación y distinciones'."
+  },
+
+  {
+    "question": "En una auditoría a una gobernación, el Archivo General de la Nación (AGN) detecta que no se han implementado las Tablas de Retención Documental. Según el Artículo 51 de la Ley 594 de 2000, ¿qué entidades deben prestar apoyo técnico y legal para asegurar que se cumpla lo preceptuado en dicha ley?",
+    "options": [
+      "La Defensoría del Pueblo junto con la Personería Municipal para la protección de datos.",
+      "La Procuraduría General de la Nación y la Contraloría General de la República de Colombia.",
+      "El Ministerio de Cultura en conjunto con el Ministerio de Tecnologías de la Información.",
+      "La Fiscalía General de la Nación y la Policía Nacional en procesos de custodia física."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 51 de la Ley 594 de 2000 establece taxativamente que la Procuraduría General de la Nación y la Contraloría General de la República prestarán todo el apoyo en lo de su competencia al AGN para el cumplimiento de la ley."
+  },
+  {
+    "question": "Un funcionario público destruye documentos oficiales sin la debida autorización del Comité de Archivo. Al invocar el Artículo 51 de la Ley 594 de 2000, ¿bajo qué facultad actuaría la Procuraduría General para apoyar al Archivo General de la Nación en este caso específico?",
+    "options": [
+      "Ejerciendo su competencia disciplinaria para sancionar la omisión de los deberes legales.",
+      "Iniciando un juicio de responsabilidad fiscal por la pérdida de los insumos de papelería.",
+      "Redactando las normas técnicas de gestión documental que la entidad en cuestión ignoró.",
+      "Asumiendo la administración directa del archivo central de la entidad pública infractora."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 51 de la Ley 594 de 2000, la Procuraduría apoya al AGN 'en lo de su competencia', lo que implica el ejercicio de su poder preferente disciplinario ante el incumplimiento de la normativa archivística nacional."
+  },
+  {
+    "question": "Se descubre que una entidad estatal invirtió fondos públicos en un software de gestión documental que no sigue los lineamientos del AGN, generando un posible daño económico. ¿Cómo se aplica el Artículo 51 de la Ley 594 de 2000 respecto a la Contraloría?",
+    "options": [
+      "La Contraloría debe donar el presupuesto necesario para corregir los fallos del sistema.",
+      "El AGN debe transferir su potestad sancionatoria a la Contraloría para multar al ente.",
+      "La Contraloría debe prestar apoyo al AGN vigilando que no exista un detrimento fiscal.",
+      "La entidad debe solicitar a la Contraloría que certifique la calidad técnica del software."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 51 de la Ley 594 de 2000 vincula a la Contraloría General para que, dentro de su competencia de control fiscal, apoye al AGN asegurando que la gestión de archivos salvaguarde el patrimonio del Estado."
+  },
+  {
+    "question": "Durante una mesa técnica, el Archivo General de la Nación solicita a los organismos de control su intervención para garantizar la integridad del patrimonio documental. ¿Cuál es la base legal para que este apoyo sea obligatorio y no discrecional?",
+    "options": [
+      "La voluntad administrativa de los directores de cada organismo de control involucrado.",
+      "El mandato expreso del Artículo 51 de la Ley 594 de 2000 sobre apoyo interinstitucional.",
+      "Un convenio de colaboración ciudadana firmado entre el AGN y las veedurías del país.",
+      "La resolución técnica emitida por el Ministerio de Cultura para el manejo de la memoria."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 51 de la Ley 594 de 2000 utiliza un lenguaje imperativo al señalar que los organismos 'prestarán todo el apoyo', convirtiendo la cooperación en una obligación legal para cumplir la normativa."
   }
 ]
