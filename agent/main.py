@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+load_dotenv()
 from layers.article_processing import process_articles
 from layers.article_extraction import article_extraction
 from utils.delete_output_content import delete_output_content
@@ -7,7 +8,6 @@ from layers.page_extraction import extraer_legal_financiero_estricto
 
 
 def main():
-    load_dotenv()
     print("Running MPC server")
 
     
