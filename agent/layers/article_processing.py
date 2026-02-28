@@ -35,12 +35,12 @@ def process_article(prompts: list[str]):
     chat.ver_historial()
 
 
-def leer_archivos_md(directorio: str = "output/articles") -> list[dict]:
+def get_article_files() -> list[dict]:
     """
     Lee ordenadamente todos los archivos .md de un directorio,
     ordenados por el número antes del .md
     """
-    patron = os.path.join(directorio, "*.md")
+    patron = os.path.join("output/articles", "*.md")
     archivos = sorted(
         glob.glob(patron),
         key=lambda x: int(re.search(r'(\d+)(?=\.md$)', x).group())
@@ -75,7 +75,7 @@ def extraer_contexto(directorio: str = "output/articles", n: int = 3) -> str:
     Returns:
         String con el contenido unido de los primeros n artículos
     """
-    resultados = leer_archivos_md(directorio)
+    resultados = get_article_files()
     primeros = resultados[:n]
 
     contexto = ""
@@ -88,18 +88,18 @@ def extraer_contexto(directorio: str = "output/articles", n: int = 3) -> str:
     return contexto   
     
     
-def process_articles(directorio: str = "output/articles"):
+def process_articles():
     """
     Itera ordenadamente todos los artículos .md y los procesa uno por uno.
 
     Args:
         directorio: Ruta del directorio donde buscar archivos .md
     """
-    resultados = leer_archivos_md(directorio)
+    article_files = get_article_files()
     
     context = extraer_contexto(n=3)
     
-    for articulo in resultados:
+    for articulo in article_files:
         print(f"[DEBUG] Procesando: {articulo['nombre']}")
 
         nombre = articulo["nombre"]
