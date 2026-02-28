@@ -39,7 +39,7 @@ def limpiar_texto_exhaustivo(texto):
     return texto_final.strip()
 
 
-def extraer_legal_financiero_estricto(nombre_pdf, pausa_debug=True):
+def extract_pages(nombre_pdf, pausa_debug=True):
     ruta_pdf = get_input_path(nombre_pdf)
    
     doc = fitz.open(ruta_pdf)

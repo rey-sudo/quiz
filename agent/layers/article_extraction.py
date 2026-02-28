@@ -32,7 +32,7 @@ def detectar_inicio_articulo(linea: str):
     return match.group(1) if match else None
 
 
-def article_extraction(ruta_doc: str = DOCUMENTO_FINAL):
+def extract_articles(ruta_doc: str = DOCUMENTO_FINAL):
     """
     Lee documento_final.md, detecta artículos y genera un .md por artículo
     en agent/output/articles/.
