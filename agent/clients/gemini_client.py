@@ -15,14 +15,15 @@ class GeminiChat:
         self.system_prompt = system_prompt
         self.historial: list[types.Content] = []
 
-    def preguntar(self, prompt: str, stream: bool = False) -> str:
-        self.historial.append(
-            types.Content(
-                role="user",
-                parts=[types.Part.from_text(text=prompt)]
+    def preguntar(self, prompt: str, stream: bool = False, append: bool = True) -> str:
+        if append:
+            self.historial.append(
+                types.Content(
+                    role="user",
+                    parts=[types.Part.from_text(text=prompt)]
+                )
             )
-        )
-
+            
         config = types.GenerateContentConfig(
             system_instruction=self.system_prompt,
         )
@@ -45,13 +46,14 @@ class GeminiChat:
                 config=config,
             )
             respuesta = response.text
-
-        self.historial.append(
-            types.Content(
-                role="model",  # Gemini usa "model" en lugar de "assistant"
-                parts=[types.Part.from_text(text=respuesta)]
+            
+        if append:  
+            self.historial.append(
+                types.Content(
+                    role="model",  # Gemini usa "model" en lugar de "assistant"
+                    parts=[types.Part.from_text(text=respuesta)]
+                )
             )
-        )
 
         return respuesta
 

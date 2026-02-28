@@ -26,11 +26,29 @@ chat = OllamaChat(
 
 
 def process_article(prompts: list[str]):
+    if not prompts:
+        return None 
+
+    respuesta = None
+
     for i, prompt in enumerate(prompts):
         print(f"\n--- Ejecutando prompt {i+1} ---")
-        respuesta = chat.preguntar(prompt, True)
-        print(respuesta)
+        
+        es_ultimo = i == len(prompts) - 1
+        
+        if es_ultimo:
+            print("✅ Esta es la última iteración")
+            respuesta = chat.preguntar(prompt, True, False)
+        else:
+            respuesta = chat.preguntar(prompt, True)
+            
+    print(respuesta)
     
+    return respuesta
+        
+
+ 
+            
 def get_article_files() -> list[dict]:
     """
     Lee ordenadamente todos los archivos .md de un directorio,
@@ -113,8 +131,8 @@ def process_articles():
 
         contenido = file["contenido"]
         
-        promps1 = get_create_questions_prompt(context, contenido)
+        prompts = get_create_questions_prompt(context, contenido)
         
-        process_article(promps1)
+        process_article(prompts) 
         
         
