@@ -111,8 +111,8 @@ def extraer_legal_financiero_estricto(nombre_pdf, pausa_debug=True):
             print(f"{estado} Pág {num_pagina:>4} guardada. ({chars:,} caracteres)")
 
             if pausa_debug and i < total_paginas - 1:
-                print(f"   ⏳ Pausa de 10s... [Ctrl+C para detener]")
-                time.sleep(5)
+                print(f"   ⏳ Pausa de 1s... [Ctrl+C para detener]")
+                time.sleep(1)
 
     except KeyboardInterrupt:
         print("\n\n🛑 DETENCIÓN FORZADA POR EL USUARIO.")

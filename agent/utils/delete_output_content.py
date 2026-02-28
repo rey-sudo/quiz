@@ -25,7 +25,7 @@ def limpiar_directorio(ruta: str):
     print(f"🗑️  {eliminados} elemento(s) eliminado(s) de: {ruta}")
 
 
-def delete():
+def delete_output_content():
     """Borra el contenido de agent/input/ y agent/output/."""
 
     limpiar_directorio(OUTPUT_DIR)
