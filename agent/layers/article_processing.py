@@ -1,9 +1,11 @@
 import json
+from utils.clean_json import limpiar_json_markdown
+from pydantic import ValidationError
 from prompts.create_questions import questionsAdapter, get_create_questions_prompt
 from clients.gemini_client import GeminiChat
 from clients.openai_client import OpenAIChat
 from clients.ollama_client import OllamaChat
-from retrying import retry
+from tenacity import retry, wait_fixed, stop_after_attempt
 import os
 import glob
 import re
@@ -25,17 +27,67 @@ chat = OllamaChat(
     system_prompt=SYSTEM_PROMPT
 )
 
-@retry(stop_max_attempt_number=10, wait_fixed=2000)
-def try_output_prompt(prompt: str):
-        response = chat.preguntar(prompt, stream=True, append=False)
-        
-        print(response)
 
-        return questionsAdapter.validate_json(response)
+def guardar_json(filename: str, data: str):
+    """
+    Guarda un string JSON (o lista/dict Python) como archivo JSON en 'output/questions'.
+
+    Args:
+        filename (str): Nombre del archivo sin extensión.
+        data (str | list | dict): Datos a guardar. Si es string, debe ser JSON válido.
+
+    Returns:
+        str: Ruta completa del archivo guardado.
+    """
+    output_folder = "output/questions"
+    os.makedirs(output_folder, exist_ok=True)
+    file_path = os.path.join(output_folder, filename + ".json")
+    
+    # Si es string, convertir a objeto Python
+    if isinstance(data, str):
+        data = json.loads(data)
+    
+    # Guardar JSON
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ Archivo JSON guardado en: {file_path}")
+    return file_path
+
+
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+def try_output_prompt(filename: str, prompt: str):
+    try:
+        response = chat.preguntar(prompt, True, False)
+        respuesta_limpia = limpiar_json_markdown(response)
+        
+        print("CLEAN RESPONSE:")
+        print(respuesta_limpia)
+        
+        validated = questionsAdapter.validate_json(respuesta_limpia)
+        
+        print("VALIDATED:")
+        print(validated)
+        
+        guardar_json(filename, respuesta_limpia)
+        
+        return respuesta_limpia
+
+    except ValidationError as e:
+        print("❌ Error de validación Pydantic:")
+        print(e)
+        print("Errores detallados:")
+        print(e.errors())
+        raise  # importante para que retry vuelva a intentar
+
+    except Exception as e:
+        print("❌ Error inesperado:")
+        print(str(e))
+        raise  # también necesario para que retry funcione
         
         
 
-def process_article(prompts: list[str]):
+def process_article(filename: str, prompts: list[str]):
     if not prompts:
         return None 
 
@@ -49,9 +101,9 @@ def process_article(prompts: list[str]):
         if es_ultimo:
             print("✅ Esta es la última iteración")
             
-            respuesta = try_output_prompt()
+            respuesta = try_output_prompt(filename, prompt)
         else:
-            respuesta = chat.preguntar(prompt, stream=True, append=True)
+            respuesta = chat.preguntar(prompt, True, True) ##create try fn
             
     print(respuesta)
     
@@ -139,11 +191,13 @@ def process_articles():
             continue
         
         print(f"[DEBUG] Procesando: {file['nombre']}")
+        
+        filename = os.path.splitext(file["nombre"])[0]
 
         contenido = file["contenido"]
         
         prompts = get_create_questions_prompt(context, contenido)
         
-        process_article(prompts) 
+        process_article(filename, prompts) 
         
         

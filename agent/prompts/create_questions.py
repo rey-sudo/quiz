@@ -6,7 +6,7 @@ from typing import List
 class QuestionItem(BaseModel):
     question: str = Field(..., description="Enunciado de la pregunta tipo caso con mención de artículo y normativa")
     options: List[str] = Field(..., min_items=4, max_items=4, description="Lista de opciones posibles")
-    correct: int = Field(..., ge=0, description="Índice de la opción correcta")
+    correct: int = Field(..., ge=0, le=3, description="Índice de la opción correcta")
     explanation: str = Field(..., description="Explicación completa de la respuesta")
 
 questionsAdapter = TypeAdapter(List[QuestionItem])
@@ -19,12 +19,11 @@ def get_create_questions_prompt(context: str, article: str) -> list[str]:
         "contexto": context,
         "instrucciones": [
             "Analizar toda la normativa proporcionada.",
-            "Dar un ejemplo práctico.",
             "Usar lenguaje formal académico."
         ],
         "normativa": article
     }
-
+    
     prompt2 = {
         "tarea": "Verificar tu análisis y hacer una lista numerada sin excluir información.",
         "instrucciones": [
@@ -50,7 +49,7 @@ def get_create_questions_prompt(context: str, article: str) -> list[str]:
     
     prompts = [
         convertir_a_json_formateado(prompt1),     
-        convertir_a_json_formateado(prompt2),
+        #convertir_a_json_formateado(prompt2),
         convertir_a_json_formateado(prompt3)    #OUTPUT PROMPT   
     ]
 
