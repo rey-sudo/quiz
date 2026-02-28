@@ -10,7 +10,7 @@ class OllamaChat:
 
         if stream:
             respuesta = ''
-            for chunk in ollama_client.chat(
+            for chunk in ollama.chat(
                 model=self.model,
                 messages=self.historial,
                 stream=True
@@ -20,7 +20,7 @@ class OllamaChat:
                 respuesta += texto
             print()
         else:
-            response = ollama_client.chat(
+            response = ollama.chat(
                 model=self.model,
                 messages=self.historial
             )
