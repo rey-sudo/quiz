@@ -31,10 +31,6 @@ def process_article(prompts: list[str]):
         respuesta = chat.preguntar(prompt, True)
         print(respuesta)
     
-    
-    chat.ver_historial()
-
-
 def get_article_files() -> list[dict]:
     """
     Lee ordenadamente todos los archivos .md de un directorio,
@@ -50,7 +46,6 @@ def get_article_files() -> list[dict]:
 
     for ruta in archivos:
         nombre = os.path.basename(ruta)
-        print(f"[DEBUG] Leyendo archivo: {nombre}")
 
         with open(ruta, "r", encoding="utf-8") as f:
             contenido = f.read()
@@ -64,46 +59,59 @@ def get_article_files() -> list[dict]:
     print(f"[DEBUG] Total de archivos leídos: {len(resultados)}")
     return resultados
 
-def extraer_contexto(directorio: str = "output/articles", n: int = 3) -> str:
+def extraer_contexto(n: int = 3) -> str:
     """
-    Lee los primeros n artículos .md del directorio y los une en un solo string.
+    Reads the first n .md articles from the output directory and
+    combines them into a single string.
 
     Args:
-        directorio: Ruta del directorio donde buscar archivos .md
-        n: Cantidad de artículos a tomar (default: 5)
+        n: Number of articles to include (default: 3)
 
     Returns:
-        String con el contenido unido de los primeros n artículos
+        A string containing the combined content of the first n articles
     """
+    # Retrieve all available article files
     resultados = get_article_files()
-    primeros = resultados[:n]
-
+    
+    # Select the first n articles
+    articles_files = resultados[:n]
+    
+    # Initialize the context string
     contexto = ""
-    for articulo in primeros:
-        print(f"[DEBUG] Agregando al contexto: {articulo['nombre']}")
-        contexto += f"\n\n--- {articulo['nombre']} ---\n\n"
-        contexto += articulo["contenido"]
-
-    print(f"[DEBUG] Contexto generado con {len(primeros)} artículos ({len(contexto)} caracteres)")
+    
+    # Iterate over the selected articles
+    for file in articles_files:
+        print(f"[DEBUG] Agregando al contexto: {file['nombre']}")
+        contexto += f"\n\n--- {file['nombre']} ---\n\n"
+        contexto += file["contenido"]
+    
+    print(f"[DEBUG] Contexto generado con {len(articles_files)} artículos ({len(contexto)} caracteres)")
     return contexto   
     
     
 def process_articles():
     """
-    Itera ordenadamente todos los artículos .md y los procesa uno por uno.
-
-    Args:
-        directorio: Ruta del directorio donde buscar archivos .md
+    Iterates through all .md articles in an ordered way
+    and processes them one by one.
+    
+    
     """
+    # Retrieve the list of article files
     article_files = get_article_files()
     
+    # Extract contextual information (e.g., first 3 articles)
     context = extraer_contexto(n=3)
     
-    for articulo in article_files:
-        print(f"[DEBUG] Procesando: {articulo['nombre']}")
+     # Loop through each article file
+    for file in article_files:
+        tecla = input(f"\n¿Procesar '{file['nombre']}'? [y/n]: ").strip().lower()
+        if tecla != "y":
+            print(f"[DEBUG] Saltando: {file['nombre']}")
+            continue
+        
+        print(f"[DEBUG] Procesando: {file['nombre']}")
 
-        nombre = articulo["nombre"]
-        contenido = articulo["contenido"]
+        contenido = file["contenido"]
         
         promps1 = get_create_questions_prompt(context, contenido)
         
