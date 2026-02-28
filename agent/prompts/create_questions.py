@@ -1,6 +1,6 @@
 
 from utils.convert_to_json import convertir_a_json_formateado
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, TypeAdapter
 from typing import List
 
 class QuestionItem(BaseModel):
@@ -9,10 +9,9 @@ class QuestionItem(BaseModel):
     correct: int = Field(..., ge=0, description="Índice de la opción correcta")
     explanation: str = Field(..., description="Explicación completa de la respuesta")
 
-formato_preguntas = {
-    "type": "array",
-    "items": QuestionItem.model_json_schema()
-}
+questionsAdapter = TypeAdapter(List[QuestionItem])
+
+formato_preguntas = questionsAdapter.json_schema()
 
 def get_create_questions_prompt(context: str, article: str) -> list[str]:
     prompt1 = {

@@ -1,11 +1,12 @@
-import re
-from prompts.create_questions import get_create_questions_prompt
+import json
+from prompts.create_questions import questionsAdapter, get_create_questions_prompt
 from clients.gemini_client import GeminiChat
 from clients.openai_client import OpenAIChat
 from clients.ollama_client import OllamaChat
+from retrying import retry
 import os
 import glob
-
+import re
 
 
 
@@ -24,6 +25,15 @@ chat = OllamaChat(
     system_prompt=SYSTEM_PROMPT
 )
 
+@retry(stop_max_attempt_number=10, wait_fixed=2000)
+def try_output_prompt(prompt: str):
+        response = chat.preguntar(prompt, stream=True, append=False)
+        
+        print(response)
+
+        return questionsAdapter.validate_json(response)
+        
+        
 
 def process_article(prompts: list[str]):
     if not prompts:
@@ -38,9 +48,10 @@ def process_article(prompts: list[str]):
         
         if es_ultimo:
             print("✅ Esta es la última iteración")
-            respuesta = chat.preguntar(prompt, True, False)
+            
+            respuesta = try_output_prompt()
         else:
-            respuesta = chat.preguntar(prompt, True)
+            respuesta = chat.preguntar(prompt, stream=True, append=True)
             
     print(respuesta)
     
