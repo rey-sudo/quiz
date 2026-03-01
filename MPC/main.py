@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 load_dotenv()
 from utils.logging import setup_logging
 setup_logging()
-from layers.article_processing import process_articles
+from layers.create_questions import process_articles
 from layers.article_extraction import extract_articles
 from layers.page_consolidation import consolidar_paginas
 from layers.page_extraction import extract_pages
