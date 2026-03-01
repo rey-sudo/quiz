@@ -150,8 +150,6 @@ def try_prompt(prompt: PromptConfig):
 
             # 3. Interacción Humana (Debug)
             if prompt.debug:
-                # Mostramos un preview para saber qué estamos validando
-                print(f"\n--- Preview Respuesta ---\n{respuesta_limpia[:150]}...")
                 opcion = input("\n[Enter] Continuar | [r] Reintentar: ").strip().lower()
             
                 if opcion == 'r':
@@ -224,7 +222,7 @@ def process_articles():
             return None 
 
         for i, prompt in enumerate(prompts):
-            logger.info(f"\n[magenta]--- Ejecutando prompt {1} ---[/magenta]")
+            logger.info(f"\n[magenta]{'=' * 50}[/magenta]\n[magenta]--- Ejecutando prompt {i} ---[/magenta]\n[magenta]{'=' * 50}[/magenta]")
         
             try_prompt(prompt)
         

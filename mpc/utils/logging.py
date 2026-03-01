@@ -9,6 +9,6 @@ def setup_logging():
         handlers=[
             logging.StreamHandler(),                          
             logging.FileHandler("logs/app.log", encoding="utf-8"),  
-            RichHandler()
+            RichHandler(markup=True, rich_tracebacks=True)
         ],
     )

@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
+from layers.merge_questions import merge_json_questions
 load_dotenv()
-from layers.csv_creation import merge_md_to_csv
+from layers.csv_creation import create_summary_csv
 from utils.logging import setup_logging
 setup_logging()
 from layers.questions_creation import process_articles
@@ -20,8 +21,9 @@ def main():
     #extract_pages("decreto_name_1165_year_2019.pdf", pausa_debug=False)
     #consolidar_paginas()
     #extract_articles()
-    #process_articles()
-    merge_md_to_csv()
+    process_articles()
+    create_summary_csv()
+    merge_json_questions()
 if __name__ == "__main__":
     main()
 

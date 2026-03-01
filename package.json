@@ -2,5 +2,8 @@
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "dev": "node sync.js && nodemon index.js"
   }
 }

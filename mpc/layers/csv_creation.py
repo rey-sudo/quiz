@@ -3,11 +3,11 @@ import os
 import csv
 import re
 from pathlib import Path
-from config import ARTICLES_DIR, FINAL_CSV_PATH, LISTS_DIR
+from config import ARTICLES_DIR, SUMMARY_PATH, LISTS_DIR
 
 logger = logging.getLogger("rich")
 
-def merge_md_to_csv():
+def create_summary_csv():
     """
     Iterates .md files from articles and lists folders in numeric order
     and generates a single unified CSV file.
@@ -26,9 +26,9 @@ def merge_md_to_csv():
 
     all_numbers = sorted(set(articles.keys()) | set(lists.keys()))
 
-    os.makedirs(os.path.dirname(FINAL_CSV_PATH), exist_ok=True)
+    os.makedirs(os.path.dirname(SUMMARY_PATH), exist_ok=True)
 
-    with open(FINAL_CSV_PATH, "w", encoding="utf-8", newline="") as csvfile:
+    with open(SUMMARY_PATH, "w", encoding="utf-8", newline="") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["Numero_Articulo", "Contenido_Articulo", "Lists"])
         writer.writeheader()
 
@@ -42,5 +42,5 @@ def merge_md_to_csv():
                 "Lists": list_content
             })
 
-    logger.info(f"CSV saved at: {FINAL_CSV_PATH}")
-    return FINAL_CSV_PATH
+    logger.info(f"CSV saved at: {SUMMARY_PATH}")
+    return SUMMARY_PATH

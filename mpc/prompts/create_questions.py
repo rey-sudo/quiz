@@ -87,7 +87,7 @@ def get_create_questions_prompt(context: str, article: str, filename: str) -> li
                 "Recordar al lector el número del artículo y el nombre exacto de la norma.",
                 "El número de preguntas debe abarcar todo el contexto y contenido del artículo y todos sus incisos.",
                 "No dejar ningún tema del artículo sin pregunta."
-                "Formatea las preguntas con formato_de_pregunta_json"
+                "Formatea las preguntas con formato_de_pregunta_json estricto sin excepciones"
             ],
             "formato_de_pregunta_json": formato_preguntas,
             "normativa": article
