@@ -1,4 +1,5 @@
 import json
+import logging
 from utils.clean_json import limpiar_json_markdown
 from pydantic import ValidationError
 from prompts.create_questions import questionsAdapter, get_create_questions_prompt
@@ -10,12 +11,11 @@ import os
 import glob
 import re
 
-
+logger = logging.getLogger(__name__)
 
 SYSTEM_PROMPT = """
 Eres un asistente experto en normativa colombia vigente año 2026
 """
-
 
 chat = GeminiChat(
     model="gemini-2.5-flash",
@@ -28,28 +28,28 @@ chat = OllamaChat(
 )
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
-def guardar_json(filename: str, data: str):
+def save_json_file(filename: str, data: str):
     """
-    Guarda un string JSON (o lista/dict Python) como archivo JSON en 'output/questions'.
+    Saves a JSON string as a JSON file in 'output/questions'.
     """
     try:
         output_folder = "output/questions"
         os.makedirs(output_folder, exist_ok=True)
         file_path = os.path.join(output_folder, filename + ".json")
         
-        # Si es string, convertir a objeto Python
+        # If data is a string, parse it into a Python object
         if isinstance(data, str):
             data = json.loads(data)
         
-        # Guardar JSON
+        # Write JSON to file
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         
-        print(f"✅ Archivo JSON guardado en: {file_path}")
+        logger.info(f"JSON file saved at: {file_path}")
         return file_path
 
     except Exception as e:
-        print(f"❌ Error al guardar JSON (intento fallido): {e}")
+        logger.error(f"Failed to save JSON (attempt failed): {e}")
         raise  
 
 
@@ -67,7 +67,7 @@ def try_output_prompt(filename: str, prompt: str):
         print("VALIDATED:")
         print(validated)
         
-        guardar_json(filename, respuesta_limpia)
+        save_json_file(filename, respuesta_limpia)
         
         return respuesta_limpia
 
