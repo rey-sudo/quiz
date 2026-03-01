@@ -56,17 +56,13 @@ def save_json_file(filename: str, data: str):
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def try_output_prompt(filename: str, prompt: str):
     try:
-        response = chat.preguntar(prompt, True, False)
+        response = chat.preguntar(prompt, False)
         respuesta_limpia = limpiar_json_markdown(response)
-        
-        print("CLEAN RESPONSE:")
-        print(respuesta_limpia)
-        
+    
         validated = questionsAdapter.validate_json(respuesta_limpia)
         
-        print("VALIDATED:")
-        print(validated)
-        
+        print("VALIDATED")
+
         save_json_file(filename, respuesta_limpia)
         
         return respuesta_limpia
@@ -86,7 +82,7 @@ def try_output_prompt(filename: str, prompt: str):
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def try_prompt(prompt: str):
     try:
-        response = chat.preguntar(prompt, True, True) 
+        response = chat.preguntar(prompt, True) 
 
         return response
 

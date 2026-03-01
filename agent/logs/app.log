@@ -1,2 +1,10 @@
 2026-02-28 19:31:16 [INFO] __main__: Running MPC server
 2026-02-28 19:31:34 [INFO] __main__: Running MPC server
+2026-02-28 19:55:58 [INFO] __main__: Running MPC server
+2026-02-28 19:57:34 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-02-28 19:59:44 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-02-28 19:59:45 [INFO] layers.article_processing: JSON file saved at: output/questions/articulo_0001.json
+2026-02-28 20:05:28 [INFO] __main__: Running MPC server
+2026-02-28 20:05:55 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-02-28 20:07:14 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-02-28 20:09:02 [INFO] layers.article_processing: JSON file saved at: output/questions/articulo_0001.json
