@@ -27,35 +27,33 @@ chat = OllamaChat(
     system_prompt=SYSTEM_PROMPT
 )
 
-
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def guardar_json(filename: str, data: str):
     """
     Guarda un string JSON (o lista/dict Python) como archivo JSON en 'output/questions'.
-
-    Args:
-        filename (str): Nombre del archivo sin extensión.
-        data (str | list | dict): Datos a guardar. Si es string, debe ser JSON válido.
-
-    Returns:
-        str: Ruta completa del archivo guardado.
     """
-    output_folder = "output/questions"
-    os.makedirs(output_folder, exist_ok=True)
-    file_path = os.path.join(output_folder, filename + ".json")
-    
-    # Si es string, convertir a objeto Python
-    if isinstance(data, str):
-        data = json.loads(data)
-    
-    # Guardar JSON
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    
-    print(f"✅ Archivo JSON guardado en: {file_path}")
-    return file_path
+    try:
+        output_folder = "output/questions"
+        os.makedirs(output_folder, exist_ok=True)
+        file_path = os.path.join(output_folder, filename + ".json")
+        
+        # Si es string, convertir a objeto Python
+        if isinstance(data, str):
+            data = json.loads(data)
+        
+        # Guardar JSON
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        
+        print(f"✅ Archivo JSON guardado en: {file_path}")
+        return file_path
+
+    except Exception as e:
+        print(f"❌ Error al guardar JSON (intento fallido): {e}")
+        raise  
 
 
-@retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def try_output_prompt(filename: str, prompt: str):
     try:
         response = chat.preguntar(prompt, True, False)
@@ -85,7 +83,25 @@ def try_output_prompt(filename: str, prompt: str):
         print(str(e))
         raise  # también necesario para que retry funcione
         
-        
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
+def try_prompt(prompt: str):
+    try:
+        response = chat.preguntar(prompt, True, True) 
+
+        return response
+
+    except ValidationError as e:
+        print("❌ Error de validación Pydantic:")
+        print(e)
+        print("Errores detallados:")
+        print(e.errors())
+        raise  # importante para que retry vuelva a intentar
+
+    except Exception as e:
+        print("❌ Error inesperado:")
+        print(str(e))
+        raise  # también necesario para que retry funcione        
+
 
 def process_article(filename: str, prompts: list[str]):
     if not prompts:
@@ -96,22 +112,20 @@ def process_article(filename: str, prompts: list[str]):
     for i, prompt in enumerate(prompts):
         print(f"\n--- Ejecutando prompt {i+1} ---")
         
-        es_ultimo = i == len(prompts) - 1
+        is_output_prompt = i == len(prompts) - 1
         
-        if es_ultimo:
+        if is_output_prompt:
             print("✅ Esta es la última iteración")
             
             respuesta = try_output_prompt(filename, prompt)
         else:
-            respuesta = chat.preguntar(prompt, True, True) ##create try fn
+            respuesta = try_prompt(prompt)
             
     print(respuesta)
     
     return respuesta
         
-
- 
-            
+      
 def get_article_files() -> list[dict]:
     """
     Lee ordenadamente todos los archivos .md de un directorio,
