@@ -15,7 +15,7 @@ def main():
     logger.info("Running MPC server")
     
     #delete_output_content()
-    #extract_pages("ley_name_1755_year_2015.pdf", pausa_debug=True)
+    #extract_pages("decreto_name_1165_year_2019.pdf", pausa_debug=False)
     #consolidar_paginas()
     #extract_articles()
     process_articles()

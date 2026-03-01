@@ -9,28 +9,16 @@ DOCUMENTO_FINAL = os.path.join(OUTPUT_DIR, "documento_final.md")
 
 
 def detectar_inicio_articulo(linea: str):
-    """
-    Detecta si una línea es el inicio de un artículo.
-    Casos soportados:
-      ARTÍCULO 29.     ARTICULO 29.     Artículo 29.
-      ART. 29.         ART 29.
-      Art. 29.         Art 29.
-      ART.° 29.        ART° 29.         Art.° 29.
-      Artículo 29°     ARTICULO 29°
-      ARTICULO 3o      ARTÍCULO 3o.     Artículo 3°
-    """
     match = re.match(
         r'^\s*'
-        r'(?:ART[IÍ]CULO|ART\.?°?|Art\.?°?)'  # palabra clave
-        r'\s*'
-        r'(\d+)'                                 # número de artículo
-        r'(?:°|º|o|[a-zA-Z])?'                  # sufijo ordinal opcional: °, º, o, letras
-        r'\s*[.°:\s]',                           # separador
-        linea,
-        re.IGNORECASE
+        r'ART[IÍ]CULO'   # solo mayúsculas, sin IGNORECASE
+        r'\s+'
+        r'(\d+)'
+        r'(?:°|º|o\.?)?'
+        r'\s*\.',
+        linea             # sin re.IGNORECASE
     )
     return match.group(1) if match else None
-
 
 def extract_articles(ruta_doc: str = DOCUMENTO_FINAL):
     """

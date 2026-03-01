@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Una empresa de logística internacional planea una operación de tránsito de mercancías que ingresarán temporalmente al Territorio Aduanero Nacional y luego saldrán hacia un tercer país. Considerando el **ARTÍCULO 1o. ALCANCE** del presente decreto, ¿dónde se aplicarán las disposiciones de esta normativa para dicha operación?",
+    "options": [
+      "Únicamente en los puertos de entrada y salida, ya que es donde se realiza el control aduanero principal.",
+      "Solo en el punto de ingreso al Territorio Aduanero Nacional, puesto que allí se inicia la relación jurídica.",
+      "En la totalidad del Territorio Aduanero Nacional, regulando el ingreso, permanencia, traslado y salida de las mercancías.",
+      "Solo en las zonas francas, dado que son áreas especiales para el comercio internacional."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 1o. establece claramente que 'El presente decreto se aplica en la totalidad del Territorio Aduanero Nacional y regula las relaciones jurídicas que se establecen entre la administración aduanera y quienes intervienen en el ingreso, permanencia, traslado y salida de las mercancías, hacia y desde el Territorio Aduanero Nacional'. Por lo tanto, la normativa es de aplicación integral en todo el territorio aduanero para todas las fases de movimiento de mercancías."
+  },
+  {
+    "question": "Un importador presenta una declaración de importación para un lote de mercancías que ha llegado a Colombia. La administración aduanera, al revisar la documentación, encuentra una discrepancia en la clasificación arancelaria. En este escenario, de acuerdo con el **ARTÍCULO 1o. ALCANCE** del presente decreto, ¿qué principio normativo debe prevalecer en la aplicación de las disposiciones del decreto?",
+    "options": [
+      "La interpretación más favorable al importador, como principio general del derecho aduanero.",
+      "Las directrices internas de la administración aduanera, dado su carácter técnico y especializado.",
+      "La sujeción a la Constitución y la ley, como marco superior de la regulación.",
+      "Los acuerdos comerciales internacionales que Colombia haya suscrito, sin considerar la legislación interna."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 1o. indica que el presente decreto se aplica 'con sujeción a la Constitución y la ley'. Esto significa que, en cualquier situación, las disposiciones del decreto deben interpretarse y aplicarse en consonancia con el marco normativo superior establecido por la Constitución y las leyes de la República de Colombia, garantizando el principio de legalidad y jerarquía normativa."
+  },
+  {
+    "question": "Una empresa colombiana desea importar productos que están sujetos a un acuerdo comercial de libre comercio entre Colombia y otro país, el cual establece reglas de origen específicas y beneficios arancelarios. Según el **ARTÍCULO 1o. ALCANCE** del presente decreto, ¿cómo se aplicaría esta normativa en relación con dicho acuerdo internacional?",
+    "options": [
+      "El decreto anularía cualquier disposición del acuerdo internacional si hay conflicto, ya que es la normativa interna vigente.",
+      "El decreto se aplicaría de manera independiente, sin considerar las disposiciones del acuerdo internacional.",
+      "El decreto se aplicaría sin perjuicio de las disposiciones del acuerdo comercial, que prevalecerían en lo que corresponda.",
+      "La aplicación del decreto estaría supeditada exclusivamente a lo que establezca la doctrina de la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 1o. establece que el decreto 'se aplica sin perjuicio de las disposiciones especiales y las resultantes de acuerdos o tratados internacionales a los que haya adherido o adhiera Colombia. Los acuerdos o tratados mencionados comprenden, entre otros, los acuerdos comerciales y los referidos a la protección de la propiedad intelectual'. Esto implica que las disposiciones del decreto se complementan con los acuerdos internacionales, los cuales mantienen su vigencia y aplicación en sus respectivos ámbitos."
+  },
+  {
+    "question": "En el marco de un acuerdo binacional fronterizo, la administración aduanera colombiana realiza controles en una zona demarcada del país vecino para facilitar el flujo de mercancías. Un transportista argumenta que la autoridad aduanera colombiana no tiene jurisdicción fuera del territorio nacional. ¿Qué establece el **ARTÍCULO 1o. ALCANCE** del presente decreto respecto a esta situación?",
+    "options": [
+      "La potestad aduanera colombiana se restringe estrictamente a los límites geográficos del Territorio Aduanero Nacional.",
+      "La potestad aduanera se ejercerá en el país vecino solo si hay un estado de emergencia declarado en la frontera.",
+      "La potestad aduanera se ejercerá, incluso, en el área demarcada del país vecino donde se cumplan los trámites y controles aduaneros en virtud de acuerdos binacionales fronterizos.",
+      "La potestad aduanera colombiana solo puede actuar en territorio extranjero con la aprobación explícita del transportista involucrado."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 1o. dispone que 'La potestad aduanera se ejercerá, incluso, en el área demarcada del país vecino donde se cumplan los trámites y controles aduaneros en virtud de acuerdos binacionales fronterizos'. Esta cláusula habilita la actuación de la autoridad aduanera colombiana más allá de las fronteras físicas, en el marco de la cooperación internacional y los acuerdos específicos."
+  }
+]
