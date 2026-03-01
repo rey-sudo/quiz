@@ -11,7 +11,7 @@ import os
 import glob
 import re
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("rich")
 
 SYSTEM_PROMPT = """
 Eres un asistente experto en normativa colombia vigente año 2026
@@ -109,14 +109,14 @@ def process_article(filename: str, prompts: list[str]):
     respuesta = None
 
     for i, prompt in enumerate(prompts):
-        print(f"\n--- Ejecutando prompt {i+1} ---")
+        logger.info(f"\n[magenta]--- Ejecutando prompt {1} ---[/magenta]")
         
         is_output_prompt = i == len(prompts) - 1
         
         if is_output_prompt:
             print("✅ Esta es la última iteración")
             
-            respuesta = try_output_prompt(filename, prompt)
+            respuesta = try_output_prompt(filename, prompt) #manual iteration election
         else:
             respuesta = try_prompt(prompt)
             
