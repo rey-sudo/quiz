@@ -151,3 +151,10 @@
 [magenta]--- Ejecutando prompt 1 ---[/magenta]
 2026-03-01 16:59:47 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
 2026-03-01 16:59:57 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 17:11:00 [INFO] __main__: Running MPC server
+2026-03-01 17:11:36 [INFO] __main__: Running MPC server
+2026-03-01 17:12:43 [INFO] __main__: Running MPC server
+2026-03-01 17:13:27 [INFO] __main__: Running MPC server
+2026-03-01 17:13:27 [INFO] rich: CSV saved at: output/final.csv
+2026-03-01 17:46:17 [INFO] __main__: Running MPC server
+2026-03-01 17:46:17 [INFO] rich: CSV saved at: output/final.csv
