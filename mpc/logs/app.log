@@ -86,3 +86,68 @@
 2026-02-28 22:19:13 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
 2026-02-28 22:19:14 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
 2026-02-28 22:19:14 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+2026-03-01 16:36:59 [INFO] __main__: Running MPC server
+2026-03-01 16:38:35 [INFO] __main__: Running MPC server
+2026-03-01 16:39:33 [INFO] __main__: Running MPC server
+2026-03-01 16:39:41 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:40:45 [INFO] __main__: Running MPC server
+2026-03-01 16:40:56 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:40:56 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:40:58 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:41:31 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:41:31 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:41:36 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:42:11 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:42:12 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:42:13 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:42:14 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:42:17 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:45:10 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:45:11 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:45:12 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:45:13 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:45:16 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:45:26 [INFO] __main__: Running MPC server
+2026-03-01 16:45:51 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:45:51 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:46:02 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:46:25 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:46:25 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:46:31 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:46:34 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:46:35 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:46:36 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:46:37 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:46:41 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:49:18 [INFO] __main__: Running MPC server
+2026-03-01 16:49:24 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:49:24 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:49:29 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:49:46 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:49:46 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:49:50 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:49:57 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:49:58 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:49:59 [ERROR] rich: Failed to save JSON (attempt failed): Expecting value: line 1 column 1 (char 0)
+2026-03-01 16:50:00 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:58:27 [INFO] __main__: Running MPC server
+2026-03-01 16:59:32 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:59:32 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:59:35 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:59:42 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:59:42 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:59:44 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-01 16:59:47 [INFO] rich: Markdown file saved at: output/lists/articulo_0001.md
+2026-03-01 16:59:47 [INFO] rich: 
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+2026-03-01 16:59:47 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-01 16:59:57 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
