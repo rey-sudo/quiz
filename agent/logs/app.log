@@ -8,3 +8,25 @@
 2026-02-28 20:05:55 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
 2026-02-28 20:07:14 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
 2026-02-28 20:09:02 [INFO] layers.article_processing: JSON file saved at: output/questions/articulo_0001.json
+2026-02-28 20:14:29 [INFO] __main__: Running MPC server
+2026-02-28 20:14:31 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:14:40 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:14:46 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:14:58 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:15:03 [INFO] layers.article_processing: JSON file saved at: output/questions/articulo_0001.json
+2026-02-28 20:16:29 [INFO] __main__: Running MPC server
+2026-02-28 20:16:32 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:16:39 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:16:43 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:16:51 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:16:53 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:16:57 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:17:02 [INFO] layers.article_processing: JSON file saved at: output/questions/articulo_0001.json
+2026-02-28 20:19:14 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:19:20 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:19:25 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:19:28 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:19:30 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-02-28 20:19:35 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-02-28 20:19:39 [INFO] layers.article_processing: JSON file saved at: output/questions/articulo_0002.json
+2026-02-28 20:21:06 [INFO] __main__: Running MPC server

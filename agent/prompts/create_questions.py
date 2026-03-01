@@ -49,7 +49,7 @@ def get_create_questions_prompt(context: str, article: str) -> list[str]:
     
     prompts = [
         convertir_a_json_formateado(prompt1),     
-        #convertir_a_json_formateado(prompt2),
+        convertir_a_json_formateado(prompt2),
         convertir_a_json_formateado(prompt3)    #OUTPUT PROMPT   
     ]
 

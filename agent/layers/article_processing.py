@@ -17,15 +17,18 @@ SYSTEM_PROMPT = """
 Eres un asistente experto en normativa colombia vigente año 2026
 """
 
-chat = GeminiChat(
-    model="gemini-2.5-flash",
-    system_prompt=SYSTEM_PROMPT,
-)
 
 chat = OllamaChat(
     model='gemma3:4b',
     system_prompt=SYSTEM_PROMPT
 )
+
+
+chat = GeminiChat(
+    model="gemini-2.5-flash",
+    system_prompt=SYSTEM_PROMPT,
+)
+
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def save_json_file(filename: str, data: str):
