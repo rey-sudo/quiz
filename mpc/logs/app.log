@@ -229,3 +229,264 @@
 2026-03-01 18:26:34 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
 2026-03-01 18:26:35 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
 2026-03-01 18:31:00 [INFO] __main__: Running MPC server
+2026-03-01 20:07:41 [INFO] __main__: Running MPC server
+2026-03-01 20:07:42 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:07:42 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:07:42 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:07:42 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:07:42 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 20:10:55 [INFO] __main__: Running MPC server
+2026-03-01 20:11:42 [INFO] __main__: Running MPC server
+2026-03-01 20:11:57 [INFO] __main__: Running MPC server
+2026-03-01 20:12:30 [INFO] __main__: Running MPC server
+2026-03-01 20:12:30 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:12:30 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:12:30 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:12:30 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:12:30 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 20:13:53 [INFO] __main__: Running MPC server
+2026-03-01 20:13:53 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:13:53 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:13:53 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:13:53 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:13:53 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 20:14:13 [INFO] __main__: Running MPC server
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:13 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:14 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:15 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:16 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:17 [INFO] rich: Excel saved at: output/summary.xlsx — Total rows: 775
+2026-03-01 20:14:24 [INFO] __main__: Running MPC server
+2026-03-01 20:14:56 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:14:56 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:14:56 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:14:56 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 20:15:51 [INFO] __main__: Running MPC server
+2026-03-01 20:16:07 [INFO] __main__: Running MPC server
+2026-03-01 20:16:30 [INFO] __main__: Running MPC server
+2026-03-01 20:17:03 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:17:03 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:17:03 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:17:03 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 20:19:36 [INFO] __main__: Running MPC server
+2026-03-01 20:20:08 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:20:08 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:20:08 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:20:08 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 20:20:20 [INFO] __main__: Running MPC server
+2026-03-01 20:20:52 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 20:20:52 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 20:20:52 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 20:20:52 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204

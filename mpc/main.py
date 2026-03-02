@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 from layers.merge_questions import merge_json_questions
 load_dotenv()
-from layers.csv_creation import create_summary_csv
+from layers.summary_creation import create_summary
 from utils.logging import setup_logging
 setup_logging()
 from layers.questions_creation import process_articles
@@ -23,7 +23,7 @@ def main():
     #extract_articles()
     #process_articles()
     
-    create_summary_csv()
+    create_summary()
     merge_json_questions()
 if __name__ == "__main__":
     main()
