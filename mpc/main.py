@@ -21,7 +21,8 @@ def main():
     #extract_pages("decreto_name_1165_year_2019.pdf", pausa_debug=False)
     #consolidar_paginas()
     #extract_articles()
-    process_articles()
+    #process_articles()
+    
     create_summary_csv()
     merge_json_questions()
 if __name__ == "__main__":
