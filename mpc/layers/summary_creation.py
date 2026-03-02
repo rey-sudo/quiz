@@ -58,7 +58,7 @@ def create_summary():
                 lines.append(f"{list_content}\n")
             lines.append("\n---\n")
 
-        output_path.write_text("\n".join(lines), encoding="utf-8")
+        output_path.write_text("".join(lines), encoding="utf-8")
         output_paths.append(output_path)
         logger.info(f"Saved: {output_path.name} ({len(chunk_numbers)} entries)")
 
