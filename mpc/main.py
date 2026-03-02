@@ -24,7 +24,7 @@ def main():
     
     #process_articles()
     
-    #create_summary()
+    create_summary()
     
     #merge_json_questions()
 if __name__ == "__main__":

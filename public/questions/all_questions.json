@@ -2242,5 +2242,302 @@
     ],
     "correct": 2,
     "explanation": "El ARTÍCULO 3o. DEFINICIONES del Decreto 1165 de 2019 define 'Zona Secundaria Aduanera' como la parte del Territorio Aduanero Nacional que no constituye zona primaria aduanera, en donde la administración aduanera ejerce sin restricciones su potestad de control y vigilancia."
+  },
+  {
+    "question": "Una empresa colombiana, \"Global Logistics S.A.S.\", decide importar maquinaria especializada de Alemania bajo un régimen aduanero específico. Al iniciar este proceso, se genera una interacción con la Dirección de Impuestos y Aduanas Nacionales (DIAN). Según el ARTÍCULO 4o. OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿qué tipo de vínculo se establece y entre quiénes, al configurarse la obligación aduanera?",
+    "options": [
+      "Un vínculo comercial entre Global Logistics S.A.S. y la DIAN, mediado por un contrato de transporte.",
+      "Un vínculo administrativo entre la DIAN y el proveedor alemán de la maquinaria, regulado por acuerdos bilaterales.",
+      "Un vínculo jurídico entre la administración aduanera y Global Logistics S.A.S., como persona directamente relacionada con la operación.",
+      "Un vínculo fiscal exclusivo entre el exportador y el importador, sin intervención de la autoridad aduanera."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 4o. OBLIGACIÓN ADUANERA establece que la obligación aduanera es un \"vínculo jurídico entre la administración aduanera y cualquier persona directa o indirectamente relacionada con cualquier régimen, modalidad u operación aduanera\". En este caso, Global Logistics S.A.S. es la persona directamente relacionada con la operación de importación, por lo tanto, se establece un vínculo jurídico con la administración aduanera."
+  },
+  {
+    "question": "Un viajero, al regresar a Colombia, decide declarar artículos nuevos adquiridos en el extranjero, acogiéndose a la modalidad de \"viajeros\". Este acto de declaración y acogimiento a la modalidad genera una serie de responsabilidades. De acuerdo con el ARTÍCULO 4o. OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿cuál es el origen o derivación de la obligación aduanera en esta situación específica?",
+    "options": [
+      "La mera tenencia de los artículos adquiridos en el extranjero al momento de ingresar al territorio nacional.",
+      "La voluntad unilateral de la DIAN de aplicar un gravamen a cualquier objeto ingresado al país.",
+      "El cumplimiento de las obligaciones correspondientes a la modalidad aduanera de viajeros escogida por el declarante.",
+      "El valor comercial de los artículos traídos al país, que automáticamente genera la obligación."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 4o. OBLIGACIÓN ADUANERA indica que la obligación aduanera es \"derivado del cumplimiento de las obligaciones correspondientes a cada una de ellas\", refiriéndose a los regímenes, modalidades u operaciones aduaneras. En este caso, el cumplimiento de las obligaciones de la modalidad de viajeros es el origen de dicha obligación."
+  },
+  {
+    "question": "Un contenedor con mercancías sensibles es declarado bajo un régimen de importación para el consumo en el puerto de Barranquilla. Una vez que la obligación aduanera ha sido configurada por la realización de la operación, las autoridades aduaneras ejercen sus facultades de control. Con base en el ARTÍCULO 4o. OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿a qué quedan sometidas estas mercancías una vez se ha configurado la obligación aduanera?",
+    "options": [
+      "A la libre disposición del declarante, una vez que el pago de los tributos haya sido efectuado en su totalidad.",
+      "Exclusivamente a los controles de calidad y seguridad exigidos por el importador, antes de su distribución.",
+      "A la potestad aduanera de la administración, independientemente del régimen bajo el cual se encuentren.",
+      "A una garantía bancaria que cubra su valor total, como único requisito para su liberación."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 4o. OBLIGACIÓN ADUANERA establece claramente que, al configurarse la obligación aduanera, las mercancías quedan \"sometidas a la potestad aduanera\". Esto implica el poder de la autoridad aduanera para controlar y fiscalizar las mercancías, desde su ingreso hasta su salida o consumo definitivo."
+  },
+  {
+    "question": "Un agente aduanero, en representación de un importador, presenta una declaración de importación con información incorrecta sobre la partida arancelaria, lo que posteriormente es detectado por la DIAN en un control posterior. Esta situación deriva en un ajuste de los gravámenes y la aplicación de cargos adicionales. Según el ARTÍCULO 4o. OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, además del pago de los tributos aduaneros ajustados, ¿qué otros conceptos pueden ser exigibles a los obligados aduaneros en este escenario?",
+    "options": [
+      "Solo los tributos aduaneros y los recargos por el error cometido en la declaración.",
+      "Intereses, tasas, recargos y sanciones a que hubiere lugar, según lo establecido por la ley.",
+      "Únicamente una amonestación escrita y el pago del valor faltante de los tributos, sin ningún otro cargo.",
+      "La devolución inmediata de la mercancía al país de origen, como única consecuencia adicional."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 4o. OBLIGACIÓN ADUANERA establece que los obligados aduaneros quedan sujetos \"al pago de los tributos aduaneros, intereses, tasas, recargos y sanciones, a que hubiere lugar\". Por lo tanto, en el escenario descrito, además de los tributos ajustados, se pueden exigir intereses, tasas, recargos y sanciones."
+  },
+  {
+    "question": "Una empresa exportadora, 'Exporta Colombia S.A.S.', decide utilizar la modalidad de exportación definitiva para un cargamento de café. Para ello, debe seguir una serie de pasos y requisitos establecidos en la normativa aduanera. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA, ¿qué abarca la obligación aduanera en relación con la elección de esta modalidad específica?",
+    "options": [
+      "Únicamente el pago de los tributos aduaneros correspondientes a la exportación, si los hubiera.",
+      "La obligación exclusiva de la DIAN de aprobar o rechazar la solicitud de exportación.",
+      "El cumplimiento de todas las obligaciones inherentes al régimen de exportación definitiva y la modalidad escogida.",
+      "La garantía de que la mercancía llegará a su destino sin ningún tipo de inspección aduanera adicional."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA establece que la obligación aduanera \"comprende el cumplimiento de las obligaciones correspondientes a cualquier régimen, modalidad u operación aduanera\". En este caso, la empresa debe cumplir con todas las obligaciones específicas del régimen de exportación definitiva."
+  },
+  {
+    "question": "Un importador necesita tramitar la nacionalización de un lote de repuestos automotrices. Para ello, debe presentar la declaración de importación, adjuntar documentos de soporte y, eventualmente, someter la mercancía a inspección física. De acuerdo con el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿qué aspecto fundamental de la obligación aduanera cubren estas acciones?",
+    "options": [
+      "El respaldo legal para la libre disposición de la mercancía una vez presentada la declaración.",
+      "La responsabilidad exclusiva del transportador de la mercancía ante las autoridades aduaneras.",
+      "Los trámites aduaneros que debe adelantar cada uno de los obligados aduaneros en la operación.",
+      "El deber de la administración aduanera de facilitar el tránsito sin requerir documentación alguna."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA incluye dentro del alcance de la obligación aduanera \"los trámites aduaneros que debe adelantar cada uno de los obligados aduaneros\". La presentación de la declaración, los documentos y la inspección son ejemplos de estos trámites."
+  },
+  {
+    "question": "Durante un proceso de importación, se detecta que el valor declarado de las mercancías era inferior al real, lo que genera una liquidación adicional de tributos aduaneros. Además, la normativa establece la aplicación de intereses moratorios y una sanción por la infracción. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿qué incluye la obligación aduanera en este escenario particular?",
+    "options": [
+      "Solo el pago de los tributos aduaneros iniciales, sin considerar ajustes posteriores.",
+      "Exclusivamente la penalidad por la infracción, desvinculada del pago de tributos.",
+      "El pago de los tributos aduaneros, intereses, tasas, recargos y sanciones a que hubiere lugar.",
+      "La potestad del importador para negociar el monto de los intereses y las sanciones con la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA especifica que la obligación aduanera comprende \"el pago de los tributos aduaneros, intereses, tasas, recargos y sanciones, a que hubiere lugar\". Esto abarca los ajustes en los tributos, los intereses moratorios y las sanciones que se impongan."
+  },
+  {
+    "question": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) decide realizar una visita de control posterior a las instalaciones de una empresa que ha realizado varias operaciones de comercio exterior, solicitando acceso a registros contables y documentación de soporte. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿a qué tipo de obligaciones se refiere esta situación para la empresa?",
+    "options": [
+      "A obligaciones comerciales entre la empresa y sus proveedores, sin injerencia aduanera.",
+      "A obligaciones exclusivamente relacionadas con el régimen cambiario, no aduanero.",
+      "A todas aquellas obligaciones que se deriven de actuaciones que emprenda la administración aduanera.",
+      "A la facultad de la empresa de negarse a cualquier revisión posterior a la levante de la mercancía."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA establece que la obligación aduanera también comprende \"todas aquellas obligaciones que se deriven de actuaciones que emprenda la administración aduanera\". Una visita de control posterior y la solicitud de documentos son actuaciones de la administración aduanera que generan obligaciones para el obligado aduanero."
+  },
+  {
+    "question": "Un importador individual, el Sr. Carlos Pérez, trae a Colombia una motocicleta de alta gama. Debido a un error en su declaración, se genera una obligación aduanera por tributos y sanciones. Según el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA de la normativa colombiana, ¿cuál es la característica fundamental de esta obligación que recae sobre el Sr. Pérez?",
+    "options": [
+      "Es una obligación de carácter exclusivamente real, que solo afecta la motocicleta.",
+      "Es una obligación comercial, sujeta a la negociación entre las partes.",
+      "Es una obligación de carácter personal, recayendo directamente sobre el importador.",
+      "Es una obligación solidaria con el fabricante de la motocicleta, si este es extranjero."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA establece que \"La obligación aduanera es de carácter personal\". Esto significa que la responsabilidad recae directamente sobre la persona (natural o jurídica) que realiza la operación aduanera o está relacionada con ella."
+  },
+  {
+    "question": "Una empresa importadora no cumple con el pago de los tributos aduaneros dentro de los plazos establecidos para un cargamento de juguetes. A pesar de que la obligación aduanera es de carácter personal, la administración aduanera necesita asegurar el cobro. De acuerdo con el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA de la normativa aduanera colombiana, ¿cómo puede hacerse efectivo el cumplimiento de esta obligación sobre las mercancías en caso de incumplimiento?",
+    "options": [
+      "Mediante la retención indefinida de la mercancía hasta que el importador la abandone.",
+      "A través de un proceso de embargo y posterior subasta judicial que no está ligado a la mercancía en sí.",
+      "Haciendo efectivo su cumplimiento sobre la mercancía, sin perjuicio de su carácter personal.",
+      "Solo si el importador autoriza voluntariamente que se disponga de la mercancía."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA indica que la obligación es de carácter personal \"sin perjuicio de que pueda hacerse efectivo su cumplimiento sobre la mercancía\". Esto significa que, aunque la persona es la obligada, los bienes mismos pueden ser utilizados para garantizar el cumplimiento."
+  },
+  {
+    "question": "Un cargamento de productos perecederos fue ingresado al país, pero el importador no realizó los trámites de nacionalización ni el pago de tributos aduaneros en el tiempo legalmente permitido, y no se presentó a subsanar la situación. Ante esta inacción, la autoridad aduanera decide tomar posesión de la mercancía. Con base en el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA de la normativa colombiana, ¿mediante qué mecanismos específicos puede la administración aduanera hacer efectivo el cumplimiento de la obligación aduanera directamente sobre la mercancía en este tipo de situación?",
+    "options": [
+      "Únicamente a través de la venta directa al público de la mercancía para cubrir la deuda.",
+      "Mediante el abandono de la mercancía o el decomiso de la misma.",
+      "Exclusivamente mediante la imposición de multas al importador, sin tocar la mercancía.",
+      "Solo por medio de un acuerdo con el importador para destruir la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA especifica que el cumplimiento de la obligación sobre la mercancía puede hacerse efectivo \"mediante el abandono o el decomiso\". En el caso descrito, la inacción del importador puede llevar al abandono legal o al decomiso si hay infracciones graves."
+  },
+  {
+    "question": "Una empresa importadora ha utilizado un lote de maquinaria como garantía para un préstamo bancario, lo que implica que la maquinaria tiene un gravamen a favor de la entidad financiera. No obstante, al ingresar esta maquinaria al país, se generó una obligación aduanera por el pago de tributos que la empresa no ha cumplido. Según el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA de la normativa colombiana, ¿qué prioridad tiene la obligación aduanera sobre otras posibles obligaciones o garantías que recaigan sobre la mercancía?",
+    "options": [
+      "La obligación aduanera tiene la misma prioridad que cualquier otra garantía u obligación, debiendo resolverse en un orden cronológico.",
+      "La obligación aduanera es secundaria, y el gravamen bancario tiene preferencia sobre ella.",
+      "La obligación aduanera tiene preferencia sobre cualquier otra garantía u obligación que recaiga sobre la mercancía.",
+      "La prioridad se establece mediante un acuerdo entre el banco, el importador y la DIAN, caso por caso."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA establece que el cumplimiento de la obligación aduanera sobre la mercancía se realiza \"con preferencia sobre cualquier otra garantía u obligación que recaiga sobre ella\". Esto otorga un carácter privilegiado a la deuda aduanera frente a otras deudas o gravámenes."
+  },
+  {
+    "question": "Una empresa manufacturera, \"TecnoImport S.A.S.\", realiza importaciones regulares de materias primas para su producción. Para cada operación, \"TecnoImport S.A.S.\" presenta las declaraciones aduaneras y cumple directamente con todos los requisitos y pagos. Según el ARTÍCULO 7o. OBLIGADOS ADUANEROS de la normativa aduanera colombiana, ¿qué tipo de obligado aduanero es \"TecnoImport S.A.S.\" en este escenario?",
+    "options": [
+      "Es un obligado aduanero indirecto, ya que su actividad principal no es el comercio exterior.",
+      "Es un obligado aduanero directo, debido a su condición de usuario aduanero al importar mercancías.",
+      "Es un tercero interviniente, sin que adquiera la categoría de obligado aduanero formal.",
+      "Es un colaborador de la administración aduanera, sin responsabilidades directas sobre los tributos."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 7o. OBLIGADOS ADUANEROS, en su numeral 1, establece que los obligados aduaneros directos son \"Los usuarios aduaneros\". \"TecnoImport S.A.S.\" al importar mercancías y gestionar directamente los trámites, califica como usuario aduanero y, por ende, como obligado aduanero directo."
+  },
+  {
+    "question": "Una agencia de aduanas, \"Agencia Aduanera Global S.A.\", es contratada por un importador para adelantar los trámites de nacionalización de su mercancía. La agencia se encarga de preparar la declaración, presentarla ante la DIAN y coordinar la inspección. De acuerdo con el ARTÍCULO 7o. OBLIGADOS ADUANEROS de la normativa aduanera colombiana, ¿qué tipo de obligado aduanero es \"Agencia Aduanera Global S.A.\" en esta operación?",
+    "options": [
+      "Un obligado aduanero directo, asumiendo la responsabilidad principal de la operación.",
+      "Un obligado aduanero indirecto, por haber intervenido de manera indirecta en el cumplimiento del trámite aduanero.",
+      "Un simple intermediario sin responsabilidades ante la autoridad aduanera.",
+      "Un agente de carga internacional, cuya intervención no genera obligación aduanera alguna."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 7o. OBLIGADOS ADUANEROS, en su numeral 2, define a los obligados aduaneros indirectos como \"Toda persona que en desarrollo de su actividad haya intervenido de manera indirecta en el cumplimiento de cualquier trámite u operación aduanera\". La agencia de aduanas encaja perfectamente en esta definición al adelantar trámites en nombre de un tercero."
+  },
+  {
+    "question": "Un banco comercial que ha financiado una operación de importación es requerido por la DIAN para que entregue información financiera relacionada con los pagos efectuados por el importador a su proveedor extranjero, debido a una investigación por posible subfacturación. Con base en el ARTÍCULO 7o. OBLIGADOS ADUANEROS de la normativa aduanera colombiana, ¿bajo qué condición se considera el banco un obligado aduanero en este contexto?",
+    "options": [
+      "El banco nunca puede ser un obligado aduanero, ya que su rol es puramente financiero.",
+      "Se convierte en obligado aduanero indirecto por haber sido requerido por la autoridad aduanera para suministrar información.",
+      "Solo si el banco tuviera un rol directo en el despacho de la mercancía podría ser un obligado aduanero.",
+      "Únicamente si el banco se convierte en deudor solidario del importador por los tributos aduaneros."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 7o. OBLIGADOS ADUANEROS, numeral 2, establece que los obligados aduaneros indirectos son, en general, \"cualquier persona que sea requerida por la autoridad aduanera\". El banco, al ser requerido para entregar información, adquiere la calidad de obligado aduanero indirecto en ese momento."
+  },
+  {
+    "question": "Un transportador internacional, \"Carga Veloz Ltda.\", es responsable de la consolidación y transporte de varias cargas de exportación. Durante un control de aduanas, se verifica que la información del manifiesto de carga entregado por \"Carga Veloz Ltda.\" no coincide con la mercancía física. Según el ARTÍCULO 7o. OBLIGADOS ADUANEROS de la normativa aduanera colombiana, ¿cuáles son las responsabilidades de \"Carga Veloz Ltda.\" como obligado aduanero indirecto en relación con su intervención y la información suministrada?",
+    "options": [
+      "Es responsable solo de la mercancía física, no de la documentación ni de la información.",
+      "Será responsable por su intervención y por el suministro de toda documentación e información exigida por la DIAN.",
+      "La responsabilidad recae exclusivamente en el exportador, quien es el dueño de la mercancía.",
+      "No tiene responsabilidades adicionales, ya que su función se limita al traslado físico de la carga."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 7o. OBLIGADOS ADUANEROS, numeral 2, indica que los obligados aduaneros indirectos \"Serán responsables por su intervención, según corresponda, y por el suministro de toda documentación e información exigida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)\". El transportador, al intervenir y suministrar un manifiesto, es responsable de su veracidad y exactitud."
+  },
+  {
+    "question": "La empresa \"Logística Integral S.A.S.\", clasificada como obligado aduanero indirecto por su participación en la cadena de suministro de un importador, interviene en la fase de transporte y custodia de mercancías. Durante una verificación de la DIAN, se detecta que los documentos de transporte suministrados por \"Logística Integral S.A.S.\" contenían inconsistencias. Según el ARTÍCULO 8 de la normativa aduanera colombiana, ¿cuál es la responsabilidad principal de \"Logística Integral S.A.S.\" como obligado aduanero indirecto en este caso?",
+    "options": [
+      "Ser responsable únicamente por la custodia física de la mercancía, sin injerencia en la documentación.",
+      "Ser responsable por las obligaciones derivadas de su intervención y por el suministro de toda documentación e información exigida por la DIAN.",
+      "La responsabilidad recae exclusivamente en el importador directo, ya que la obligación aduanera es personal.",
+      "No tiene ninguna responsabilidad legal, ya que solo es un intermediario en el proceso."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 8 establece que los obligados aduaneros (directos e indirectos, según el artículo 7) \"son responsables de la obligación aduanera... por las obligaciones derivadas de su intervención y por el suministro de toda documentación e información exigida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)\". Por lo tanto, \"Logística Integral S.A.S.\" es responsable por la información de los documentos de transporte que suministró."
+  },
+  {
+    "question": "Un ciudadano colombiano, el Sr. Juan Pérez, importa un vehículo clásico de colección para su uso personal. Al momento de la inspección en la aduana, se le solicita la documentación que acredite la procedencia legal del vehículo y el pago de los aranceles. Según el ARTÍCULO 8 de la normativa aduanera colombiana, ¿cuál es la responsabilidad fundamental que recae sobre el Sr. Pérez como importador en esta situación?",
+    "options": [
+      "La responsabilidad se limita a presentar el vehículo para inspección, sin necesidad de acreditar su legalidad.",
+      "Es responsable de acreditar la legal introducción de las mercancías al Territorio Aduanero Nacional y el pago de los tributos aduaneros a que haya lugar.",
+      "La responsabilidad de acreditar la legalidad recae en el vendedor del vehículo en el extranjero.",
+      "Su única obligación es garantizar que el vehículo cumpla con los estándares técnicos colombianos."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 8 indica que \"El importador será responsable de acreditar la legal introducción de las mercancías al Territorio Aduanero Nacional, con el lleno de los requisitos exigidos y el pago de los tributos aduaneros a que haya lugar de conformidad con lo previsto en este decreto.\""
+  },
+  {
+    "question": "La empresa \"Industrias Metálicas S.A.\" decide realizar directamente, sin intermediarios, la importación de una partida de acero laminado. Al presentar la declaración aduanera, el departamento de comercio exterior de la empresa comete un error en la clasificación arancelaria, lo que resulta en una liquidación inicial menor de los tributos aduaneros. Posteriormente, la DIAN detecta el error. De acuerdo con el ARTÍCULO 8 de la normativa aduanera colombiana, ¿de qué es responsable \"Industrias Metálicas S.A.\" al actuar de manera directa?",
+    "options": [
+      "Solo de la veracidad de los datos generales del importador, no de la clasificación arancelaria.",
+      "De la exactitud y veracidad de los datos contenidos en la declaración aduanera y de la correcta determinación de la base gravable y liquidación de tributos, sanciones y rescate.",
+      "Únicamente de la presentación oportuna de la declaración, sin responsabilidad por errores en su contenido.",
+      "La responsabilidad recae sobre el sistema informático aduanero que procesa la declaración."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 8 establece que \"Cuando actúe de manera directa, [el importador] será responsable por la exactitud y veracidad de los datos contenidos en la declaración aduanera y por la correcta determinación de la base gravable y de la liquidación de los tributos aduaneros, sanciones y rescate a que haya lugar.\""
+  },
+  {
+    "question": "La empresa \"Textiles Modernos Ltda.\" contrata a la \"Agencia Aduanera Soluciones\" para gestionar la importación de hilos especiales. \"Textiles Modernos Ltda.\" le proporciona a la agencia las facturas comerciales y los certificados de origen, los cuales, sin que la agencia lo sepa, resultan ser adulterados por el proveedor. Adicionalmente, la agencia solicita información detallada sobre los descuentos obtenidos, pero el importador omite algunos. Según el ARTÍCULO 8 de la normativa aduanera colombiana, ¿cuál es la responsabilidad de \"Textiles Modernos Ltda.\" al actuar a través de la agencia de aduanas en relación con la documentación y la información?",
+    "options": [
+      "La responsabilidad por la autenticidad de los documentos y la completitud de la información recae completamente en la \"Agencia Aduanera Soluciones\".",
+      "Será responsable por la autenticidad de los documentos soporte obtenidos y suministrados por él, así como por la entrega de la totalidad de la información sobre los elementos de hecho y circunstancias comerciales de la negociación.",
+      "El importador solo es responsable de los documentos, no de la información comercial para la valoración aduanera.",
+      "La agencia de aduanas asume toda la responsabilidad una vez que recibe los documentos y la información."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 8 indica que \"Cuando actúe a través de una agencia de aduanas, [el importador] responderá por la autenticidad de los documentos soporte que sean obtenidos y suministrados por él, así como por la entrega de la totalidad de la información sobre los elementos de hecho y circunstancias comerciales de la negociación a efectos de la valoración aduanera, de acuerdo con lo solicitado por la agencia de aduanas.\""
+  },
+  {
+    "question": "Un importador, \"Maquinaria Pesada S.A.\", es el encargado de elaborar y firmar la Declaración Andina del Valor (DAV) para una importación de equipos industriales complejos. Durante una revisión posterior, la DIAN encuentra que la DAV fue llenada con datos incompletos y que la metodología de valoración utilizada no se ajusta a las normas vigentes. Con base en el ARTÍCULO 8 de la normativa aduanera colombiana, ¿de qué es responsable \"Maquinaria Pesada S.A.\" en esta situación específica?",
+    "options": [
+      "Es responsable únicamente de la firma de la DAV, sin que ello implique responsabilidad por su contenido.",
+      "Es responsable por el lleno total de los datos exigidos en la misma y por la correcta determinación del valor en aduana atendiendo a la técnica establecida por las normas de valoración vigentes.",
+      "La responsabilidad de la correcta valoración aduanera siempre recae en la administración aduanera.",
+      "Solo será responsable si la DAV fue elaborada por un tercero contratado específicamente para ese fin."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 8 establece que \"Cuando el importador elabore y firme la Declaración Andina del Valor, responderá por el lleno total de los datos exigidos en la misma, por la correcta determinación del valor en aduana atendiendo a la técnica establecida por las normas de valoración vigentes.\""
+  },
+  {
+    "question": "Un consorcio, conformado por \"Constructora Andina Ltda.\" (persona jurídica) y el ingeniero civil Pedro Gómez (persona natural), importa maquinaria especializada para un proyecto de infraestructura pública. Si este consorcio incumple con el pago de los tributos aduaneros generados por dicha importación, según el ARTÍCULO 8 de la normativa aduanera colombiana, ¿cómo se distribuye la responsabilidad por el pago de estos tributos?",
+    "options": [
+      "La responsabilidad recae únicamente sobre la \"Constructora Andina Ltda.\" por ser la entidad jurídica más grande.",
+      "La responsabilidad es solidaria y recae sobre \"Constructora Andina Ltda.\" y el ingeniero Pedro Gómez individualmente considerados.",
+      "La responsabilidad es proporcional a la participación de cada miembro en el consorcio, no solidaria.",
+      "Ninguno de los miembros del consorcio es directamente responsable; la obligación recae sobre el consorcio como ente autónomo."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 8 especifica que \"En el caso de un consorcio o unión temporal o una asociación empresarial, la responsabilidad por el pago de los tributos aduaneros será solidaria, y recaerá sobre las personas jurídicas y/o naturales individualmente consideradas que los conformen.\""
+  },
+  {
+    "question": "La empresa \"Exportaciones Seguras S.A.\" ha sido autorizada como Operador Económico Autorizado (OEA) por la DIAN. Esta autorización le otorga ciertos beneficios, pero también le impone responsabilidades adicionales. De acuerdo con el ARTÍCULO 8 de la normativa aduanera colombiana, ¿qué tipo de obligaciones asume \"Exportaciones Seguras S.A.\" en su calidad de OEA?",
+    "options": [
+      "Sus únicas obligaciones son las previstas en el Decreto 3568 de 2011, sin ninguna otra consideración.",
+      "Asume las obligaciones establecidas en el Decreto 3568 de 2011 (o el que lo sustituya o modifique), además de las establecidas en este decreto para los usuarios aduaneros, según corresponda.",
+      "Como OEA, la empresa queda exenta de la mayoría de las obligaciones de los usuarios aduaneros comunes.",
+      "Sus obligaciones se limitan a las que acuerde con la DIAN de manera bilateral en su plan de gestión de riesgos."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 8 establece que \"Las obligaciones derivadas de la autorización como operador económico autorizado son las previstas en el Decreto 3568 de 2011 o el que lo sustituya o modifique, además de las establecidas en este decreto para los usuarios aduaneros, según corresponda.\" Esto significa que las obligaciones de OEA se suman a las de un usuario aduanero general."
+  },
+  {
+    "question": "Un consorcio, denominado \"Infraestructura Futura C.U.T.\", ha sido adjudicado con un contrato para construir una autopista y necesita importar maquinaria especializada de gran valor. Los documentos de transporte y demás soportes de la operación de comercio exterior llegan consignados a nombre de este consorcio. Según el ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES de la normativa aduanera colombiana, ¿qué Número de Identificación Tributaria (NIT) debe utilizar \"Infraestructura Futura C.U.T.\" para adelantar los trámites de importación de dicha maquinaria?",
+    "options": [
+      "El NIT de la empresa líder del consorcio, ya que es quien asume la mayor responsabilidad.",
+      "El NIT de la empresa con mayor capital dentro del consorcio, para facilitar el seguimiento fiscal.",
+      "El NIT asignado específicamente al consorcio o unión temporal, sin excepción.",
+      "Cualquiera de los NIT de las personas jurídicas que conforman el consorcio, a elección del administrador."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES establece que cuando los documentos de transporte y demás documentos soporte se consignen a nombre de un consorcio o unión temporal, \"los trámites de importación, exportación, tránsito aduanero, deberán adelantarse utilizando el Número de Identificación Tributaria (NIT), asignado al mismo.\""
+  },
+  {
+    "question": "El consorcio \"Puentes y Carreteras S.A.S.\", que está ejecutando una obra de infraestructura, recibe un requerimiento de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) solicitando aclaraciones sobre una declaración de tránsito aduanero. Para responder a este requerimiento, se debe presentar un documento formal ante la entidad. Con base en el ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES de la normativa aduanera colombiana, ¿quién debe suscribir las actuaciones que se surtan ante la DIAN por parte de este consorcio?",
+    "options": [
+      "Cualquier representante legal de las empresas que conforman el consorcio.",
+      "El representante legal de la empresa que figure como gestora principal en el contrato del consorcio.",
+      "El administrador designado por el consorcio o unión temporal para representarlo ante la entidad contratante.",
+      "Un apoderado judicial debidamente constituido, sin necesidad de ser el administrador del consorcio."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES indica que \"Las actuaciones que se surtan ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), deberán ser suscritas por el administrador designado por el consorcio o unión temporal para representarlo ante la entidad contratante.\""
+  },
+  {
+    "question": "Un consorcio ha ganado una licitación pública para la construcción de un hospital y necesita importar equipos médicos especializados. Este consorcio debe cumplir con sus obligaciones aduaneras y, para ello, se le exige la constitución de una garantía. Según el ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES de la normativa aduanera colombiana, ¿cuándo debe ser constituida la garantía global por parte del consorcio para amparar sus operaciones de comercio exterior?",
+    "options": [
+      "Después de obtener el levante de la primera mercancía importada.",
+      "En el momento de la aprobación del contrato por parte de la entidad contratante.",
+      "Antes de la presentación de las declaraciones aduaneras de importación, exportación o tránsito aduanero.",
+      "Una vez que la DIAN haya notificado la existencia de obligaciones aduaneras pendientes."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES especifica que las actuaciones de un consorcio o unión temporal \"deberán ampararse con una garantía global, constituida antes de la presentación de las declaraciones aduaneras de importación, exportación o tránsito aduanero.\""
+  },
+  {
+    "question": "El consorcio \"Construcciones del Futuro\" planea importar maquinaria con un valor FOB total estimado de 15,000,000 USD para su proyecto durante el primer año. La DIAN le exige una garantía global para respaldar sus obligaciones aduaneras. Asumiendo una UVT de $47.065 para el año 2024, de acuerdo con el ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES de la normativa aduanera colombiana, ¿cuál sería el monto máximo de esta garantía global en UVT?",
+    "options": [
+      "El 1% del valor FOB de la mercancía, sin un límite establecido en UVT.",
+      "Cien mil (100.000) Unidades de Valor Tributario (UVT).",
+      "El 1% del valor FOB o el equivalente a 10.000 UVT, el que sea menor.",
+      "Doscientos mil (200.000) Unidades de Valor Tributario (UVT)."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES establece que el monto de la garantía global será \"equivalente al uno por ciento (1%) del valor FOB de la mercancía... sin que en ningún caso el valor a asegurar sea superior a cien mil (100.000) Unidades de Valor Tributario (UVT)\". Aunque el cálculo inicial del 1% del valor FOB podría ser mayor, el límite superior fijo es de 100.000 UVT."
   }
 ]
