@@ -556,3 +556,29 @@
 2026-03-01 20:48:47 [INFO] rich: Merged: articulo_0002.json (8 questions)
 2026-03-01 20:48:47 [INFO] rich: Merged: articulo_0003.json (192 questions)
 2026-03-01 20:48:47 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 21:41:54 [INFO] __main__: Running MPC server
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0001-0100.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0101-0200.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0201-0300.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0301-0400.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0401-0500.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0501-0600.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0601-0700.md (100 entries)
+2026-03-01 21:41:54 [INFO] rich: Saved: summary_0701-0775.md (75 entries)
+2026-03-01 21:41:54 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 21:41:54 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 21:41:54 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 21:41:54 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
+2026-03-01 21:56:41 [INFO] __main__: Running MPC server
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0001-0100.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0101-0200.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0201-0300.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0301-0400.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0401-0500.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0501-0600.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0601-0700.md (100 entries)
+2026-03-01 21:56:41 [INFO] rich: Saved: summary_0701-0775.md (75 entries)
+2026-03-01 21:56:41 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-01 21:56:41 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-01 21:56:41 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-01 21:56:41 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 204
