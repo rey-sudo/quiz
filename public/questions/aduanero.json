@@ -2539,5 +2539,643 @@
     ],
     "correct": 1,
     "explanation": "El ARTÍCULO 9o. CONSORCIOS Y UNIONES TEMPORALES establece que el monto de la garantía global será \"equivalente al uno por ciento (1%) del valor FOB de la mercancía... sin que en ningún caso el valor a asegurar sea superior a cien mil (100.000) Unidades de Valor Tributario (UVT)\". Aunque el cálculo inicial del 1% del valor FOB podría ser mayor, el límite superior fijo es de 100.000 UVT."
+  },
+  {
+    "question": "Una empresa colombiana, \"Comercio Global S.A.S.\", desea iniciar operaciones de importación y exportación de mercancías. Según el ARTÍCULO 10, numeral 1.1 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, para que una persona jurídica pueda actuar como importador o exportador en Colombia, ¿cuál de los siguientes es un requisito fundamental?",
+    "options": [
+      "Tener una sucursal en cada departamento del país.",
+      "Estar domiciliados y/o representados legalmente en el país y estar inscritos en el Registro Único Tributario (RUT) con la calidad correspondiente.",
+      "Contar con un capital social mínimo de mil millones de pesos colombianos.",
+      "Poseer una certificación internacional de buenas prácticas comerciales."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 1.1 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, establece claramente que las personas jurídicas deben estar domiciliadas y/o representadas legalmente en el país y estar inscritas en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente."
+  },
+  {
+    "question": "La señora Ana María Gómez, una emprendedora individual, planea importar artesanías de Perú para su negocio. De acuerdo con el ARTÍCULO 10, numeral 1.2 del Decreto 1165 de 2019, ¿qué requisito esencial debe cumplir como persona natural para ser importadora en Colombia?",
+    "options": [
+      "Ser mayor de 25 años y tener al menos un año de experiencia en comercio exterior.",
+      "Estar inscrita en el Registro Único Tributario (RUT) o en el registro que haga sus veces con la calidad correspondiente.",
+      "Presentar un estudio de mercado que justifique la viabilidad de la importación.",
+      "Tener un patrimonio neto superior a cien salarios mínimos legales mensuales vigentes."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 1.2 del Decreto 1165 de 2019 indica que las personas naturales deben estar inscritas en el Registro Único Tributario (RUT) o en el registro que haga sus veces con la calidad correspondiente, salvo lo previsto en el parágrafo 1 del artículo 1.6.1.2.6 del Decreto Único Reglamentario 1625 de 2016 o el que lo modifique o adicione."
+  },
+  {
+    "question": "\"Global Connect Inc.\", una sociedad con sede en Estados Unidos, ha establecido una sucursal en Colombia para manejar sus operaciones de exportación de tecnología. Según el ARTÍCULO 10, numeral 1.3 del Decreto 1165 de 2019, adicionado por el Decreto 360 de 2021, ¿qué registro es indispensable para que esta sucursal pueda actuar como exportadora en el país?",
+    "options": [
+      "Registrar su casa matriz en la Cámara de Comercio de Bogotá.",
+      "Obtener una licencia de operación especial de la embajada de Estados Unidos.",
+      "Estar inscrita en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente.",
+      "Afiliarse a la Asociación Colombiana de Exportadores de Tecnología."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 1.3 del Decreto 1165 de 2019, adicionado por el Decreto 360 de 2021, establece que una sucursal de sociedad extranjera debe estar inscrita en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente."
+  },
+  {
+    "question": "La empresa \"TecnoExport Ltda.\" aspira a obtener la calidad de exportador autorizado para simplificar sus trámites aduaneros. De acuerdo con el ARTÍCULO 10, numeral 2.1 del Decreto 1165 de 2019, ¿cuál es el primer paso indispensable que debe llevar a cabo para cumplir con los requisitos específicos de esta figura?",
+    "options": [
+      "Demostrar un historial de cero infracciones aduaneras en los últimos diez años.",
+      "Presentar una solicitud formal para ser reconocido como exportador autorizado.",
+      "Obtener la certificación de Operador Económico Autorizado (OEA).",
+      "Realizar un pago de un canon anual a la DIAN por la autorización."
+    ],
+    "correct": 1,
+    "explanation": "Según el ARTÍCULO 10, numeral 2.1 del Decreto 1165 de 2019, uno de los requisitos para el exportador autorizado es 'Presentar una solicitud de exportador autorizado'."
+  },
+  {
+    "question": "Una vez que \"TecnoExport Ltda.\" ha presentado su solicitud para ser exportador autorizado, ¿qué tipo de manifestación, según el ARTÍCULO 10, numeral 2.2 del Decreto 1165 de 2019, debe realizar respecto al cumplimiento de las normas de origen de los productos que planea exportar bajo esta modalidad?",
+    "options": [
+      "Un contrato de confidencialidad con la DIAN.",
+      "Una manifestación bajo juramento de que los productos cumplen con las normas de origen y demás requisitos establecidos en el acuerdo comercial.",
+      "Un informe técnico detallado por un organismo certificador externo.",
+      "Una declaración simple firmada por el representante legal sin ningún tipo de juramento."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 2.2 del Decreto 1165 de 2019 exige 'Manifestar bajo juramento, el que se entiende prestado con la firma del escrito, que los productos objeto de exportación cumplen con las normas de origen y demás requisitos establecidos en el acuerdo comercial'."
+  },
+  {
+    "question": "\"Textiles Andinos S.A.\" desea ser reconocido como exportador autorizado para sus productos textiles. Al revisar sus operaciones anteriores, ¿cuál es el número mínimo de declaraciones aduaneras de exportación definitivas que, según el ARTÍCULO 10, numeral 2.3 del Decreto 1165 de 2019, debería haber realizado en el año inmediatamente anterior a su solicitud para calificar?",
+    "options": [
+      "Al menos una (1) declaración aduanera definitiva.",
+      "Más de cuatro (4) declaraciones aduaneras de exportación definitivas.",
+      "Exactamente cuatro (4) declaraciones aduaneras de exportación definitivas.",
+      "Cualquier número de declaraciones, siempre y cuando el valor sea significativo."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 2.3 del Decreto 1165 de 2019 establece el requisito de 'Haber realizado operaciones superiores a cuatro (4) declaraciones aduaneras de exportación definitivas en el año inmediatamente anterior a la solicitud'."
+  },
+  {
+    "question": "Para que la solicitud de \"AgroExport S.A.S.\" como exportador autorizado sea aprobada, ¿qué tipo de concepto, basado en la calificación de riesgo, debe obtener la empresa según lo estipulado en el ARTÍCULO 10, numeral 2.4 del Decreto 1165 de 2019?",
+    "options": [
+      "Un concepto técnico de cumplimiento ambiental.",
+      "Un concepto favorable emitido con base en la calificación de riesgo, según lo previsto en el artículo 584 del presente decreto.",
+      "Un concepto de viabilidad financiera emitido por una entidad bancaria.",
+      "Un certificado de inspección de sus instalaciones por parte de la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 2.4 del Decreto 1165 de 2019 indica que el exportador autorizado debe 'Contar con el concepto favorable emitido con base en la calificación de riesgo, según lo previsto en el artículo 584 del presente decreto'."
+  },
+  {
+    "question": "\"Importaciones La Victoria S.A.\" se prepara para presentar una declaración aduanera de importación para un lote de maquinaria. Según el ARTÍCULO 10, numeral 3.1 del Decreto 1165 de 2019, ¿qué característica fundamental deben tener todos los documentos soporte que acompañan su declaración en el momento de la presentación?",
+    "options": [
+      "Deben ser exclusivamente digitales y cargados a una plataforma en la nube.",
+      "Deben ser originales y tener más de seis meses de expedición.",
+      "Deben estar vigentes y con el cumplimiento de los requisitos legales.",
+      "Pueden ser copias simples, siempre y cuando la DIAN las solicite posteriormente."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 3.1 del Decreto 1165 de 2019 establece como obligación 'Tener todos los documentos soporte requeridos vigentes y con el cumplimiento de los requisitos legales, al momento de la presentación de la declaración aduanera'."
+  },
+  {
+    "question": "Un importador está realizando una operación que requiere la presentación de la Declaración Andina del Valor (DAV). Conforme al ARTÍCULO 10, numeral 3.2 del Decreto 1165 de 2019, ¿quién es el responsable principal de elaborar, suscribir y presentar dicha declaración, a menos que haya una situación particular?",
+    "options": [
+      "La agencia de aduanas, en todos los casos.",
+      "El importador, salvo que actúe a través de una agencia de aduanas y la hubiere autorizado expresamente para ello.",
+      "El exportador del país de origen.",
+      "La entidad bancaria que gestiona el pago de los tributos aduaneros."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.2 del Decreto 1165 de 2019 señala que la obligación de 'Elaborar, suscribir y presentar la Declaración Andina del Valor cuando haya lugar a ella' recae en el importador, salvo que actúe a través de una agencia de aduanas y expresamente la hubiere autorizado para ello."
+  },
+  {
+    "question": "La empresa \"Comercio Internacional S.A.S.\" ha incurrido en el pago de tributos aduaneros y algunas sanciones por una importación. Según el ARTÍCULO 10, numeral 3.3 del Decreto 1165 de 2019, ¿cuál es su responsabilidad en cuanto a la liquidación de estos conceptos si decide actuar directamente en la operación?",
+    "options": [
+      "La liquidación es responsabilidad exclusiva de la DIAN.",
+      "Debe liquidar adicionalmente los conceptos señalados en el numeral, además de cancelarlos.",
+      "Solo debe cancelar los valores que la DIAN le indique, sin necesidad de liquidar.",
+      "Puede delegar la liquidación a cualquier tercero sin autorización previa."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.3 del Decreto 1165 de 2019 establece que 'En los eventos en que actúe directamente deberá, adicionalmente, liquidar los conceptos señalados en el presente numeral', además de cancelarlos."
+  },
+  {
+    "question": "La DIAN ha solicitado información adicional a \"Exportadora del Sol Ltda.\" sobre una de sus operaciones de exportación, ya que la empresa actúa directamente en sus trámites. De acuerdo con el ARTÍCULO 10, numeral 3.4 del Decreto 1165 de 2019, ¿cuál es la obligación de \"Exportadora del Sol Ltda.\" respecto a esta solicitud?",
+    "options": [
+      "Ignorar la solicitud si considera que la información ya fue entregada previamente.",
+      "Proporcionar, exhibir o entregar la información o documentación requerida dentro del plazo establecido legalmente u otorgado por la autoridad aduanera.",
+      "Cobrar a la DIAN por el tiempo invertido en la recopilación de la información.",
+      "Enviar únicamente un resumen ejecutivo de la información solicitada."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.4 del Decreto 1165 de 2019 señala que, cuando el importador o exportador actúe directamente, debe 'proporcionar, exhibir o entregar la información o documentación requerida, dentro del plazo establecido legalmente u otorgado por la autoridad aduanera'."
+  },
+  {
+    "question": "Un importador ha transmitido electrónicamente información a la DIAN a través de los Servicios Informáticos Electrónicos para su declaración aduanera. ¿Qué debe garantizar el importador respecto a esta información, según el ARTÍCULO 10, numeral 3.5 del Decreto 1165 de 2019?",
+    "options": [
+      "Que la información sea siempre menor al valor real para reducir impuestos.",
+      "Que la información entregada a través de los Servicios Informáticos Electrónicos, corresponda con la contenida en los documentos que la soportan.",
+      "Que la información sea generada por un software específico aprobado por la DIAN, independientemente de su veracidad.",
+      "Que los documentos soporte sean destruidos una vez la información sea transmitida electrónicamente."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.5 del Decreto 1165 de 2019 establece como obligación 'Garantizar que la información entregada a través de los Servicios Informáticos Electrónicos, corresponda con la contenida en los documentos que la soportan'."
+  },
+  {
+    "question": "Durante un proceso de nacionalización, la autoridad aduanera ordena que la empresa \"Muebles Modernos S.A.S.\" ponga a disposición una mercancía importada para inspección física. ¿Cuál es la obligación inmediata de la empresa frente a esta orden, de acuerdo con el ARTÍCULO 10, numeral 3.6 del Decreto 1165 de 2019?",
+    "options": [
+      "Poner a disposición o entregar a la autoridad aduanera la mercancía que esta ordene.",
+      "Argumentar que la mercancía no puede ser inspeccionada por razones logísticas.",
+      "Solicitar un aplazamiento de la inspección por un mínimo de cinco días hábiles.",
+      "Exigir una orden judicial para permitir la inspección de la mercancía."
+    ],
+    "correct": 0,
+    "explanation": "El ARTÍCULO 10, numeral 3.6 del Decreto 1165 de 2019 impone la obligación de 'Poner a disposición o entregar a la autoridad aduanera la mercancía que esta ordene'."
+  },
+  {
+    "question": "Un exportador que actúa directamente ha finalizado una operación y ha presentado y aceptado su declaración aduanera el 15 de enero de 2026. Según el ARTÍCULO 10, numeral 3.7 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, ¿por cuánto tiempo debe conservar los documentos soporte y los recibos oficiales de pago a disposición de la autoridad aduanera?",
+    "options": [
+      "Por un periodo de tres (3) años a partir de la fecha de aceptación de la declaración.",
+      "Por un periodo de siete (7) años, independientemente de la fecha de la declaración.",
+      "Por un periodo de cinco (5) años a partir de la fecha de presentación y aceptación de la declaración.",
+      "Hasta que la mercancía sea entregada al destinatario final en el extranjero."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 3.7 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, establece que 'Cuando el importador o exportador actúe directamente, [debe] conservar los documentos soporte y los recibos oficiales de pago en bancos, según lo determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), por un periodo de cinco (5) años a partir de la fecha de presentación y aceptación de la declaración, a disposición de la autoridad aduanera'."
+  },
+  {
+    "question": "Antes de presentar la declaración aduanera de importación, un importador directo desea realizar una inspección previa de su mercancía en el puerto de Cartagena. De acuerdo con el ARTÍCULO 10, numeral 3.8 del Decreto 1165 de 2019, ¿qué acción debe tomar el importador antes de llevar a cabo esta inspección?",
+    "options": [
+      "No es necesario informar a nadie, puede realizarla libremente.",
+      "Solicitar permiso al transportador de la mercancía.",
+      "Informar a la autoridad aduanera sobre la inspección previa que pretende realizar y asistir a la misma.",
+      "Realizar la inspección y solo informar a la DIAN si encuentra alguna irregularidad."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 3.8 del Decreto 1165 de 2019 establece que, cuando el importador o exportador actúe directamente, debe 'informar a la autoridad aduanera sobre la inspección previa de las mercancías que pretenda realizar y asistir a la misma'."
+  },
+  {
+    "question": "Una empresa importadora tiene una resolución anticipada de clasificación arancelaria emitida por la DIAN. Según el ARTÍCULO 10, numeral 3.9 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, ¿cuál es la obligación de la empresa respecto a esta resolución cuando haya lugar a ello?",
+    "options": [
+      "Puede optar por aplicarla o no, según su conveniencia.",
+      "Debe ignorarla si considera que no le beneficia.",
+      "Aplicar lo dispuesto en la resolución anticipada y/o de ajuste de valor permanente, si la hubiere.",
+      "Solo aplicarla si la DIAN lo exige explícitamente para cada operación."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 3.9 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, establece la obligación de 'Aplicar lo dispuesto en la resolución anticipada y/o de ajuste de valor permanente, si la hubiere'."
+  },
+  {
+    "question": "La empresa \"Electrodomésticos Cali S.A.S.\" gestiona sus importaciones directamente y debe interactuar con los Servicios Informáticos Electrónicos (SIE) de la DIAN. Conforme al ARTÍCULO 10, numeral 3.10 del Decreto 1165 de 2019, ¿qué debe hacer la empresa al acceder y utilizar estos servicios?",
+    "options": [
+      "Acceder y utilizar los SIE sin ninguna restricción, dado que es su derecho.",
+      "Contratar a un tercero para que acceda y utilice los SIE en su nombre, sin supervisión.",
+      "Acceder y utilizar los Servicios Informáticos Electrónicos respetando los protocolos y procedimientos de seguridad establecidos en este decreto y determinados por la DIAN.",
+      "Desarrollar sus propios protocolos de seguridad, independientemente de los establecidos por la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 3.10 del Decreto 1165 de 2019 indica que, cuando el importador o exportador actúe directamente, debe 'acceder y utilizar los Servicios Informáticos Electrónicos respetando los protocolos y procedimientos de seguridad establecidos en este decreto y determinados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Debido a una falla generalizada en los Servicios Informáticos Electrónicos de la DIAN, un importador no puede presentar su declaración aduanera por medios electrónicos. Según el ARTÍCULO 10, numeral 3.11 del Decreto 1165 de 2019, ¿cuál es la obligación del importador en esta situación de contingencia?",
+    "options": [
+      "Esperar a que los sistemas se restablezcan sin realizar ninguna acción.",
+      "Cumplir de forma manual, cuando haya lugar a ello, las obligaciones aduaneras en situación de contingencia.",
+      "Solicitar una exención de la declaración aduanera hasta nuevo aviso.",
+      "Presentar la declaración en papel sin ninguna otra formalidad."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.11 del Decreto 1165 de 2019 establece la obligación de 'Cumplir de forma manual, cuando haya lugar a ello, las obligaciones aduaneras en situación de contingencia de los Servicios Informáticos Electrónicos o por fallas imprevisibles e irresistibles en los sistemas propios, en las condiciones que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Después de haber realizado varias operaciones aduaneras manualmente debido a una contingencia en los sistemas, la DIAN restablece sus Servicios Informáticos Electrónicos. De acuerdo con el ARTÍCULO 10, numeral 3.12 del Decreto 1165 de 2019, ¿cuál es la obligación del importador o exportador respecto a esa información manual?",
+    "options": [
+      "No es necesario entregar esa información, ya que fue una situación excepcional.",
+      "Entregar a la DIAN, a través de los Servicios Informáticos Electrónicos, la información relacionada con las operaciones realizadas manualmente.",
+      "Conservar la información manual por tiempo indefinido, pero no entregarla a la DIAN.",
+      "Publicar la información en su página web como prueba de transparencia."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.12 del Decreto 1165 de 2019 impone la obligación de 'Entregar a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), a través de los Servicios Informáticos Electrónicos, cuando haya lugar a ello, la información relacionada con las operaciones que fueron realizadas manualmente en situación de contingencia o daños de los sistemas informáticos propios, en la forma y condiciones establecidas por la misma entidad'."
+  },
+  {
+    "question": "La administración aduanera ha ordenado y comunicado a \"Manufacturas del Centro S.A.\" la realización de una diligencia de verificación en sus instalaciones. Si \"Manufacturas del Centro S.A.\" actúa directamente en sus operaciones, según el ARTÍCULO 10, numeral 3.13 del Decreto 1165 de 2019, ¿cuál es su deber frente a esta diligencia?",
+    "options": [
+      "Negarse a la diligencia si no está de acuerdo con los motivos.",
+      "Asistir, facilitar y colaborar con la práctica de las diligencias previamente ordenadas y comunicadas por la administración aduanera.",
+      "Permitir la entrada solo si la autoridad aduanera presenta una orden judicial de allanamiento.",
+      "Solicitar que la diligencia sea aplazada hasta que la empresa esté completamente preparada."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 3.13 del Decreto 1165 de 2019 establece que, cuando el importador o exportador actúe directamente, debe 'asistir, facilitar y colaborar con la práctica de las diligencias previamente ordenadas y comunicadas por la administración aduanera'."
+  },
+  {
+    "question": "Un importador que gestiona directamente sus trámites aduaneros debe presentar una declaración de importación. Según el ARTÍCULO 10, numeral 3.14 del Decreto 1165 de 2019, ¿cómo debe cumplir con esta obligación de presentar y suscribir las declaraciones aduaneras?",
+    "options": [
+      "En cualquier forma, oportunidad y medio que considere conveniente.",
+      "Únicamente en formato físico y entregándolas en la sede principal de la DIAN.",
+      "En la forma, oportunidad y medios señalados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "De forma verbal, siempre que sea ante un funcionario de aduanas."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 3.14 del Decreto 1165 de 2019 señala que, cuando el importador o exportador actúe directamente, debe 'presentar y suscribir las declaraciones aduaneras en la forma, oportunidad y medios señalados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "\"Exportaciones del Café S.A.S.\", como exportador autorizado, se prepara para emitir una declaración en factura para un envío de café con destino preferencial. De acuerdo con el ARTÍCULO 10, numeral 4.1 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, ¿qué documento debe tener vigente para cada uno de los productos incluidos en esa declaración?",
+    "options": [
+      "Una certificación de calidad emitida por un organismo internacional.",
+      "La declaración juramentada de origen para cada uno de los productos.",
+      "Un permiso especial de exportación del Ministerio de Agricultura.",
+      "Un aval bancario que cubra el valor total de la exportación."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 4.1 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, establece como obligación del exportador autorizado 'Tener vigente la declaración juramentada de origen para cada uno de los productos contenidos en las declaraciones de origen o declaraciones en factura que expida'."
+  },
+  {
+    "question": "La empresa \"Textilera Internacional S.A.\", un exportador autorizado, está realizando una exportación bajo un acuerdo comercial específico con un país vecino. ¿Qué debe asegurar \"Textilera Internacional S.A.\" respecto a sus productos, de acuerdo con el ARTÍCULO 10, numeral 4.2 del Decreto 1165 de 2019?",
+    "options": [
+      "Que sus productos estén diseñados exclusivamente para ese mercado.",
+      "Que los productos sean embalados en materiales reciclables.",
+      "Cumplir con las normas de origen establecidas en el respectivo acuerdo comercial.",
+      "Obtener la aprobación del gobierno del país importador antes del envío."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 10, numeral 4.2 del Decreto 1165 de 2019 exige al exportador autorizado 'Cumplir con las normas de origen establecidas en el respectivo acuerdo comercial'."
+  },
+  {
+    "question": "\"Agroindustrial del Pacífico Ltda.\", como exportador autorizado, recibe un pedido para un producto que no ha sido previamente autorizado para expedir declaraciones de origen. Según el ARTÍCULO 10, numeral 4.3 del Decreto 1165 de 2019, ¿qué debe hacer la empresa al expedir declaraciones de origen o en factura?",
+    "options": [
+      "Puede expedir la declaración de origen, siempre que el producto sea colombiano.",
+      "Debe expedir declaraciones de origen o declaraciones en facturas, solo para aquellas mercancías para las cuales haya obtenido autorización y que cumplan con lo establecido en el capítulo de origen del respectivo acuerdo comercial.",
+      "Expedir la declaración sin indicar que es un exportador autorizado para evitar trámites.",
+      "Consultar a una agencia de aduanas externa para que emita la declaración en su lugar."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 4.3 del Decreto 1165 de 2019 especifica que el exportador autorizado debe 'Expedir declaraciones de origen o declaraciones en facturas, solo para aquellas mercancías para las cuales haya obtenido autorización y que cumplan con lo establecido en el capítulo de origen del respectivo acuerdo comercial'."
+  },
+  {
+    "question": "\"Manufacturas Metálicas S.A.\", como exportador autorizado, ha emitido una declaración de origen para una exportación el 1 de marzo de 2026. De acuerdo con el ARTÍCULO 10, numeral 4.4 del Decreto 1165 de 2019, ¿por cuánto tiempo debe conservar los registros y pruebas que demuestran el cumplimiento de las normas de origen?",
+    "options": [
+      "Por un término de tres (3) años, contados a partir de la fecha de la exportación.",
+      "Por un término de cinco (5) años o lo establecido en el respectivo acuerdo comercial, contados a partir de la fecha de emisión de la prueba de origen.",
+      "Por un término de dos (2) años, para facilitar la rotación de archivos.",
+      "Indefinidamente, sin importar el acuerdo comercial o la fecha de emisión."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 10, numeral 4.4 del Decreto 1165 de 2019 establece la obligación de 'Conservar los registros, documentos y pruebas que demuestren el cumplimiento de las normas de origen del acuerdo correspondiente, de cada uno de los productos exportados para los cuales emita una declaración de origen o declaración en factura, por un término de cinco (5) años o lo establecido en el respectivo acuerdo comercial, contados a partir de la fecha de emisión de la prueba de origen'."
+  },
+  {
+    "question": "La empresa \"Logística Global S.A.\" planea importar un cargamento de maquinaria desde Alemania a Colombia. Para cumplir con la normativa, su departamento de comercio exterior se prepara para los trámites. De acuerdo con el Artículo 11, \"ALCANCE\", de la normativa colombiana vigente año 2026, ¿en qué momento nace la obligación aduanera para \"Logística Global S.A.\"?",
+    "options": [
+      "Cuando la mercancía arriba físicamente al Territorio Aduanero Nacional.",
+      "Al iniciar los trámites aduaneros que deben cumplirse de manera previa a la llegada de la mercancía al Territorio Aduanero Nacional.",
+      "Con la presentación de la declaración de importación ante la DIAN.",
+      "Únicamente al momento de realizar el pago de los tributos aduaneros."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 11, \"ALCANCE\", establece claramente que \"La obligación aduanera nace con los trámites aduaneros que deben cumplirse de manera previa a la llegada de la mercancía al Territorio Aduanero Nacional.\" Esto significa que no es al arribo físico ni solo con la declaración o pago, sino desde el inicio de los trámites pre-arribo."
+  },
+  {
+    "question": "Una compañía importadora, \"Mundo Textil Ltda.\", está trayendo un contenedor de telas desde China. Antes de que el buque atraque en el puerto de Cartagena, la empresa debe asegurarse de cumplir con todas las exigencias aduaneras. Según el Artículo 11, \"ALCANCE\", de la normativa colombiana vigente año 2026, ¿qué aspectos incluye la obligación aduanera que \"Mundo Textil Ltda.\" debe considerar incluso antes de la llegada de la mercancía y al momento de su arribo?",
+    "options": [
+      "Solo el pago de los tributos aduaneros y las posibles sanciones.",
+      "El suministro de información y/o documentación anticipada, así como los trámites aduaneros y requisitos al arribo de las mercancías.",
+      "Únicamente la presentación física de la mercancía a la autoridad aduanera.",
+      "Exclusivamente la obtención y conservación de los documentos que soportan la operación, una vez finalizado el proceso."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 11, \"ALCANCE\", señala que la obligación aduanera \"Comprende el suministro de información y/o documentación anticipada, los trámites aduaneros y requisitos que deben cumplirse al arribo de las mercancías\". Esto abarca las acciones previas y las que se realizan al momento de la llegada."
+  },
+  {
+    "question": "La empresa \"TecnoImportaciones S.A.\" ha importado un lote de componentes electrónicos. Durante el proceso, se detectó una inexactitud en la declaración aduanera que generó un menor pago de tributos y una posible sanción. De acuerdo con el Artículo 11, \"ALCANCE\", de la normativa colombiana vigente año 2026, ¿la obligación aduanera de \"TecnoImportaciones S.A.\" abarca el pago de qué elementos en este escenario?",
+    "options": [
+      "Únicamente el valor de los tributos aduaneros inicialmente declarados.",
+      "Solo el pago de los intereses y el valor de rescate.",
+      "El pago de los tributos aduaneros causados por la importación, los intereses, el valor de rescate y las sanciones a que haya lugar.",
+      "Exclusivamente la obligación de conservar los documentos que soportan la operación."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11, \"ALCANCE\", especifica que la obligación aduanera incluye \"el pago de los tributos aduaneros causados por la importación y de los intereses, el valor de rescate y las sanciones a que haya lugar\". Esto cubre todos los costos adicionales y penalidades que puedan surgir."
+  },
+  {
+    "question": "Durante un proceso de auditoría posterior, la autoridad aduanera solicita a \"Distribuciones Modernas S.A.\", un importador, documentos soporte y atencion a solicitudes de información sobre importaciones realizadas hace tres años. Con base en el Artículo 11, \"ALCANCE\", de la normativa colombiana vigente año 2026, ¿cuáles son las obligaciones generales de \"Distribuciones Modernas S.A.\" respecto a la documentación y la autoridad aduanera en este caso?",
+    "options": [
+      "Solo presentar documentos cuando la autoridad los solicite durante el proceso de desaduanamiento inicial, no posteriormente.",
+      "Únicamente conservar los documentos que soportan la operación, sin obligación de presentarlos o atender solicitudes una vez finalizado el proceso de importación.",
+      "Obtener y conservar los documentos que soportan la operación, presentarlos cuando los requiera la autoridad aduanera, atender las solicitudes de información y pruebas, y en general, cumplir con las exigencias establecidas en las normas correspondientes.",
+      "La obligación termina una vez la mercancía ha sido nacionalizada y los tributos pagados, por lo que no hay deber de respuesta."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11, \"ALCANCE\", establece que la obligación aduanera comprende \"la obligación de obtener y conservar los documentos que soportan la operación, presentarlos cuando los requiera la autoridad aduanera, atender las solicitudes de información y pruebas, y en general, cumplir con las exigencias, requisitos y condiciones establecidos en las normas correspondientes.\" Esto indica una obligación continua más allá del desaduanamiento inmediato."
+  },
+  {
+    "question": "La empresa \"AgroGlobal Ltda.\" importa fertilizantes, y para la gestión aduanera contrata a la Agencia de Aduanas \"Comex Expertos S.A.S.\". Durante un control posterior, se identifica una irregularidad en la clasificación arancelaria de la mercancía. Según el Artículo 11, \"ALCANCE\", de la normativa colombiana vigente año 2026, ¿quién o quiénes son responsables de la obligación aduanera en la importación en este escenario?",
+    "options": [
+      "Únicamente la Agencia de Aduanas \"Comex Expertos S.A.S.\" por su intervención directa en los trámites.",
+      "Exclusivamente \"AgroGlobal Ltda.\" como importador de las mercancías.",
+      "\"AgroGlobal Ltda.\" como importador de las mercancías, y la Agencia de Aduanas \"Comex Expertos S.A.S.\" respecto de las actuaciones derivadas de su intervención.",
+      "Solo la autoridad aduanera que permitió la importación inicialmente tiene responsabilidad por la fiscalización."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11, \"ALCANCE\", indica que \"Son responsables de la obligación aduanera en la importación: el importador de las mercancías y los demás usuarios aduaneros respecto de las actuaciones derivadas de su intervención.\" En este caso, ambos, el importador y la agencia de aduanas por su rol, tendrían responsabilidad."
+  },
+  {
+    "question": "La empresa 'Importaciones Global S.A.S.' introduce al territorio colombiano un cargamento de productos textiles desde China. Una vez que las mercancías cruzan la frontera aduanera y son oficialmente ingresadas al país, se genera la obligación de pagar los derechos de aduana. De acuerdo con el ARTÍCULO 12, numeral 1 del Decreto 1165 de 2019, ¿qué constituye el hecho generador de los derechos de aduana en este escenario?",
+    "options": [
+      "La firma del contrato de compraventa internacional de los textiles.",
+      "La salida de los textiles del puerto de origen en China.",
+      "La introducción de las mercancías al Territorio Aduanero Nacional.",
+      "La emisión de la factura comercial por parte del exportador."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 12, numeral 1 del Decreto 1165 de 2019 establece claramente que, en lo que tiene que ver con los derechos de aduana, el hecho generador lo constituye la introducción de las mercancías al Territorio Aduanero Nacional."
+  },
+  {
+    "question": "En el marco de un acuerdo binacional fronterizo entre Colombia y Venezuela, un importador colombiano transporta mercancías que, antes de ingresar físicamente a Colombia, deben pasar por un control aduanero en un área demarcada del lado venezolano, según lo estipulado en el acuerdo. Si en esa área se cumplen los trámites y controles aduaneros pertinentes, de acuerdo con el ARTÍCULO 12, numeral 1 del Decreto 1165 de 2019, ¿cómo se considera este evento respecto al hecho generador de los derechos de aduana colombianos?",
+    "options": [
+      "No constituye hecho generador, ya que las mercancías aún no han ingresado a suelo colombiano.",
+      "Constituye hecho generador de los derechos de aduana, al igual que la introducción al Territorio Aduanero Nacional.",
+      "Solo es un hecho generador si la mercancía está exenta de impuestos en el país vecino.",
+      "Es un hecho generador solo para los impuestos internos, no para los derechos de aduana."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 12, numeral 1 del Decreto 1165 de 2019 amplía el concepto de hecho generador de los derechos de aduana, incluyendo 'la introducción de mercancías en el área demarcada del país vecino donde se cumplan los trámites y controles aduaneros en virtud de acuerdos binacionales fronterizos'."
+  },
+  {
+    "question": "Una empresa colombiana importa una serie de productos cosméticos que, además de los derechos de aduana, están sujetos al Impuesto al Valor Agregado (IVA) en Colombia, el cual se genera con ocasión de la importación. Según el ARTÍCULO 12, numeral 2 del Decreto 1165 de 2019, ¿dónde se establece el hecho generador de este tipo de impuestos que se desprenden de la importación?",
+    "options": [
+      "En el presente Decreto 1165 de 2019, específicamente en el capítulo de tributos.",
+      "Será el establecido en la ley, que regula el impuesto en cuestión.",
+      "En la resolución anual emitida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "En los acuerdos comerciales internacionales que Colombia tenga suscritos con el país exportador."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 12, numeral 2 del Decreto 1165 de 2019 establece que, respecto de los impuestos que se generen con ocasión de la importación (como el IVA), el hecho generador será el establecido en la ley correspondiente que los regula."
+  },
+  {
+    "question": "La empresa 'Comercio Exterior S.A.S.' ha introducido mercancías al Territorio Aduanero Nacional, generando una obligación de pago de tributos aduaneros. Según el ARTÍCULO 13, numeral 1 del Decreto 1165 de 2019, ¿quién ostenta la calidad de sujeto activo en esta obligación aduanera, es decir, el acreedor de dichos tributos?",
+    "options": [
+      "El exportador de la mercancía, en su calidad de proveedor.",
+      "La Cámara de Comercio, como ente regulador de empresas.",
+      "La Nación - Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "El banco comercial que facilita el pago de los impuestos."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 13, numeral 1 del Decreto 1165 de 2019 establece que 'Como sujeto activo, en su calidad de acreedor, la Nación - Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Un importador, el señor Carlos Pérez, ha realizado una operación de importación de equipos electrónicos, por la cual se han causado tributos aduaneros. Adicionalmente, una agencia de aduanas actuó como declarante en esta operación. De acuerdo con el ARTÍCULO 13, numeral 2 del Decreto 1165 de 2019, ¿quién es el sujeto pasivo de estos tributos aduaneros en calidad de deudor?",
+    "options": [
+      "El agente de carga internacional.",
+      "El proveedor extranjero de los equipos.",
+      "El importador o el declarante cuando haya lugar a ello, en las condiciones previstas en este decreto.",
+      "La entidad financiera que otorgó el crédito para la importación."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 13, numeral 2 del Decreto 1165 de 2019 indica que 'Como sujeto pasivo de los tributos aduaneros causados por la importación, en calidad de deudor, el importador o el declarante cuando haya lugar a ello, en las condiciones previstas en este decreto'."
+  },
+  {
+    "question": "La señora María Rodríguez adquiere electrodomésticos en la Zona de Régimen Aduanero Especial de Urabá y los traslada con destino al interior del Territorio Aduanero Nacional. Durante este proceso, se causan tributos aduaneros. Según el ARTÍCULO 13, numeral 2 del Decreto 1165 de 2019, ¿quién es el sujeto pasivo de estos tributos aduaneros?",
+    "options": [
+      "El vendedor de los electrodomésticos en Urabá.",
+      "El transportista que lleva los electrodomésticos al interior del país.",
+      "El adquirente de mercancías que salen de las Zonas de Régimen Aduanero Especial con destino al resto del Territorio Aduanero Nacional.",
+      "La administración aduanera de la Zona de Régimen Aduanero Especial."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 13, numeral 2 del Decreto 1165 de 2019 establece que 'De igual manera es sujeto pasivo, el adquirente de mercancías que salen del departamento de San Andrés, Providencia y Santa Catalina y de las Zonas de Régimen Aduanero Especial con destino al resto del Territorio Aduanero Nacional'."
+  },
+  {
+    "question": "Además de los tributos aduaneros, una importación de vehículos genera el Impuesto sobre las Ventas (IVA), el cual es un impuesto causado con ocasión de la importación. Según el ARTÍCULO 13, numeral 2 del Decreto 1165 de 2019, ¿dónde se establece la definición del sujeto pasivo para este tipo de impuestos?",
+    "options": [
+      "Se define explícitamente en el presente Decreto 1165 de 2019.",
+      "Será lo previsto por la ley que regula específicamente el impuesto (en este caso, el IVA).",
+      "Se determina mediante un acuerdo bilateral con el país de origen de los vehículos.",
+      "La DIAN lo establece anualmente a través de una resolución."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 13, numeral 2 del Decreto 1165 de 2019 especifica que 'Respecto a los impuestos causados por la importación, será lo previsto por la ley'."
+  },
+  {
+    "question": "La empresa \"Logística Express S.A.S.\" va a importar una serie de equipos industriales. El 10 de mayo de 2026, presenta una declaración anticipada de importación, la cual es aceptada por la DIAN el 12 de mayo de 2026. Si el 11 de mayo de 2026 se publica un decreto que modifica los tributos aduaneros aplicables a esos equipos, de acuerdo con el ARTÍCULO 14, numeral 1 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024), ¿cuál fecha se debe considerar para la aplicación de los tributos aduaneros?",
+    "options": [
+      "La fecha de presentación de la declaración anticipada (10 de mayo de 2026).",
+      "La fecha de aceptación de la declaración anticipada (12 de mayo de 2026).",
+      "La fecha en que se publicó el decreto con las nuevas tarifas (11 de mayo de 2026).",
+      "La fecha de llegada de la mercancía al territorio aduanero nacional."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 14, numeral 1 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024) establece que, cuando se trate de una declaración anticipada o inicial, los tributos aduaneros serán los vigentes en la fecha de presentación y aceptación de la respectiva declaración de importación."
+  },
+  {
+    "question": "Una empresa importadora, \"TecnoImport Ltda.\", presentó y la DIAN aceptó su declaración de importación inicial el 1 de marzo de 2026. Posteriormente, el 15 de marzo de 2026, la empresa detecta un error y presenta una declaración de corrección, la cual es aceptada ese mismo día. Si los tributos aduaneros aplicables a la mercancía fueron modificados por una nueva norma publicada el 10 de marzo de 2026, según el ARTÍCULO 14, numeral 2 del Decreto 1165 de 2019, ¿cuáles tributos aduaneros serán los aplicables?",
+    "options": [
+      "Los vigentes en la fecha de presentación y aceptación de la declaración inicial (1 de marzo de 2026).",
+      "Los vigentes en la fecha de presentación y aceptación de la declaración de corrección (15 de marzo de 2026).",
+      "Los vigentes en la fecha de la modificación de los tributos (10 de marzo de 2026).",
+      "Los más favorables para el importador entre las dos fechas."
+    ],
+    "correct": 0,
+    "explanation": "El ARTÍCULO 14, numeral 2 del Decreto 1165 de 2019 indica que, cuando se trate de una declaración de corrección, los tributos aduaneros serán los vigentes en la fecha de la presentación y aceptación de la Declaración objeto de corrección. En este caso, la declaración objeto de corrección es la inicial."
+  },
+  {
+    "question": "La empresa \"Mundo Feliz S.A.S.\" presentó y la DIAN aceptó una declaración de importación inicial el 5 de abril de 2026. Días después, el 20 de abril de 2026, la empresa solicitó y se aceptó una modificación a esa declaración, debido a un cambio en la cantidad de mercancía. Los tributos aduaneros sufrieron una variación el 15 de abril de 2026. Según el ARTÍCULO 14, numeral 3 del Decreto 1165 de 2019, ¿cuál es la regla para determinar los tributos aduaneros aplicables en un caso de modificación de la declaración de importación?",
+    "options": [
+      "Serán siempre los vigentes en la fecha de presentación y aceptación de la declaración inicial (5 de abril de 2026).",
+      "Serán siempre los vigentes en la fecha de presentación y aceptación de la modificación (20 de abril de 2026).",
+      "Serán los vigentes en la fecha de la presentación y aceptación de la declaración inicial o de la modificación según fuere el caso, conforme con las reglas especiales previstas para cada modalidad de importación.",
+      "Serán los vigentes en la fecha de la llegada de la mercancía."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 14, numeral 3 del Decreto 1165 de 2019 establece que, en caso de una modificación de la declaración de importación, los tributos aduaneros serán los vigentes en la fecha de la presentación y aceptación de la declaración inicial o de la modificación según fuere el caso, conforme con las reglas especiales previstas para cada modalidad de importación. Esto implica que la fecha puede variar dependiendo de la naturaleza específica de la modificación y la modalidad."
+  },
+  {
+    "question": "Un importador tiene mercancía que requiere una declaración de legalización porque no fue declarada en su momento. La declaración de legalización es presentada y aceptada el 1 de julio de 2026, sin haber estado precedida por una declaración anticipada o inicial. Los tributos aduaneros para esa mercancía cambiaron el 20 de junio de 2026. Según el ARTÍCULO 14, numeral 4 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024), ¿cuáles tributos aduaneros son aplicables?",
+    "options": [
+      "Los vigentes en la fecha de la entrada física de la mercancía al país.",
+      "Los vigentes en la fecha de presentación y aceptación de la respectiva declaración de legalización (1 de julio de 2026).",
+      "Los vigentes en la fecha de la publicación de la última modificación a los tributos (20 de junio de 2026).",
+      "Los más antiguos para evitar sanciones."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 14, numeral 4 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024) indica que, en la declaración de legalización, si no estuviere precedida de una declaración anticipada o inicial, los tributos aduaneros serán los vigentes en la fecha de presentación y aceptación de la respectiva declaración de legalización."
+  },
+  {
+    "question": "En otro caso, la empresa \"Importaciones del Futuro S.A.S.\" había presentado una declaración anticipada el 10 de agosto de 2026 para una mercancía que finalmente requirió una declaración de legalización, la cual se presentó y aceptó el 1 de septiembre de 2026. Los tributos aduaneros cambiaron el 20 de agosto de 2026. De acuerdo con el ARTÍCULO 14, numeral 4 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024), ¿qué fecha se toma como referencia para los tributos aduaneros en esta legalización?",
+    "options": [
+      "La fecha de presentación y aceptación de la declaración anticipada (10 de agosto de 2026).",
+      "La fecha de presentación y aceptación de la declaración de legalización (1 de septiembre de 2026).",
+      "La fecha en que los tributos aduaneros fueron modificados (20 de agosto de 2026).",
+      "La fecha de entrada real de la mercancía al país."
+    ],
+    "correct": 0,
+    "explanation": "El ARTÍCULO 14, numeral 4 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024) especifica que, en la declaración de legalización, si está precedida de una declaración anticipada o inicial, los tributos aduaneros serán los vigentes en la fecha de presentación y aceptación de la declaración anticipada o inicial."
+  },
+  {
+    "question": "Un viajero llega a Colombia el 15 de octubre de 2026, según su pasaporte, y trae consigo mercancías que superan la franquicia y están sujetas al pago de tributos aduaneros. La declaración correspondiente se tramita al día siguiente. Si los tributos aduaneros para ese tipo de mercancías fueron modificados el 14 de octubre de 2026, según el ARTÍCULO 14, numeral 5 del Decreto 1165 de 2019, ¿cuál es la fecha para aplicar los tributos aduaneros?",
+    "options": [
+      "La fecha de presentación de la declaración por el viajero (16 de octubre de 2026).",
+      "La fecha de llegada del viajero conforme con lo indicado en el pasaporte (15 de octubre de 2026).",
+      "La fecha de compra de la mercancía en el extranjero.",
+      "La fecha en que se implementaron los nuevos tributos (14 de octubre de 2026)."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 14, numeral 5 del Decreto 1165 de 2019 establece que, en la modalidad de viajeros, los tributos aduaneros serán los vigentes en la fecha de llegada del viajero conforme con lo indicado en el pasaporte."
+  },
+  {
+    "question": "Un paquete con mercancías importadas llega a Colombia el 20 de noviembre de 2026, bajo la modalidad de tráfico postal y envíos urgentes. La declaración aduanera de importación para este paquete se gestiona y acepta el 22 de noviembre de 2026. Si las tarifas de los tributos aduaneros para esa mercancía cambiaron el 21 de noviembre de 2026, de acuerdo con el ARTÍCULO 14, numeral 6 del Decreto 1165 de 2019 (adicionado por el Decreto 360 de 2021), ¿cuál fecha define los tributos aduaneros aplicables?",
+    "options": [
+      "La fecha de presentación y aceptación de la declaración (22 de noviembre de 2026).",
+      "La fecha en que se modificaron las tarifas (21 de noviembre de 2026).",
+      "La fecha de llegada de la mercancía (20 de noviembre de 2026).",
+      "La fecha de envío del paquete desde el origen."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 14, numeral 6 del Decreto 1165 de 2019 (adicionado por el Decreto 360 de 2021) especifica que, para la modalidad de tráfico postal y envíos urgentes, los tributos aduaneros serán los vigentes en la fecha de llegada de la mercancía."
+  },
+  {
+    "question": "Una declaración de legalización se presenta porque la mercancía, que inicialmente tenía una declaración anticipada aceptada el 1 de marzo de 2026, ahora requiere un cambio de modalidad de importación. La declaración de legalización que incluye esta modificación de modalidad se presenta y acepta el 15 de marzo de 2026. Los tributos aduaneros fueron modificados el 10 de marzo de 2026. Según el ARTÍCULO 14, numeral 4, en concordancia con el numeral 3, del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024), ¿qué fecha se usa para determinar los tributos aduaneros?",
+    "options": [
+      "La fecha de presentación y aceptación de la declaración anticipada (1 de marzo de 2026).",
+      "La fecha de presentación y aceptación de la declaración de legalización (15 de marzo de 2026).",
+      "La fecha de la modificación de los tributos (10 de marzo de 2026).",
+      "Los vigentes en la fecha de la presentación y aceptación de la declaración inicial o de la modificación según fuere el caso, conforme con las reglas especiales previstas para cada modalidad de importación, referidas al cambio de modalidad."
+    ],
+    "correct": 3,
+    "explanation": "El ARTÍCULO 14, numeral 4 del Decreto 1165 de 2019 (modificado por el Decreto 659 de 2024) establece que 'Cuando conlleve la modificación de la modalidad de importación se atenderá lo previsto en el numeral anterior', es decir, el numeral 3. El numeral 3 a su vez indica que los tributos aduaneros serán los vigentes en la fecha de la presentación y aceptación de la declaración inicial o de la modificación según fuere el caso, conforme con las reglas especiales previstas para cada modalidad de importación."
+  },
+  {
+    "question": "La empresa \"Importadora Colombia S.A.S.\" está tramitando la importación de maquinaria desde Alemania. La factura comercial está expresada en euros (EUR). Según el ARTÍCULO 15 del Decreto 1165 de 2019, ¿en qué moneda se debe determinar el valor en aduana de estas mercancías importadas inicialmente?",
+    "options": [
+      "En euros (EUR), ya que es la moneda de la factura.",
+      "En pesos colombianos (COP), para facilitar el pago de tributos.",
+      "En dólares de los Estados Unidos de América (USD).",
+      "En la moneda que determine la DIAN para cada caso particular."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 establece que 'El valor en aduana de las mercancías importadas se determinará en dólares de los Estados Unidos de América'."
+  },
+  {
+    "question": "Continuando con el caso de \"Importadora Colombia S.A.S.\", si la maquinaria alemana fue negociada en euros y la declaración aduanera se presenta y acepta el 20 de mayo de 2026 (siendo martes), ¿qué tipo de cambio se debe aplicar para convertir el valor de la mercancía a dólares de los Estados Unidos de América, según el ARTÍCULO 15 del Decreto 1165 de 2019?",
+    "options": [
+      "El tipo de cambio vigente el día de la negociación de la mercancía.",
+      "El tipo de cambio vigente el 20 de mayo de 2026 (fecha de aceptación de la declaración).",
+      "El tipo de cambio vigente el último día hábil de la semana anterior a la fecha de presentación y aceptación de la declaración aduanera.",
+      "El tipo de cambio más favorable para el importador en el mes de mayo."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 indica que el valor de la mercancía negociado en una moneda diferente al USD se convertirá a esta moneda aplicando 'el tipo de cambio vigente el último día hábil de la semana anterior a la fecha de presentación y aceptación de la declaración aduanera de las mercancías importadas'."
+  },
+  {
+    "question": "La empresa \"Tecnología Avanzada Ltda.\" importa componentes electrónicos de Japón. El contrato de venta de estas mercancías estipula un tipo de cambio fijo entre el yen japonés (JPY) y el dólar de los Estados Unidos de América (USD). La declaración aduanera se presenta y acepta el 10 de junio de 2026. Según el ARTÍCULO 15 del Decreto 1165 de 2019, ¿cómo se aplica esta particularidad del contrato en la conversión monetaria para el valor en aduana?",
+    "options": [
+      "Se debe ignorar el tipo de cambio fijo del contrato y aplicar siempre el del último día hábil de la semana anterior.",
+      "Se aplica el tipo de cambio fijo estipulado en el contrato, de acuerdo con la Opinión Consultiva 20.1 de la OMA.",
+      "Se permite aplicar el tipo de cambio fijo, pero solo si es más beneficioso para la DIAN.",
+      "La DIAN determinará un tipo de cambio promedio para este tipo de operaciones."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 establece una excepción: 'De este tratamiento se exceptúan los casos en los que el contrato de venta de las mercancías importadas estipula un tipo de cambio fijo, de acuerdo con lo establecido en la Opinión Consultiva 20.1 del Comité Técnico de Valoración en Aduana de la Organización Mundial de Aduanas (OMA)'."
+  },
+  {
+    "question": "Para realizar la conversión de euros a dólares de los Estados Unidos de América para el valor en aduana, \"Importadora Colombia S.A.S.\" necesita consultar los tipos de cambio. Según el ARTÍCULO 15 del Decreto 1165 de 2019, ¿cuáles son las fuentes oficiales primarias para obtener estos tipos de cambio?",
+    "options": [
+      "Únicamente los publicados por la página web de cualquier banco comercial en Colombia.",
+      "Los publicados por el Banco de la República o por la fuente oficial que determine la DIAN (reconocida internacionalmente y de acceso gratuito).",
+      "Los tipos de cambio informados por el exportador en la factura comercial.",
+      "Los que se acuerden bilateralmente entre el importador y la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 indica que 'Los tipos de cambio serán los publicados por el Banco de la República o por la fuente oficial que determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), la que debe ser reconocida internacionalmente y de acceso gratuito para los usuarios aduaneros'."
+  },
+  {
+    "question": "La empresa \"Exóticos del Mundo Ltda.\" importa mercancías negociadas en una moneda (el ZAR sudafricano) que no es objeto de publicación por el Banco de la República ni por la fuente oficial determinada por la DIAN. Según el ARTÍCULO 15 del Decreto 1165 de 2019, ¿qué opciones tiene la empresa para obtener el tipo de cambio para la conversión a dólares de los Estados Unidos de América?",
+    "options": [
+      "Debe esperar hasta que la DIAN publique una tasa para esa moneda.",
+      "Puede aplicar el tipo de cambio certificado por un banco comercial en Colombia o por la Oficina Comercial de la Embajada del país correspondiente, acreditada en Colombia.",
+      "Está obligada a negociar la mercancía en una moneda diferente.",
+      "Debe usar un promedio de tipos de cambio de al menos tres casas de cambio internacionales."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 establece que 'Si la moneda de negociación no se encuentra entre aquellas que son objeto de publicación por el Banco de la República o por la fuente oficial que determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), podrá aplicarse el tipo de cambio certificado de acuerdo con cotizaciones o transacciones efectuadas por un banco comercial en el Territorio Aduanero Nacional, o por la Oficina Comercial de la Embajada del correspondiente país, acreditada en Colombia'."
+  },
+  {
+    "question": "Una vez que el valor en aduana de la mercancía importada por \"Importadora Colombia S.A.S.\" ha sido determinado en dólares de los Estados Unidos de América (USD), este debe convertirse a pesos colombianos (COP) para el cálculo de los tributos. La declaración aduanera se presenta y acepta el 20 de mayo de 2026. Según el ARTÍCULO 15 del Decreto 1165 de 2019, ¿qué tasa de cambio y fecha se deben utilizar para esta conversión a COP?",
+    "options": [
+      "La Tasa Representativa del Mercado (TRM) vigente el 20 de mayo de 2026 (fecha de aceptación de la declaración).",
+      "La TRM que informe la Superintendencia Financiera para el último día hábil de la semana anterior a la fecha de presentación y aceptación de la declaración aduanera.",
+      "La TRM que estaba vigente al momento de la salida de la mercancía del país de origen.",
+      "Un tipo de cambio promedio mensual publicado por el Banco de la República."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 establece que 'El valor en aduana expresado en dólares de los Estados Unidos de América se convertirá a pesos colombianos, teniendo en cuenta la tasa de cambio representativa de mercado que informe la Superintendencia Financiera o la entidad que haga sus veces, para el último día hábil de la semana anterior a la fecha de presentación y aceptación de la declaración aduanera'."
+  },
+  {
+    "question": "Un particular recibe un paquete con un valor superior a la franquicia aduanera, importado bajo la modalidad de tráfico postal y envíos urgentes. La mercancía llega a Colombia el 10 de abril de 2026. Según el ARTÍCULO 15 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, ¿qué fecha determina la tasa y el tipo de cambio aplicables para los tributos aduaneros?",
+    "options": [
+      "La fecha en que se presenta la declaración de importación por el operador postal.",
+      "La fecha de envío del paquete desde el país de origen.",
+      "El último día hábil de la semana anterior a la fecha de llegada de la mercancía.",
+      "La fecha de nacionalización del paquete por parte de la DIAN."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 15, inciso modificado por el artículo 4 del Decreto 360 de 2021, establece que 'Para la modalidad de tráfico postal y envíos urgentes, la tasa y el tipo de cambio serán los vigentes el último día hábil de la semana anterior a la fecha de llegada de la mercancía'."
+  },
+  {
+    "question": "Una viajera llega a Colombia el 5 de mayo de 2026, según la fecha estampada en su pasaporte, y trae consigo artículos personales que exceden los límites de franquicia. Para calcular los tributos aduaneros, se necesita aplicar la tasa y el tipo de cambio correspondientes. De acuerdo con el ARTÍCULO 15 del Decreto 1165 de 2019, ¿qué fecha se toma como referencia para estos valores en la modalidad de viajeros?",
+    "options": [
+      "La fecha de compra de los artículos en el extranjero.",
+      "La fecha de presentación de la declaración de viajero.",
+      "La fecha de llegada del viajero conforme con lo indicado en el pasaporte.",
+      "El último día hábil de la semana anterior a la llegada del viajero."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 15 del Decreto 1165 de 2019 especifica que 'En la modalidad de viajeros, la tasa y el tipo de cambio serán los vigentes a la fecha de llegada del viajero conforme con lo indicado en el pasaporte'."
+  },
+  {
+    "question": "La DIAN impone una sanción pecuniaria a la empresa \"Logística sin Fronteras S.A.S.\" basada en el valor FOB de una mercancía, y emite el requerimiento especial aduanero el 1 de julio de 2026. Según el PARÁGRAFO del ARTÍCULO 15 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, ¿cuál tasa de cambio debe aplicarse para calcular el monto de esta sanción?",
+    "options": [
+      "La tasa de cambio vigente el último día hábil de la semana anterior a la fecha de la importación.",
+      "La tasa de cambio vigente a la fecha de expedición del requerimiento especial aduanero.",
+      "La tasa de cambio más baja registrada durante el mes en que ocurrió la infracción.",
+      "La tasa de cambio promedio del año fiscal en curso."
+    ],
+    "correct": 1,
+    "explanation": "El PARÁGRAFO del ARTÍCULO 15 del Decreto 1165 de 2019, modificado por el Decreto 360 de 2021, establece que 'Cuando se trate de la imposición de una sanción pecuniaria con base en el valor FOB de la mercancía, la tasa de cambio aplicable será la vigente a la fecha de expedición del requerimiento especial aduanero'."
+  },
+  {
+    "question": "Una empresa colombiana realiza la importación de un lote de maquinaria pesada. De acuerdo con el Artículo 16, numeral 1, de la Ley de Aduanas (Decreto 1165 de 2019, modificado por Decreto 360 de 2021), ¿cuál es la base gravable que se toma para liquidar los derechos de aduana de esta importación?",
+    "options": [
+      "El costo de adquisición de la mercancía en el país de origen, más el flete internacional.",
+      "El valor en aduana de la mercancía importada, determinado conforme a las disposiciones de valoración aduanera.",
+      "El precio de venta de la maquinaria en el mercado colombiano, descontando los costos de importación.",
+      "El valor CIF (Costo, Seguro y Flete) de la mercancía, sin ninguna otra adición o ajuste."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 16, numeral 1 del Decreto 1165 de 2019, modificado por Decreto 360 de 2021, para los derechos de aduana, se toma como base gravable el valor en aduana de la mercancía importada, determinado conforme lo establecen las disposiciones que rigen la valoración aduanera."
+  },
+  {
+    "question": "La empresa 'Logística Global S.A.' está preparando la liquidación de una importación y necesita calcular los demás derechos que conforman los tributos aduaneros, diferentes a los derechos de aduana. Con base en el Artículo 16, numeral 2, de la Ley de Aduanas (Decreto 1165 de 2019, modificado por Decreto 360 de 2021), ¿qué se debe considerar como base gravable para estos otros derechos?",
+    "options": [
+      "Siempre el valor FOB de la mercancía declarado por el exportador.",
+      "El valor comercial de la mercancía en el mercado internacional, sin ajustes.",
+      "El valor en aduana de la mercancía importada cuando corresponda y, en casos especiales, lo que dispongan las normas que regulan la materia.",
+      "Únicamente el precio de factura de la mercancía al que se le resta cualquier descuento por volumen."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 16, numeral 2 del Decreto 1165 de 2019, modificado por Decreto 360 de 2021, establece que para los demás derechos que conforman los tributos aduaneros, la base gravable será el valor en aduana de la mercancía importada cuando corresponda y, en casos especiales, lo que dispongan las normas que regulan la materia."
+  },
+  {
+    "question": "Un importador necesita determinar la base gravable para el Impuesto sobre las Ventas (IVA) en la importación de productos electrónicos. Según el Artículo 16, numeral 3, de la Ley de Aduanas (Decreto 1165 de 2019, modificado por el Artículo 5 del Decreto 360 de 2021), ¿cómo se establece esta base gravable?",
+    "options": [
+      "A partir del valor FOB más el costo del transporte internacional.",
+      "Conforme con lo previsto en el Artículo 459 del Estatuto Tributario y normas que lo reglamenten.",
+      "Mediante la suma del valor en aduana, el flete y el seguro, sin considerar el Estatuto Tributario.",
+      "La base gravable es el valor declarado por el importador más un porcentaje fijo establecido anualmente por la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 16, numeral 3 del Decreto 1165 de 2019, modificado por el Artículo 5 del Decreto 360 de 2021, establece que para el impuesto sobre las ventas (IVA) en la importación, la base gravable se establecerá conforme con lo previsto en el artículo 459 del Estatuto Tributario y normas que lo reglamenten. El texto anterior del numeral 3 incluía la adición de los derechos de aduana al valor en aduana, pero la modificación lo simplifica a la remisión directa al Artículo 459 del E.T."
+  },
+  {
+    "question": "Una empresa importa vehículos de alta gama y debe liquidar el Impuesto Nacional al Consumo, así como un cargamento de combustible para aviación que requiere la liquidación del Impuesto Nacional a la Gasolina y ACPM. De acuerdo con el Parágrafo del Artículo 16 de la Ley de Aduanas (Decreto 1165 de 2019, modificado por Decreto 360 de 2021), ¿cómo deben ser liquidados estos impuestos?",
+    "options": [
+      "Serán liquidados conforme a las directrices emitidas por el Ministerio de Hacienda y Crédito Público.",
+      "Serán liquidados con base en el valor CIF de la mercancía, adicionando los derechos de aduana.",
+      "Serán liquidados conforme con lo previsto en el Estatuto Tributario y normas que lo reglamenten.",
+      "Serán liquidados de acuerdo con el valor comercial en el mercado nacional, sin referencia al Estatuto Tributario."
+    ],
+    "correct": 2,
+    "explanation": "El Parágrafo del Artículo 16 del Decreto 1165 de 2019, modificado por Decreto 360 de 2021, establece que el impuesto nacional al consumo y el impuesto nacional a la gasolina y al ACPM serán liquidados conforme con lo previsto en el Estatuto Tributario y normas que lo reglamenten."
   }
 ]

@@ -168,17 +168,18 @@ def try_prompt(prompt: PromptConfig):
                 opcion = input("\n[Enter] Continue | [r] Retry: ").strip().lower()
             
                 if opcion == 'r':
-                    print("🔄 Refrescando respuesta...")
-                    continue # Vuelve al inicio del 'while True' (misma ejecución de la función)
+                    logger.info("🔄 Refreshing response...")
+                    continue # Restart the 'while' loop to call the AI again
                 else:
-                    print("➡️ Continuando a validación...")
+                    logger.info("➡️ Proceeding to validation...")
 
-            # 4. Validación Técnica
+            # 4. Technical Pydantic Validation
             if prompt.type_adapter:
-                # Esto lanzará ValidationError si el JSON está mal
+                # Triggers ValidationError if the JSON doesn't match the expected schema
                 prompt.type_adapter.validate_json(sanitized_response) 
-                print("✅ Validación Pydantic exitosa.")
-
+                logger.info("[green]✅ Pydantic validation successful.[/green]")
+                
+            # 5. Persistence: Save output based on specified format
             if prompt.save_output:
                 match prompt.output_format:
                     case ".json":
@@ -191,17 +192,17 @@ def try_prompt(prompt: PromptConfig):
             return sanitized_response
 
         except ValidationError as e:
-            print(f"❌ Error de validación en prompt {prompt.index}")
-            # Si estamos en debug, permitimos reintentar manualmente tras el error
+            logger.error(f"❌ Validation error in prompt {prompt.index}")
+
             if prompt.debug:
-                print(f"Detalle: {e.json()}")
-                input("Presiona Enter para reintentar la llamada a la IA...")
-                continue # Reintenta dentro del while
-            raise # Si no es debug, lanza para que el @retry automático actúe
+                logger.info(f"Details: {e.json()}")
+                input("Press Enter to retry the AI call manually...")
+                continue # Retry inside the 'while' loop
+            raise # Let @retry handle it if not in debug mode
 
         except Exception as e:
-            print(f"❌ Error inesperado: {e}")
-            raise # Lanza para que @retry actúe
+            print(f"❌ Unexpected error: {e}")
+            raise # Trigger @retry for transient API issues
 
     
     
@@ -251,6 +252,6 @@ def process_articles():
             continue 
 
         for i, prompt in enumerate(prompts):
-            logger.info(f"\n[magenta]{'=' * 50}[/magenta]\n[magenta]--- Ejecutando prompt {i} ---[/magenta]\n[magenta]{'=' * 50}[/magenta]")
+            logger.info(f"\n[magenta]{'=' * 50}[/magenta]\n[magenta]--- RUNNING PROMPT {i} ---[/magenta]\n[magenta]{'=' * 50}[/magenta]")
             try_prompt(prompt)
         

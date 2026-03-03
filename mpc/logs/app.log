@@ -944,3 +944,76 @@
 2026-03-03 09:24:29 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
 2026-03-03 09:24:35 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
 2026-03-03 09:25:02 [INFO] rich: JSON file saved at: output/questions/articulo_0015.json
+2026-03-03 12:08:36 [INFO] __main__: Running MPC server
+2026-03-03 12:09:59 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 12:09:59 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:10:08 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 12:10:20 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 12:10:20 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:10:29 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 12:10:31 [INFO] rich: Markdown file saved at: output/lists/articulo_0016.md
+2026-03-03 12:10:31 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 12:10:31 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:10:46 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 12:11:13 [INFO] rich: ➡️ Proceeding to validation...
+2026-03-03 12:11:13 [INFO] rich: [green]✅ Pydantic validation successful.[/green]
+2026-03-03 12:11:13 [INFO] rich: JSON file saved at: output/questions/articulo_0016.json
+2026-03-03 12:13:41 [INFO] __main__: Running MPC server
+2026-03-03 12:13:55 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- RUNNING PROMPT 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 12:13:55 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:14:08 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 12:14:16 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- RUNNING PROMPT 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 12:14:16 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:14:20 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 12:14:23 [INFO] rich: Markdown file saved at: output/lists/articulo_0017.md
+2026-03-03 12:14:23 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- RUNNING PROMPT 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 12:14:23 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:14:24 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:14:25 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:14:25 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:14:26 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 12:14:26 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:16:04 [INFO] __main__: Running MPC server
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0001-0100.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0101-0200.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0201-0300.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0301-0400.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0401-0500.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0501-0600.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0601-0700.md (100 entries)
+2026-03-03 12:16:04 [INFO] rich: Saved: summary_0701-0775.md (75 entries)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0001.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0002.json (8 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0003.json (192 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0004.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0005.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0006.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0007.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0008.json (7 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0009.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0010.json (25 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0011.json (5 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0012.json (3 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0013.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0014.json (8 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0015.json (9 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged: articulo_0016.json (4 questions)
+2026-03-03 12:16:04 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 289
