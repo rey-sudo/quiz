@@ -2,7 +2,7 @@ import json
 import logging
 from utils.clean_json import limpiar_json_markdown
 from pydantic import ValidationError
-from prompts.create_questions import PromptConfig, get_create_questions_prompt
+from prompts.question_prompts import PromptConfig, get_create_questions_prompts
 from clients.gemini_client import GeminiChat
 from clients.openai_client import OpenAIChat
 from clients.ollama_client import OllamaChat
@@ -133,24 +133,39 @@ def save_md_file(output_path: str, filename: str, data: str):
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def try_prompt(prompt: PromptConfig):
-    # Usamos un bucle interno para el manejo manual de 'r' (retry)
+    """
+    Executes a single AI prompt with automated retries, manual debug intervention,
+    JSON cleaning, and Pydantic validation.
+
+    Args:
+        prompt (PromptConfig): Configuration object containing the content, 
+                               output paths, and validation adapters.
+
+    Returns:
+        str: The cleaned and validated response from the AI.
+
+    Raises:
+        ValidationError: If the response fails Pydantic schema validation.
+        Exception: For unexpected API or runtime errors.
+    """
+    # Use an infinite loop to allow manual 'r' (retry) triggers in debug mode
     while True:
         try:
-            # 1. Llamada a la IA
+            # 1. AI Interaction: Call the chat service
             response = chat.preguntar(prompt.content, prompt.append)
             
-            # 2. Limpieza inmediata
-            respuesta_limpia = limpiar_json_markdown(response)
+            # 2. Sanitization: Clean markdown formatting/JSON blocks
+            sanitized_response = limpiar_json_markdown(response)
             
-            # Validamos que no esté vacío antes de seguir
-            if not respuesta_limpia or not respuesta_limpia.strip():
-                print("⚠️ Respuesta de IA vacía.")
+            # Guard clause: Ensure the response isn't empty
+            if not sanitized_response or not sanitized_response.strip():
+                logger.info("[red]⚠️ Empty IA response[/red]")
                 if not prompt.debug: raise ValueError("Respuesta vacía")
                 # Si es debug, permitiremos que el usuario decida abajo
 
-            # 3. Interacción Humana (Debug)
+            # 3. Human-in-the-loop (Debug Mode)
             if prompt.debug:
-                opcion = input("\n[Enter] Continuar | [r] Reintentar: ").strip().lower()
+                opcion = input("\n[Enter] Continue | [r] Retry: ").strip().lower()
             
                 if opcion == 'r':
                     print("🔄 Refrescando respuesta...")
@@ -161,19 +176,19 @@ def try_prompt(prompt: PromptConfig):
             # 4. Validación Técnica
             if prompt.type_adapter:
                 # Esto lanzará ValidationError si el JSON está mal
-                prompt.type_adapter.validate_json(respuesta_limpia) 
+                prompt.type_adapter.validate_json(sanitized_response) 
                 print("✅ Validación Pydantic exitosa.")
 
             if prompt.save_output:
                 match prompt.output_format:
                     case ".json":
-                        save_json_file(prompt.output_path, f"{prompt.filename}{prompt.output_format}", respuesta_limpia)
+                        save_json_file(prompt.output_path, f"{prompt.filename}{prompt.output_format}", sanitized_response)
                     case ".md":
-                        save_md_file(prompt.output_path, f"{prompt.filename}{prompt.output_format}", respuesta_limpia)
+                        save_md_file(prompt.output_path, f"{prompt.filename}{prompt.output_format}", sanitized_response)
                     case _:
                         logger.warning(f"Unsupported output format: {prompt.output_format}")
             
-            return respuesta_limpia
+            return sanitized_response
 
         except ValidationError as e:
             print(f"❌ Error de validación en prompt {prompt.index}")
@@ -191,39 +206,51 @@ def try_prompt(prompt: PromptConfig):
     
     
 def process_articles():
-    """
-    Iterates through all .md articles in an ordered way
-    and processes them one by one.
-    
-    
-    """
-    # Retrieve the list of article files
+    # 1. Recuperar la lista ya ordenada numéricamente
     article_files = get_article_files()
     
-    # Extract contextual information (e.g., first 3 articles)
+    if not article_files:
+        print("[ERROR] No se encontraron archivos para procesar.")
+        return
+
+    # 2. Preguntar el punto de inicio
+    print(f"\nSe han encontrado {len(article_files)} archivos.")
+    inicio = input("¿Desde qué número o nombre quieres empezar? (Enter para inicio): ").strip()
+    
+    # 3. Extraer contexto (los 3 primeros según tu lógica original)
     context = extraer_contexto(n=3)
     
-     # Loop through each article file
+    # Flag para saber si ya llegamos al punto de inicio
+    skip = True if inicio else False
+
     for file in article_files:
-        tecla = input(f"\n¿Procesar '{file['nombre']}'? [y/n]: ").strip().lower()
+        nombre_actual = file["nombre"]
+        
+        # Lógica de salto: buscamos coincidencia con el número o el nombre
+        if skip:
+            if inicio.lower() in nombre_actual.lower():
+                skip = False  # ¡Lo encontramos! A partir de aquí procesamos
+            else:
+                continue # Sigue buscando el archivo inicial
+
+        # --- Flujo de procesamiento ---
+        tecla = input(f"\n¿Procesar '{nombre_actual}'? [y/n]: ").strip().lower()
         if tecla != "y":
-            print(f"[DEBUG] Saltando: {file['nombre']}")
+            print(f"[DEBUG] Saltando: {nombre_actual}")
             continue
         
-        print(f"[DEBUG] Procesando: {file['nombre']}")
+        print(f"[DEBUG] Procesando: {nombre_actual}")
         
-        filename = os.path.splitext(file["nombre"])[0]
-
+        filename = os.path.splitext(nombre_actual)[0]
         contenido = file["contenido"]
         
-        prompts = get_create_questions_prompt(context, contenido, filename)
+        prompts = get_create_questions_prompts(context, contenido, filename)
         
         if not prompts:
-            return None 
+            print(f"[WARN] Sin prompts para {nombre_actual}. Continuando con el siguiente...")
+            continue 
 
         for i, prompt in enumerate(prompts):
             logger.info(f"\n[magenta]{'=' * 50}[/magenta]\n[magenta]--- Ejecutando prompt {i} ---[/magenta]\n[magenta]{'=' * 50}[/magenta]")
-        
             try_prompt(prompt)
-        
         

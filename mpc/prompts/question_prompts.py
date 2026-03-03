@@ -26,10 +26,10 @@ class PromptConfig(BaseModel):
     type_adapter: Any 
     content: str
     
-def get_create_questions_prompt(context: str, article: str, filename: str) -> list[PromptConfig]:
+def get_create_questions_prompts(context: str, article: str, filename: str) -> list[PromptConfig]:
     p1_data = {
         "index": 0,
-        "debug": True,
+        "debug": False,
         "append": False,
         "save_output": False,
         "output_path": "",
@@ -50,7 +50,7 @@ def get_create_questions_prompt(context: str, article: str, filename: str) -> li
     
     p2_data = {
         "index": 1,
-        "debug": True,
+        "debug": False,
         "append": False,
         "save_output": True,
         "output_path": "output/lists",

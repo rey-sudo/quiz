@@ -822,3 +822,125 @@
 2026-03-02 22:00:26 [INFO] rich: Merged: articulo_0008.json (7 questions)
 2026-03-02 22:00:26 [INFO] rich: Merged: articulo_0009.json (4 questions)
 2026-03-02 22:00:26 [INFO] rich: Merged JSON saved at: output/all_questions.json — Total questions: 231
+2026-03-03 09:09:28 [INFO] __main__: Running MPC server
+2026-03-03 09:09:37 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:09:37 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:09:56 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:10:14 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:10:14 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:10:25 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:10:32 [INFO] rich: Markdown file saved at: output/lists/articulo_0011.md
+2026-03-03 09:10:32 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:10:32 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:10:45 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:10:55 [INFO] rich: JSON file saved at: output/questions/articulo_0011.json
+2026-03-03 09:15:22 [INFO] __main__: Running MPC server
+2026-03-03 09:15:34 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:15:34 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:15:46 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:16:06 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:16:06 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:16:19 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:16:25 [INFO] rich: Markdown file saved at: output/lists/articulo_0010.md
+2026-03-03 09:16:25 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:16:25 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:16:47 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:17:26 [INFO] rich: JSON file saved at: output/questions/articulo_0010.json
+2026-03-03 09:17:34 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:17:34 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:17:41 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:17:48 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:17:48 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:17:51 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:17:52 [INFO] rich: Markdown file saved at: output/lists/articulo_0012.md
+2026-03-03 09:17:52 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:17:52 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:17:59 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:18:17 [INFO] rich: JSON file saved at: output/questions/articulo_0012.json
+2026-03-03 09:18:21 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:18:21 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:18:30 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:18:37 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:18:37 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:18:39 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:18:40 [INFO] rich: Markdown file saved at: output/lists/articulo_0013.md
+2026-03-03 09:18:40 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:18:40 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:18:45 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:22:48 [INFO] rich: JSON file saved at: output/questions/articulo_0013.json
+2026-03-03 09:22:51 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:22:51 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:22:58 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:23:06 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:23:06 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:23:09 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:23:12 [INFO] rich: Markdown file saved at: output/lists/articulo_0014.md
+2026-03-03 09:23:12 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:23:12 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:23:26 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:23:55 [INFO] rich: JSON file saved at: output/questions/articulo_0014.json
+2026-03-03 09:23:58 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 0 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:23:58 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:24:05 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:24:21 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 1 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:24:21 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:24:25 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:24:29 [INFO] rich: Markdown file saved at: output/lists/articulo_0015.md
+2026-03-03 09:24:29 [INFO] rich: 
+[magenta]==================================================[/magenta]
+[magenta]--- Ejecutando prompt 2 ---[/magenta]
+[magenta]==================================================[/magenta]
+2026-03-03 09:24:29 [INFO] google_genai.models: AFC is enabled with max remote calls: 10.
+2026-03-03 09:24:35 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2026-03-03 09:25:02 [INFO] rich: JSON file saved at: output/questions/articulo_0015.json
