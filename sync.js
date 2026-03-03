@@ -4,7 +4,7 @@ const path = require('path');
 // Definir rutas absolutas
 const origen = path.join(__dirname, 'mpc', 'output', 'all_questions.json');
 const destinoDir = path.join(__dirname, 'public', 'questions');
-const destinoFinal = path.join(destinoDir, 'all_questions.json');
+const destinoFinal = path.join(destinoDir, 'aduanero.json');
 
 console.log('--- [PRE-START] Copiando archivos de datos... ---');
 

@@ -26,7 +26,7 @@ def main():
     
     create_summary()
     
-    #merge_json_questions()
+    merge_json_questions()
 if __name__ == "__main__":
     main()
 
