@@ -64,7 +64,7 @@ def extract_articles_task():
 
 @task(name="process_articles", retries=2, retry_delay_seconds=2)
 def process_articles_task():
-    skip = False
+    skip = True
     if(skip): return {"status": "skipped"}
     
     process_articles()
