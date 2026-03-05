@@ -22,7 +22,7 @@ def main():
     #consolidar_paginas()
     #extract_articles()
     
-    #process_articles()
+    process_articles()
     
     create_summary()
     
