@@ -75,7 +75,10 @@ class GeminiChat:
         return resultado
 
     def limpiar(self):
+        total = len(self.historial)
         self.historial = []
+        print(f"Historial cleaned {total} items.")
+        
 
     def ver_historial(self):
         for msg in self.historial:

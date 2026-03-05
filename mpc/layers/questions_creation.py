@@ -24,7 +24,7 @@ chat = OllamaChat(
 )
 
 chat = GeminiChat(
-    model="gemini-2.5-flash",
+    model="gemini-3-flash-preview",
     system_prompt=SYSTEM_PROMPT,
 )
 
@@ -250,7 +250,9 @@ def process_articles():
         if not prompts:
             print(f"[WARN] Sin prompts para {nombre_actual}. Continuando con el siguiente...")
             continue 
-
+        
+        chat.limpiar()
+        
         for i, prompt in enumerate(prompts):
             logger.info(f"\n[magenta]{'=' * 50}[/magenta]\n[magenta]--- RUNNING PROMPT {i} ---[/magenta]\n[magenta]{'=' * 50}[/magenta]")
             try_prompt(prompt)

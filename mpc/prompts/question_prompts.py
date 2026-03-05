@@ -30,7 +30,7 @@ def get_create_questions_prompts(context: str, article: str, filename: str) -> l
     p1_data = {
         "index": 0,
         "debug": False,
-        "append": False,
+        "append": True,
         "save_output": False,
         "output_path": "",
         "output_format": "",
@@ -43,6 +43,7 @@ def get_create_questions_prompts(context: str, article: str, filename: str) -> l
             "instrucciones": [
                 "Analizar toda la normativa proporcionada.",
                 "Usar lenguaje formal académico."
+                "Señala si la normativa fue modificada."
             ],
             "normativa": article
         })
@@ -51,7 +52,7 @@ def get_create_questions_prompts(context: str, article: str, filename: str) -> l
     p2_data = {
         "index": 1,
         "debug": False,
-        "append": False,
+        "append": True,
         "save_output": True,
         "output_path": "output/lists",
         "output_format": ".md",
@@ -73,7 +74,7 @@ def get_create_questions_prompts(context: str, article: str, filename: str) -> l
     p3_data = {
         "index": 2,
         "debug": False,
-        "append": True,
+        "append": False,
         "save_output": True,
         "output_path": "output/questions",
         "output_format": ".json",
