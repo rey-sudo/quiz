@@ -3177,5 +3177,643 @@
     ],
     "correct": 2,
     "explanation": "El Parágrafo del Artículo 16 del Decreto 1165 de 2019, modificado por Decreto 360 de 2021, establece que el impuesto nacional al consumo y el impuesto nacional a la gasolina y al ACPM serán liquidados conforme con lo previsto en el Estatuto Tributario y normas que lo reglamenten."
+  },
+  {
+    "question": "De acuerdo con el ARTÍCULO 17 del Decreto 1165 de 2019, sobre el Pago de los Tributos Aduaneros y Demás Obligaciones Aduaneras, la empresa 'Importaciones Rápidas S.A.' ha presentado y aceptado su declaración de importación. Para realizar el pago de los tributos aduaneros, sanciones y demás obligaciones a que haya lugar, ¿a través de qué medios debe efectuar dicho pago?",
+    "options": [
+      "Directamente en las oficinas de la DIAN.",
+      "A través de los bancos y entidades financieras autorizadas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "Mediante consignación bancaria a una cuenta general del Tesoro Nacional.",
+      "A través de cualquier entidad bancaria, sin requerir autorización específica de la DIAN."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 17 del Decreto 1165 de 2019 establece que el pago de los tributos aduaneros, rescate, sanciones y demás obligaciones debe efectuarse a través de los bancos y entidades financieras autorizadas por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), una vez presentada y aceptada la declaración."
+  },
+  {
+    "question": "Con base en el ARTÍCULO 17 del Decreto 1165 de 2019, sobre el Pago de los Tributos Aduaneros y Demás Obligaciones Aduaneras, la empresa 'Exportadores Globales Ltda.' debe realizar el pago de tributos aduaneros para una declaración de importación anticipada. ¿Cuál es el plazo para efectuar este pago?",
+    "options": [
+      "Dentro de los cinco (5) días hábiles siguientes a la aceptación de la declaración.",
+      "Dentro del plazo establecido en el artículo 171 del presente decreto o dentro del plazo para presentar la declaración de importación anticipada, de corrección, de legalización, de modificación o consolidada de pagos.",
+      "A más tardar el último día hábil del mes en que se aceptó la declaración.",
+      "El pago puede realizarse en cualquier momento antes de la autorización de levante de la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 17 del Decreto 1165 de 2019 indica que el pago debe efectuarse 'dentro del plazo establecido en el artículo 171 del presente decreto, o dentro del plazo para presentar la declaración de importación anticipada, declaración de corrección, declaración de legalización, declaración de modificación o declaración consolidada de pagos'."
+  },
+  {
+    "question": "Según el PARÁGRAFO 1o del ARTÍCULO 17 del Decreto 1165 de 2019, la empresa 'Logística Aduanera S.A.' ha liquidado un valor de $15.789.456 por concepto de tributos aduaneros en su declaración. ¿Cuál es el valor que finalmente debe pagar, aplicando la regla de aproximación?",
+    "options": [
+      "$15.789.000",
+      "$15.789.456",
+      "$15.790.000",
+      "$15.800.000"
+    ],
+    "correct": 2,
+    "explanation": "El PARÁGRAFO 1o del ARTÍCULO 17 del Decreto 1165 de 2019 establece que 'El valor a pagar por concepto de tributos aduaneros, rescate, sanciones y demás obligaciones a que haya lugar, liquidado en las declaraciones de aduanas, deberá aproximarse al múltiplo de mil (1.000) más cercano'. En este caso, $15.789.456 se aproxima a $15.790.000."
+  },
+  {
+    "question": "Conforme al PARÁGRAFO 2o del ARTÍCULO 17 del Decreto 1165 de 2019, la empresa 'Zonafra S.A.' realizó una operación de salida de mercancía de una zona franca al resto del territorio aduanero nacional, y la declaración de importación fue presentada y aceptada el 10 de marzo de 2026. Si 'Zonafra S.A.' no realiza el pago dentro del plazo establecido, ¿qué consecuencia aduanera se genera?",
+    "options": [
+      "Se aplicarán intereses de mora diarios hasta la fecha de pago efectivo.",
+      "Deberá presentar una nueva declaración de importación para la mercancía.",
+      "La mercancía será considerada en abandono legal por la DIAN.",
+      "Se suspenderán temporalmente las operaciones de 'Zonafra S.A.' en la zona franca."
+    ],
+    "correct": 1,
+    "explanation": "El PARÁGRAFO 2o del ARTÍCULO 17 del Decreto 1165 de 2019 especifica que el pago de estas declaraciones 'deberá efectuarse a más tardar dentro de los dos (2) meses siguientes a la fecha de presentación y aceptación de las mismas, en caso contrario, se deberá presentar una nueva declaración'."
+  },
+  {
+    "question": "De acuerdo con el ARTÍCULO 18 del Decreto 1165 de 2019, sobre el pago consolidado, la empresa 'Comercio Global S.A.' posee la calidad de Operador Económico Autorizado (OEA) y ha realizado múltiples importaciones durante el mes de junio de 2026, todas con autorización de levante. ¿Puede 'Comercio Global S.A.' acogerse al pago consolidado de sus tributos aduaneros, intereses, sanciones y valor del rescate, y bajo qué condiciones iniciales?",
+    "options": [
+      "No, solo las empresas de mensajería especializada pueden realizar pagos consolidados.",
+      "Sí, por su calidad de OEA, puede hacerlo, siempre y cuando su reconocimiento e inscripción estén vigentes.",
+      "Sí, pero únicamente si realiza importaciones por un valor superior a un monto específico establecido por la DIAN.",
+      "Solo si es Usuario Aduanero Permanente (UAP) o Altamente Exportador (ALTEX)."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 18, numeral 1, del Decreto 1165 de 2019, establece claramente que el pago consolidado procede 'En las importaciones efectuadas por un importador que tenga la calidad de Operador Económico Autorizado'."
+  },
+  {
+    "question": "Conforme al ARTÍCULO 18 del Decreto 1165 de 2019, la empresa 'Mensajería Express Ltda.' está autorizada como intermediario de tráfico postal y envíos urgentes. Ha realizado diversas entregas de envíos durante la primera quincena de julio de 2026. ¿Puede 'Mensajería Express Ltda.' optar por el pago consolidado de los tributos aduaneros y demás obligaciones, y cuándo debería efectuar dicho pago?",
+    "options": [
+      "No, el pago consolidado es exclusivo para Operadores Económicos Autorizados.",
+      "Sí, puede hacerlo, y debe realizar el pago dentro de los primeros cinco (5) días hábiles de cada mes.",
+      "Sí, puede hacerlo, y debe realizar el pago dentro de los tres (3) primeros días de cada quincena, aplicable a los envíos entregados durante los quince (15) días anteriores a la fecha de pago.",
+      "Sí, pero solo para los envíos cuyo valor no supere el umbral de pago inmediato."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 18, numeral 3, del Decreto 1165 de 2019, permite el pago consolidado para 'el operador postal oficial y las empresas de mensajería especializada autorizadas como intermediarios de tráfico postal y envíos urgentes'. Para estos casos, el mismo artículo especifica que el pago se realiza 'dentro de los tres (3) primeros días de cada quincena, aplicable a los envíos entregados durante los quince (15) días anteriores a la fecha de pago'."
+  },
+  {
+    "question": "Según el ARTÍCULO 18 del Decreto 1165 de 2019, la empresa 'Textiles del Sur S.A.' es un Usuario Altamente Exportador (ALTEX) con su reconocimiento e inscripción vigentes. En el mes de septiembre de 2026, obtuvo autorización de levante para varias declaraciones aduaneras. ¿Cuál es el plazo máximo para que 'Textiles del Sur S.A.' realice el pago consolidado de los tributos y obligaciones correspondientes a esas declaraciones?",
+    "options": [
+      "Dentro de los tres (3) primeros días de octubre de 2026.",
+      "Dentro de los primeros cinco (5) días hábiles de octubre de 2026, aplicable a las declaraciones aduaneras que contaron con autorización de levante durante septiembre.",
+      "A más tardar el último día hábil de septiembre de 2026.",
+      "Dentro de los diez (10) días calendario siguientes a la autorización de levante de la última declaración."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 18 del Decreto 1165 de 2019 establece que para los casos de importadores OEA, UAP o ALTEX (numerales 1 y 2), 'el pago consolidado se deberá realizar dentro de los primeros cinco (5) días hábiles de cada mes aplicable a las declaraciones aduaneras que cuenten con autorización de levante durante el mes inmediatamente anterior'. Por lo tanto, para las declaraciones de septiembre, el plazo es dentro de los primeros cinco días hábiles de octubre."
+  },
+  {
+    "question": "En el contexto del ARTÍCULO 18 del Decreto 1165 de 2019, la empresa 'Logística Aduanera Integral S.A.', clasificada como Operador Económico Autorizado (OEA), incumplió con el pago consolidado de sus tributos aduaneros correspondientes al mes de noviembre de 2026. ¿Cuál sería la consecuencia inmediata para 'Logística Aduanera Integral S.A.' por este incumplimiento?",
+    "options": [
+      "Deberá pagar únicamente los intereses moratorios correspondientes.",
+      "Se le impondrán las sanciones establecidas en el Decreto, sin afectar su estatus de OEA.",
+      "Perderá de forma inmediata el beneficio del pago consolidado durante un (1) año y los valores adeudados se harán exigibles de manera inmediata, sin perjuicio de la sanción a que haya lugar.",
+      "Se le permitirá un plazo adicional de diez (10) días hábiles para efectuar el pago con un recargo."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 18 del Decreto 1165 de 2019, en su apartado sobre incumplimiento de obligaciones para los numerales 1 y 2 (OEA, UAP, ALTEX), dictamina que 'ocasionará la pérdida inmediata de este beneficio durante un (1) año, evento en el cual se harán exigibles de manera inmediata los valores adeudados. Lo anterior, sin perjuicio de la sanción a que haya lugar'."
+  },
+  {
+    "question": "Tomando como referencia el ARTÍCULO 18 del Decreto 1165 de 2019, la empresa 'Servicios Postales Rápidos S.A.', autorizada como intermediario de tráfico postal, incumplió con el pago consolidado de los tributos de los envíos entregados en la primera quincena de marzo de 2027. ¿Qué repercusiones tendría este incumplimiento para 'Servicios Postales Rápidos S.A.'?",
+    "options": [
+      "Perderá el beneficio del pago consolidado por un año.",
+      "Se le aplicarán las sanciones establecidas en el presente Decreto y deberá pagar los intereses moratorios a que haya lugar.",
+      "Se le cancelará definitivamente la autorización como intermediario de tráfico postal.",
+      "Solo deberá pagar el doble del valor de los tributos adeudados como penalidad."
+    ],
+    "correct": 1,
+    "explanation": "Para el caso de las empresas de mensajería especializada y operadores postales (numeral 3), el ARTÍCULO 18 del Decreto 1165 de 2019 establece que 'el incumplimiento de las obligaciones que se derivan del pago consolidado dará lugar a la imposición de las sanciones que establece el presente Decreto, sin perjuicio del pago de los intereses moratorios a que haya lugar'."
+  },
+  {
+    "question": "De acuerdo con el ARTÍCULO 19 del Decreto 1165 de 2019, que regula la Extinción de la Obligación Aduanera Relativa al Pago, la empresa 'Comercio Exterior SAS' importó una partida de maquinaria y, tras cumplir con todos los trámites, procedió a cancelar el monto total de los tributos aduaneros liquidados. ¿Cuál de los siguientes eventos describe correctamente la situación de la obligación aduanera de pago en este caso?",
+    "options": [
+      "La obligación aduanera de pago se suspende temporalmente hasta la verificación de la mercancía.",
+      "La obligación aduanera de pago se extingue por compensación.",
+      "La obligación aduanera de pago se extingue por el pago efectivo de los tributos aduaneros.",
+      "La obligación aduanera de pago se mantiene hasta que se realice una auditoría posterior."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 19, numeral 1, del Decreto 1165 de 2019 establece que la obligación aduanera relativa al pago de los tributos aduaneros se extinguirá por 'Pago'. Al cancelar el monto total, la empresa extingue dicha obligación."
+  },
+  {
+    "question": "Con base en el ARTÍCULO 19 del Decreto 1165 de 2019, la empresa 'Logística Marítima Ltda.' importó un cargamento de productos perecederos que, debido a un retraso inesperado en puerto y un daño irreversible, decidió no nacionalizar. Pasado el término legal, la mercancía fue declarada en abandono por la autoridad aduanera. ¿Cómo se ve afectada la obligación aduanera de pago en esta situación?",
+    "options": [
+      "La obligación aduanera de pago se mantiene y la empresa debe cancelar los tributos de todas formas.",
+      "La obligación aduanera de pago se extingue por abandono de las mercancías.",
+      "La obligación aduanera de pago se transfiere a la autoridad aduanera que ahora posee la mercancía.",
+      "La obligación aduanera de pago se reduce a la mitad debido al deterioro de la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 19, numeral 3, del Decreto 1165 de 2019, señala que la obligación aduanera relativa al pago se extingue por 'Abandono' de las mercancías, una vez declarada por la autoridad aduanera en los términos legales."
+  },
+  {
+    "question": "Según el ARTÍCULO 19 del Decreto 1165 de 2019, un importador trajo al país una mercancía que, antes de la nacionalización, fue completamente destruida en la bodega aduanera debido a un terremoto registrado y debidamente comprobado por la autoridad. ¿Qué ocurre con la obligación aduanera de pago de los tributos aduaneros?",
+    "options": [
+      "La obligación aduanera de pago se mantiene, ya que la mercancía ya había sido ingresada al territorio aduanero nacional.",
+      "La obligación aduanera de pago se suspende hasta que el importador pueda recuperar parte del valor de la mercancía.",
+      "La obligación aduanera de pago se extingue por destrucción de las mercancías por fuerza mayor o caso fortuito, debidamente comprobados ante la autoridad aduanera.",
+      "La obligación aduanera de pago se condona, pero el importador debe pagar una multa por la pérdida."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 19, numeral 4, del Decreto 1165 de 2019 establece que la obligación aduanera de pago se extingue por 'Destrucción de las mercancías por fuerza mayor o caso fortuito, debidamente comprobados ante la autoridad aduanera'."
+  },
+  {
+    "question": "Con referencia al ARTÍCULO 19 del Decreto 1165 de 2019, la Dirección Seccional de Salud ordenó la destrucción de un cargamento de alimentos importados que ingresó al país por no cumplir con las normas sanitarias, lo que impidió su comercialización y nacionalización. ¿Cómo afecta esta situación la obligación aduanera de pago de los tributos correspondientes a dichos alimentos?",
+    "options": [
+      "La obligación aduanera de pago se mantiene, pues la orden de destrucción no exime al importador de sus responsabilidades.",
+      "La obligación aduanera de pago se extingue por destrucción ordenada por autoridad competente.",
+      "La obligación aduanera de pago se suspende hasta que se determine la responsabilidad del importador en el incumplimiento sanitario.",
+      "La obligación aduanera de pago se reduce proporcionalmente al valor recuperado de la mercancía destruida."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 19, numeral 5, del Decreto 1165 de 2019 indica que la obligación aduanera de pago se extingue por 'Destrucción ordenada por autoridad competente'. En este caso, la Dirección Seccional de Salud actúa como autoridad competente."
+  },
+  {
+    "question": "Considerando el ARTÍCULO 19 del Decreto 1165 de 2019, la DIAN, en el marco de un control aduanero, procedió al decomiso de una mercancía que había sido introducida de forma ilegal al territorio aduanero nacional. ¿Cuál es el efecto de esta acción sobre la obligación de pagar los tributos aduaneros de dicha mercancía?",
+    "options": [
+      "La obligación aduanera de pago se mantiene, y el infractor debe pagar los tributos además de la sanción por el decomiso.",
+      "La obligación aduanera de pago se extingue por decomiso de la mercancía.",
+      "La obligación aduanera de pago se transfiere a la entidad que recibe la mercancía decomisada.",
+      "La obligación aduanera de pago se suspende mientras se resuelve el proceso administrativo de decomiso."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 19, numeral 6, del Decreto 1165 de 2019 establece que la obligación aduanera de pago se extingue por 'Decomiso'."
+  },
+  {
+    "question": "Una empresa realizó una importación temporal para perfeccionamiento activo. Al finalizar la modalidad, la mercancía fue destruida conforme a la autorización de la autoridad aduanera, sin embargo, se generaron residuos valorizables que deberán ser sometidos a otra modalidad aduanera. De acuerdo con el ARTÍCULO 19 del Decreto 1165 de 2019, ¿qué sucede con la obligación aduanera de pago?",
+    "options": [
+      "La obligación aduanera de pago se extingue por completo, incluyendo los residuos.",
+      "La obligación aduanera de pago se extingue por la destrucción, pero nace de nuevo para los residuos que deban someterse a otra modalidad que exija dicho pago.",
+      "La obligación aduanera de pago se mantiene por el valor total original de la mercancía.",
+      "La obligación aduanera de pago se suspende hasta que se decida el destino final de los residuos."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 19 del Decreto 1165 de 2019 aclara que 'La destrucción de las mercancías como forma de finalización de una modalidad extingue la obligación aduanera de pago, sin perjuicio de que nazca de nuevo para los residuos que deban someterse a otra modalidad que exija dicho pago'."
+  },
+  {
+    "question": "En el marco del ARTÍCULO 19 del Decreto 1165 de 2019, una empresa importadora solicita y obtiene de la DIAN la autorización para la desnaturalización de un lote de productos químicos que no cumplen con los estándares de calidad esperados. La empresa notifica el lugar, fecha y hora de la desnaturalización, y la autoridad aduanera decide no asistir. ¿Cómo afecta esta desnaturalización a la obligación de pago de los tributos aduaneros de estos productos?",
+    "options": [
+      "La obligación de pago se mantiene, ya que la ausencia de la autoridad aduanera invalida el proceso de desnaturalización.",
+      "La obligación de pago se extingue respecto de las mercancías desnaturalizadas, aunque la presencia de la autoridad aduanera fuera facultativa.",
+      "La obligación de pago se reduce, pero el importador debe asumir un porcentaje de los tributos.",
+      "La obligación de pago se suspende hasta que la DIAN realice una inspección posterior al proceso de desnaturalización."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 19 del Decreto 1165 de 2019 establece que 'La destrucción por desnaturalización autorizada por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), también extingue la obligación de pago respecto de las mercancías que se hubieren sometido a cualquier modalidad, previo aviso del lugar, fecha y hora en que se realizará; siendo facultativa la presencia de la autoridad aduanera en la misma'."
+  },
+  {
+    "question": "De acuerdo con el ARTÍCULO 19 del Decreto 1165 de 2019, la empresa 'Tecnologías del Futuro S.A.' tiene un crédito fiscal a su favor con la DIAN por un valor equivalente a los tributos aduaneros que debe pagar por una nueva importación. La empresa decide aplicar este crédito para cubrir la obligación actual. ¿Bajo qué evento se extinguiría la obligación aduanera de pago en este caso?",
+    "options": [
+      "Por pago directo en efectivo.",
+      "Por compensación, al aplicar un crédito existente con la DIAN.",
+      "Por condonación de la deuda por parte de la autoridad aduanera.",
+      "Por reestructuración de la deuda, con un nuevo plan de pagos."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 19, numeral 2, del Decreto 1165 de 2019, establece que la obligación aduanera relativa al pago de los tributos aduaneros se extinguirá por 'Compensación'."
+  },
+  {
+    "question": "De acuerdo con el ARTÍCULO 20 del Decreto 1165 de 2019, que define el 'ALCANCE' de la obligación aduanera en la exportación, la empresa 'Exportaciones Futura S.A.' se encuentra realizando un proceso de envío de mercancías al exterior. ¿Cuál de las siguientes acciones NO hace parte de las actuaciones que comprende la obligación aduanera en la exportación, según este artículo?",
+    "options": [
+      "La presentación de la solicitud de autorización de embarque.",
+      "El ingreso de la mercancía a zona primaria aduanera.",
+      "La negociación de los términos de pago con el comprador internacional.",
+      "La certificación de embarque de la mercancía."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 20 del Decreto 1165 de 2019 establece que la obligación aduanera en la exportación comprende la presentación de la solicitud de autorización de embarque, el ingreso a zona primaria, el embarque, la certificación de embarque y demás actuaciones que se requieran para la culminación del trámite de exportación. La negociación de los términos de pago con el comprador internacional es una actividad comercial, no una actuación directamente comprendida en la obligación aduanera de exportación según este artículo."
+  },
+  {
+    "question": "Con base en el ARTÍCULO 20 del Decreto 1165 de 2019, la empresa 'Productos Agrícolas del Campo' ha incurrido en una infracción aduanera durante su trámite de exportación, lo que ha generado una sanción. ¿Forma el pago de esta sanción parte de la obligación aduanera en la exportación, de acuerdo con el alcance definido en el artículo?",
+    "options": [
+      "No, el pago de sanciones es una obligación separada y no relacionada con el trámite de exportación.",
+      "Sí, el pago de las sanciones, cuando haya lugar a ello, está comprendido dentro de la obligación aduanera en la exportación.",
+      "Solo si la sanción está directamente relacionada con los tributos aduaneros de exportación.",
+      "Únicamente si la sanción se impone antes de la autorización de embarque."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 20 del Decreto 1165 de 2019 claramente incluye dentro del alcance de la obligación aduanera en la exportación 'el pago de las sanciones, cuando haya lugar a ello'."
+  },
+  {
+    "question": "Según el ARTÍCULO 20 del Decreto 1165 de 2019, la DIAN ha solicitado a la empresa 'Innovación Textil S.A.' la presentación de documentos que soportan una operación de exportación realizada hace un año. ¿Qué exigencia debe cumplir 'Innovación Textil S.A.' respecto a estos documentos?",
+    "options": [
+      "La empresa solo está obligada a presentar los documentos si fueron requeridos durante el trámite de exportación inicial.",
+      "La empresa debe obtener y conservar los documentos que soportan la operación y presentarlos cuando los requiera la autoridad aduanera.",
+      "La empresa únicamente debe conservar los documentos durante seis (6) meses después de la exportación.",
+      "La autoridad aduanera no puede solicitar documentos de operaciones ya finalizadas."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 20 del Decreto 1165 de 2019 establece que la obligación aduanera en la exportación incluye 'la obligación de obtener y conservar los documentos que soportan la operación, presentarlos cuando los requiera la autoridad aduanera'."
+  },
+  {
+    "question": "Considerando el ARTÍCULO 20 del Decreto 1165 de 2019, la empresa 'Exportaciones Colombianas Ltda.' actuó como exportador de una carga, y la Sociedad de Intermediación Aduanera 'Agencia Aduanera Global' intervino en el trámite. ¿Quién es el responsable de la obligación aduanera en la exportación en este escenario?",
+    "options": [
+      "Únicamente el exportador, 'Exportaciones Colombianas Ltda.', es el responsable.",
+      "Únicamente la 'Agencia Aduanera Global', por ser el usuario aduanero que intervino.",
+      "El exportador, 'Exportaciones Colombianas Ltda.', y la 'Agencia Aduanera Global' respecto de la obligación derivada de su intervención.",
+      "La responsabilidad recae solidariamente en el transportador internacional y el exportador."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 20 del Decreto 1165 de 2019 especifica que 'El responsable de la obligación aduanera en la exportación es el exportador y el usuario aduanero respecto de la obligación derivada de su intervención'."
+  },
+  {
+    "question": "De acuerdo con el ARTÍCULO 20 del Decreto 1165 de 2019, la empresa 'Artesanías del País' va a exportar sus productos. ¿Existe la obligación de pago de tributos aduaneros para esta operación de exportación, según la regla general establecida en la norma?",
+    "options": [
+      "Sí, siempre se deben pagar tributos aduaneros en las exportaciones.",
+      "No, en materia de exportaciones no existe obligación de pago de tributos aduaneros, salvo disposiciones especiales.",
+      "Solo si el valor de la exportación supera un monto específico establecido por la DIAN.",
+      "Únicamente si la mercancía exportada es considerada de alto valor o sensible."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 20 del Decreto 1165 de 2019 establece que 'En materia de exportaciones no existe obligación de pago de tributos aduaneros, salvo cuando existan disposiciones especiales que regulen la materia'."
+  },
+  {
+    "question": "La empresa 'Mineras S.A.' planea exportar un tipo particular de mineral que, según una ley especial vigente, está sujeto a un gravamen específico a la exportación. ¿Cómo aplica la norma general del ARTÍCULO 20 del Decreto 1165 de 2019 sobre el pago de tributos aduaneros en exportaciones a este caso?",
+    "options": [
+      "La norma general exime a 'Mineras S.A.' del pago de cualquier tributo aduanero en la exportación, ignorando la ley especial.",
+      "A pesar de la norma general, 'Mineras S.A.' deberá pagar el gravamen, ya que el ARTÍCULO 20 contempla excepciones cuando existen disposiciones especiales que regulen la materia.",
+      "La exportación de minerales siempre está exenta de tributos aduaneros, independientemente de cualquier ley especial.",
+      "'Mineras S.A.' solo estaría obligada a pagar si el mineral fuera reimportado en el futuro."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 20 del Decreto 1165 de 2019 establece la regla general de no pago de tributos aduaneros en exportaciones, pero incluye la salvedad: 'salvo cuando existan disposiciones especiales que regulen la materia'. En este caso, la ley especial que impone un gravamen a la exportación de ese mineral constituye una de esas excepciones."
+  },
+  {
+    "question": "La empresa 'Importaciones S.A.' inicia una operación de tránsito aduanero desde el puerto de Buenaventura hacia Bogotá. Durante el proceso, la autoridad aduanera solicita los documentos soporte que no fueron adjuntados inicialmente. Según el inciso 1 del Artículo 21 del Decreto 1165 de 2019 (Estatuto Aduanero), ¿cuál es el alcance de la obligación aduanera en este caso?",
+    "options": [
+      "Se limita únicamente a la presentación de la declaración aduanera de tránsito.",
+      "Comprende la presentación de la declaración, la ejecución, la finalización, y la obligación de obtener, conservar y presentar documentos soporte.",
+      "Solo obliga a la finalización del régimen en la aduana de destino sin requerir conservación de documentos.",
+      "Abarca exclusivamente el pago de los tributos aduaneros y la entrega de la mercancía al transportador."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 21 del Decreto 1165 de 2019 establece que el alcance de la obligación en el régimen de tránsito es integral, abarcando desde la presentación de la declaración, la ejecución y finalización, hasta la conservación y presentación de documentos soporte ante requerimientos de la autoridad."
+  },
+  {
+    "question": "En una operación de tránsito aduanero, la mercancía declarada por el importador 'Mundo Textil' sufre un siniestro y no llega a la aduana de destino. De acuerdo con el Artículo 21 del Decreto 1165 de 2019, ¿quién debe responder ante la autoridad aduanera por el pago de los tributos aduaneros de la mercancía faltante?",
+    "options": [
+      "La autoridad aduanera de origen por permitir la salida de la mercancía.",
+      "Exclusivamente la empresa transportadora por ser quien custodiaba la carga.",
+      "El declarante, quien se hace responsable por la información consignada y por el pago de los tributos de la mercancía que no llegue a destino.",
+      "Ninguna de las anteriores, ya que los tributos solo se pagan si la mercancía llega a la aduana de destino."
+    ],
+    "correct": 2,
+    "explanation": "Según el inciso 2 del Artículo 21 del Decreto 1165 de 2019, el declarante es el responsable ante la DIAN por la información de la declaración y por el pago de los tributos aduaneros correspondientes a la mercancía que no arribe a la aduana de destino."
+  },
+  {
+    "question": "Una Agencia de Aduanas actúa como declarante en un tránsito aduanero para un cliente. Se detecta que parte de la carga no llegó a la aduana de destino. Según el Artículo 21 del Decreto 1165 de 2019, ¿bajo qué condición responderá la agencia de aduanas por el pago de los tributos aduaneros?",
+    "options": [
+      "Responderá solidariamente en todos los casos por el simple hecho de ser el declarante.",
+      "Solo responderá por el pago de los tributos en el evento previsto en el parágrafo del artículo 53 del mismo decreto.",
+      "No responde en ningún caso, ya que la responsabilidad es exclusiva del importador o dueño de la carga.",
+      "Solo responde si el transportador no cuenta con una póliza de seguro vigente."
+    ],
+    "correct": 1,
+    "explanation": "El inciso 2 del Artículo 21 del Decreto 1165 de 2019 especifica una limitación para las agencias de aduanas: si actúan como declarantes, solo responderán por el pago de tributos en el evento previsto en el parágrafo del artículo 53 del citado decreto."
+  },
+  {
+    "question": "La transportadora 'TransLogística' realiza un tránsito aduanero, pero entrega la mercancía en el depósito de destino tres días después del vencimiento del plazo autorizado por la DIAN. Según el Artículo 21 del Decreto 1165 de 2019, ¿cuál es la responsabilidad específica de la empresa transportadora?",
+    "options": [
+      "Solo es responsable de la seguridad física de la mercancía, pero no de los plazos legales.",
+      "Es responsable únicamente ante el declarante por los perjuicios comerciales causados.",
+      "Debe responder ante la autoridad aduanera por la finalización del régimen dentro de los plazos autorizados y la correcta ejecución de la operación.",
+      "Debe pagar el 100% de los tributos aduaneros de forma inmediata sin que el declarante sea requerido."
+    ],
+    "correct": 2,
+    "explanation": "El inciso 3 del Artículo 21 del Decreto 1165 de 2019 establece claramente que la empresa transportadora responde ante la autoridad aduanera por la finalización del régimen dentro de los plazos autorizados y por la correcta ejecución de la operación de tránsito."
+  },
+  {
+    "question": "La empresa 'Export-Colombia SAS' radica una solicitud ante la DIAN para ser reconocida como Exportador Autorizado el 1 de febrero. El 1 de marzo, la DIAN le notifica un requerimiento de información, el cual es respondido por la empresa el 15 de marzo. De acuerdo con el Artículo 22 del Decreto 1165 de 2019, ¿cuál es el término que tiene la DIAN para expedir el acto administrativo que decide la solicitud?",
+    "options": [
+      "Tres (3) meses calendario contados a partir de la radicación inicial, sin interrupciones.",
+      "Tres (3) meses, pero el término se suspende desde la notificación del requerimiento hasta la radicación de la respuesta.",
+      "Seis (6) meses prorrogables por otros tres (3) meses si la complejidad del caso lo requiere.",
+      "Quince (15) días hábiles contados a partir de la respuesta al requerimiento de información."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 22 del Decreto 1165 de 2019, la dependencia competente debe decidir sobre la solicitud dentro de los tres (3) meses siguientes a su radicación, aclarando que dicho término se suspende desde la notificación del requerimiento de información hasta que se radique la respuesta."
+  },
+  {
+    "question": "Durante el proceso de auditoría para la autorización como Exportador Autorizado, la DIAN encuentra que dos de los productos estrella de la empresa 'Frutas del Trópico' no cumplen con los criterios de calificación de origen exigidos por el acuerdo comercial con la Unión Europea. Según el numeral 1.1 del Artículo 22 del Decreto 1165 de 2019, ¿cuál es la consecuencia jurídica?",
+    "options": [
+      "Se le otorga una autorización provisional por un año mientras ajusta sus procesos productivos.",
+      "Se le concede la autorización solo para los productos que sí cumplen, excluyendo los demás.",
+      "Se negará la autorización como exportador autorizado por no calificar alguno de los productos como originario.",
+      "Se le impone una multa equivalente al 10% del valor de las exportaciones proyectadas."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 1.1.3 del Artículo 22 del Decreto 1165 de 2019 establece taxativamente que se negará la autorización cuando alguno de los productos a exportar no califique como originario."
+  },
+  {
+    "question": "La sociedad 'Textiles Andinos', que contaba con la calidad de Exportador Autorizado, entra en un proceso de disolución y liquidación voluntaria. Ante este hecho, la DIAN procede a declarar la pérdida de su autorización. Según el Artículo 22 del Decreto 1165 de 2019, ¿cuál es el procedimiento y qué recursos proceden contra este acto?",
+    "options": [
+      "Se surte mediante resolución proferida de plano y contra esta no procede recurso alguno.",
+      "Se debe notificar un oficio otorgando 15 días para desvirtuar la causal y proceden recursos de ley.",
+      "La pérdida es automática por ministerio de la ley y no requiere acto administrativo.",
+      "Se debe iniciar un proceso sancionatorio administrativo aduanero con derecho a la defensa."
+    ],
+    "correct": 0,
+    "explanation": "Para las causales de disolución y liquidación (1.2.6), el Artículo 22 indica que la pérdida se surtirá mediante resolución proferida de plano por la dependencia que emitió la autorización y frente a esta no procede recurso."
+  },
+  {
+    "question": "Un exportador autorizado es notificado mediante oficio porque la autoridad aduanera considera que ha incumplido las normas de origen en un acuerdo comercial (causal 1.2.1). Según el Artículo 22 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021), ¿qué término tiene el exportador para actuar?",
+    "options": [
+      "Cinco (5) días hábiles para interponer recurso de reposición.",
+      "Treinta (30) días calendario para presentar nuevas declaraciones juramentadas.",
+      "Quince (15) días hábiles para desvirtuar la existencia de la causal.",
+      "Dos (2) meses para solicitar una nueva visita de verificación de cumplimiento."
+    ],
+    "correct": 2,
+    "explanation": "De acuerdo con el procedimiento modificado por el Decreto 360 de 2021 incorporado en el Artículo 22, una vez establecida la configuración de la causal, se notificará al exportador otorgándole quince (15) días hábiles para desvirtuar su existencia."
+  },
+  {
+    "question": "La empresa 'Logística Global' ha obtenido la calidad de Operador Económico Autorizado (OEA). Si esta empresa llega a incumplir alguna de las obligaciones derivadas de los tratamientos especiales del artículo 23 del Decreto 1165 de 2019, ¿qué normativa rige las medidas a aplicar según el Artículo 22 de dicha norma?",
+    "options": [
+      "Las sanciones previstas en el Estatuto Tributario Nacional.",
+      "Las medidas establecidas en el Decreto 3568 de 2011 y sus normas modificatorias.",
+      "Únicamente la pérdida de la autorización de forma definitiva sin posibilidad de re-aplicar.",
+      "Una multa de 500 UVT por cada incumplimiento detectado en el año fiscal."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2 del Artículo 22 del Decreto 1165 de 2019 señala que para el OEA, el incumplimiento de condiciones, requisitos o obligaciones dará lugar a la aplicación de las medidas establecidas en el Decreto 3568 de 2011."
+  },
+  {
+    "question": "Respecto a la naturaleza jurídica de la pérdida de la autorización como exportador autorizado, el Artículo 22 del Decreto 1165 de 2019 establece una regla general. ¿Cuál es?",
+    "options": [
+      "La pérdida de la autorización siempre constituye una sanción administrativa grave.",
+      "La pérdida de la autorización solo puede darse por renuncia expresa del titular.",
+      "La pérdida de la autorización no constituye sanción, salvo cuando ocurra por orden de cancelación en un proceso sancionatorio.",
+      "La pérdida de la autorización es una medida cautelar que no requiere acto administrativo motivado."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 22 aclara explícitamente que la pérdida de la autorización como exportador autorizado no constituye sanción, a menos que esta se derive de una orden de cancelación dentro de un proceso sancionatorio debidamente adelantado."
+  },
+  {
+    "question": "La empresa 'Global Exports SAS' ha sido reconocida por la DIAN bajo una categoría especial que le permite agilizar sus envíos a la Unión Europea. Según el Artículo 23, Numeral 1 del Decreto 1165 de 2019, ¿qué tratamiento especial puede ejercer esta empresa en sus operaciones de exportación?",
+    "options": [
+      "No constituir garantías para ninguna operación aduanera.",
+      "Expedir declaraciones de origen o declaraciones en factura según el acuerdo comercial respectivo.",
+      "Realizar el pago consolidado de tributos aduaneros al final de cada mes.",
+      "Corregir declaraciones de exportación sin previa autorización de la autoridad aduanera."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el Artículo 23, numeral 1 del Decreto 1165 de 2019, el Exportador Autorizado podrá expedir declaraciones de origen o declaraciones en factura, de conformidad con lo establecido en el acuerdo comercial correspondiente."
+  },
+  {
+    "question": "La compañía 'Import-Logistics OEA', al contar con la calidad de Operador Económico Autorizado, busca optimizar su flujo de caja evitando la inmovilización de capital. Con base en el Artículo 23, Numeral 2.1 del Decreto 1165 de 2019, ¿cuál es el beneficio aplicable en materia de cauciones?",
+    "options": [
+      "Reducir el valor de la garantía global al 50%.",
+      "Constituir garantías únicamente para los procesos de importación temporal.",
+      "No constituir garantías para respaldar el cumplimiento de sus obligaciones aduaneras.",
+      "Sustituir la garantía bancaria por una póliza de cumplimiento de ejecución inmediata."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 23, numeral 2.1 del Decreto 1165 de 2019 establece que los usuarios aduaneros con calidad de OEA tienen el tratamiento especial de no constituir garantías para respaldar el cumplimiento de sus obligaciones aduaneras."
+  },
+  {
+    "question": "Un exportador con calidad de Operador Económico Autorizado (OEA) necesita presentar una solicitud de autorización de embarque para una carga crítica. Según el Artículo 23, Numeral 2.2 del Decreto 1165 de 2019, ¿en qué lugar puede realizar este trámite?",
+    "options": [
+      "Únicamente en el domicilio principal de la empresa exportadora.",
+      "En el lugar de embarque, para el tipo de usuario exportador.",
+      "Exclusivamente en las oficinas centrales de la DIAN en Bogotá.",
+      "En cualquier zona franca del país, independientemente de la salida de la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2.2 del Artículo 23 del Decreto 1165 de 2019 permite expresamente al OEA presentar la solicitud de autorización de embarque en el lugar de embarque."
+  },
+  {
+    "question": "Durante un control previo, la DIAN detecta que la mercancía de 'Telemática S.A.' (OEA tipo Importador) es distinta a la negociada debido a un error del proveedor extranjero. Según el Artículo 23, Numeral 2.4 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021), ¿qué acción puede tomar la empresa?",
+    "options": [
+      "Nacionalizar la mercancía pagando una sanción reducida del 10%.",
+      "Abandonar legalmente la mercancía para evitar procesos sancionatorios.",
+      "Reembarcar las mercancías que resulten diferentes a las negociadas.",
+      "Solicitar el cambio de la declaración de importación de manera automática."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2.4 del Artículo 23 faculta al OEA (importador o exportador) a reembarcar mercancías que en control previo o simultáneo resulten diferentes a las negociadas por error del proveedor."
+  },
+  {
+    "question": "La empresa 'Textiles del Caribe OEA' requiere realizar un trámite manual ante la administración de aduanas. Conforme al Artículo 23, Numeral 2.5 del Decreto 1165 de 2019, ¿qué derecho le asiste por su calidad de Operador Económico Autorizado?",
+    "options": [
+      "Exoneración total de la revisión documental.",
+      "Obtener atención preferencial en los controles aduaneros o trámites manuales.",
+      "Asignación de un funcionario exclusivo de la DIAN las 24 horas.",
+      "Realizar el trámite sin necesidad de presentar documentos soporte físicos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 23, numeral 2.5 indica que el OEA tiene derecho a obtener atención preferencial en los controles aduaneros realizados o en los trámites manuales que adelante."
+  },
+  {
+    "question": "Un importador OEA ha realizado 20 importaciones durante el mes de marzo. Según el Artículo 23, Numeral 2.6 del Decreto 1165 de 2019, ¿qué facilidad de pago le otorga la normativa?",
+    "options": [
+      "Pago diferido de los tributos a 12 cuotas mensuales.",
+      "Efectuar el pago consolidado de los tributos aduaneros, sanciones, intereses y valor del rescate.",
+      "Exoneración del pago del IVA por ser usuario altamente exportador.",
+      "Pago únicamente de los aranceles, dejando el IVA para el año fiscal siguiente."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2.6 del Artículo 23 permite al OEA tipo importador efectuar el pago consolidado de tributos aduaneros, sanciones, intereses y valor de rescate."
+  },
+  {
+    "question": "Si una empresa es OEA como Importador, pero actúa en otra operación bajo un tipo de usuario aduanero distinto donde se exige garantía, ¿qué beneficio contempla el Artículo 23, Numeral 2.7 del Decreto 1165 de 2019?",
+    "options": [
+      "Exención total de garantías en cualquier rol que desempeñe.",
+      "Aumento del cupo de crédito ante las entidades bancarias.",
+      "Reducir las garantías para respaldar obligaciones cuando actúe en un tipo de usuario distinto al autorizado como OEA.",
+      "Sustitución de la garantía por una carta de responsabilidad civil."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2.7 del Artículo 23 permite reducir las garantías exigibles en tipos de usuario distintos a aquel con el que adquirió la autorización OEA."
+  },
+  {
+    "question": "La empresa 'Logística Total OEA' desea realizar un régimen de tránsito aduanero. Según el Artículo 23, Numeral 2.8 del Decreto 1165 de 2019, ¿cuál es la condición para hacerlo sin restricciones de aduana de partida o destino?",
+    "options": [
+      "Que la mercancía no supere los 100.000 USD.",
+      "Que el transporte se realice exclusivamente por vía aérea.",
+      "Que el lugar esté habilitado por la Unidad Administrativa Especial DIAN.",
+      "Que el tránsito dure menos de 24 horas entre aduanas."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2.8 señala que el OEA importador puede declarar tránsito sin restricciones de aduana de partida o destino, siempre y cuando el lugar esté habilitado por la DIAN."
+  },
+  {
+    "question": "En la gestión de sus archivos, un OEA tipo Importador se pregunta si debe marcar cada documento soporte con los datos de la declaración. Según el Artículo 23, Numeral 2.9 (modificado por el Decreto 360 de 2021), ¿cuál es el tratamiento especial?",
+    "options": [
+      "Es obligatorio registrar el número de levante en todos los originales.",
+      "No registrar en el original de cada documento soporte el número y fecha de la declaración de importación.",
+      "Registrar únicamente la fecha de la declaración en las facturas comerciales.",
+      "Digitalizar y firmar electrónicamente cada documento soporte obligatoriamente."
+    ],
+    "correct": 1,
+    "explanation": "El numeral 2.9 del Artículo 23 establece como beneficio no registrar en el original de cada uno de los documentos soporte, el número y fecha de la declaración de importación a la cual corresponden."
+  },
+  {
+    "question": "Un usuario OEA detecta un error en varias declaraciones de importación presentadas durante el mes en curso, antes de realizar el pago consolidado. Según el Artículo 23, Numeral 2.10 (adicionado por el Decreto 360 de 2021), ¿cómo debe proceder?",
+    "options": [
+      "Solicitar autorización previa a la División de Gestión de Operación Aduanera.",
+      "Esperar a que la DIAN profiera un requerimiento especial aduanero.",
+      "Corregir las declaraciones sin necesidad de autorización por parte de la autoridad aduanera.",
+      "Cancelar las declaraciones y presentar unas nuevas bajo la modalidad de legalización."
+    ],
+    "correct": 2,
+    "explanation": "El numeral 2.10 del Artículo 23 permite al OEA corregir las declaraciones de importación presentadas durante el mes y sobre las cuales no se haya realizado el pago consolidado, sin necesidad de autorización previa."
+  },
+  {
+    "question": "La empresa 'Importaciones Rápidas S.A.S.' debe cumplir con el trámite de una declaración de importación. Según el Artículo 24 del Decreto 1165 de 2019 (Servicios Informáticos Electrónicos), ¿cuál es el medio obligatorio a través del cual deben llevarse a cabo los procedimientos para el cumplimiento de trámites, operaciones u obligaciones aduaneras?",
+    "options": [
+      "Únicamente mediante la presentación física ante las ventanillas de la DIAN.",
+      "A través de correos electrónicos certificados enviados a la autoridad aduanera.",
+      "Mediante el uso de los Servicios Informáticos Electrónicos (SIE).",
+      "Por medio de sistemas privados de mensajería electrónica de las Agencias de Aduana."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 24 del Decreto 1165 de 2019 establece de manera taxativa que los procedimientos para el cumplimiento de trámites, operaciones u obligaciones aduaneras deberán llevarse a cabo mediante el uso de los Servicios Informáticos Electrónicos."
+  },
+  {
+    "question": "Un desarrollador de software aduanero consulta sobre la procedencia y la base técnica de los sistemas que operan en Colombia. Con base en el Artículo 24 del Decreto 1165 de 2019, ¿quién dispone estos servicios informáticos y qué estándares deben acoger?",
+    "options": [
+      "El Ministerio de Comercio, Industria y Turismo, acogiendo estándares de la OCDE.",
+      "La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), acogiendo estándares internacionalmente aceptados.",
+      "La Organización Mundial de Aduanas (OMA), bajo estándares exclusivos para países andinos.",
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC), bajo normas técnicas colombianas (NTC)."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el segundo inciso del Artículo 24 del Decreto 1165 de 2019, los Servicios Informáticos Electrónicos serán los dispuestos por la DIAN, acogiendo los estándares internacionalmente aceptados."
+  },
+  {
+    "question": "Durante un proceso de fiscalización, la DIAN revisa la información cargada por un exportador en el sistema. Según el Artículo 24 del Decreto 1165 de 2019, ¿qué presunción legal tiene la información contenida en los Servicios Informáticos Electrónicos?",
+    "options": [
+      "Se considera información meramente informativa sin valor probatorio.",
+      "Se reputará legítima, salvo prueba en contrario.",
+      "Solo tendrá validez si el usuario presenta el soporte físico debidamente autenticado.",
+      "Se presume nula hasta que la autoridad aduanera realice la validación presencial de los documentos."
+    ],
+    "correct": 1,
+    "explanation": "El tercer inciso del Artículo 24 del Decreto 1165 de 2019 señala expresamente que la información de los Servicios Informáticos Electrónicos se reputará legítima, salvo prueba en contrario."
+  },
+  {
+    "question": "Un usuario aduanero no puede acceder al sistema y decide enviar sus documentos por correo físico para cumplir con el plazo de una obligación. Según el Artículo 24 del Decreto 1165 de 2019, ¿se entendería cumplida la obligación en este caso?",
+    "options": [
+      "Sí, siempre que se adjunte el comprobante del envío por correo certificado.",
+      "Sí, el uso de medios físicos siempre es un mecanismo alternativo válido según este artículo.",
+      "No se entenderá cumplida cuando se realice a través de otros mecanismos, salvo las excepciones de los artículos 25 y 27 del mismo decreto.",
+      "Solo se entenderá cumplida si el funcionario de aduanas firma el recibido de la documentación física."
+    ],
+    "correct": 2,
+    "explanation": "El último inciso del Artículo 24 del Decreto 1165 de 2019 indica que cuando una obligación deba cumplirse a través de los SIE, no se entenderá cumplida si se realiza por otros mecanismos, a menos que apliquen las excepciones contempladas en los artículos 25 y 27 del decreto."
+  },
+  {
+    "question": "Respecto a la digitalización y transferencia de información en los trámites aduaneros, ¿qué facultad le otorga el Artículo 24 del Decreto 1165 de 2019 a la DIAN para facilitar las operaciones?",
+    "options": [
+      "Delegar en empresas privadas la creación de sus propios parámetros técnicos.",
+      "Permitir que cada usuario aduanero elija el formato de archivo de su preferencia.",
+      "Expedir normas y establecer parámetros técnicos que regulen la emisión, transferencia, digitalización y uso de la información.",
+      "Exigir que toda la información digitalizada sea también entregada en CD-ROM obligatoriamente."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 24 del Decreto 1165 de 2019 faculta a la DIAN para expedir normas y establecer parámetros técnicos y procedimientos que regulen la emisión, transferencia, digitalización, uso y control de la información para el desarrollo y facilitación de las operaciones."
+  },
+  {
+    "question": "La empresa 'Importaciones S.A.' desea presentar una declaración para nacionalizar una mercancía en el año 2026. Según el Artículo 25 del Decreto 1165 de 2019, ¿bajo qué medios debe presentarse obligatoriamente la declaración de los regímenes aduaneros?",
+    "options": [
+      "Únicamente en formato papel impreso por triplicado ante la administración local.",
+      "En formularios oficiales determinados por la DIAN, a través de medios electrónicos o magnéticos.",
+      "En cualquier archivo digital diseñado por el importador que contenga la información de la factura.",
+      "Mediante una carta dirigida al Director de Aduanas adjuntando los documentos soporte."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 25 del Decreto 1165 de 2019 establece que las declaraciones de importación, exportación y tránsito aduanero deberán presentarse en los formularios oficiales que determine la DIAN, específicamente a través de medios electrónicos o magnéticos."
+  },
+  {
+    "question": "Un exportador se encuentra en una zona portuaria donde se ha reportado una caída prolongada del sistema informático central. Con base en el Artículo 25 del Decreto 1165 de 2019, ¿cuándo se permite el uso de medios documentales (papel) para los regímenes aduaneros?",
+    "options": [
+      "Siempre que el usuario lo considere necesario para agilizar su logística.",
+      "Cuando el valor de la mercancía sea inferior a 10 salarios mínimos mensuales.",
+      "Excepcionalmente, cuando la Unidad Administrativa Especial DIAN así lo autorice.",
+      "Únicamente para mercancías perecederas y de primera necesidad."
+    ],
+    "correct": 2,
+    "explanation": "De acuerdo con el Artículo 25 del Decreto 1165 de 2019, la presentación por medios documentales es excepcional y solo procede cuando la DIAN así lo autorice."
+  },
+  {
+    "question": "Debido a una situación de fuerza mayor que impide el uso de la plataforma habitual, la DIAN emite una circular para regular la contingencia. Según el Artículo 25 del Decreto 1165 de 2019, ¿qué puede autorizar la entidad en estas circunstancias especiales?",
+    "options": [
+      "La presentación de declaraciones utilizando formularios habilitados para el efecto.",
+      "La exoneración total de presentar declaraciones aduaneras hasta que se restablezca el sistema.",
+      "El uso de formularios de aduanas de países vecinos para suplir la carencia.",
+      "La nacionalización automática de toda la carga en depósito sin necesidad de formularios."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 25 del Decreto 1165 de 2019 prevé que en circunstancias especiales, la DIAN podrá autorizar la presentación de declaraciones utilizando formularios habilitados para el efecto."
+  },
+  {
+    "question": "Una agencia de aduanas está asesorando a un nuevo cliente sobre los trámites de tránsito aduanero. Al revisar el Artículo 25 del Decreto 1165 de 2019, ¿cuáles son los regímenes que están sujetos al uso de los formularios oficiales determinados por la DIAN?",
+    "options": [
+      "Solo el régimen de importación ordinaria y exportación definitiva.",
+      "Únicamente las operaciones que se realicen en Zonas Francas.",
+      "Las declaraciones de importación, exportación y tránsito aduanero.",
+      "Todas las operaciones comerciales, incluyendo el transporte nacional de mercancías."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 25 del Decreto 1165 de 2019 especifica claramente que la obligación de usar formularios oficiales determinados por la entidad aplica para las declaraciones de importación, exportación y tránsito aduanero."
+  },
+  {
+    "question": "El representante legal de la empresa 'Adulogística S.A.S.' debe firmar y presentar digitalmente una serie de documentos de importación a través de la plataforma de la DIAN. Según el Artículo 26 del Decreto 1165 de 2019, ¿cuál es el mecanismo de identificación que debe utilizar para la presentación de información y documentos ante las autoridades aduaneras a través de los Servicios Informáticos Electrónicos?",
+    "options": [
+      "Una firma manuscrita escaneada en formato PDF de alta resolución.",
+      "Un código QR dinámico generado por la aplicación móvil de la entidad bancaria del usuario.",
+      "El sistema de identificación que determine la DIAN mediante la asignación de una clave electrónica confidencial.",
+      "Un certificado digital emitido exclusivamente por una cámara de comercio internacional."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 26 del Decreto 1165 de 2019 establece que para la presentación de información y documentos a través de los Servicios Informáticos Electrónicos, los usuarios utilizarán el sistema de identificación que determine la DIAN mediante la asignación de una clave electrónica confidencial."
+  },
+  {
+    "question": "Una agencia de aduanas está capacitando a su personal sobre la seguridad en las operaciones digitales en el año 2026. Al citar el Artículo 26 del Decreto 1165 de 2019, ¿quién es la autoridad competente encargada de determinar el sistema de identificación y asignar la clave electrónica confidencial para los trámites aduaneros?",
+    "options": [
+      "El Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC).",
+      "La Superintendencia de Industria y Comercio.",
+      "La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "La Policía Fiscal y Aduanera (POLFA)."
+    ],
+    "correct": 2,
+    "explanation": "De acuerdo con el Artículo 26 del Decreto 1165 de 2019, es la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) quien determina el sistema de identificación y asigna la clave electrónica confidencial."
+  },
+  {
+    "question": "Un usuario aduanero intenta presentar una declaración de tránsito aduanero mediante el envío de un correo electrónico institucional con los soportes adjuntos. Al revisar la validez de este acto bajo el Artículo 26 del Decreto 1165 de 2019, se le indica que para usar los Servicios Informáticos Electrónicos debe emplear su clave confidencial. ¿Cuál es la finalidad primordial de dicha clave según el artículo mencionado?",
+    "options": [
+      "Acceder a capacitaciones virtuales gratuitas ofrecidas por la Escuela de Impuestos y Aduanas.",
+      "La presentación de información y documentos ante las autoridades aduaneras a través de los Servicios Informáticos Electrónicos.",
+      "Solicitar citas presenciales en los puntos de contacto de la DIAN a nivel nacional.",
+      "Consultar el estado de cuenta de impuestos territoriales como el predial o vehículos."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 26 del Decreto 1165 de 2019 vincula directamente el uso de la clave electrónica confidencial con la presentación de información y documentos ante las autoridades aduaneras específicamente a través de los Servicios Informáticos Electrónicos (SIE)."
+  },
+  {
+    "question": "Debido a una falla masiva en los servidores centrales de la DIAN, los usuarios aduaneros no pueden transmitir sus declaraciones de exportación. De acuerdo con el Artículo 27 del Decreto 1165 de 2019, ¿bajo qué condición se consideran estos eventos como casos de contingencia?",
+    "options": [
+      "Siempre que el usuario reporte la falla a través de la línea de atención al cliente.",
+      "Cuando se deriven de fallas en los Servicios Informáticos Electrónicos, demostradas conforme lo establezca la DIAN.",
+      "Únicamente si la falla persiste por más de cuarenta y ocho (48) horas continuas.",
+      "Cuando el usuario aduanero no cuente con servicio de internet en sus propias instalaciones."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 27 del Decreto 1165 de 2019 establece que se tomarán como casos de contingencia aquellos derivados de fallas en los Servicios Informáticos Electrónicos, siempre que sean demostradas conforme a los parámetros de la DIAN."
+  },
+  {
+    "question": "Ante una caída crítica del sistema que impide el flujo normal de operaciones en puerto, la administración aduanera decide aplicar lo dispuesto en el Artículo 27 del Decreto 1165 de 2019. ¿Qué acciones debe tomar la autoridad para permitir la continuidad de la operación?",
+    "options": [
+      "Declarar la contingencia y autorizar el trámite a través de un mecanismo diferente o en forma manual mediante documentos físicos.",
+      "Suspender todos los términos aduaneros de manera indefinida hasta que el sistema se restablezca.",
+      "Exigir que los usuarios se desplacen a la aduana más cercana que sí tenga sistema en funcionamiento.",
+      "Permitir la salida de mercancías sin ningún tipo de registro, bajo la promesa de declaración futura."
+    ],
+    "correct": 0,
+    "explanation": "Según el Artículo 27 del Decreto 1165 de 2019, una vez declarada la contingencia, la administración autorizará el trámite por mecanismos diferentes o manuales (documentos físicos)."
+  },
+  {
+    "question": "La empresa 'Logística S.A.' realizó un trámite manual de importación durante un periodo de contingencia declarado por la DIAN. Una vez restablecidos los Servicios Informáticos Electrónicos, ¿qué obligación le asiste a la empresa según el Artículo 27 del Decreto 1165 de 2019?",
+    "options": [
+      "Conservar los documentos físicos originales sin realizar ninguna acción adicional en el sistema.",
+      "Solicitar una cita presencial para que un funcionario digite la información en el sistema.",
+      "Incluir tal actuación en los Servicios Informáticos Electrónicos, de acuerdo a lo que determine la DIAN.",
+      "Anular el trámite manual y volver a presentar la declaración de forma electrónica desde cero."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 27 del Decreto 1165 de 2019 dispone que, sin perjuicio de haber realizado el trámite manual, existe la obligación de incluir dicha actuación en los Servicios Informáticos Electrónicos una vez se restablezca el servicio."
   }
 ]
