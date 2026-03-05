@@ -72,7 +72,7 @@ def get_create_questions_prompts(context: str, article: str, filename: str) -> l
 
     p3_data = {
         "index": 2,
-        "debug": True,
+        "debug": False,
         "append": True,
         "save_output": True,
         "output_path": "output/questions",
