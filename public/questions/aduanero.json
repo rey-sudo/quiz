@@ -1065,5 +1065,82 @@
     ],
     "correct": 1,
     "explanation": "El ARTÍCULO 4o. OBLIGACIÓN ADUANERA establece que los obligados están sujetos 'al pago de los tributos aduaneros, intereses, tasas, recargos y sanciones, a que hubiere lugar'. En este caso, el error en la declaración podría generar el pago de tributos aduaneros adicionales, intereses por mora y sanciones administrativas."
+  },
+  {
+    "question": "Una empresa exportadora colombiana, 'Exportaciones Andes S.A.', está planificando el envío de un gran volumen de café al mercado europeo bajo el régimen de exportación definitiva. Para ello, debe asegurarse de cumplir con todas las condiciones y requisitos específicos de este régimen, incluyendo la presentación de la declaración de exportación en los servicios informáticos electrónicos de la DIAN y la salida física de la mercancía. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA, del decreto que contiene esta norma, ¿qué componente de la obligación aduanera se refiere principalmente a la observancia de estas condiciones específicas del régimen?",
+    "options": [
+      "El pago de los tributos aduaneros, intereses, tasas y recargos.",
+      "Los trámites aduaneros que debe adelantar el obligado aduanero.",
+      "El cumplimiento de las obligaciones correspondientes a cualquier régimen, modalidad u operación aduanera.",
+      "Las obligaciones derivadas de actuaciones que emprenda la administración aduanera."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 5o establece que la obligación aduanera 'comprende el cumplimiento de las obligaciones correspondientes a cualquier régimen, modalidad u operación aduanera'. En este caso, la empresa debe cumplir con las condiciones específicas del régimen de exportación definitiva."
+  },
+  {
+    "question": "Un importador, 'Global Importers Ltda.', necesita liberar una mercancía de su depósito aduanero. Para ello, debe presentar la declaración aduanera de importación, adjuntar los documentos soporte requeridos (factura comercial, documento de transporte, certificados, etc.) y esperar la autorización de levante. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA, del decreto que contiene esta norma, ¿cuál de los siguientes aspectos de la obligación aduanera involucra directamente la presentación de estos documentos y la secuencia de pasos para obtener el levante?",
+    "options": [
+      "Las obligaciones que se derivan de actuaciones que emprenda la administración aduanera.",
+      "Los trámites aduaneros que debe adelantar cada uno de los obligados aduaneros.",
+      "El pago de sanciones por el incumplimiento de normas aduaneras.",
+      "El cumplimiento de las obligaciones correspondientes a una operación aduanera."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 5o menciona específicamente 'los trámites aduaneros que debe adelantar cada uno de los obligados aduaneros'. La presentación de documentos y el seguimiento de los pasos para el levante corresponden a estos trámites."
+  },
+  {
+    "question": "La empresa 'Tecnología Avanzada S.A.' importó equipos especializados y, al momento de nacionalizarlos, liquidó los derechos de aduana y el Impuesto sobre las Ventas (IVA). Sin embargo, debido a un error en el cálculo, la DIAN detectó un pago insuficiente y aplicó intereses moratorios y una sanción por la inexactitud en la declaración. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA, del decreto que contiene esta norma, ¿qué parte de la obligación aduanera engloba tanto el pago inicial de los derechos e impuestos, como los intereses y sanciones posteriores?",
+    "options": [
+      "El cumplimiento de las obligaciones correspondientes a una modalidad aduanera.",
+      "Las obligaciones que se derivan de actuaciones de la administración aduanera.",
+      "Los trámites aduaneros exigidos al obligado aduanero.",
+      "El pago de los tributos aduaneros, intereses, tasas, recargos y sanciones."
+    ],
+    "correct": 3,
+    "explanation": "El Artículo 5o indica que la obligación aduanera 'comprende... el pago de los tributos aduaneros, intereses, tasas, recargos y sanciones, a que hubiere lugar'. Esto incluye tanto los tributos iniciales como las cargas adicionales por incumplimiento."
+  },
+  {
+    "question": "Durante un control posterior a una importación de productos electrónicos, la administración aduanera, en ejercicio de su potestad de control, requirió a la empresa 'Electro Mundial S.A.' información adicional sobre el valor en aduana de la mercancía y la presentación de contratos de compraventa que no fueron anexados inicialmente. La empresa está obligada a suministrar esta información. Según el ARTÍCULO 5o. ALCANCE DE LA OBLIGACIÓN ADUANERA, del decreto que contiene esta norma, ¿qué concepto de la obligación aduanera abarca este requerimiento específico de la autoridad?",
+    "options": [
+      "El pago de los tributos aduaneros y sus recargos.",
+      "El cumplimiento de las obligaciones correspondientes a un régimen aduanero.",
+      "Todas aquellas obligaciones que se deriven de actuaciones que emprenda la administración aduanera.",
+      "Los trámites aduaneros inherentes al declarante."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 5o establece que la obligación aduanera comprende 'todas aquellas obligaciones que se deriven de actuaciones que emprenda la administración aduanera'. El requerimiento de información adicional por parte de la DIAN en un control posterior es una actuación administrativa que genera una obligación para el usuario."
+  },
+  {
+    "question": "Una empresa importadora, 'Comercio Ágil Ltda.', enfrenta una situación donde sus operaciones aduaneras han sido objeto de revisión. El representante legal de la empresa argumenta que, como entidad jurídica, la obligación aduanera recae exclusivamente sobre la figura de la empresa y no sobre los individuos que la componen. Sin embargo, de acuerdo con el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA, ¿qué característica fundamental define la obligación aduanera en Colombia?",
+    "options": [
+      "Es de carácter objetivo, enfocándose solo en la mercancía y su valor.",
+      "Es de carácter subsidiario, aplicándose solo si no existen otras garantías.",
+      "Es de carácter solidario, distribuyéndose entre todos los agentes de la cadena logística.",
+      "Es de carácter personal, recayendo sobre quienes intervienen en la operación."
+    ],
+    "correct": 3,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA establece que 'La obligación aduanera es de carácter personal'. Esto significa que la responsabilidad recae sobre la persona (natural o jurídica) que realiza la operación, no es meramente objetiva sobre el bien."
+  },
+  {
+    "question": "En un control aduanero, la autoridad detecta que una mercancía ha permanecido en un depósito por un término superior al legalmente establecido, sin que se haya realizado ningún trámite para su reembarque o sometimiento a un régimen aduanero. Ante esta situación de incumplimiento, y sin perjuicio del carácter personal de la obligación, ¿cuáles son los mecanismos específicos a través de los cuales la autoridad aduanera puede hacer efectivo el cumplimiento de la obligación aduanera directamente sobre la mercancía, según el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA?",
+    "options": [
+      "La retención temporal y la imposición de multas económicas.",
+      "El abandono o el decomiso de la mercancía.",
+      "La nacionalización forzosa y la liquidación de tributos aduaneros.",
+      "La suspensión de las operaciones de comercio exterior del importador."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA indica que el cumplimiento de la obligación aduanera 'pueda hacerse efectivo su cumplimiento sobre la mercancía, mediante el abandono o el decomiso'."
+  },
+  {
+    "question": "Una entidad financiera ha concedido un préstamo a un comerciante, y como garantía, ha constituido una prenda sobre un lote de mercancías importadas. Posteriormente, estas mismas mercancías son objeto de un proceso de decomiso por parte de la autoridad aduanera debido a graves irregularidades en su introducción al Territorio Aduanero Nacional. La entidad financiera reclama su derecho preferente sobre las mercancías pignoradas. De acuerdo con el ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA, ¿qué prioridad tiene el abandono o el decomiso en relación con otras garantías u obligaciones que recaigan sobre la mercancía?",
+    "options": [
+      "Tienen igual prioridad que las garantías constituidas previamente sobre la mercancía.",
+      "Su preferencia se limita a las obligaciones fiscales, no sobre garantías privadas.",
+      "No tienen preferencia; deben respetar las garantías previamente establecidas por terceros.",
+      "Tienen preferencia sobre cualquier otra garantía u obligación que recaiga sobre la mercancía."
+    ],
+    "correct": 3,
+    "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA establece claramente que el cumplimiento de la obligación sobre la mercancía mediante el abandono o el decomiso se realiza 'con preferencia sobre cualquier otra garantía u obligación que recaiga sobre ella'."
   }
 ]

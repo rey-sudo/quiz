@@ -236,10 +236,14 @@ def process_articles():
 
         # --- Flujo de procesamiento ---
         tecla = input(f"\n¿Procesar '{nombre_actual}'? [y/n]: ").strip().lower()
+        if tecla == "x":
+            print(f"[DEBUG] Task terminated")
+            break
+        
         if tecla != "y":
             print(f"[DEBUG] Saltando: {nombre_actual}")
             continue
-        
+               
         print(f"[DEBUG] Procesando: {nombre_actual}")
         
         filename = os.path.splitext(nombre_actual)[0]
