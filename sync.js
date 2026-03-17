@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Definir rutas absolutas
-const origen = path.join(__dirname, 'mpc', 'output', 'all_questions.json');
+const origen = path.join(__dirname, 'mcp', 'output', 'all_questions.json');
 const destinoDir = path.join(__dirname, 'public', 'questions');
 const destinoFinal = path.join(destinoDir, 'aduanero.json');
 
@@ -20,7 +20,7 @@ try {
         fs.copyFileSync(origen, destinoFinal);
         console.log('✅ Archivo all_questions.json copiado correctamente.');
     } else {
-        console.error('❌ Error: No se encontró el archivo en mpc/output/all_questions.json');
+        console.error('❌ Error: No se encontró el archivo en mcp/output/all_questions.json');
         // Opcional: process.exit(1) si quieres que el proceso se detenga si no hay datos
     }
 
