@@ -1142,5 +1142,49 @@
     ],
     "correct": 3,
     "explanation": "El ARTÍCULO 6o. NATURALEZA DE LA OBLIGACIÓN ADUANERA establece claramente que el cumplimiento de la obligación sobre la mercancía mediante el abandono o el decomiso se realiza 'con preferencia sobre cualquier otra garantía u obligación que recaiga sobre ella'."
+  },
+  {
+    "question": "Una empresa, 'Importaciones Rápidas S.A.S.', está registrada ante la DIAN como importador y se encarga de realizar todos los trámites para la introducción de mercancías al Territorio Aduanero Nacional. Considerando el ARTÍCULO 7o. OBLIGADOS ADUANEROS, ¿qué tipo de obligado aduanero es 'Importaciones Rápidas S.A.S.' en este contexto, según la normativa vigente para el año 2026?",
+    "options": [
+      "Es un obligado aduanero indirecto, debido a que su intervención es a través de trámites.",
+      "Es un obligado aduanero directo, ya que cumple con la definición de usuario aduanero.",
+      "No es un obligado aduanero, puesto que su rol es netamente comercial.",
+      "Es un intermediario aduanero, una categoría diferente a los obligados aduaneros."
+    ],
+    "correct": 1,
+    "explanation": "Según el ARTÍCULO 7o. OBLIGADOS ADUANEROS, inciso 1, los obligados aduaneros directos son 'Los usuarios aduaneros'. La definición de 'usuario aduanero' en la normativa aduanera colombiana incluye a los importadores y a quienes realizan trámites aduaneros."
+  },
+  {
+    "question": "La empresa 'Transportes Logísticos del Eje S.A.S.' es contratada para llevar un cargamento desde la Zona Primaria Aduanera de un puerto hasta un depósito habilitado, sin ser la propietaria de la mercancía ni el declarante ante la DIAN. Su rol se limita a la movilización física de la carga bajo control aduanero. Conforme al ARTÍCULO 7o. OBLIGADOS ADUANEROS, ¿qué tipo de obligado aduanero es 'Transportes Logísticos del Eje S.A.S.' en este caso, según la normativa vigente para el año 2026?",
+    "options": [
+      "Obligado aduanero directo, por participar en la cadena logística.",
+      "Obligado aduanero indirecto, por intervenir de manera indirecta en una operación aduanera.",
+      "No es un obligado aduanero, ya que no realiza trámites de declaración.",
+      "Un agente de transporte, lo cual lo excluye de ser un obligado aduanero."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 7o. OBLIGADOS ADUANEROS, inciso 2, establece que son obligados aduaneros indirectos 'Toda persona que en desarrollo de su actividad haya intervenido de manera indirecta en el cumplimiento de cualquier trámite u operación aduanera'. La empresa de transporte interviene indirectamente al movilizar la carga bajo control aduanero."
+  },
+  {
+    "question": "En medio de una investigación de control aduanero, la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) requiere al señor Juan Pérez, un contador que realizó algunos registros contables de una operación de comercio exterior bajo investigación, para que suministre documentos e información específica relacionada con su intervención. El señor Pérez no es un usuario aduanero directo. De acuerdo con el ARTÍCULO 7o. OBLIGADOS ADUANEROS, ¿cuál es la responsabilidad del señor Juan Pérez en este escenario, según la normativa vigente para el año 2026?",
+    "options": [
+      "Su única responsabilidad es testificar si es llamado a un proceso judicial.",
+      "Es responsable por su intervención y por el suministro de la documentación e información exigida por la DIAN.",
+      "No tiene ninguna responsabilidad aduanera, ya que no es un importador o exportador.",
+      "Solo es responsable si su intervención fue de carácter fraudulento."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 7o. OBLIGADOS ADUANEROS, inciso 2, no solo incluye a quienes intervienen indirectamente, sino también a 'en general cualquier persona que sea requerida por la autoridad aduanera'. Además, especifica que estos obligados indirectos 'Serán responsables por su intervención, según corresponda, y por el suministro de toda documentación e información exigida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Una agencia de aduanas, 'Aduanas Globales S.A.S.', está actuando en nombre y representación de un importador para presentar una declaración aduanera y gestionar el levante de las mercancías. Según el ARTÍCULO 7o. OBLIGADOS ADUANEROS, ¿qué tipo de obligado aduanero es 'Aduanas Globales S.A.S.' en este contexto, y qué implica su rol, de acuerdo con la normativa vigente para el año 2026?",
+    "options": [
+      "Es un obligado indirecto, ya que solo actúa por encargo de terceros.",
+      "Es un obligado directo, pues la definición de usuario aduanero incluye al declarante.",
+      "Es un facilitador de comercio, no categorizado como obligado aduanero.",
+      "Su categorización depende del régimen aduanero específico de la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "De acuerdo con el ARTÍCULO 7o. OBLIGADOS ADUANEROS, inciso 1, los obligados aduaneros directos son los usuarios aduaneros. La definición de 'usuario aduanero' en el Artículo 3 del decreto incluye expresamente a la persona que 'interviene, como (...) declarante en los regímenes, modalidades, operaciones aduaneras o en cualquier trámite aduanero'."
   }
 ]
