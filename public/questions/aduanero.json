@@ -1186,5 +1186,93 @@
     ],
     "correct": 1,
     "explanation": "De acuerdo con el ARTÍCULO 7o. OBLIGADOS ADUANEROS, inciso 1, los obligados aduaneros directos son los usuarios aduaneros. La definición de 'usuario aduanero' en el Artículo 3 del decreto incluye expresamente a la persona que 'interviene, como (...) declarante en los regímenes, modalidades, operaciones aduaneras o en cualquier trámite aduanero'."
+  },
+  {
+    "question": "Una empresa dedicada a la logística internacional interviene en el traslado de mercancías hacia el Territorio Aduanero Nacional en el año 2026. La DIAN requiere cierta documentación e información sobre esta operación. De acuerdo con el primer inciso del ARTÍCULO 8 del presente decreto, ¿quién es el principal responsable ante la DIAN por el suministro de la documentación e información exigida y por las obligaciones derivadas de su intervención?",
+    "options": [
+      "El transportador internacional únicamente.",
+      "El consignatario de la mercancía.",
+      "Los obligados de que trata el artículo 7º de este decreto.",
+      "La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) como entidad controladora."
+    ],
+    "correct": 2,
+    "explanation": "Según el primer inciso del ARTÍCULO 8 del presente decreto, 'Son responsables de la obligación aduanera los obligados de que trata el artículo 7o de este decreto, por las obligaciones derivadas de su intervención y por el suministro de toda documentación e información exigida por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Un comerciante desea introducir una nueva línea de productos electrónicos al Territorio Aduanero Nacional en 2026. Para ello, debe cumplir con una serie de requisitos y pagar los gravámenes correspondientes. Conforme al segundo inciso del ARTÍCULO 8 del presente decreto, ¿qué responsabilidad recae específicamente sobre el importador en esta operación?",
+    "options": [
+      "Únicamente el pago de los tributos aduaneros.",
+      "Acreditar la legal introducción de las mercancías, el cumplimiento de requisitos y el pago de tributos aduaneros.",
+      "Solamente el lleno de los requisitos exigidos para la introducción de las mercancías.",
+      "La obtención de licencias de importación exclusivamente."
+    ],
+    "correct": 1,
+    "explanation": "El segundo inciso del ARTÍCULO 8 del presente decreto establece que 'El importador será responsable de acreditar la legal introducción de las mercancías al Territorio Aduanero Nacional, con el lleno de los requisitos exigidos y el pago de los tributos aduaneros a que haya lugar de conformidad con lo previsto en este decreto'."
+  },
+  {
+    "question": "Un importador, actuando de manera independiente, presenta la declaración aduanera para sus mercancías en 2026. En el proceso, comete un error en la base gravable que resulta en una liquidación incorrecta de los tributos aduaneros. De acuerdo con el tercer inciso del ARTÍCULO 8 del presente decreto, ¿por qué aspectos es responsable este importador al actuar de manera directa?",
+    "options": [
+      "Solo por la liquidación de las sanciones y rescates.",
+      "Por la exactitud y veracidad de los datos en la declaración aduanera, y la correcta determinación de la base gravable y liquidación de tributos, sanciones y rescate.",
+      "Exclusivamente por la veracidad de los datos de la declaración aduanera.",
+      "La responsabilidad es compartida con la DIAN al momento de la revisión."
+    ],
+    "correct": 1,
+    "explanation": "El tercer inciso del ARTÍCULO 8 del presente decreto indica que 'Cuando actúe de manera directa, será responsable por la exactitud y veracidad de los datos contenidos en la declaración aduanera y por la correcta determinación de la base gravable y de la liquidación de los tributos aduaneros, sanciones y rescate a que haya lugar'."
+  },
+  {
+    "question": "Un importador contrata los servicios de una agencia de aduanas para gestionar la nacionalización de un lote de mercancías en 2026. El importador le proporciona a la agencia una factura comercial que posteriormente se descubre que fue alterada por él mismo antes de ser entregada. Según el cuarto inciso del ARTÍCULO 8 del presente decreto, ¿de qué es responsable el importador en relación con los documentos soporte que suministra a la agencia de aduanas?",
+    "options": [
+      "Solo de la entrega oportuna de los documentos.",
+      "De la autenticidad de los documentos soporte que él mismo obtiene y suministra.",
+      "La agencia de aduanas asume la responsabilidad total por los documentos.",
+      "De la digitalización correcta de los documentos."
+    ],
+    "correct": 1,
+    "explanation": "El cuarto inciso del ARTÍCULO 8 del presente decreto establece que 'Cuando actúe a través de una agencia de aduanas, responderá por la autenticidad de los documentos soporte que sean obtenidos y suministrados por él'."
+  },
+  {
+    "question": "Una agencia de aduanas solicita a su cliente importador, en 2026, información detallada sobre los descuentos y condiciones de venta acordadas con el proveedor extranjero para una correcta valoración aduanera. El importador omite deliberadamente parte de esta información. Con base en el cuarto inciso del ARTÍCULO 8 del presente decreto, ¿cuál es la responsabilidad del importador frente a la agencia de aduanas en relación con la valoración aduanera?",
+    "options": [
+      "Suministrar solo la información básica requerida.",
+      "Garantizar la correcta clasificación arancelaria.",
+      "Entregar la totalidad de la información sobre los elementos de hecho y circunstancias comerciales de la negociación para la valoración aduanera, según lo solicitado.",
+      "Confirmar que los tributos aduaneros sean los menores posibles."
+    ],
+    "correct": 2,
+    "explanation": "El cuarto inciso del ARTÍCULO 8 del presente decreto también indica que el importador 'responderá (...) por la entrega de la totalidad de la información sobre los elementos de hecho y circunstancias comerciales de la negociación a efectos de la valoración aduanera, de acuerdo con lo solicitado por la agencia de aduanas'."
+  },
+  {
+    "question": "Durante un proceso de importación en 2026, el importador decide elaborar y firmar personalmente la Declaración Andina del Valor (DAV). Al realizar una auditoría posterior, la DIAN identifica errores en la determinación del valor en aduana debido a datos incompletos en la DAV. De acuerdo con el quinto inciso del ARTÍCULO 8 del presente decreto, ¿qué responsabilidad tiene el importador en este escenario?",
+    "options": [
+      "La responsabilidad es de la DIAN por no haber verificado antes el documento.",
+      "Es responsable únicamente por la firma del documento.",
+      "Responderá por el lleno total de los datos exigidos en la DAV y por la correcta determinación del valor en aduana según las normas vigentes.",
+      "La agencia de aduanas, si la hubiere, asume la responsabilidad por la valoración."
+    ],
+    "correct": 2,
+    "explanation": "El quinto inciso del ARTÍCULO 8 del presente decreto establece que 'Cuando el importador elabore y firme la Declaración Andina del Valor, responderá por el lleno total de los datos exigidos en la misma, por la correcta determinación del valor en aduana atendiendo a la técnica establecida por las normas de valoración vigentes'."
+  },
+  {
+    "question": "Un consorcio conformado por tres empresas participa en una operación de importación de maquinaria pesada en 2026. Surge una obligación de pago de tributos aduaneros adicionales. Conforme al sexto inciso del ARTÍCULO 8 del presente decreto, ¿cómo se distribuye la responsabilidad por el pago de estos tributos aduaneros en el consorcio?",
+    "options": [
+      "La responsabilidad recae únicamente sobre la empresa líder del consorcio.",
+      "La responsabilidad es dividida equitativamente entre las empresas que lo conforman.",
+      "La responsabilidad por el pago de los tributos aduaneros será solidaria y recaerá sobre las personas jurídicas y/o naturales individualmente consideradas que los conformen.",
+      "La responsabilidad es subsidiaria, primero el consorcio y luego los miembros."
+    ],
+    "correct": 2,
+    "explanation": "El sexto inciso del ARTÍCULO 8 del presente decreto indica que 'En el caso de un consorcio o unión temporal o una asociación empresarial, la responsabilidad por el pago de los tributos aduaneros será solidaria, y recaerá sobre las personas jurídicas y/o naturales individualmente consideradas que los conformen'."
+  },
+  {
+    "question": "Una empresa obtuvo la autorización como Operador Económico Autorizado (OEA) en 2025. En 2026, la DIAN realiza una revisión de sus operaciones para verificar el cumplimiento de sus obligaciones. Según el último inciso del ARTÍCULO 8 del presente decreto, ¿cuáles son las obligaciones que debe cumplir esta empresa como Operador Económico Autorizado?",
+    "options": [
+      "Exclusivamente las establecidas en el presente decreto para todos los usuarios aduaneros.",
+      "Las previstas en el Decreto 3568 de 2011 o el que lo sustituya o modifique, además de las establecidas en este decreto para los usuarios aduaneros.",
+      "Solo las que defina anualmente la DIAN mediante resolución.",
+      "Únicamente las obligaciones específicas relacionadas con la seguridad de la cadena logística."
+    ],
+    "correct": 1,
+    "explanation": "El último inciso del ARTÍCULO 8 del presente decreto establece que 'Las obligaciones derivadas de la autorización como operador económico autorizado son las previstas en el Decreto 3568 de 2011 o el que lo sustituya o modifique, además de las establecidas en este decreto para los usuarios aduaneros, según corresponda'."
   }
 ]
