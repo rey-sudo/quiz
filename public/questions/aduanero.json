@@ -1329,5 +1329,291 @@
     ],
     "correct": 1,
     "explanation": "El ARTÍCULO 9o. establece que la garantía global se exige 'para respaldar el cumplimiento de sus obligaciones aduaneras.'"
+  },
+  {
+    "question": "Una empresa S.A.S. con domicilio en Colombia, desea iniciar operaciones de importación de maquinaria industrial en el año 2026. Según el Artículo 10, Numeral 1.1 (modificado por el Decreto 360 de 2021) del Decreto 1165 de 2019, ¿cuál es el requisito fundamental que debe cumplir esta persona jurídica para actuar como importador, ya sea directamente o a través de una agencia de aduanas?",
+    "options": [
+      "Estar domiciliada y/o representada legalmente en el país y contar con un capital social mínimo establecido por la DIAN.",
+      "Estar domiciliada y/o representada legalmente en el país y estar inscrita en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente.",
+      "Solo estar representada legalmente en el país, sin necesidad de inscripción en el RUT para operaciones iniciales.",
+      "Haber realizado al menos cuatro operaciones de importación en el año anterior para ser reconocida como persona jurídica importadora."
+    ],
+    "correct": 1,
+    "explanation": "Según el Artículo 10, Numeral 1.1 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021), las personas jurídicas deben 'Estar domiciliados y/o representados legalmente en el país y estar inscritos en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente'."
+  },
+  {
+    "question": "La señora Ana García, una persona natural, desea importar bienes para su uso personal en 2026. Según el Artículo 10, Numeral 1.2 del Decreto 1165 de 2019, ¿cuál es el requisito principal que debe cumplir para realizar estas operaciones de importación?",
+    "options": [
+      "Ser mayor de edad y tener una cuenta bancaria a su nombre.",
+      "Estar inscrita en el Registro Único Tributario (RUT) o en el registro que haga sus veces con la calidad correspondiente, salvo excepciones específicas.",
+      "Presentar una declaración juramentada ante la DIAN sobre la procedencia de los fondos.",
+      "Tener un permiso especial de la DIAN para personas naturales importadoras."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 1.2 del Decreto 1165 de 2019 establece que las personas naturales deben 'Estar inscrito en el Registro Único Tributario (RUT) o en el registro que haga sus veces con la calidad correspondiente, salvo lo previsto en el parágrafo 1 del artículo 1.6.1.2.6 del Decreto Único Reglamentario 1625 de 2016 o el que lo modifique o adicione'."
+  },
+  {
+    "question": "Una compañía multinacional decide establecer una sucursal en Colombia para gestionar sus operaciones de comercio exterior a partir de 2026. Según el Artículo 10, Numeral 1.3 (adicionado por el Decreto 360 de 2021) del Decreto 1165 de 2019, ¿qué requisito indispensable debe cumplir esta sucursal de sociedad extranjera?",
+    "options": [
+      "Contar con un mínimo de cinco años de experiencia en el comercio internacional.",
+      "Estar inscrita en la Cámara de Comercio local y tener un representante legal colombiano.",
+      "Estar inscrita en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente.",
+      "Demostrar que su casa matriz tiene acuerdos comerciales vigentes con Colombia."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 1.3 del Decreto 1165 de 2019 (adicionado por el Decreto 360 de 2021) indica que la sucursal de sociedad extranjera debe 'Estar inscrito en el Registro Único Tributario (RUT) o en el registro que haga sus veces, con la calidad correspondiente'."
+  },
+  {
+    "question": "Una empresa colombiana desea obtener la autorización como 'exportador autorizado' para facilitar sus operaciones de comercio exterior en 2026. Además de los requisitos generales, según el Artículo 10, Numeral 2.1 del Decreto 1165 de 2019, ¿cuál es el primer paso específico que debe realizar para cumplir con esta categoría?",
+    "options": [
+      "Registrar sus productos en una base de datos internacional.",
+      "Presentar una solicitud de exportador autorizado.",
+      "Obtener la aprobación de la Cámara de Comercio de su ciudad.",
+      "Demostrar que tiene un volumen de exportación anual superior a un millón de dólares."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 2.1 del Decreto 1165 de 2019 establece como requisito para el exportador autorizado 'Presentar una solicitud de exportador autorizado'."
+  },
+  {
+    "question": "Para mantener su estatus de exportador autorizado en 2026, una empresa que exporta productos bajo un acuerdo comercial debe cumplir con ciertas condiciones. Según el Artículo 10, Numeral 2.2 del Decreto 1165 de 2019, ¿qué tipo de manifestación es requerida con respecto al origen de sus productos?",
+    "options": [
+      "Una certificación emitida por un organismo internacional que valide el origen de sus productos.",
+      "Una declaración pública en medios de comunicación sobre el cumplimiento de estándares de calidad.",
+      "Una manifestación bajo juramento, entendida como prestada con la firma del escrito, de que los productos cumplen las normas de origen y requisitos del acuerdo comercial.",
+      "Un informe anual de auditoría externa que confirme el origen de sus mercancías."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 2.2 del Decreto 1165 de 2019 exige 'Manifestar bajo juramento, el que se entiende prestado con la firma del escrito, que los productos objeto de exportación cumplen con las normas de origen y demás requisitos establecidos en el acuerdo comercial'."
+  },
+  {
+    "question": "Una empresa que busca ser reconocida como exportador autorizado en 2026 se pregunta sobre su historial de operaciones. Según el Artículo 10, Numeral 2.3 del Decreto 1165 de 2019, ¿cuál es la cantidad mínima de operaciones de exportación definitivas que debió haber realizado en el año inmediatamente anterior a la solicitud?",
+    "options": [
+      "Al menos una (1) declaración aduanera de exportación definitiva.",
+      "Operaciones superiores a dos (2) declaraciones aduaneras de exportación definitivas.",
+      "Operaciones superiores a cuatro (4) declaraciones aduaneras de exportación definitivas.",
+      "Operaciones que representen un valor mínimo de exportación, independientemente del número de declaraciones."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 2.3 del Decreto 1165 de 2019 indica que debe 'Haber realizado operaciones superiores a cuatro (4) declaraciones aduaneras de exportación definitivas en el año inmediatamente anterior a la solicitud'."
+  },
+  {
+    "question": "Un futuro exportador autorizado en 2026 está completando su proceso de solicitud. Según el Artículo 10, Numeral 2.4 del Decreto 1165 de 2019, ¿qué tipo de concepto es indispensable obtener para cumplir con los requisitos?",
+    "options": [
+      "Un concepto técnico sobre la viabilidad de sus productos para la exportación.",
+      "Un concepto favorable emitido con base en la calificación de riesgo, según lo previsto en el artículo 584 del presente decreto.",
+      "Un concepto legal que avale la constitución de la empresa.",
+      "Un concepto económico sobre el impacto de sus exportaciones en la balanza comercial."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 2.4 del Decreto 1165 de 2019 establece la necesidad de 'Contar con el concepto favorable emitido con base en la calificación de riesgo, según lo previsto en el artículo 584 del presente decreto'."
+  },
+  {
+    "question": "Una empresa importadora en 2026 se prepara para presentar una declaración aduanera. Según el Artículo 10, Numeral 3.1 del Decreto 1165 de 2019, ¿qué obligación fundamental tiene respecto a la documentación de soporte?",
+    "options": [
+      "Puede presentar los documentos soporte una vez la mercancía haya sido despachada del puerto.",
+      "Debe tener todos los documentos soporte requeridos vigentes y con el cumplimiento de los requisitos legales, al momento de la presentación de la declaración aduanera.",
+      "Solo necesita los documentos soporte originales para importaciones de alto valor.",
+      "La agencia de aduanas es la única responsable de la vigencia y cumplimiento de los documentos soporte."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.1 del Decreto 1165 de 2019 obliga a 'Tener todos los documentos soporte requeridos vigentes y con el cumplimiento de los requisitos legales, al momento de la presentación de la declaración aduanera'."
+  },
+  {
+    "question": "Un importador en 2026 debe cumplir con la Declaración Andina del Valor. Según el Artículo 10, Numeral 3.2 del Decreto 1165 de 2019, ¿quién es el responsable de elaborar, suscribir y presentar dicha declaración, y bajo qué condición podría delegarla?",
+    "options": [
+      "Exclusivamente la agencia de aduanas en todos los casos.",
+      "El importador, salvo que actúe a través de una agencia de aduanas y la hubiere autorizado expresamente para ello.",
+      "La DIAN es quien la elabora y el importador solo la suscribe.",
+      "Solo es obligatoria para importaciones de un valor superior a un umbral específico."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.2 del Decreto 1165 de 2019 indica la obligación de 'Elaborar, suscribir y presentar la Declaración Andina del Valor cuando haya lugar a ella, salvo que actúe a través de una agencia de aduanas y expresamente la hubiere autorizado para ello'."
+  },
+  {
+    "question": "En caso de que una empresa importadora tenga tributos aduaneros, intereses o sanciones pendientes en 2026, según el Artículo 10, Numeral 3.3 del Decreto 1165 de 2019, ¿cuál es su obligación principal y qué responsabilidad adicional asume si actúa directamente?",
+    "options": [
+      "La DIAN se encarga de la liquidación y cancelación de todos los conceptos.",
+      "Solo debe cancelar los tributos, mientras que los intereses y sanciones son responsabilidad de la agencia de aduanas.",
+      "Debe cancelar los tributos aduaneros, intereses, sanciones y valor del rescate en la forma que determine la DIAN; si actúa directamente, deberá adicionalmente liquidarlos.",
+      "Tiene la opción de negociar el pago de los tributos y sanciones con la DIAN sin una forma preestablecida."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.3 del Decreto 1165 de 2019 establece la obligación de 'Cancelar los tributos aduaneros, intereses, sanciones y valor del rescate, a que hubiere lugar, en la forma que determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN). En los eventos en que actúe directamente deberá, adicionalmente, liquidar los conceptos señalados en el presente numeral'."
+  },
+  {
+    "question": "Un importador que decide actuar directamente en 2026 es requerido por la autoridad aduanera para presentar cierta documentación. Según el Artículo 10, Numeral 3.4 del Decreto 1165 de 2019, ¿cuál es su obligación en este escenario?",
+    "options": [
+      "Puede negarse a entregar la información si considera que no es relevante para la operación.",
+      "Solo debe exhibir la información, pero no entregarla físicamente a la autoridad.",
+      "Proporcionar, exhibir o entregar la información o documentación requerida, dentro del plazo establecido legalmente u otorgado por la autoridad aduanera.",
+      "La obligación recae en su totalidad en la agencia de aduanas, incluso si el importador actúa directamente."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.4 del Decreto 1165 de 2019 indica que 'Cuando actúe directamente, proporcionar, exhibir o entregar la información o documentación requerida, dentro del plazo establecido legalmente u otorgado por la autoridad aduanera'."
+  },
+  {
+    "question": "Una empresa exportadora utiliza los Servicios Informáticos Electrónicos (SIE) de la DIAN para sus trámites en 2026. Según el Artículo 10, Numeral 3.5 del Decreto 1165 de 2019, ¿qué responsabilidad tiene la empresa respecto a la información que ingresa en estos sistemas?",
+    "options": [
+      "La DIAN es responsable de validar la correspondencia de la información, no la empresa.",
+      "La empresa solo necesita asegurarse de que la información sea legible, sin importar la correspondencia.",
+      "Garantizar que la información entregada a través de los Servicios Informáticos Electrónicos corresponda con la contenida en los documentos que la soportan.",
+      "Solo las agencias de aduanas están obligadas a garantizar la veracidad de la información en los SIE."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.5 del Decreto 1165 de 2019 establece la obligación de 'Garantizar que la información entregada a través de los Servicios Informáticos Electrónicos, corresponda con la contenida en los documentos que la soportan'."
+  },
+  {
+    "question": "La autoridad aduanera ordena a un importador poner a disposición cierta mercancía en 2026 para una revisión. Según el Artículo 10, Numeral 3.6 del Decreto 1165 de 2019, ¿cuál es la obligación del importador en esta situación?",
+    "options": [
+      "Puede negarse si la mercancía ya ha sido nacionalizada.",
+      "Debe poner a disposición o entregar a la autoridad aduanera la mercancía que esta ordene.",
+      "Solo está obligado a entregar una muestra de la mercancía, no la totalidad.",
+      "La obligación de disposición recae únicamente en el depósito aduanero donde se encuentra la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.6 del Decreto 1165 de 2019 indica la obligación de 'Poner a disposición o entregar a la autoridad aduanera la mercancía que esta ordene'."
+  },
+  {
+    "question": "Un importador actúa directamente en 2026. Según el Artículo 10, Numeral 3.7 (modificado por el Decreto 360 de 2021) del Decreto 1165 de 2019, ¿durante cuánto tiempo debe conservar los documentos soporte y los recibos oficiales de pago en bancos a disposición de la autoridad aduanera?",
+    "options": [
+      "Dos (2) años a partir de la fecha de presentación y aceptación de la declaración.",
+      "Tres (3) años a partir de la fecha de presentación y aceptación de la declaración.",
+      "Cinco (5) años a partir de la fecha de presentación y aceptación de la declaración.",
+      "Diez (10) años, sin importar la fecha de la declaración."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.7 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021) establece que 'Cuando el importador o exportador actúe directamente, conservar los documentos soporte y los recibos oficiales de pago en bancos, según lo determine la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), por un periodo de cinco (5) años a partir de la fecha de presentación y aceptación de la declaración, a disposición de la autoridad aduanera'."
+  },
+  {
+    "question": "Una empresa importadora que actúa directamente en 2026 planea realizar una inspección previa de sus mercancías. Según el Artículo 10, Numeral 3.8 del Decreto 1165 de 2019, ¿qué acción debe tomar respecto a la autoridad aduanera y su participación en la inspección?",
+    "options": [
+      "Realizar la inspección de manera autónoma, sin necesidad de informar a la autoridad aduanera.",
+      "Informar a la autoridad aduanera sobre la inspección previa de las mercancías que pretenda realizar y asistir a la misma.",
+      "Solicitar permiso a la autoridad aduanera solo si la inspección implica la apertura de los bultos.",
+      "La autoridad aduanera debe realizar la inspección previa, el importador no participa."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.8 del Decreto 1165 de 2019 establece que 'Cuando actúe directamente, informar a la autoridad aduanera sobre la inspección previa de las mercancías que pretenda realizar y asistir a la misma'."
+  },
+  {
+    "question": "Una empresa importadora en 2026 ha obtenido una resolución anticipada de la DIAN. Según el Artículo 10, Numeral 3.9 (modificado por el Decreto 360 de 2021) del Decreto 1165 de 2019, ¿es obligatorio para esta empresa aplicar lo dispuesto en dicha resolución, independientemente de si actúa directamente o a través de una agencia de aduanas?",
+    "options": [
+      "No, solo es obligatorio si la empresa actúa directamente en la operación.",
+      "Sí, debe aplicar lo dispuesto en la resolución anticipada y/o de ajuste de valor permanente, si la hubiere, sin importar cómo actúe.",
+      "No, la aplicación de la resolución es opcional y depende del beneficio que represente.",
+      "Sí, pero solo para resoluciones de ajuste de valor permanente, no para las anticipadas."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.9 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021) establece la obligación de 'Aplicar lo dispuesto en la resolución anticipada y/o de ajuste de valor permanente, si la hubiere', eliminando la condición anterior de 'cuando actúe directamente'."
+  },
+  {
+    "question": "Un exportador que actúa directamente en 2026 debe utilizar los Servicios Informáticos Electrónicos (SIE) de la DIAN. Según el Artículo 10, Numeral 3.10 del Decreto 1165 de 2019, ¿qué aspectos debe respetar al acceder y utilizar estos sistemas?",
+    "options": [
+      "Únicamente el horario de atención al público establecido por la DIAN.",
+      "Solo debe preocuparse por la velocidad de su conexión a internet.",
+      "Acceder y utilizar los Servicios Informáticos Electrónicos respetando los protocolos y procedimientos de seguridad establecidos en este decreto y determinados por la DIAN.",
+      "Puede utilizar cualquier software o hardware de su elección sin restricciones de seguridad."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.10 del Decreto 1165 de 2019 exige que 'Cuando actúe directamente, acceder y utilizar los Servicios Informáticos Electrónicos respetando los protocolos y procedimientos de seguridad establecidos en este decreto y determinados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Durante una contingencia de los Servicios Informáticos Electrónicos de la DIAN en 2026, un importador debe realizar sus trámites. Según el Artículo 10, Numeral 3.11 del Decreto 1165 de 2019, ¿cómo debe cumplir sus obligaciones aduaneras en esta situación?",
+    "options": [
+      "Las obligaciones aduaneras se suspenden hasta que los sistemas sean restablecidos.",
+      "Debe cumplir de forma manual, en las condiciones que establezca la DIAN, cuando haya lugar a ello, o por fallas imprevisibles e irresistibles en los sistemas propios.",
+      "Puede aplazar el cumplimiento hasta que los sistemas informáticos propios estén operativos, sin considerar las condiciones de la DIAN.",
+      "Debe buscar una agencia de aduanas que pueda procesar la información electrónicamente, incluso en contingencia."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.11 del Decreto 1165 de 2019 establece la obligación de 'Cumplir de forma manual, cuando haya lugar a ello, las obligaciones aduaneras en situación de contingencia de los Servicios Informáticos Electrónicos o por fallas imprevisibles e irresistibles en los sistemas propios, en las condiciones que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Luego de una contingencia que obligó a una empresa exportadora a realizar operaciones aduaneras manualmente en 2026, los Servicios Informáticos Electrónicos de la DIAN son restablecidos. Según el Artículo 10, Numeral 3.12 del Decreto 1165 de 2019, ¿cuál es la obligación de la empresa respecto a la información de esas operaciones manuales?",
+    "options": [
+      "No es necesario reportar las operaciones manuales, ya que fueron una excepción.",
+      "Solo debe entregar un resumen estadístico de las operaciones manuales a la DIAN por correo físico.",
+      "Entregar a la DIAN, a través de los Servicios Informáticos Electrónicos, la información relacionada con las operaciones que fueron realizadas manualmente en contingencia o por daños en los sistemas propios, en la forma y condiciones establecidas por la entidad.",
+      "La información de operaciones manuales solo debe ser conservada por la empresa para futuras auditorías."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.12 del Decreto 1165 de 2019 exige 'Entregar a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), a través de los Servicios Informáticos Electrónicos, cuando haya lugar a ello, la información relacionada con las operaciones que fueron realizadas manualmente en situación de contingencia o daños de los sistemas informáticos propios, en la forma y condiciones establecidas por la misma entidad'."
+  },
+  {
+    "question": "Un importador que opera directamente en 2026 recibe una notificación de la administración aduanera para la práctica de una diligencia. Según el Artículo 10, Numeral 3.13 del Decreto 1165 de 2019, ¿cuál es su obligación ante este requerimiento?",
+    "options": [
+      "Puede delegar la asistencia a un empleado sin poder de decisión.",
+      "Debe asistir, facilitar y colaborar con la práctica de las diligencias previamente ordenadas y comunicadas por la administración aduanera.",
+      "Solo está obligado a colaborar si la diligencia se realiza en sus instalaciones y no en una aduana.",
+      "Puede solicitar el aplazamiento indefinido de la diligencia si tiene inconvenientes."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 3.13 del Decreto 1165 de 2019 establece que 'Cuando actúe directamente, asistir, facilitar y colaborar con la práctica de las diligencias previamente ordenadas y comunicadas por la administración aduanera'."
+  },
+  {
+    "question": "Si un exportador actúa directamente en 2026, ¿cuál es su obligación en relación con la presentación y suscripción de las declaraciones aduaneras, según el Artículo 10, Numeral 3.14 del Decreto 1165 de 2019?",
+    "options": [
+      "Puede encargar a cualquier persona la presentación, siempre que cuente con su firma.",
+      "Solo es responsable de la presentación, la suscripción puede ser delegada en un tercero sin requisitos específicos.",
+      "Debe presentar y suscribir las declaraciones aduaneras en la forma, oportunidad y medios señalados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "Las declaraciones aduaneras pueden ser presentadas por medios informales si la DIAN no ha especificado un formato."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 3.14 del Decreto 1165 de 2019 indica que 'Cuando actúe directamente, presentar y suscribir las declaraciones aduaneras en la forma, oportunidad y medios señalados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Una empresa es reconocida como exportador autorizado en 2026. Según el Artículo 10, Numeral 4 (modificado por el Decreto 360 de 2021) del Decreto 1165 de 2019, ¿qué tipo de obligaciones adicionales debe cumplir, además de las generales de un exportador?",
+    "options": [
+      "Solo las obligaciones establecidas para importadores de materias primas para exportación.",
+      "Ninguna obligación adicional, ya que su estatus le confiere exenciones.",
+      "Además de las obligaciones establecidas en el numeral 3 que le correspondan, como exportador, deberá cumplir con las obligaciones específicas de exportador autorizado.",
+      "Únicamente las obligaciones relativas a la logística internacional de sus productos."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 4 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021) establece que 'Además de las obligaciones establecidas en el numeral 3 que le correspondan, como exportador, deberá cumplir con lo siguiente', refiriéndose a las obligaciones específicas del exportador autorizado."
+  },
+  {
+    "question": "Un exportador autorizado en 2026 debe garantizar el origen de sus productos. Según el Artículo 10, Numeral 4.1 (modificado por el Decreto 360 de 2021) del Decreto 1165 de 2019, ¿qué documento debe tener vigente para cada producto contenido en sus declaraciones de origen o declaraciones en factura?",
+    "options": [
+      "Un certificado de calidad emitido por una entidad internacional.",
+      "La declaración juramentada de origen.",
+      "Una factura proforma de cada exportación realizada.",
+      "Un informe de trazabilidad de toda la cadena de suministro del producto."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 4.1 del Decreto 1165 de 2019 (modificado por el Decreto 360 de 2021) establece la obligación de 'Tener vigente la declaración juramentada de origen para cada uno de los productos contenidos en las declaraciones de origen o declaraciones en factura que expida'."
+  },
+  {
+    "question": "Para un exportador autorizado en 2026, la procedencia de sus mercancías es crucial. Según el Artículo 10, Numeral 4.2 del Decreto 1165 de 2019, ¿qué obligación tiene respecto a las normas de origen?",
+    "options": [
+      "Cumplir con las normas de origen establecidas en el respectivo acuerdo comercial.",
+      "Solo informar a la DIAN si sus productos cumplen o no con las normas de origen.",
+      "Dejar la determinación del origen a la autoridad aduanera del país de destino.",
+      "Asegurarse de que al menos el 20% del valor del producto sea de origen nacional."
+    ],
+    "correct": 0,
+    "explanation": "El Artículo 10, Numeral 4.2 del Decreto 1165 de 2019 establece la obligación de 'Cumplir con las normas de origen establecidas en el respectivo acuerdo comercial'."
+  },
+  {
+    "question": "Una empresa exportadora autorizada en 2026 va a emitir declaraciones de origen. Según el Artículo 10, Numeral 4.3 del Decreto 1165 de 2019, ¿para qué tipo de mercancías puede expedir estas declaraciones y qué debe indicar en ellas?",
+    "options": [
+      "Para cualquier mercancía exportada, siempre que el exportador autorizado sea el productor.",
+      "Solo para aquellas mercancías para las cuales haya obtenido autorización y que cumplan con el capítulo de origen del acuerdo comercial, indicando ser un exportador autorizado con el sistema de identificación establecido por la DIAN.",
+      "Para mercancías que solo cumplan parcialmente con las normas de origen, bajo la promesa de cumplimiento futuro.",
+      "Las declaraciones de origen son opcionales y solo se expiden si el importador lo solicita expresamente."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 10, Numeral 4.3 del Decreto 1165 de 2019 indica que debe 'Expedir declaraciones de origen o declaraciones en facturas, solo para aquellas mercancías para las cuales haya obtenido autorización y que cumplan con lo establecido en el capítulo de origen del respectivo acuerdo comercial. Para tal efecto, en la declaración de origen o declaración en factura deberá indicar que se trata de un exportador autorizado con el sistema de identificación que establezca la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN)'."
+  },
+  {
+    "question": "Un exportador autorizado en 2026 debe mantener la documentación de respaldo de sus exportaciones. Según el Artículo 10, Numeral 4.4 del Decreto 1165 de 2019, ¿por cuánto tiempo debe conservar los registros, documentos y pruebas que demuestren el cumplimiento de las normas de origen, contados a partir de la fecha de emisión de la prueba de origen?",
+    "options": [
+      "Por un término de dos (2) años.",
+      "Por un término de tres (3) años.",
+      "Por un término de cinco (5) años o lo establecido en el respectivo acuerdo comercial.",
+      "Por un término indefinido hasta que la mercancía sea destruida."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 10, Numeral 4.4 del Decreto 1165 de 2019 establece que debe 'Conservar los registros, documentos y pruebas que demuestren el cumplimiento de las normas de origen del acuerdo correspondiente, de cada uno de los productos exportados para los cuales emita una declaración de origen o declaración en factura, por un término de cinco (5) años o lo establecido en el respectivo acuerdo comercial, contados a partir de la fecha de emisión de la prueba de origen, y ponerlo a disposición de las autoridades competentes cuando estas lo requieran'."
   }
 ]
