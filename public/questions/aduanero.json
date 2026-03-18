@@ -1274,5 +1274,60 @@
     ],
     "correct": 1,
     "explanation": "El último inciso del ARTÍCULO 8 del presente decreto establece que 'Las obligaciones derivadas de la autorización como operador económico autorizado son las previstas en el Decreto 3568 de 2011 o el que lo sustituya o modifique, además de las establecidas en este decreto para los usuarios aduaneros, según corresponda'."
+  },
+  {
+    "question": "Un consorcio colombiano, 'Construcciones Andinas C.T.', está preparando los documentos para la importación de maquinaria pesada. Los documentos de transporte y soporte de la operación están listos. Según el ARTÍCULO 9o. de la normativa sobre Consorcios y Uniones Temporales, ¿a nombre de quién deben consignarse o expedirse estos documentos y qué número de identificación tributaria debe utilizarse para los trámites de importación?",
+    "options": [
+      "A. A nombre del representante legal de una de las empresas del consorcio, usando el NIT de esa empresa.",
+      "B. A nombre del consorcio 'Construcciones Andinas C.T.', utilizando el NIT asignado al consorcio.",
+      "C. A nombre del administrador designado por el consorcio, pero usando el NIT de la DIAN.",
+      "D. A nombre de cada empresa miembro del consorcio, usando sus respectivos NIT."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 9o. establece claramente que 'Cuando los documentos de transporte y demás documentos soporte de la operación de comercio exterior se consignen, endosen o expidan, según corresponda, a nombre de un consorcio o unión temporal, los trámites de importación, exportación, tránsito aduanero, deberán adelantarse utilizando el Número de Identificación Tributaria (NIT), asignado al mismo.'"
+  },
+  {
+    "question": "La Unión Temporal 'Logística Fronteriza' debe presentar una actuación formal ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) relacionada con un trámite aduanero. De acuerdo con el ARTÍCULO 9o. de la normativa sobre Consorcios y Uniones Temporales, ¿quién es la persona autorizada para suscribir estas actuaciones ante la DIAN?",
+    "options": [
+      "A. Cualquier miembro de la junta directiva de una de las empresas que conforman la unión temporal.",
+      "B. El gerente general de la empresa líder de la unión temporal.",
+      "C. El administrador designado por la unión temporal para representarla ante la entidad contratante.",
+      "D. Un apoderado especial contratado para cada actuación específica."
+    ],
+    "correct": 2,
+    "explanation": "El ARTÍCULO 9o. indica que 'Las actuaciones que se surtan ante la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN), deberán ser suscritas por el administrador designado por el consorcio o unión temporal para representarlo ante la entidad contratante.'"
+  },
+  {
+    "question": "Un consorcio llamado 'Exportadores Unidos' ha ganado un contrato para exportar productos agrícolas y se prepara para presentar sus primeras declaraciones aduaneras de exportación. Conforme al ARTÍCULO 9o. de la normativa sobre Consorcios y Uniones Temporales, ¿qué tipo de amparo deben tener las actuaciones de 'Exportadores Unidos' y en qué momento debe estar constituido?",
+    "options": [
+      "A. Una garantía individual por cada exportación, constituida después de la presentación de la declaración.",
+      "B. Una garantía global, constituida antes de la presentación de las declaraciones aduaneras de exportación.",
+      "C. Un seguro de cumplimiento, constituido al finalizar el contrato.",
+      "D. Un depósito en efectivo, constituido en cualquier momento antes de la salida de la mercancía."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 9o. establece que 'Las actuaciones realizadas por un consorcio o unión temporal en desarrollo de lo previsto en el presente decreto deberán ampararse con una garantía global, constituida antes de la presentación de las declaraciones aduaneras de importación, exportación o tránsito aduanero.'"
+  },
+  {
+    "question": "Una unión temporal proyecta operaciones de comercio exterior por un valor FOB de USD 20,000,000 para el primer año de ejecución de su contrato. La Unidad de Valor Tributario (UVT) vigente es de $42.412 COP (valor de ejemplo). Según el ARTÍCULO 9o. de la normativa sobre Consorcios y Uniones Temporales, ¿cuál sería el monto inicial a considerar para la garantía global y qué límite máximo aplicaría si el 1% de USD 20,000,000 (equivalente a $848,240,000 COP) es inferior a 100.000 UVT (equivalente a $4,241,200,000 COP en el ejemplo)?",
+    "options": [
+      "A. El 1% del valor FOB ($848,240,000 COP), sin ningún límite.",
+      "B. El 1% del valor FOB, pero sin superar las cien mil (100.000) Unidades de Valor Tributario (UVT).",
+      "C. El 10% del valor FOB, con un límite de 50.000 UVT.",
+      "D. Un valor fijo establecido por la DIAN, independientemente del valor FOB o las UVT."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 9o. indica que 'El monto será equivalente al uno por ciento (1%) del valor FOB de la mercancía que se pretenda someter a las operaciones de comercio exterior durante el primer año de ejecución de las operaciones de comercio exterior dentro del contrato a desarrollar, sin que en ningún caso el valor a asegurar sea superior a cien mil (100.000) Unidades de Valor Tributario (UVT)'. En este caso, el 1% del FOB está por debajo del límite de 100.000 UVT, por lo que se aplicaría el 1% del valor FOB, manteniendo la condición de no superar el límite máximo si se diera el caso."
+  },
+  {
+    "question": "Un consorcio de ingeniería está gestionando la importación temporal de equipos especializados para un gran proyecto de infraestructura. Han constituido la garantía global requerida. De acuerdo con el ARTÍCULO 9o. de la normativa sobre Consorcios y Uniones Temporales, ¿cuál es la finalidad principal de la garantía global exigida a este consorcio?",
+    "options": [
+      "A. Acreditar la solvencia económica del consorcio ante la entidad contratante.",
+      "B. Respaldar el cumplimiento de sus obligaciones aduaneras.",
+      "C. Garantizar el pago de salarios a los empleados del consorcio.",
+      "D. Cubrir posibles daños ambientales causados por las operaciones."
+    ],
+    "correct": 1,
+    "explanation": "El ARTÍCULO 9o. establece que la garantía global se exige 'para respaldar el cumplimiento de sus obligaciones aduaneras.'"
   }
 ]
