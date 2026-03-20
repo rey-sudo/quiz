@@ -1615,5 +1615,60 @@
     ],
     "correct": 2,
     "explanation": "El Artículo 10, Numeral 4.4 del Decreto 1165 de 2019 establece que debe 'Conservar los registros, documentos y pruebas que demuestren el cumplimiento de las normas de origen del acuerdo correspondiente, de cada uno de los productos exportados para los cuales emita una declaración de origen o declaración en factura, por un término de cinco (5) años o lo establecido en el respectivo acuerdo comercial, contados a partir de la fecha de emisión de la prueba de origen, y ponerlo a disposición de las autoridades competentes cuando estas lo requieran'."
+  },
+  {
+    "question": "Una empresa colombiana, 'Global Trade S.A.', planea importar un cargamento de maquinaria desde Alemania. Han iniciado los trámites para la pre-inspección de la mercancía y la preparación de la documentación necesaria en origen, antes de que el buque zarpe hacia Colombia. Según el Artículo 11 del Decreto 1165 de 2019 y sus modificaciones, ¿en qué momento nace la obligación aduanera para Global Trade S.A.?",
+    "options": [
+      "Cuando la mercancía arriba físicamente al Territorio Aduanero Nacional.",
+      "Cuando la mercancía es despachada desde el puerto de origen en Alemania.",
+      "Con los trámites aduaneros que deben cumplirse de manera previa a la llegada de la mercancía al Territorio Aduanero Nacional.",
+      "Al momento de la presentación de la declaración aduanera de importación."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11 establece que 'La obligación aduanera nace con los trámites aduaneros que deben cumplirse de manera previa a la llegada de la mercancía al Territorio Aduanero Nacional'. Esto indica que la obligación surge incluso antes del arribo físico de la mercancía."
+  },
+  {
+    "question": "La empresa 'Importaciones Rápidas S.A.' está realizando una importación de tecnología. Han presentado la mercancía a la autoridad aduanera al arribo, pero olvidaron suministrar cierta información y documentación anticipada que era obligatoria. Además, no se han cumplido con todos los requisitos exigidos para el arribo de la mercancía. Según el Artículo 11 del Decreto 1165 de 2019 y sus modificaciones, ¿qué aspecto del alcance de la obligación aduanera ha incumplido 'Importaciones Rápidas S.A.'?",
+    "options": [
+      "Únicamente la presentación de la declaración aduanera.",
+      "Solamente el pago de los tributos aduaneros y sanciones.",
+      "El suministro de información y/o documentación anticipada, y los trámites y requisitos al arribo de las mercancías.",
+      "Exclusivamente la obligación de conservar los documentos que soportan la operación."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11 especifica que la obligación aduanera 'comprende el suministro de información y/o documentación anticipada, los trámites aduaneros y requisitos que deben cumplirse al arribo de las mercancías'. El caso describe un incumplimiento de ambos aspectos."
+  },
+  {
+    "question": "Un importador individual ha ingresado mercancías al Territorio Aduanero Nacional. Tras una revisión, la autoridad aduanera determina que existen tributos aduaneros pendientes, intereses por mora en el pago y una sanción por una infracción detectada. El importador argumenta que solo el pago de los tributos hace parte de la obligación aduanera. De acuerdo con el Artículo 11 del Decreto 1165 de 2019 y sus modificaciones, ¿qué elementos del pago están comprendidos dentro de la obligación aduanera?",
+    "options": [
+      "Solo el pago de los tributos aduaneros causados por la importación.",
+      "El pago de los tributos aduaneros causados por la importación y las multas, pero no los intereses.",
+      "El pago de los tributos aduaneros causados por la importación, los intereses, el valor de rescate y las sanciones a que haya lugar.",
+      "Únicamente el valor de rescate si la mercancía es abandonada."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11 establece que la obligación aduanera 'comprende [...] el pago de los tributos aduaneros causados por la importación y de los intereses, el valor de rescate y las sanciones a que haya lugar'."
+  },
+  {
+    "question": "La empresa 'Distribuciones Internacionales S.A.' ha completado la importación de un gran lote de productos. Un mes después del levante, la Dirección de Impuestos y Aduanas Nacionales (DIAN) le solicita formalmente la presentación de ciertos documentos que soporten la operación de importación para un proceso de verificación posterior. La empresa se niega argumentando que ya finalizó la importación. Con base en el Artículo 11 del Decreto 1165 de 2019 y sus modificaciones, ¿cuál es la obligación de 'Distribuciones Internacionales S.A.' frente a esta solicitud?",
+    "options": [
+      "No tiene ninguna obligación, ya que la importación fue finalizada.",
+      "Solo debe conservar los documentos, pero no está obligada a presentarlos.",
+      "Debe presentar los documentos requeridos, obtenerlos y conservarlos, así como atender solicitudes de información y pruebas.",
+      "Debe cumplir solo si la solicitud se hace en el momento de la llegada de la mercancía."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11 indica claramente que la obligación aduanera comprende 'la obligación de obtener y conservar los documentos que soportan la operación, presentarlos cuando los requiera la autoridad aduanera, atender las solicitudes de información y pruebas, y en general, cumplir con las exigencias, requisitos y condiciones establecidos en las normas correspondientes'."
+  },
+  {
+    "question": "En una operación de importación de repuestos para vehículos, 'Automotores del Sur Ltda.' es el importador de las mercancías. Para gestionar los trámites aduaneros, contrata los servicios de 'Agencia Aduanera Global S.A.'. Durante el proceso, surge una irregularidad en la presentación de la declaración aduanera por parte de la agencia. Según el Artículo 11 del Decreto 1165 de 2019 y sus modificaciones, ¿quiénes son responsables de la obligación aduanera en este escenario?",
+    "options": [
+      "Únicamente 'Automotores del Sur Ltda.', por ser el importador.",
+      "Solamente 'Agencia Aduanera Global S.A.', por ser la que realizó el trámite.",
+      "El importador de las mercancías ('Automotores del Sur Ltda.') y 'Agencia Aduanera Global S.A.' como usuario aduanero por las actuaciones derivadas de su intervención.",
+      "Solo la autoridad aduanera tiene la responsabilidad de controlar y asegurar el cumplimiento."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 11 establece: 'Son responsables de la obligación aduanera en la importación: el importador de las mercancías y los demás usuarios aduaneros respecto de las actuaciones derivadas de su intervención'. En este caso, 'Automotores del Sur Ltda.' es el importador y 'Agencia Aduanera Global S.A.' es un usuario aduanero interviniente."
   }
 ]
