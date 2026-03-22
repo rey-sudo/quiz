@@ -1,0 +1,222 @@
+[
+  {
+    "question": "El artículo 1.1.1 del Acuerdo No. 001 de 2024 establece el objeto del mismo. ¿Cuál es el objeto principal de este acuerdo expedido por el Consejo Directivo del Archivo General de la Nación en cumplimiento de la Ley 594 de 2000?",
+    "options": [
+      "Crear el Archivo General de la Nación Jorge Palacios Preciado y regular su estructura interna",
+      "Establecer los criterios técnicos y jurídicos para implementar la función archivística en el Estado colombiano",
+      "Reglamentar el uso de documentos electrónicos exclusivamente en entidades privadas que cumplen funciones públicas",
+      "Definir los salarios y perfiles del personal archivístico de las entidades del Estado"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1.1.1 del Acuerdo 001 de 2024 dispone que su objeto es establecer los criterios técnicos y jurídicos para implementar la función archivística en el Estado Colombiano y fijar otras disposiciones, en cumplimiento de la Ley 594 de 2000 y el Decreto 1080 de 2015."
+  },
+  {
+    "question": "Conforme al artículo 1.1.2 del Acuerdo No. 001 de 2024, una empresa de servicios públicos domiciliarios presta una función pública por mandato legal. ¿Está obligada a cumplir este Acuerdo?",
+    "options": [
+      "No, porque es una empresa privada y el Acuerdo solo aplica a entidades del orden nacional",
+      "Solo si tiene más de 200 empleados y maneja archivos físicos en sus instalaciones",
+      "Sí, porque el ámbito de aplicación comprende a la administración pública y a las entidades privadas que cumplen funciones públicas",
+      "Solo parcialmente, en lo referente a los títulos sobre conservación y patrimonio documental"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 1.1.2 establece que el Acuerdo comprende a la administración pública en sus niveles nacional, departamental, distrital y municipal, así como a las entidades privadas que cumplen funciones públicas reguladas por la Ley 594 de 2000, lo que incluye a los prestadores de servicios públicos por mandato legal."
+  },
+  {
+    "question": "El artículo 1.2.4 del Acuerdo 001 de 2024 exige a los sujetos obligados formular instrumentos archivísticos para la planeación. Una entidad departamental requiere armonizar su planeación archivística con su plan estratégico institucional. ¿Qué instrumentos debe formular obligatoriamente?",
+    "options": [
+      "El Manual de Calidad Archivística y el Plan de Mejoramiento Continuo",
+      "El Plan Institucional de Archivos – PINAR, el Programa de Gestión Documental – PGD y los planes del Sistema Integrado de Conservación",
+      "El Registro Único de Series Documentales – RUSD y el Cuadro de Clasificación Documental – CCD",
+      "El Plan de Desarrollo Territorial y el Formato Único de Inventario Documental – FUID"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1.2.4 del Acuerdo 001 de 2024 establece que para armonizar la planeación archivística con la planeación estratégica institucional, los sujetos obligados deben formular, actualizar e implementar el PINAR, el PGD con sus programas específicos y los planes del Sistema Integrado de Conservación."
+  },
+  {
+    "question": "Según el artículo 1.2.2 del Acuerdo No. 001 de 2024, una entidad pública inicia la elaboración de sus instrumentos archivísticos. ¿Qué documento debe elaborar como resultado de la investigación sobre el origen, desarrollo y transformación de la entidad?",
+    "options": [
+      "El Cuadro de Clasificación Documental – CCD con el análisis funcional de las dependencias",
+      "La Tabla de Retención Documental – TRD con las series y subseries identificadas",
+      "La Historia Institucional, que sirve de soporte para elaborar y actualizar los instrumentos archivísticos",
+      "El Programa de Gestión Documental – PGD con el diagnóstico integral de la entidad"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 1.2.2 del Acuerdo 001 de 2024 dispone que como resultado de la investigación sobre procedencia, contexto y valores testimoniales de los documentos, se debe elaborar un documento denominado Historia Institucional, el cual sirve de soporte para abordar la elaboración y actualización de los instrumentos archivísticos."
+  },
+  {
+    "question": "De acuerdo con el artículo 1.2.5 del Acuerdo No. 001 de 2024, una entidad formula su Política Institucional de Gestión Documental. ¿Qué instancia debe aprobarla y dónde debe publicarse?",
+    "options": [
+      "Debe ser aprobada por el representante legal mediante resolución y publicada en el Diario Oficial",
+      "Debe ser aprobada por el Comité de Archivo o el Comité Institucional de Gestión y Desempeño, y publicada en la página web de la entidad",
+      "Debe ser aprobada por el Archivo General de la Nación y publicada en el RUSD",
+      "Debe ser aprobada por la Contraloría General y publicada en el Sistema de Información de Gestión del Estado"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1.2.5, parágrafo 2 del Acuerdo 001 de 2024 establece que la Política Institucional de Gestión Documental debe ser aprobada por el Comité de Archivo o el Comité Institucional de Gestión y Desempeño, o quien haga sus veces, y publicada en la página web de la respectiva entidad."
+  },
+  {
+    "question": "El artículo 1.3.3 del Acuerdo No. 001 de 2024 regula la responsabilidad en la entrega de documentos. Un servidor público es trasladado a otra entidad y se retira sin entregar los documentos a su cargo. ¿Qué consecuencias jurídicas le aplican según esta norma?",
+    "options": [
+      "Únicamente una sanción disciplinaria de suspensión por treinta días hábiles",
+      "La pérdida del cargo sin responsabilidad adicional de tipo penal o fiscal",
+      "Responderá ante las autoridades disciplinarias, penales, fiscales o administrativas por las consecuencias de esa omisión",
+      "Deberá pagar una multa económica equivalente a un salario mensual y reponer los documentos"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 1.3.3 del Acuerdo 001 de 2024 dispone que los servidores públicos que se trasladen, retiren o posesionen omitiendo la entrega, la debida gestión y el recibo de los documentos responderán ante las autoridades disciplinarias, penales, fiscales o administrativas por las consecuencias de esta omisión."
+  },
+  {
+    "question": "Conforme al artículo 2.1.2 del Acuerdo No. 001 de 2024, ¿quién preside el Comité Evaluador de Documentos del Archivo General de la Nación Jorge Palacios Preciado?",
+    "options": [
+      "El Subdirector(a) de Política y Normativa Archivística, quien además actúa como secretario(a) técnico(a)",
+      "El Director(a) General del Archivo General de la Nación Jorge Palacios Preciado",
+      "El Presidente(a) de la Academia Colombiana de Historia o su delegado",
+      "El Director(a) de Patrimonio del sector Cultura o en su ausencia un delegado"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.1.2 del Acuerdo 001 de 2024 establece que el Comité Evaluador de Documentos es presidido por el Director(a) General del Archivo General de la Nación Jorge Palacios Preciado. La secretaría técnica recae en el Subdirector(a) de Política y Normativa Archivística."
+  },
+  {
+    "question": "Según el artículo 2.1.4 del Acuerdo No. 001 de 2024, el Comité Evaluador de Documentos requiere sesionar para tomar decisiones. ¿Cuál es el quórum deliberatorio y decisorio exigido?",
+    "options": [
+      "La totalidad de los miembros y las decisiones se adoptan por unanimidad",
+      "Dos tercios de los miembros y las decisiones por mayoría calificada",
+      "La mitad más uno de los miembros y las decisiones por mayoría simple de los asistentes",
+      "Tres miembros permanentes y las decisiones por voto del presidente con doble facultad"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 2.1.4 del Acuerdo 001 de 2024 dispone que el Comité podrá sesionar y decidir con la presencia de la mitad más uno de los miembros que lo conforman, y las decisiones se adoptarán con el voto favorable de la mayoría simple de los asistentes."
+  },
+  {
+    "question": "El artículo 2.2.2 del Acuerdo No. 001 de 2024 regula las transferencias secundarias. Un Archivo General Territorial recibe una transferencia secundaria sin los instrumentos de descripción correspondientes. ¿Qué obligación le impone el Acuerdo?",
+    "options": [
+      "Devolver la transferencia a la entidad remitente hasta que corrija los instrumentos faltantes",
+      "Elaborar los instrumentos de descripción conforme a las normas técnicas para garantizar la consulta y acceso",
+      "Reportar el incumplimiento al Archivo General de la Nación para que imponga una sanción a la entidad",
+      "Almacenar los documentos sin instrumentos de descripción hasta que la entidad los remita voluntariamente"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.2, parágrafo 2 del Acuerdo 001 de 2024 establece que los Archivos Generales Territoriales que a la entrada en vigencia del Acuerdo hayan recibido transferencias secundarias sin los respectivos instrumentos de descripción, deben elaborarlos conforme a las normas técnicas para garantizar la consulta y el acceso."
+  },
+  {
+    "question": "El artículo 3.1.3 del Acuerdo No. 001 de 2024 regula los perfiles del personal archivístico. Una entidad contrata a una persona para ejecutar procesos de conservación-restauración de documentos declarados BIC-CDA. ¿Qué formación debe acreditar obligatoriamente esa persona?",
+    "options": [
+      "Técnico o tecnólogo en gestión documental con experiencia certificada de tres años en archivos públicos",
+      "Especialización en gestión pública con énfasis en patrimonio cultural colombiano",
+      "Título universitario en Conservación y Restauración de Bienes Muebles o formación especializada en instituciones nacionales o extranjeras debidamente acreditadas",
+      "Cualquier título universitario en ciencias sociales con curso complementario en archivística"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 3.1.3, numeral 2 del Acuerdo 001 de 2024 exige que para los procesos técnicos de conservación-restauración se cuente con personal que acredite título universitario en Conservación y Restauración de Bienes Muebles o formación especializada en esta área en instituciones nacionales o extranjeras debidamente acreditadas."
+  },
+  {
+    "question": "Conforme al artículo 3.1.4 del Acuerdo No. 001 de 2024, una entidad pública contrata a un tercero para almacenar en la nube sus expedientes electrónicos de archivo. ¿En cabeza de quién permanece la responsabilidad frente a la preservación de esos documentos?",
+    "options": [
+      "En cabeza del proveedor del servicio de almacenamiento en la nube, dado el contrato suscrito",
+      "En cabeza del Archivo General de la Nación como ente rector de la política archivística",
+      "En cabeza del sujeto obligado (la entidad pública), quien debe garantizar autenticidad, integridad, fiabilidad, disponibilidad y acceso",
+      "En cabeza del Ministerio de las Tecnologías de la Información y Comunicaciones por la naturaleza digital de los documentos"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 3.1.4, parágrafo 3 del Acuerdo 001 de 2024 establece que aunque se contrate el almacenamiento con terceros, la responsabilidad frente a la preservación permanece en cabeza del sujeto obligado, quien debe adoptar medidas para garantizar la autenticidad, integridad, fiabilidad, disponibilidad y el acceso a los documentos electrónicos."
+  },
+  {
+    "question": "Según el artículo 3.1.6 del Acuerdo No. 001 de 2024, ¿con qué tipo de entidad SÍ pueden los sujetos obligados contratar la administración de archivos históricos?",
+    "options": [
+      "Con cualquier empresa privada que cuente con infraestructura de almacenamiento certificada por Icontec",
+      "Con instituciones de reconocida solvencia académica e idoneidad, siempre que cuenten con personal certificado en las actividades a desarrollar",
+      "Con firmas privadas que tengan más de diez años de experiencia en custodia de documentos físicos",
+      "Con cualquier contratista que ofrezca las mejores condiciones económicas en el proceso de selección"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 3.1.6 del Acuerdo 001 de 2024 dispone que solo se podrá contratar la administración de archivos históricos con instituciones de reconocida solvencia académica e idoneidad, y que para dicha administración se debe contar con personal que certifique idoneidad en las actividades a desarrollar."
+  },
+  {
+    "question": "El Título 5 del Acuerdo No. 001 de 2024 regula la valoración documental. Una entidad municipal necesita determinar qué documentos conserva, transfiere o elimina. ¿Cuál es el instrumento archivístico que le permite tomar esta decisión de forma reglada?",
+    "options": [
+      "El Formato Único de Inventario Documental – FUID que registra el recibo y entrega de documentos",
+      "El Plan Institucional de Archivos – PINAR que define las metas de la gestión documental",
+      "La Tabla de Retención Documental – TRD que relaciona las series documentales con sus valores y tiempos de retención en cada fase de archivo",
+      "El Cuadro de Clasificación Documental – CCD que organiza la estructura de las series de la entidad"
+    ],
+    "correct": 2,
+    "explanation": "La Tabla de Retención Documental – TRD, regulada en el Título 5 del Acuerdo 001 de 2024, es el instrumento que relaciona las series y subseries documentales con sus valores primarios y secundarios, y con el tiempo de retención en cada fase del ciclo vital, permitiendo decidir sobre conservación, transferencia o eliminación de documentos."
+  },
+  {
+    "question": "De acuerdo con el artículo 1.4.3 del Acuerdo No. 001 de 2024, ¿qué obligación tiene el jefe de Control Interno respecto a la verificación del cumplimiento de este Acuerdo?",
+    "options": [
+      "Realizar visitas de inspección sorpresiva a los archivos de la entidad cada seis meses sin notificación previa",
+      "Incorporar en su plan anual de auditorías las acciones para verificar el cumplimiento del Acuerdo en desarrollo del Programa de Gestión Documental",
+      "Elaborar un informe trimestral sobre el estado de los archivos y remitirlo directamente al Archivo General de la Nación",
+      "Certificar anualmente ante la Contraloría que la entidad cumple con la normatividad archivística vigente"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1.4.3 del Acuerdo 001 de 2024 establece que los jefes de Control Interno, en cumplimiento del artículo 2.8.2.5.11 del Decreto 1080 de 2015, deben incorporar en su plan anual de auditorías las acciones para verificar el cumplimiento del Acuerdo en desarrollo del Programa de Gestión Documental."
+  },
+  {
+    "question": "Conforme al artículo 3.2.2 del Acuerdo No. 001 de 2024, una empresa privada contratada para prestar servicios archivísticos en una entidad pública intenta impedir la entrada de funcionarios del AGN que realizan una visita de inspección. ¿Es procedente ese impedimento?",
+    "options": [
+      "Sí, porque el contratista privado tiene autonomía y la inspección requiere autorización previa de la entidad contratante",
+      "Sí, solo si la visita no fue notificada con al menos cinco días de antelación según el debido proceso",
+      "No, porque la inspección del AGN no requiere autorización previa de la entidad pública contratante y el contratista no puede impedirla",
+      "No, pero el AGN debe obtener orden judicial previa para ingresar a instalaciones de un privado"
+    ],
+    "correct": 2,
+    "explanation": "El artículo 3.2.2 del Acuerdo 001 de 2024 establece que la persona natural o jurídica contratada para prestar servicios archivísticos no podrá impedir el acceso de los funcionarios del AGN para llevar a cabo visitas de inspección y vigilancia, las cuales no requieren autorización previa de la entidad pública contratante."
+  },
+  {
+    "question": "El Título 8 del Acuerdo No. 001 de 2024 regula el patrimonio documental. Una colección de documentos coloniales de una entidad territorial es postulada para protección especial. ¿Qué figura jurídica contempla el Acuerdo para otorgarle esa protección?",
+    "options": [
+      "La inscripción en el Registro Nacional de Archivos Históricos Colombianos – RENAHC como patrimonio de interés público",
+      "La Declaratoria de Bienes de Interés Cultural de Carácter Documental Archivístico – BIC-CDA",
+      "La categoría de Documento Reservado de Acceso Restringido conforme al artículo 19 de la Ley 1712 de 2014",
+      "La transferencia obligatoria al Archivo General de la Nación para custodia definitiva"
+    ],
+    "correct": 1,
+    "explanation": "El Título 8, Capítulo 2 del Acuerdo 001 de 2024 regula la Declaratoria de Bienes de Interés Cultural de Carácter Documental Archivístico – BIC-CDA, figura jurídica mediante la cual el Estado otorga protección especial a documentos o colecciones documentales con valor patrimonial para la memoria histórica nacional."
+  },
+  {
+    "question": "Según el Título 9, Capítulo 1 del Acuerdo No. 001 de 2024, ¿qué tratamiento especial se debe dar a los documentos relacionados con graves y manifiestas violaciones a los Derechos Humanos ocurridas con ocasión del conflicto armado interno?",
+    "options": [
+      "Deben destruirse una vez culminen los procesos judiciales para proteger la intimidad de las víctimas",
+      "Deben transferirse al Ministerio de Defensa para su custodia definitiva y clasificación reservada",
+      "Tienen criterios especiales de identificación y valoración que garantizan su conservación como parte de la memoria histórica del conflicto",
+      "Solo pueden ser consultados por organismos internacionales de derechos humanos previa autorización del AGN"
+    ],
+    "correct": 2,
+    "explanation": "El Título 9, Capítulo 1 del Acuerdo 001 de 2024 establece criterios especiales para la identificación y valoración de documentos referidos a graves y manifiestas violaciones a los Derechos Humanos e infracciones al Derecho Internacional Humanitario ocurridas con ocasión del conflicto armado interno, garantizando su conservación como memoria histórica."
+  },
+  {
+    "question": "Conforme al artículo 2.2.4 del Acuerdo No. 001 de 2024, ¿con qué periodicidad deben los Consejos Territoriales de Archivo elaborar y publicar informes de sus actividades, y a quién deben remitirlos?",
+    "options": [
+      "Anualmente, al Ministerio de Cultura y a la Contraloría General de la República",
+      "Semestralmente, a la Subdirección del Sistema Nacional de Archivos del AGN, a más tardar la segunda semana de enero y la última semana de julio de cada año",
+      "Trimestralmente, a la Gobernación o Alcaldía que preside el Consejo y al AGN en línea",
+      "Bimestralmente, al Archivo General Territorial de la respectiva jurisdicción"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 2.2.4 del Acuerdo 001 de 2024 establece que los Consejos Territoriales de Archivo deben elaborar y publicar un informe semestral de sus actividades, remitirlo a la Subdirección del Sistema Nacional de Archivos del AGN a más tardar la segunda semana de enero y la última semana de julio de cada año."
+  },
+  {
+    "question": "El artículo 1.3.4 del Acuerdo No. 001 de 2024 regula la responsabilidad en la conformación y acceso a archivos electrónicos. ¿Qué sistema deben implementar los sujetos obligados para la gestión de expedientes electrónicos conforme al ciclo vital de los documentos?",
+    "options": [
+      "El Sistema de Información Geográfica – SIG para el control territorial de los archivos digitales",
+      "El Sistema de Gestión de Documentos Electrónicos de Archivo – SGDEA, conforme al CCD y las TRD",
+      "El Sistema Único de Información de Trámites – SUIT para la trazabilidad de los documentos en línea",
+      "El Sistema de Información de Gestión del Empleo Público – SIGEP para el control de historias laborales"
+    ],
+    "correct": 1,
+    "explanation": "El artículo 1.3.4 del Acuerdo 001 de 2024 establece que los sujetos obligados deben garantizar la implementación del Sistema de Gestión de Documentos Electrónicos de Archivo – SGDEA para la conformación y gestión de los expedientes electrónicos, atendiendo el ciclo vital de los documentos y de conformidad con los Cuadros de Clasificación Documental y Tablas de Retención Documental."
+  },
+  {
+    "question": "Según el Título 4, Capítulo 5 del Acuerdo No. 001 de 2024, ¿en qué consiste la disposición final de los documentos y cuál es su fundamento técnico?",
+    "options": [
+      "Es la digitalización masiva de todos los documentos físicos, cuyo fundamento es el Plan de Preservación Digital a Largo Plazo",
+      "Es el traslado de los documentos al archivo central, cuyo fundamento es el Cuadro de Clasificación Documental",
+      "Es la selección de documentos con miras a la conservación permanente, reproducción o eliminación, con fundamento en la valoración documental establecida en las TRD o TVD",
+      "Es la restricción de acceso a documentos reservados, cuyo fundamento es la Ley 1712 de 2014 sobre transparencia y acceso a la información"
+    ],
+    "correct": 2,
+    "explanation": "El Título 4, Capítulo 5 del Acuerdo 001 de 2024 regula la disposición final de los documentos, que consiste en la selección de documentos para determinar su conservación permanente, reproducción o eliminación, con base en la valoración documental contenida en las Tablas de Retención Documental o Tablas de Valoración Documental."
+  }
+]
