@@ -21,6 +21,63 @@
     "correct": 2,
     "explanation": "El artículo 1.1.2 establece que el Acuerdo comprende a la administración pública en sus niveles nacional, departamental, distrital y municipal, así como a las entidades privadas que cumplen funciones públicas reguladas por la Ley 594 de 2000, lo que incluye a los prestadores de servicios públicos por mandato legal."
   },
+
+  {
+    "question": "La Secretaría General de una entidad pública está diseñando su plan estratégico. Según el Artículo 1.2.1 del Acuerdo 001 de 2024, ¿cómo deben integrarse las estrategias de gestión documental y administración de archivos en este proceso?",
+    "options": [
+      "Como un proceso independiente que no requiere alineación con el Plan Sectorial.",
+      "Como estrategias dirigidas a la planeación y control de recursos físicos, técnicos y humanos en concordancia con el Plan Nacional de Desarrollo y el Plan Estratégico Institucional.",
+      "Únicamente como un anexo técnico que se elabora después de aprobar el presupuesto anual.",
+      "Mediante la contratación de una consultoría externa que defina los lineamientos sin intervención de la dirección."
+    ],
+    "correct": 1,
+    "explanation": "El Artículo 1.2.1 establece que los sujetos obligados deben implementar estrategias de planeación y control de recursos (físicos, técnicos, tecnológicos, financieros y talento humano) que deben estar en concordancia con los planes de desarrollo (nacional, sectorial o territorial) y el plan estratégico institucional."
+  },
+  {
+    "question": "En una auditoría de cumplimiento del Acuerdo 001 de 2024, se observa que una entidad no ha articulado su función archivística con el Modelo Integrado de Planeación y Gestión (MIPG). ¿Qué normativa específica está omitiendo la entidad según el Artículo 1.2.1?",
+    "options": [
+      "El Decreto 1072 de 2015 sobre seguridad y salud en el trabajo.",
+      "La Ley 80 de 1993 sobre contratación estatal.",
+      "El Decreto 1083 de 2015, modificado por el Decreto 1499 de 2017, relativo a las políticas de gestión y desempeño.",
+      "La Norma ISO 30301 sobre sistemas de gestión para documentos."
+    ],
+    "correct": 2,
+    "explanation": "El Artículo 1.2.1 del Acuerdo 001 de 2024 exige explícitamente que la planeación de la función archivística se articule con las políticas del MIPG, de conformidad con el Decreto 1083 de 2015 y sus modificaciones."
+  },
+  {
+    "question": "Una agencia estatal autónoma no está legalmente obligada a cumplir con el MIPG. De acuerdo con el Parágrafo 1 del Artículo 1.2.1 del Acuerdo 001 de 2024, ¿cuál es la recomendación normativa para su planeación archivística?",
+    "options": [
+      "Queda exenta de realizar cualquier tipo de planeación archivística.",
+      "Debe adoptar el MIPG de manera forzosa solo para el área de archivo.",
+      "Debe regirse exclusivamente por estándares internacionales de la UNESCO.",
+      "Podrá considerar armonizar la planeación de la función archivística con los planes estratégicos que adopte su máximo órgano de gobierno."
+    ],
+    "correct": 3,
+    "explanation": "El Parágrafo 1 del Artículo 1.2.1 ofrece flexibilidad a las entidades no obligadas al MIPG, permitiéndoles armonizar su planeación archivística con los planes estratégicos dictados por su propio órgano de gobierno."
+  },
+  {
+    "question": "El Representante Legal de una entidad territorial se niega a asignar presupuesto para el talento humano del archivo argumentando que es una labor operativa menor. Según el Parágrafo 2 del Artículo 1.2.1 del Acuerdo 001 de 2024, ¿por qué es incorrecta su postura?",
+    "options": [
+      "Porque los representantes legales deben velar por la debida planeación y ejecución de los recursos tendientes al desarrollo de la función archivística.",
+      "Porque la ley indica que el 10% de todo presupuesto debe ir a archivos.",
+      "Porque los archivos solo pueden ser manejados por empresas privadas externas.",
+      "Porque el presupuesto de archivo es autónomo y no depende del representante legal."
+    ],
+    "correct": 0,
+    "explanation": "El Parágrafo 2 del Artículo 1.2.1 vincula directamente a los Representantes Legales y secretarios generales con el deber de velar por la planeación y ejecución de recursos para la función archivística."
+  },
+  {
+    "question": "Para asegurar la implementación de la Política Nacional de Archivos, una entidad busca alinear su ejecución con estándares técnicos. Según el Artículo 1.2.1 del Acuerdo 001 de 2024, ¿qué modelo debe usarse como referencia?",
+    "options": [
+      "El Modelo de Madurez de E-gobierno.",
+      "Los componentes del Modelo de Gestión Documental y Administración de Archivos (MGDA).",
+      "El Manual de Identidad Visual de la Función Pública.",
+      "El Sistema de Gestión de Calidad bajo la norma ISO 9001."
+    ],
+    "correct": 1,
+    "explanation": "El Parágrafo 2 del Artículo 1.2.1 señala que la ejecución de recursos debe estar en concordancia con los componentes del Modelo de Gestión Documental y Administración de Archivos (MGDA) para implementar la política nacional."
+  },
+
   {
     "question": "El artículo 1.2.4 del Acuerdo 001 de 2024 exige a los sujetos obligados formular instrumentos archivísticos para la planeación. Una entidad departamental requiere armonizar su planeación archivística con su plan estratégico institucional. ¿Qué instrumentos debe formular obligatoriamente?",
     "options": [
